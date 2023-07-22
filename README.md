@@ -170,7 +170,7 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
 <details>
 <summary><h2>10. How-to-Run Guide</h2></summary>
 
-0.	If you want, you can skip to **<u>Step 5</u>** and use the already created dataframes for days, movies and books (up2date mid Jul23):
+0.	If you want, you can skip to <u>**Step 5**</u> and use the already created dataframes for days, movies and books (up2date mid Jul23):
       - *days.csv*
       - *best_books.csv*
       - *TMDB_movies_final.csv*

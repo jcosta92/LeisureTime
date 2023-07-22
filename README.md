@@ -191,7 +191,7 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
     - *apptmdb2.py* – to run with TMDB matched movies, without snacks&drinks recommendations for movies (best if you don’t want to use APIs)
 7.	In GitBash, or another command prompt software, go to the location of your forked repository and type: python *“selected_app.py”*. Should appear something like this:
 
-<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/flask.jpg" />
+<img align="center" width="600" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/flask.jpg" />
 
 9.	Now, you just need to go to your internet browser and type the selected host, e.g. *http://127.0.0.1:5000* from above.
 10.	Voilà.

@@ -36,7 +36,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 - *days.csv*
 - *matches'%d%m%Y'_TMDB.csv*
 - *matches'%d%m%Y'_IMDB.csv*
-- *goodreads.csv*
+- *goodreads.csv* (downloadable - refer to chapter 5)
 - *best_books.csv*
 - *TMDB_movies_final.csv*
 - *imdb_movie_fetch.csv*

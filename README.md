@@ -62,7 +62,18 @@ In the end, we get the authors' birthdays by webscraping Wikipedia to add to our
 
 </details>
 
+<details>
+<summary><h2>Movies</h2></summary>
 
+The focus of this project was the movies, because nowadays we give more focus into television. So there were 2 approaches to get movie data:
+
+1.	From TMBD API – using the API from:
+   -	[*https://www.themoviedb.org/*](https://www.themoviedb.org/)
+
+2.	From IMDB website – using Web Scraping, from IMDB advanced search system
+   Each of the processes takes more than 12 hours to run. Web Scraping can be time-consuming, especially when dealing with big data.
+
+</details>
 
 
 

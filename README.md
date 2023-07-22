@@ -97,25 +97,34 @@ In this case, I looped through all the genres with a minimum rating of 5.0 and 3
 1. Pages URLs
 2. Movies URLs
 3. Web scraping of all the movies URLs to get a dataframe *imdb_movie_fetch.csv* with:
-   - a. URL
-   - b. Movie title
-   - c. Movie image
-   - d. IMDb Rating
-   - e. Number of votes
-   - f. Movie description
-   - g. Movie genres
-   - h. Published Date
-   - i. Content Rating
-   - j. Actors, writers, and directors
-   - k. Movie Popularity
-
-5. Web scraping Wikipedia to get the actors' birthdates - *df_birthdays_movies.csv*.
-
+   - URL
+   - Movie title
+   - Movie image
+   - IMDb Rating
+   - Number of votes
+   - Movie description
+   - Movie genres
+   - Published Date
+   - Content Rating
+   - Actors, writers, and directors
+   - Movie Popularity
+4. Web scraping Wikipedia to get the actors' birthdates - *df_birthdays_movies.csv*.
 
 </details>
 
-
 </details>
 
+<details>
+<summary><h2>7. Days</h2></summary>
+To get the dataframe for the days research was done to obtain first the <u>international days</u>, and then the <u>anniversaries of certain events</u>, from several sources. Lastly, we gathered up also the <u>anniversaries of authors and actors</u> that were in the movies and books dataframes.
+
+**Sources**: 
+-	[https://date.nager.at/api/*](https://date.nager.at/api/) - Web scrapping
+-	[https://www.un.org/en/observances/list-days-weeks/*](https://www.un.org/en/observances/list-days-weeks/) - Web scrapping
+-	[https://www.unesco.org/en/days/*](https://www.unesco.org/en/days/) - Web scrapping
+-	[https://en.wikipedia.org/wiki/*](https://en.wikipedia.org/wiki/) - Web scrapping for days’ descriptions and images
+-	[http://w.wiki/6Zx/*](http://w.wiki/6Zx/) - Manual download of data queries
+-	Authors and actors birthdays - got from movies and books dataframes
 
 
+</details>

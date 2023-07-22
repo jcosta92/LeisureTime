@@ -97,7 +97,6 @@ In this case, I looped through all the genres with a minimum rating of 5.0 and 3
 1. Pages URLs
 2. Movies URLs
 3. Web scraping of all the movies URLs to get a dataframe *imdb_movie_fetch.csv* with:
-   <p style="margin-left: 20px;">
    - a. URL
    - b. Movie title
    - c. Movie image
@@ -109,7 +108,6 @@ In this case, I looped through all the genres with a minimum rating of 5.0 and 3
    - i. Content Rating
    - j. Actors, writers, and directors
    - k. Movie Popularity
-   </p>
 
 5. Web scraping Wikipedia to get the actors' birthdates - *df_birthdays_movies.csv*.
 

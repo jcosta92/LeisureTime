@@ -1,5 +1,5 @@
 <h1><b>Leisure Time</b></h1>
-![Header](./02 Readme/header.png)
+![Header](./02_Readme/header.png)
 
 <details>
 <summary><h2>Summary</h2></summary>

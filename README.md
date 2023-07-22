@@ -26,15 +26,18 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 
 <details>
 <summary><h2>Datasets</h2></summary>
--	“01 Queries” folder
--	*df_birthdays_movies.csv*
--	df_birthdays_books.csv
--	days.csv
--	matches'%d%m%Y'_TMDB.csv
--	matches'%d%m%Y'_IMDB.csv
--	goodreads.csv
--	best_books.csv
--	TMDB_movies_final.csv
--	imdb_movie_fetch.csv
+
+- "01 Queries" folder
+- *df_birthdays_movies.csv*
+- *df_birthdays_books.csv*
+- *days.csv*
+- *matches'%d%m%Y'_TMDB.csv*
+- *matches'%d%m%Y'_IMDB.csv*
+- *goodreads.csv*
+- *best_books.csv*
+- *TMDB_movies_final.csv*
+- *imdb_movie_fetch.csv*
+
 </details>
+
 

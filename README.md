@@ -75,7 +75,7 @@ The focus of this project was the movies, because nowadays we give more focus in
 <details>
 <summary><h3>6.1. TMDB API </h3></summary>
 
-To use TMDB API in *Movies_TMDB_API.ipynb* the following steps were made to get the correct bearer and API key: [https://developer.themoviedb.org/reference/intro/getting-started/*](https://developer.themoviedb.org/reference/intro/getting-started/).
+To use TMDB API in *Movies_TMDB_API.ipynb* the following steps were made to get the correct bearer and API key: [https://developer.themoviedb.org/reference/intro/getting-started/*](https://developer.themoviedb.org/reference/intro/getting-started/). To get more data, such as actors, budgets, revenues, imdb ids and streams the following source was used: [https://github.com/celiao/tmdbsimple/blob/master/README.md](https://github.com/celiao/tmdbsimple/blob/master/README.md). 
 ```python
 base_url = "https://api.themoviedb.org/3/discover/movie"
 headers = {
@@ -83,8 +83,12 @@ headers = {
 "Authorization": "Bearer YOUR_BEARER" ######### ------------------------- FROM TMDB API
 }
 ```
-
+```python
+tmdb.API_KEY = 'YOUR_API_KEY' ######## ------------------- select from your TMDB API KEY
+tmdb.REQUESTS_SESSION = requests.Session()
+```
 </details>
+
 
 
 

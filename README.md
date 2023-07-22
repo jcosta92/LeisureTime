@@ -76,13 +76,13 @@ The focus of this project was the movies, because nowadays we give more focus in
 <summary><h3>TMDB API </h3></summary>
 
 To use TMDB API in *Movies_TMDB_API.ipynb* the following steps were made to get the correct bearer and API key: [https://developer.themoviedb.org/reference/intro/getting-started/*](https://developer.themoviedb.org/reference/intro/getting-started/).
-<pre><code>```python
+```python
 base_url = "https://api.themoviedb.org/3/discover/movie"
 headers = {
-    "accept": "application/json",
-    "Authorization": "Bearer YOUR_BEARER" ######### ------------------------- FROM TMDB API
+"accept": "application/json",
+"Authorization": "Bearer YOUR_BEARER" ######### ------------------------- FROM TMDB API
 }
-```</code></pre>
+```
 
 </details>
 

@@ -1,5 +1,5 @@
 <h1><b>Leisure Time</b></h1>
-![Header]([https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02_Readme/header.png](https://github.com/jcosta92/LeisureTime/blob/main/02_Readme/header.png))
+<img align="left" width="480" height="250" alt="GIF" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02_Readme/header.png" />
 
 <details>
 <summary><h2>Summary</h2></summary>

@@ -133,5 +133,37 @@ In the end, all the types of days are in the dataframe *days.csv*.
 <summary><h2>8. Model</h2></summary>
 In *model.ipynb*, the days, books and movies datasets are loaded and put through the chosen model *universal-sentence-encoder*.
 
+```python
+model = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
+```
+
+Each type of day can be matched up to 3 movies and 3 books, based on the top similarity ratios calculated by the model.
+Two matches datasets for today’s events are created, one using TMDB API and the other IMDB web scrapping.
 
 </details>
+
+
+<details>
+<summary><h2>9. Flask App</h2></summary>
+
+The flask app does the reading of the matches in that day and display them along the web interface, including also snack and drink recommendations for the movies.
+There are 4 documents that can be used to run the Flask App:
+-	*appimdb.py*
+-	*apptmdb.py*
+-	*appimdb2.py*
+-	*apptmdb2.py*
+
+Only the 1st versions *appimdb.py* and *apptmdb.py* include the snacks and drinks recommendations for the movies, using Open AI API. So to use them properly the Open AI key needs to be inside those files in:
+
+```python
+openai.api_key = "YOUR_API_KEY" ##### -------- input your OpenAI API key
+```
+The 2nd versions can be run without any API key input.
+
+The result *Leisure Time* from the *.html* code that is in the “templates” folder gives an overview for one day of each type of days – one international day, one celebrity birthday, and one event anniversary.
+
+<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/day.jpg" />
+<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/day2.jpg" />
+
+</details>
+

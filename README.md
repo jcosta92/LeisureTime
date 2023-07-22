@@ -2,7 +2,7 @@
 <img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/header.jpg" />
 
 <details>
-<summary><h2>Summary</h2></summary>
+<summary><h2>1. Summary</h2></summary>
 
 Aren’t you tired of choosing a random movie or book to see or watch? 
 The objective of this project is to give you daily recommendations on movies and books, depending on the specific day in question. We have celebrities’ birthdays, international days and anniversaries of certain events, such as famous battles.
@@ -11,7 +11,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 </details>
 
 <details>
-<summary><h2>Python files</h2></summary>
+<summary><h2>2. Python files</h2></summary>
 
 - *Books.ipynb*
 - *Days.ipynb*
@@ -26,7 +26,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 </details>
 
 <details>
-<summary><h2>Datasets</h2></summary>
+<summary><h2>3. Datasets</h2></summary>
 
 - "01 Queries" folder
 - *df_birthdays_movies.csv*
@@ -42,7 +42,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 </details>
 
 <details>
-<summary><h2>Interface</h2></summary>
+<summary><h2>4. Interface</h2></summary>
 
 
   
@@ -50,7 +50,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 </details>
 
 <details>
-<summary><h2>Books</h2></summary>
+<summary><h2>5. Books</h2></summary>
 
 The python book used for dealing with the books dataframe was *Books.ipynb*.
 The books dataframe used was from Kaggle, from the following source:
@@ -63,7 +63,7 @@ In the end, we get the authors' birthdays by webscraping Wikipedia to add to our
 </details>
 
 <details>
-<summary><h2>Movies</h2></summary>
+<summary><h2>6. Movies</h2></summary>
 
 The focus of this project was the movies, because nowadays we give more focus into television. So there were 2 approaches to get movie data:
 
@@ -73,7 +73,7 @@ The focus of this project was the movies, because nowadays we give more focus in
    Each of the processes takes more than 12 hours to run. Web Scraping can be time-consuming, especially when dealing with big data.
 
 <details>
-<summary><h3>TMDB API </h3></summary>
+<summary><h3>6.1. TMDB API </h3></summary>
 
 To use TMDB API in *Movies_TMDB_API.ipynb* the following steps were made to get the correct bearer and API key: [https://developer.themoviedb.org/reference/intro/getting-started/*](https://developer.themoviedb.org/reference/intro/getting-started/).
 ```python

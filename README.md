@@ -171,26 +171,27 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
 <summary><h2>10. How-to-Run Guide</h2></summary>
 
 0.	If you want, you can skip to step 5 and use the already created dataframes for days, movies and books (up2date mid Jul23):
-- *days.csv*
-- *best_books.csv*
-- *TMDB_movies_final.csv*
-- *imdb_movie_fetch.csv*
+    - *days.csv*
+    - *best_books.csv*
+    - *TMDB_movies_final.csv*
+    - *imdb_movie_fetch.csv*
 1.	Run fully *Books.ipynb* to get *best_books.csv* and *df_birthdays_books.csv*.
 2.	Run *Movies_TMDB_API.ipynb* to get *TMDB_movies_final.csv*.
-- This process takes several hours – be patient.
-- Remember to input your Bearer and API Key in the respective code lines (check chapter 6.1)
+    - This process takes several hours – be patient.
+    - Remember to input your Bearer and API Key in the respective code lines (check chapter 6.1)
 3.	Run fully *Movies_IMDB.ipynb* to get *imdb_movie_fetch.csv* and *df_birthdays_movies.csv*
-- This process takes several hours – be patient.
+    - This process takes several hours – be patient.
 4.	Run *Days.ipynb* to get *days.csv* dataframe.
 5.	Run our model - *model.ipynb* – to get the matches of today.
-- This model takes roughly 2-3 hours to run for both TMDB and IMDB movies dfs.
+    - This model takes roughly 2-3 hours to run for both TMDB and IMDB movies dfs.
 6.	Choose which flask app file *.py* you want to use:
-- *appimdb.py* – to run with IMDB matched movies (Remember to input your Open AI key)
-- *apptmdb.py* – to run with TMDB matched movies (Remember to input your Open AI key)
-- *appimdb2.py* – to run with IMDB matched movies, without snacks&drinks recommendations for movies (best if you don’t want to use APIs)
-- *apptmdb2.py* – to run with TMDB matched movies, without snacks&drinks recommendations for movies (best if you don’t want to use APIs)
+    - *appimdb.py* – to run with IMDB matched movies (Remember to input your Open AI key)
+    - *apptmdb.py* – to run with TMDB matched movies (Remember to input your Open AI key)
+    - *appimdb2.py* – to run with IMDB matched movies, without snacks&drinks recommendations for movies (best if you don’t want to use APIs)
+    - *apptmdb2.py* – to run with TMDB matched movies, without snacks&drinks recommendations for movies (best if you don’t want to use APIs)
 7.	In GitBash, or another command prompt software, go to the location of your forked repository and type: python *“selected_app.py”*. Should appear something like this:
 <img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/flask.jpg" />
+
 8.	Now, you just need to go to your internet browser and type the selected host, e.g. *http://127.0.0.1:5000* from above.
 9.	Voilà.
 

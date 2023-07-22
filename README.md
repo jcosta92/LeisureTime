@@ -195,8 +195,9 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
 
 <img align="center" width="600" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/flask.jpg" />
 
-9.	Now, you just need to go to your internet browser and type the selected host, e.g. *http://127.0.0.1:5000* from above.
-10.	Voilà.
+
+8.	Now, you just need to go to your internet browser and type the selected host, e.g. *http://127.0.0.1:5000* from above.
+9.	Voilà.
 
 </details>
 

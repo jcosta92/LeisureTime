@@ -67,15 +67,28 @@ In the end, we get the authors' birthdays by webscraping Wikipedia to add to our
 
 The focus of this project was the movies, because nowadays we give more focus into television. So there were 2 approaches to get movie data:
 
-1.	From TMBD API – using the API from:
-   -	[*https://www.themoviedb.org/*](https://www.themoviedb.org/)
+1.	From TMBD API – using the API from: [*https://www.themoviedb.org/*](https://www.themoviedb.org/)
 
 2.	From IMDB website – using Web Scraping, from IMDB advanced search system
    Each of the processes takes more than 12 hours to run. Web Scraping can be time-consuming, especially when dealing with big data.
 
+<details>
+<summary><h3>TMDB API </h3></summary>
+
+To use TMDB API in *Movies_TMDB_API.ipynb* the following steps were made to get the correct bearer and API key: [https://developer.themoviedb.org/reference/intro/getting-started/*](https://developer.themoviedb.org/reference/intro/getting-started/).
+<pre><code>```python
+base_url = "https://api.themoviedb.org/3/discover/movie"
+headers = {
+    "accept": "application/json",
+    "Authorization": "Bearer YOUR_BEARER" ######### ------------------------- FROM TMDB API
+}
+```</code></pre>
+
 </details>
 
 
+
+</details>
 
 
 

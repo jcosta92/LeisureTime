@@ -1,5 +1,5 @@
 <h1><b>Leisure Time</b></h1>
-<img align="center" width="800" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02_Readme/header.png" />
+<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02_Readme/header.png" />
 
 <details>
 <summary><h2>Summary</h2></summary>

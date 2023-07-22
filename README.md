@@ -1,5 +1,5 @@
 <h1><b>Leisure Time</b></h1>
-<img align="center" width="600" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/header.jpg" />
+<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/header.jpg" />
 
 <details>
 <summary><h2>Summary</h2></summary>
@@ -43,5 +43,5 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 
 <details>
 <summary><h2>Interface</h2></summary>
-<img align="center" width="600" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/interface.jpg" />
+<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/interface.jpg" />
 </details>

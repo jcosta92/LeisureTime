@@ -43,7 +43,27 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 
 <details>
 <summary><h2>Interface</h2></summary>
+
+
+  
 <img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/interface.jpg" />
 </details>
+
+<details>
+<summary><h2>Books</h2></summary>
+
+The python book used for dealing with the books dataframe was *Books.ipynb*.
+The books dataframe used was from Kaggle, from the following source:
+-	[*goodreads.csv*](https://www.kaggle.com/datasets/khushdassani/goodreads-300k-dataset?select=goodreads.csv)
+The dataset was cleaned to Latin and English titles, using the langid library.
+This dataframe was also reduced to the books with a certain minimum rating and votes. In this case, the final dataframe of books has only books with at least 3.5 rating and 1000 votes - *best_books.csv*.
+In the end, we get the authors' birthdays by webscraping Wikipedia to add to our Days dataframe - *df_birthdays_books.csv*.
+
+</details>
+
+
+
+
+
 
 

@@ -1,0 +1,5957 @@
+,Name,Birthdate
+0,J.K. Rowling,1965-07-31
+1,Suzanne Collins,1962-08-10
+2,Stephenie Meyer,1973-12-24
+3,Harper Lee,1926-04-28
+4,F. Scott Fitzgerald,1896-09-24
+5,Jane Austen,1775-12-16
+6,J.R.R. Tolkien,1892-01-03
+7,George Orwell,1903-06-25
+8,Anne Frank,1929-06-12
+9,J.D. Salinger,1919-01-01
+10,Dan Brown,1964-06-22
+11,Stieg Larsson,1954-08-15
+12,Khaled Hosseini,1965-03-04
+13,William Golding,1911-09-19
+14,Paulo Coelho,1947-08-24
+15,C.S. Lewis,1898-11-29
+16,Rick Riordan,1964-06-05
+17,George R.R. Martin,1948-09-20
+18,John Steinbeck,1902-02-27
+19,Alice Sebold,1963-09-06
+20,Markus Zusak,1975-06-23
+21,Lois Lowry,1937-03-20
+22,Louisa May Alcott,1832-11-29
+23,Arthur Golden,1956-12-06
+24,Charlotte Brontë,1816-04-21
+25,Cassandra Clare,1973-07-27
+26,Margaret Atwood,1939-11-18
+27,Antoine de Saint-Exupéry,1900-06-29
+28,Audrey Niffenegger,1963-06-13
+29,Aldous Huxley,1894-07-26
+30,Douglas Adams,1952-03-11
+31,Elizabeth Gilbert,1969-07-18
+32,Christopher Paolini,1983-11-17
+33,Emily Brontë,1818-07-30
+34,Nicholas Sparks,1965-12-31
+35,Stephen Chbosky,1970-01-25
+36,Yann Martel,1963-06-25
+37,Philip Pullman,1946-10-19
+38,Mark Haddon,1962-09-26
+39,Mary Wollstonecraft Shelley,1797-08-30
+40,Stephen King,1947-09-21
+41,Shel Silverstein,1930-09-25
+42,Orson Scott Card,1951-08-24
+43,Kurt Vonnegut Jr.,1922-11-11
+44,Mark Twain,1835-11-30
+45,Sue Monk Kidd,1948-08-12
+46,Oscar Wilde,1854-10-16
+47,Margaret Mitchell,1900-11-08
+48,Madeleine L'Engle,1918-11-29
+49,S.E. Hinton,1948-07-22
+50,Elie Wiesel,1928-09-30
+51,Louis Sachar,1954-03-20
+52,Bram Stoker,1847-11-08
+53,Frank Herbert,1920-10-08
+54,Agatha Christie,1890-09-15
+55,Jeannette Walls,1960-04-21
+56,Frances Hodgson Burnett,1849-11-24
+57,Jon Krakauer,1954-04-12
+58,Ernest Hemingway,1899-07-21
+59,Diana Gabaldon,1952-01-11
+60,Helen Fielding,1958-02-19
+61,Maurice Sendak,1928-06-10
+62,Mitch Albom,1958-05-23
+63,Charles Dickens,1812-02-07
+64,Jay Asher,1975-09-30
+65,Michael Crichton,1942-10-23
+66,Gabriel García Márquez,1927-03-06
+67,L.M. Montgomery,1874-11-30
+68,Albert Camus,1913-11-07
+69,William Goldman,1931-08-12
+70,Neil Gaiman,1960-11-10
+71,Lauren Weisberger,1977-03-28
+72,Patrick Rothfuss,1973-06-06
+73,Gillian Flynn,1971-02-24
+74,Alexandre Dumas,1802-07-24
+75,Cormac McCarthy,1933-07-20
+76,Franz Kafka,1883-07-03
+77,Steven D. Levitt,1967-05-29
+78,Dale Carnegie,1888-11-24
+79,Joseph Heller,1923-05-01
+80,John Grisham,1955-02-08
+81,Malcolm Gladwell,1963-09-03
+82,Roald Dahl,1916-09-13
+83,Leo Tolstoy,1828-09-09
+84,Fyodor Dostoevsky,1821-11-11
+85,Sylvia Plath,1932-10-27
+86,Ken Follett,1949-06-05
+87,Dr. Seuss,1904-03-02
+88,Barbara Kingsolver,1955-04-08
+89,Sophie Kinsella,1970-12-12
+90,Tracy Chevalier,1962-10-19
+91,Ken Kesey,1935-09-17
+92,Hermann Hesse,1877-07-02
+93,David Sedaris,1956-12-26
+94,Anthony Burgess,1917-02-25
+95,John Boyne,1971-04-30
+96,Amy Tan,1952-02-19
+97,Stephen R. Covey,1932-10-24
+98,Terry Pratchett,1948-04-28
+99,Jeffrey Eugenides,1960-03-08
+100,Alice Walker,1944-02-09
+101,William Paul Young,1955-05-11
+102,Truman Capote,1924-09-30
+103,Frank McCourt,1930-08-19
+104,Gregory Maguire,1954-06-09
+105,Kim Edwards,1958-05-04
+106,Jeff Kinney,1971-02-19
+107,Kami Garcia,1972-03-25
+108,Anita Diamant,1951-06-27
+109,Carlos Ruiz Zafón,1964-09-25
+110,Emily Giffin,1972-03-20
+111,Chuck Palahniuk,1962-02-21
+112,Viktor E. Frankl,1905-03-26
+113,Laurie Halse Anderson,1961-10-23
+114,Anne Rice,1941-10-04
+115,Janet Evanovich,1943-04-22
+116,Herman Melville,1819-08-01
+117,Thomas  Harris,1940-09-22
+118,Lewis Carroll,1832-01-27
+119,Brandon Sanderson,1975-12-19
+120,Katherine Paterson,1932-10-31
+121,John Green,1977-08-24
+122,Robert T. Kiyosaki,1947-04-08
+123,Max Brooks,1972-05-22
+124,Philippa Gregory,1954-01-09
+125,Maya Angelou,1928-04-04
+126,P.C. Cast,1960-04-30
+127,Robert Louis Stevenson,1850-11-13
+128,H.G. Wells,1866-09-21
+129,Robert Jordan,1948-10-17
+130,John Grogan,1957-03-20
+131,Richard  Adams,1920-05-09
+132,Tatiana de Rosnay,1961-09-28
+133,Eric Carle,1929-06-25
+134,James Patterson,1947-03-22
+135,Donna Tartt,1963-12-23
+136,Betty  Smith,1896-12-15
+137,Robert Ludlum,1927-05-25
+138,L. Frank Baum,1856-05-15
+139,Rhonda Byrne,1951-03-12
+140,Dave Pelzer,1960-12-29
+141,Jonathan Safran Foer,1977-02-21
+142,Cornelia Funke,1958-12-10
+143,Philip K. Dick,1928-12-16
+144,Milan Kundera,1929-04-01
+145,Erich Maria Remarque,1898-06-22
+146,Patrick Süskind,1949-03-26
+147,Arthur Conan Doyle,1859-05-22
+148,Jack London,1876-01-12
+149,Jack Kerouac,1922-03-12
+150,Bill Bryson,1951-12-08
+151,Augusten Burroughs,1965-10-23
+152,Haruki Murakami,1949-01-12
+153,Mario Puzo,1920-10-15
+154,Wilson Rawls,1913-09-24
+155,Ayn Rand,1905-02-02
+156,Toni Morrison,1931-02-18
+157,Stephen Hawking,1942-01-08
+158,Cecelia Ahern,1981-09-30
+159,Arthur  Miller,1915-10-17
+160,E.H. Gombrich,1909-03-30
+161,Tom Clancy,1947-04-12
+162,Lisa See,1955-02-18
+163,Jared Diamond,1937-09-10
+164,Abraham   Verghese,1955-05-30
+165,Tana French,1973-05-10
+166,Richelle Mead,1976-11-12
+167,Gary Paulsen,1939-05-17
+168,David McCullough,1933-07-07
+169,Laura Esquivel,1950-09-30
+170,André Aciman,1951-01-02
+171,Janet Fitch,1955-11-09
+172,Colleen McCullough,1937-06-01
+173,Wally Lamb,1950-10-17
+174,Umberto Eco,1932-01-05
+175,Randy Pausch,1960-10-23
+176,Chinua Achebe,1930-11-16
+177,Frances Mayes,1940-03-23
+178,Jim Butcher,1971-10-26
+179,Hunter S. Thompson,1937-07-18
+180,Jerry Spinelli,1941-02-01
+181,J.M. Barrie,1860-05-09
+182,John Berger,1926-11-05
+183,John Irving,1942-03-02
+184,A.A. Milne,1882-01-18
+185,Zora Neale Hurston,1891-01-07
+186,Kristin Hannah,1960-09-25
+187,Diane Setterfield,1964-08-22
+188,Jennifer Weiner,1970-03-28
+189,Robert A. Heinlein,1907-07-07
+190,Niccolò Machiavelli,1469-05-03
+191,Gustave Flaubert,1821-12-12
+192,Fannie Flagg,1944-09-21
+193,Arthur C. Clarke,1917-12-16
+194,Tennessee Williams,1911-03-26
+195,Art Spiegelman,1948-02-15
+196,Lee Child,1954-10-29
+197,Laura Joffe Numeroff,1953-07-14
+198,Laura Ingalls Wilder,1867-02-07
+199,Julia Quinn,1970-01-12
+200,Ursula K. Le Guin,1929-10-21
+201,Eckhart Tolle,1948-02-16
+202,Napoleon Hill,1883-10-26
+203,Robin Hobb,1952-03-05
+204,Arundhati Roy,1961-11-24
+205,Norton Juster,1929-06-02
+206,Butch Patrick,1953-08-02
+207,Andrzej Sapkowski,1948-06-21
+208,Diana Wynne Jones,1934-08-16
+209,Kahlil Gibran,1883-01-06
+210,Bret Easton Ellis,1964-03-07
+211,Jeanne DuPrau,1946-06-09
+212,Dean Koontz,1945-07-09
+213,Anthony Bourdain,1956-06-25
+214,Ann Patchett,1963-12-02
+215,Thomas Hardy,1840-06-02
+216,Anna Sewell,1820-03-30
+217,Elizabeth Kostova,1964-12-26
+218,Scott Lynch,1978-04-02
+219,Neal Stephenson,1959-10-31
+220,Beatrice Sparks,1917-01-15
+221,Charlaine Harris,1951-11-25
+222,Natalie Babbitt,1932-07-18
+223,Rick Warren,1954-01-28
+224,Jonathan Swift,1667-11-30
+225,Richard Dawkins,1941-03-26
+226,John Kennedy Toole,1937-12-17
+227,Jhumpa Lahiri,1967-07-11
+228,Alexander McCall Smith,1948-08-24
+229,Jean M. Auel,1936-02-18
+230,Sherman Alexie,1966-10-07
+231,Junot Díaz,1968-12-31
+232,Meg Cabot,1967-02-01
+233,John Berendt,1939-12-05
+234,Voltaire,1694-11-21
+235,Billie Letts,1938-05-30
+236,Sarah Dessen,1970-06-06
+237,Kazuo Ishiguro,1954-11-08
+238,Malcolm X,1925-05-19
+239,Alex Haley,1921-08-11
+240,James Frey,1969-09-12
+241,José Saramago,1922-11-16
+242,Terry Goodkind,1948-01-11
+243,Pearl S. Buck,1892-06-26
+244,Edgar Allan Poe,1809-01-19
+245,Ray Bradbury,1920-08-22
+246,Charles Frazier,1950-11-04
+247,Ned Vizzini,1981-04-04
+248,Kate DiCamillo,1964-03-25
+249,P.D. Eastman,1909-11-25
+250,Jostein Gaarder,1952-08-08
+251,Beatrix Potter,1866-07-28
+252,Richard Bach,1936-06-23
+253,Chris Van Allsburg,1949-06-18
+254,Frank Miller,1957-01-27
+255,Jules Verne,1828-02-08
+256,Robert Munsch,1945-06-11
+257,Isabel Allende,1942-08-02
+258,Libba Bray,1964-03-11
+259,Howard Zinn,1922-08-24
+260,Susanna Clarke,1959-11-01
+261,Tim LaHaye,1926-04-27
+262,Patti Smith,1946-12-30
+263,Robert Kirkman,1978-11-30
+264,Robert M. Pirsig,1928-09-06
+265,Shirley Jackson,1916-12-14
+266,Gaston Leroux,1868-05-06
+267,Barack Obama,1961-08-04
+268,Dan Simmons,1948-04-04
+269,Harriet Beecher Stowe,1811-06-14
+270,Michael Connelly,1956-07-21
+271,Neal Shusterman,1962-11-12
+272,Eric Schlosser,1959-08-17
+273,Ludwig Bemelmans,1898-04-27
+274,John Knowles,1926-09-16
+275,William Peter Blatty,1928-01-07
+276,Susanna Kaysen,1948-11-11
+277,Judy Blume,1938-02-12
+278,Pat Conroy,1945-10-26
+279,E.L. Konigsburg,1930-02-10
+280,Jeff Lindsay,1952-07-14
+281,Marion Zimmer Bradley,1930-06-03
+282,Garth Nix,1963-07-19
+283,Michael Pollan,1955-02-06
+284,Kenneth Grahame,1859-03-08
+285,Joe Abercrombie,1974-12-31
+286,Sara Shepard,1977-04-08
+287,Chuck Dixon,1954-04-14
+288,Mary Roach,1959-03-20
+289,Michael Chabon,1963-05-24
+290,Patricia Briggs,1965-12-21
+291,Oliver Sacks,1933-07-09
+292,Alan Moore,1953-11-18
+293,Ellen Raskin,1928-03-13
+294,Gregory David Roberts,1952
+295,Bernhard Schlink,1944-07-06
+296,Nick Hornby,1957-04-17
+297,Barbara Ehrenreich,1941-08-26
+298,Kate Chopin,1850-02-08
+299,Johanna Spyri,1827-06-12
+300,Victor Hugo,1802-02-26
+301,Ally Carter,1974-01-01
+302,Kenneth Branagh,1960-12-10
+303,Michael Ende,1929-11-12
+304,Jon Scieszka,1954-09-08
+305,V.C. Andrews,1923-06-06
+306,Lionel Shriver,1957-05-18
+307,Marjane Satrapi,1969-11-22
+308,Bryan Lee O'Malley,1979-02-21
+309,Richard P. Feynman,1918-05-11
+310,Patrick Ness,1971-10-17
+311,Scott Westerfeld,1963-05-05
+312,Dennis Lehane,1965-08-04
+313,Judith Viorst,1931-02-02
+314,Joan Didion,1934-12-05
+315,J.D. Robb,1950-10-10
+316,Samuel Beckett,1906-04-13
+317,Aravind Adiga,1974-10-23
+318,Ishmael Beah,1980-11-23
+319,Dave Eggers,1970-03-12
+320,David Guterson,1956-05-04
+321,Alex Flinn,1966-10-23
+322,John Scalzi,1969-05-10
+323,Doris Kearns Goodwin,1943-01-04
+324,Henry David Thoreau,1817-07-12
+325,Sue Grafton,1940-04-24
+326,Jeffery Deaver,1950-05-06
+327,Robert C. O'Brien,1966-06-18
+328,Ralph Ellison,1913-03-01
+329,Irma S. Rombauer,1877-10-30
+330,Jonathan Franzen,1959-08-17
+331,William Faulkner,1897-09-25
+332,Natsuki Takaya,1973-07-07
+333,Kelley Armstrong,1968-12-14
+334,Marcus Aurelius,121-04-26
+335,Francis Chan,1967-08-31
+336,Larry McMurtry,1936-06-03
+337,E.M. Forster,1879-01-01
+338,Caleb Carr,1955-08-02
+339,Melissa Marr,1972-07-25
+340,Bisco Hatori,1975-08-30
+341,Sharon Creech,1945-07-29
+342,Chelsea Handler,1975-02-25
+343,James C. Collins,1958-01-25
+344,Irvine Welsh,1958-09-27
+345,Tite Kubo,1977-06-26
+346,Julie Powell,1973-04-20
+347,Brent Weeks,1977-03-07
+348,Laura Hillenbrand,1967-05-15
+349,Elizabeth Gaskell,1810-09-29
+350,Alison Bechdel,1960-09-10
+351,Chris Bohjalian,1962-08-12
+352,Thomas Keneally,1935-10-07
+353,Matthew Quick,1973-10-23
+354,Edith Wharton,1862-01-24
+355,Eoin Colfer,1965-05-14
+356,Virginia Woolf,1882-01-25
+357,Joe Haldeman,1943-06-09
+358,Jacob Grimm,1785-01-04
+359,John Milton,1606-12-09
+360,Sandra Cisneros,1954-12-20
+361,Jeaniene Frost,1974-06-13
+362,Peter Benchley,1940-05-08
+363,Brandon Mull,1974-11-08
+364,Tess Gerritsen,1953-06-12
+365,Mark Z. Danielewski,1966-03-05
+366,George Eliot,1819-11-22
+367,Elizabeth George Speare,1908-11-21
+368,Bill Watterson,1958-07-05
+369,Wilkie Collins,1824-01-08
+370,Helen Keller,1880-06-27
+371,Raymond Chandler,1888-07-23
+372,Trenton Lee Stewart,1970-05-27
+373,Laurell K. Hamilton,1963-02-19
+374,Shannon Hale,1974-01-26
+375,Zadie Smith,1975-10-25
+376,Melissa de la Cruz,1971-09-07
+377,James Joyce,1882-02-02
+378,Annie Proulx,1935-08-22
+379,Marcus Pfister,1960-07-30
+380,Jon Ronson,1967-05-10
+381,Upton Sinclair,1878-09-20
+382,Vincent Bugliosi,1934-08-18
+383,Crockett Johnson,1906-10-20
+384,Sam McBratney,1943-03-01
+385,Ellen Hopkins,1955-03-26
+386,Karl Marx,1818-05-05
+387,David Benioff,1970-09-25
+388,Carl Sagan,1934-11-09
+389,James Herriot,1916-10-03
+390,Anne McCaffrey,1926-04-01
+391,Chimamanda Ngozi Adichie,1977-09-15
+392,Michael Cunningham,1952-11-06
+393,Emmuska Orczy,1865-09-23
+394,Nicole Krauss,1974-08-18
+395,Andre Dubus III,1959-09-11
+396,Sylvia Nasar,1947-08-17
+397,Jasper Fforde,1961-01-11
+398,Frederick Forsyth,1938-08-25
+399,Gertrude Chandler Warner,1890-04-16
+400,Willa Cather,1873-12-07
+401,Friedrich Nietzsche,1844-10-15
+402,Robert B. Cialdini,1945-04-27
+403,Richard Matheson,1926-02-20
+404,Liane Moriarty,1966-11-15
+405,Tamora Pierce,1954-12-13
+406,Charlotte Perkins Gilman,1860-07-03
+407,P.L. Travers,1899-08-09
+408,Ira Levin,1929-08-27
+409,Jon Stone,1931-04-13
+410,William Makepeace Thackeray,1811-07-18
+411,Jonathan Stroud,1970-10-27
+412,Michael Ondaatje,1943-09-12
+413,Henrik Ibsen,1828-03-20
+414,John Bunyan,1628-11-30
+415,Alan Brennert,1954-05-30
+416,Mildred D. Taylor,1943-09-13
+417,Margaret Peterson Haddix,1964-04-09
+418,William L. Shirer,1904-02-23
+419,Carol S. Dweck,1946-10-17
+420,Angie Sage,1952-06-20
+421,Michael   Lewis,1960-10-15
+422,Peter V. Brett,1973-02-08
+423,Ilona Andrews,1976-12-11
+424,Clement C. Moore,1779-07-15
+425,Scott McCloud,1960-06-10
+426,Lee Strobel,1952-01-25
+427,Kenneth H. Blanchard,1939-05-06
+428,Charles Bukowski,1920-08-16
+429,Dan Ariely,1967-04-29
+430,Larry Niven,1938-04-30
+431,Salman Rushdie,1947-06-19
+432,Margaret Weis,1948-03-16
+433,Andrew Clements,1949-05-29
+434,Stephen E. Ambrose,1936-01-10
+435,Brian Jacques,1939-06-15
+436,Brian K. Vaughan,1976-07-17
+437,Ezra Jack Keats,1916-03-11
+438,Simon Winchester,1944-09-28
+439,D.H. Lawrence,1885-09-11
+440,Sebastian Junger,1962-01-17
+441,Eiichiro Oda,1975-01-01
+442,Charles Darwin,1809-02-12
+443,Craig Thompson,1975-09-21
+444,Hans Christian Andersen,1805-04-02
+445,Dalai Lama XIV,1935-07-06
+446,Benjamin Graham,1894-05-09
+447,Richard   Preston,1954-08-05
+448,Richard Preston,1954-08-05
+449,Patricia Cornwell,1956-06-09
+450,T.H. White,1906-05-29
+451,Octavia E. Butler,1947-06-22
+452,Christopher Paul Curtis,1953-05-10
+453,Hiro Mashima,1977-05-03
+454,Lynne Truss,1955-05-31
+455,Jung Chang,1952-03-25
+456,Johann Wolfgang von Goethe,1749-08-28
+457,Julia Cameron,1948-03-04
+458,Steven Erikson,1959-10-07
+459,Thomas L. Friedman,1953-07-20
+460,Carl Hiaasen,1953-03-12
+461,Lynne Reid Banks,1929-07-31
+462,Peter S. Beagle,1939-04-20
+463,Allen Ginsberg,1926-06-03
+464,Anne Tyler,1941-10-25
+465,Aleksandr Solzhenitsyn,1918-12-11
+466,Rosamunde Pilcher,1924-09-22
+467,Walter M. Miller Jr.,1923-01-23
+468,Evelyn Waugh,1903-10-28
+469,Douglas Preston,1956-05-20
+470,Daniel Goleman,1946-03-07
+471,Alice Hoffman,1952-03-16
+472,David Eddings,1931-07-07
+473,Carson McCullers,1917-02-19
+474,Anne Brontë,1820-01-17
+475,Christopher Hitchens,1949-04-13
+476,David Baldacci,1960-08-05
+477,Frank E. Peretti,1951-01-13
+478,Nassim Nicholas Taleb,1960-09-12
+479,Rachel Caine,1962-04-27
+480,Gary Russell,1963-09-18
+481,Dashiell Hammett,1894-05-27
+482,Beverly Cleary,1916-04-12
+483,Marilynne Robinson,1943-11-26
+484,Nathaniel Philbrick,1956-06-11
+485,Louise Fitzhugh,1928-10-05
+486,John Wyndham,1903-07-10
+487,Sarah Dunant,1950-08-08
+488,Joyce Carol Oates,1938-06-16
+489,Norman Vincent Peale,1898-05-31
+490,Richard K. Morgan,1965-09-24
+491,Jo Nesbø,1960-03-29
+492,J.M. Coetzee,1940-02-09
+493,Sarah Waters,1966-07-21
+494,John le Carré,1931-10-19
+495,Walt Whitman,1819-05-31
+496,Jon   Stewart,1962-11-28
+497,Don DeLillo,1936-11-20
+498,James Fenimore Cooper,1789-09-15
+499,Mark Bittman,1950-02-17
+500,Louise Penny,1958-07-01
+501,Dodie Smith,1896-05-03
+502,Steve Martin,1945-08-14
+503,Brian Greene,1962-02-09
+504,Stefan Zweig,1881-11-28
+505,Terry Brooks,1944-01-08
+506,M. Scott Peck,1936-05-22
+507,Esphyr Slobodkina,1908-09-22
+508,Daniel Quinn,1935-10-11
+509,Mo Willems,1968-02-11
+510,Emily Dickinson,1830-12-10
+511,Anne Lamott,1954-04-10
+512,James Baldwin,1924-08-02
+513,Chaim Potok,1929-02-17
+514,Jan Brett,1949-12-01
+515,Ayaan Hirsi Ali,1969-11-13
+516,Patricia C. Wrede,1953-03-27
+517,O. Henry,1862-09-11
+518,Arnold Lobel,1933-05-22
+519,Robert James Waller,1939-08-01
+520,Steven Pressfield,1943-09-01
+521,Holly Black,1971-11-10
+522,Robert McCloskey,1914-09-15
+523,Peggy Parish,1927-07-14
+524,James Ellroy,1948-03-04
+525,William Styron,1925-06-11
+526,Julia Child,1912-08-15
+527,Rudyard Kipling,1865-12-30
+528,Bernard Cornwell,1944-02-23
+529,Ian McEwan,1948-06-21
+530,Vincent van Gogh,1853-03-30
+531,Tom Stoppard,1937-07-03
+532,Marcus Luttrell,1975-11-07
+533,Norman Bridwell,1928-02-15
+534,Bryce Courtenay,1933-08-14
+535,Rachel Cohn,1968-12-14
+536,Italo Calvino,1923-10-15
+537,Kazu Kibuishi,1978-04-08
+538,Gene Luen Yang,1973-08-09
+539,Tony DiTerlizzi,1969-09-06
+540,David Grann,1967-03-10
+541,David Foster Wallace,1962-02-21
+542,Yevgeny Zamyatin,1884-02-01
+543,Maureen Johnson,1973-02-16
+544,Louis de Bernières,1954-12-08
+545,Eleanor H. Porter,1868-12-19
+546,Lawrence Hill,1957-01-24
+547,Tom Rob Smith,1979-02-19
+548,Patricia MacLachlan,1938-03-03
+549,Anna Quindlen,1952-07-08
+550,Dave Ramsey,1960-09-03
+551,Joseph Smith Jr.,1805-12-23
+552,Tracy Kidder,1945-11-12
+553,R.A. Salvatore,1959-01-20
+554,William Strunk Jr.,1869-07-01
+555,Alex Garland,1970-05-26
+556,Lorraine Hansberry,1930-05-19
+557,Janette Sebring Lowrey,1892-03-02
+558,Michael Bond,1926-01-13
+559,David Shannon,1959-10-05
+560,Timothy Zahn,1951-09-01
+561,Nelson Mandela,1918-07-18
+562,Marian Keyes,1963-09-10
+563,Thomas Pynchon,1937-05-08
+564,Ivan Turgenev,1818-11-09
+565,Ivan  Sergeyevich Turgenev,1818-11-09
+566,Mark Skousen,1947-10-19
+567,A.S. Byatt,1936-08-24
+568,Peter David,1956-09-23
+569,Tom Robbins,1932-07-22
+570,Laurie R. King,1952-09-19
+571,Jacqueline Carey,1964-10-09
+572,Robin McKinley,1952-11-16
+573,Anthony Kiedis,1962-11-01
+574,Sherrilyn Kenyon,1965-12-11
+575,Henry James,1843-04-15
+576,Lloyd Alexander,1924-01-30
+577,Megan Whalen Turner,1965-11-21
+578,Tom Wolfe,1930-03-02
+579,Maria V. Snyder,1973-04-15
+580,Anne Fadiman,1953-08-07
+581,Richard H. Thaler,1945-09-12
+582,James A. Michener,1907-02-03
+583,Władysław Szpilman,1911-12-05
+584,John Eldredge,1960-06-06
+585,Carlo Collodi,1826-11-24
+586,Dave Barry,1947-07-03
+587,Patricia Highsmith,1921-01-19
+588,Kim Stanley Robinson,1952-03-23
+589,Andrew Lang,1844-03-31
+590,Nikolai Gogol,1809-03-20
+591,Sebastian Faulks,1953-04-20
+592,Karen Hesse,1952-08-29
+593,Oswald Chambers,1874-07-24
+594,Anna Godbersen,1980-04-10
+595,Jane Hamilton,1957-07-13
+596,David Sheff,1955-12-23
+597,Lisa Kleypas,1964-11-05
+598,David Levithan,1972-09-07
+599,Peter Straub,1943-03-02
+600,Walter Farley,1915-06-26
+601,Philip Roth,1933-03-19
+602,Garth Ennis,1970-01-16
+603,Sarah Hardesty,1950-10-10
+604,Nora Roberts,1950-10-10
+605,Mohsin Hamid,1971-07-23
+606,Alan Paton,1903-01-11
+607,Kay Redfield Jamison,1946-06-22
+608,Daniel Clowes,1961-04-14
+609,Piers Paul Read,1941-03-07
+610,Gail Carson Levine,1947-09-17
+611,Peter Mayle,1939-06-14
+612,Jean Craighead George,1919-07-02
+613,Raymond E. Feist,1945-12-21
+614,Henning Mankell,1948-02-03
+615,Nalini Singh,1945-09-01
+616,Mary Doria Russell,1950-08-19
+617,Mike Mignola,1960-09-16
+618,Richard Atwater,1896-09-13
+619,Elizabeth Peters,1927-09-29
+620,A.W. Tozer,1897-04-21
+621,Mihaly Csikszentmihalyi,1934-09-29
+622,Barbara W. Tuchman,1912-01-30
+623,Paul Auster,1947-02-03
+624,Camilla Läckberg,1974-08-30
+625,Koushun Takami,1969-01-10
+626,Edward Gorey,1925-02-22
+627,Henry Miller,1891-12-26
+628,Jeanette Winterson,1959-08-27
+629,Jean-Dominique Bauby,1952-04-23
+630,Sigmund Freud,1856-05-06
+631,A.J. Jacobs,1968-03-20
+632,Tad Williams,1957-03-14
+633,John Howard Griffin,1920-06-16
+634,Dava Sobel,1947-06-15
+635,Joyce Meyer,1943-06-04
+636,M.C. Escher,1898-06-17
+637,John Fowles,1926-03-31
+638,Eliyahu M. Goldratt,1947-03-31
+639,John Elder Robison,1957-08-13
+640,Deborah Howe,1946-08-12
+641,Jennifer Worth,1935-09-25
+642,Mark Kurlansky,1948-12-07
+643,Edward Albee,1928-03-12
+644,Grant Morrison,1960-01-31
+645,Deepak Chopra,1946-10-22
+646,Stendhal,1783-01-23
+647,Greg Behrendt,1963-07-21
+648,Rainer Maria Rilke,1875-12-04
+649,James W. Loewen,1942-02-06
+650,Sidney Sheldon,1917-02-11
+651,Anthony Robbins,1960-02-29
+652,Tony Robbins,1960-02-29
+653,Jane Smiley,1949-09-26
+654,Mary Karr,1955-01-16
+655,Jerome K. Jerome,1859-05-02
+656,Katherine Dunn,1945-10-24
+657,Tom Schulman,1951-10-20
+658,Henri Charrière,1906-11-16
+659,Winston Groom,1943-03-23
+660,Mahatma Gandhi,1869-10-02
+661,Ann-Marie MacDonald,1958-10-29
+662,Susan Elizabeth Phillips,1944-12-11
+663,David Seltzer,1940-02-12
+664,Edwin A. Abbott,1838-12-20
+665,Nelson DeMille,1943-08-23
+666,Cecily von Ziegesar,1970-06-27
+667,Raina Telgemeier,1977-05-26
+668,Julia Alvarez,1950-03-27
+669,Helene Hanff,1916-04-15
+670,Primo Levi,1919-07-31
+671,Howard Pyle,1853-03-05
+672,Maeve Binchy,1939-05-28
+673,Robert Graves,1895-07-24
+674,Rumiko Takahashi,1957-10-10
+675,Eknath Easwaran,1910-12-17
+676,Prabhavananda,1893-12-26
+677,J. Sheridan Le Fanu,1814-08-28
+678,M.T. Anderson,1968-11-04
+679,Julie Garwood,1944-12-26
+680,Robert Penn Warren,1905-04-24
+681,Pablo Neruda,1904-07-12
+682,Juliet Marillier,1948-08-07
+683,Washington Irving,1783-04-03
+684,Dai Sijie,1954-03-02
+685,Clarissa Pinkola Estés,1945-01-27
+686,Derek Landy,1974-10-23
+687,John Jakes,1932-03-31
+688,Nora Ephron,1941-05-19
+689,William S. Burroughs,1914-02-05
+690,Nick Bantock,1949-07-14
+691,James Rollins,1961-08-20
+692,Timothy J. Keller,1950-09-23
+693,Simms Taback,1932-02-13
+694,Tami Hoag,1959-01-20
+695,Graham Greene,1904-10-02
+696,Daniel J. Levitin,1957-12-27
+697,Jean de Brunhoff,1899-12-09
+698,Daniel Todd Gilbert,1957-11-05
+699,Clive Cussler,1931-07-15
+700,Karin Slaughter,1971-01-06
+701,Mark Waid,1962-03-21
+702,Else Holmelund Minarik,1920-09-13
+703,Roland Barthes,1915-11-12
+704,Caroline B. Cooney,1947-05-10
+705,Jane Yolen,1939-02-11
+706,Paramahansa Yogananda,1893-01-05
+707,Frank W. Abagnale,1948-04-28
+708,Wallace Stegner,1909-02-18
+709,Tucker Max,1975-09-27
+710,Hayden Herrera,1940-11-20
+711,Jorge Luis Borges,1899-08-24
+712,Ernesto Sabato,1911-06-24
+713,Erich Segal,1937-06-16
+714,Jacqueline Susann,1918-08-20
+715,E. Nesbit,1858-08-15
+716,Susan         Hill,1942-02-05
+717,Robin Cook,1946-02-28
+718,Jack Higgins,1929-07-27
+719,Vernor Vinge,1944-10-02
+720,Anthony Horowitz,1955-04-05
+721,Samuel Taylor Coleridge,1772-10-21
+722,H.G. Bissinger,1954-11-01
+723,Ben Sherwood,1964-02-12
+724,Claire  Morgan,1980-08-17
+725,Herman Wouk,1915-05-27
+726,Connie Willis,1945-12-31
+727,Nicholas Evans,1950-07-26
+728,Roger Zelazny,1937-05-13
+729,Kevin Henkes,1960-11-27
+730,Gabrielle Zevin,1977-10-24
+731,Raymond Carver,1938-05-25
+732,Edgar Rice Burroughs,1875-09-01
+733,Stormie Omartian,1942-09-16
+734,Gene Zion,1913-10-05
+735,Bob Dylan,1941-05-24
+736,T. Harv Eker,1954-06-10
+737,Susan Cooper,1935-05-23
+738,Betty MacDonald,1907-03-26
+739,Nevil Shute,1899-01-17
+740,Mark Millar,1969-12-24
+741,W. Somerset Maugham,1874-01-25
+742,Marcel Proust,1871-07-10
+743,Gerard Way,1977-04-09
+744,Pseudonymous Bosch,1967-10-25
+745,David Wilkerson,1931-05-19
+746,Virginia Lee Burton,1909-08-30
+747,Arkady Strugatsky,1925-08-28
+748,Max Lucado,1955-01-11
+749,J.I. Packer,1926-07-22
+750,Arlene Eisenberg,1934-06-08
+751,Heidi Murkoff,1958-11-28
+752,Carl Bernstein,1944-02-14
+753,Gordon Korman,1963-10-23
+754,Mary E. Pearson,1955-08-14
+755,Adam Hochschild,1942-10-05
+756,Orhan Pamuk,1952-06-07
+757,Honoré de Balzac,1799-05-20
+758,Ina Garten,1948-02-02
+759,Vince Flynn,1966-04-06
+760,Timothy Egan,1954-11-08
+761,Sheila Burnford,1918-05-11
+762,Åsne Seierstad,1970-02-10
+763,Jon Meacham,1969-05-20
+764,Mollie Katzen,1950-10-13
+765,Dan Millman,1946-02-22
+766,Dorothy L. Sayers,1893-06-13
+767,Brian L. Weiss,1944-11-06
+768,Charles Portis,1933-12-28
+769,Edith Hamilton,1867-08-12
+770,Judith McNaught,1944-05-10
+771,Alastair Reynolds,1966-03-13
+772,Cory Doctorow,1971-07-17
+773,William Gibson,1948-03-17
+774,Giada De Laurentiis,1970-08-22
+775,James Clavell,1921-10-10
+776,D.J. MacHale,1955-03-11
+777,Melina Marchetta,1965-03-25
+778,Gerald Durrell,1925-01-07
+779,Joseph Campbell,1904-03-26
+780,Ian Rankin,1960-04-28
+781,Rodman Philbrick,1951-01-22
+782,T.S. Eliot,1888-09-26
+783,Hugh Lofting,1886-01-14
+784,José Mauro de Vasconcelos,1920-02-26
+785,Thornton Wilder,1897-04-17
+786,Daphne du Maurier,1907-05-13
+787,Robert Lopshire,1927-04-14
+788,Bill Clinton,1946-08-19
+789,John C. Maxwell,1947-02-20
+790,Michael Morpurgo,1943-10-03
+791,Dav Pilkey,1966-03-04
+792,Svetlana Alexievich,1948-05-31
+793,Clayton M. Christensen,1952-04-06
+794,Yōko Ogawa,1962-03-30
+795,Pierre Choderlos de Laclos,1741-10-18
+796,Muriel Spark,1918-02-01
+797,Karen Armstrong,1944-11-14
+798,Mary Higgins Clark,1927-12-24
+799,Knut Hamsun,1859-08-04
+800,Richard Connell,1893-10-17
+801,A.P.J. Abdul Kalam,1931-10-15
+802,Sarah Vowell,1969-12-27
+803,Alice Schroeder,1956-12-14
+804,Stephen R. Donaldson,1947-05-13
+805,Stella Gibbons,1902-01-05
+806,Pema Chödrön,1936-07-14
+807,Alfred Bester,1913-12-18
+808,Peter Høeg,1957-05-17
+809,H. Rider Haggard,1856-06-22
+810,Robert Frost,1874-03-26
+811,Anne Morrow Lindbergh,1906-06-22
+812,Angela Carter,1940-05-07
+813,Audrey Wood,1948-08-12
+814,John Katzenbach,1950-06-23
+815,Sue Townsend,1946-04-02
+816,Joseph Delaney,1945-07-25
+817,Esther Forbes,1891-06-28
+818,Guy Gavriel Kay,1954-11-07
+819,Glen Cook,1944-07-09
+820,Vikram Seth,1952-06-20
+821,Margret Rey,1906-05-16
+822,Edith Hahn Beer,1914-01-24
+823,Marisha Pessl,1977-10-26
+824,Elizabeth  George,1949-02-26
+825,Piers Anthony,1934-08-06
+826,Marcia Brown,1918-07-13
+827,William Steig,1907-11-14
+828,Alistair MacLean,1922-04-21
+829,Michael Rosen,1946-05-07
+830,Michelle Magorian,1947-11-06
+831,Akira Toriyama,1955-04-05
+832,Thomas Mann,1875-06-06
+833,Clive Barker,1952-10-05
+834,Atul Gawande,1965-11-05
+835,Edward Abbey,1927-01-29
+836,Gary Zukav,1942-10-17
+837,Elif Shafak,1971-10-25
+838,Julia Glass,1956-03-23
+839,Robert Cormier,1925-01-17
+840,Meg Rosoff,1956-10-16
+841,Alan Bennett,1934-05-09
+842,William Blake,1757-11-28
+843,Nella Larsen,1891-04-13
+844,Brian Sibley,1949-07-14
+845,Marguerite Henry,1902-04-13
+846,Richard Lancelyn Green,1953-07-10
+847,Joseph J. Ellis,1943-07-18
+848,Nikos Kazantzakis,1883-03-02
+849,Jennifer Donnelly,1963-08-16
+850,Marguerite Duras,1914-04-04
+851,Naomi Klein,1970-05-08
+852,P.D. James,1920-08-03
+853,Warren Ellis,1968-02-16
+854,Thomas Cahill,1940-03-29
+855,Susan Sontag,1933-01-16
+856,Gennifer Choldenko,1957-10-20
+857,H.P. Lovecraft,1890-08-20
+858,Cressida Cowell,1966-04-15
+859,M.M. Kaye,1908-08-21
+860,Michel Faber,1960-04-13
+861,Jenny Nimmo,1944-01-15
+862,Leonardo da Vinci,1452-04-15
+863,Simone Elkeles,1970-04-24
+864,Jean-Jacques Rousseau,1712-06-28
+865,Jon Kabat-Zinn,1944-06-05
+866,Frederik Pohl,1919-11-26
+867,Thomas Hobbes,1588-04-05
+868,Flannery O'Connor,1925-03-25
+869,Karen Cushman,1941-10-04
+870,Frida Kahlo,1907-07-06
+871,Sergei Lukyanenko,1968-04-11
+872,Shunryu Suzuki,1904-05-18
+873,Andy Warhol,1928-08-06
+874,Andy Goldsworthy,1956-07-25
+875,Günter Grass,1927-10-16
+876,Loung Ung,1970-11-19
+877,Dorothy Allison,1949-04-11
+878,Rachel Carson,1907-05-27
+879,Jack Welch,1935-11-19
+880,Jerry Pinkney,1939-12-22
+881,Sam Harris,1967-04-09
+882,Gwyn Hyman Rubio,1949-08-07
+883,Darren Shan,1972-07-02
+884,Philip Yancey,1949-11-04
+885,E.L. Doctorow,1931-01-06
+886,Lance Armstrong,1971-09-18
+887,Sally Jenkins,1960-10-11
+888,Neil Strauss,1969-03-09
+889,Armistead Maupin,1944-05-13
+890,Edward P. Jones,1950-10-05
+891,Dietrich Bonhoeffer,1906-02-04
+892,Amy Sedaris,1961-03-29
+893,W.E.B. Du Bois,1868-02-23
+894,Janette Oke,1935-02-18
+895,Ariana Franklin,1933-08-25
+896,Elaine N. Aron,1944-11-01
+897,Jenny Carroll,1967-02-01
+898,Paul Montgomery,1960-06-05
+899,Donald J. Sobol,1924-10-04
+900,Brother Andrew,1928-05-11
+901,Gary D. Schmidt,1957-04-14
+902,Sara Donati,1956-01-14
+903,Julia Donaldson,1948-09-16
+904,Barbara Taylor Bradford,1933-05-10
+905,Susan Vreeland,1946-01-20
+906,Jack Canfield,1944-08-19
+907,Jonathan Lethem,1964-02-19
+908,Marcus Buckingham,1966-01-11
+909,Lian Hearn,1942-08-29
+910,Mark Dunn,1956-07-12
+911,Nic Sheff,1982-07-20
+912,Nigella Lawson,1960-01-06
+913,Eugene O'Neill,1888-10-16
+914,Paul Gannon,1960-05-21
+915,Arthur Hailey,1920-04-05
+916,Robert Charles Wilson,1953-12-15
+917,Theodore Dreiser,1871-08-27
+918,Linda Sue Park,1960-03-25
+919,Dalton Trumbo,1905-12-09
+920,Carol Shields,1935-06-02
+921,Alexander Hamilton,1755-01-11
+922,Jacqueline Winspear,1955-04-30
+923,Steven Galloway,1975-07-13
+924,Scott Turow,1949-04-12
+925,Arturo Pérez-Reverte,1951-11-25
+926,J.R. Moehringer,1964-12-07
+927,Theo LeSieg,1904-03-02
+928,Mary Pope Osborne,1949-05-20
+929,René Goscinny,1926-08-14
+930,Kathy Reichs,1948-07-07
+931,Bret Lott,1958-10-08
+932,Ruth Stiles Gannett,1923-08-12
+933,Roberto Bolaño,1953-04-28
+934,Eleanor Estes,1906-05-09
+935,James M. Cain,1892-07-01
+936,Wilbur Smith,1933-01-09
+937,Mercedes Lackey,1950-06-24
+938,Brad Thor,1969-08-21
+939,Pierre Boulle,1912-02-20
+940,Rob Sheffield,1966-02-02
+941,Lois McMaster Bujold,1949-11-02
+942,Ernesto Che Guevara,1928-06-14
+943,Michelle Moran,1980-08-11
+944,John M. Barry,1947-04-12
+945,Miranda July,1974-02-15
+946,Brennan Manning,1934-04-27
+947,Michel Houellebecq,1956-02-26
+948,G.K. Chesterton,1874-05-29
+949,Michio Kaku,1947-01-24
+950,Jeffrey Archer,1940-04-15
+951,Antonia Fraser,1932-08-27
+952,John Buchan,1875-08-26
+953,Donald A. Norman,1935-12-25
+954,Kristen Britain,1965-10-18
+955,Louis-Ferdinand Céline,1894-05-27
+956,Tim Burton,1958-08-25
+957,Françoise Sagan,1935-06-21
+958,Dean R. Koontz,1945-07-09
+959,Julio Cortázar,1914-08-26
+960,Hisaya Nakajo,1973-09-12
+961,Susane Colasanti,1973-05-01
+962,Bertrand Russell,1872-05-18
+963,Gavin de Becker,1954-10-26
+964,Simone de Beauvoir,1908-01-09
+965,Enid Blyton,1897-08-11
+966,Eugene B. Sledge,1923-11-04
+967,Ken Grimwood,1944-02-27
+968,Thich Nhat Hanh,1926-10-11
+969,James Gleick,1954-08-01
+970,Jude Deveraux,1947-09-20
+971,Mario Vargas Llosa,1936-03-28
+972,Stan Berenstain,1923-09-29
+973,Anton Chekhov,1860-01-29
+974,Ron Rash,1953-09-25
+975,Don Winslow,1953-10-31
+976,Lew Wallace,1827-04-10
+977,Adeline Yen Mah,1937-11-30
+978,Guy de Maupassant,1850-08-05
+979,Daniel Woodrell,1953-03-04
+980,Jojo Moyes,1969-08-04
+981,William  Gibson,1948-03-17
+982,Neale Donald Walsch,1943-09-10
+983,Jordan Belfort,1962-07-09
+984,Jeff Shaara,1952-02-21
+985,Lisa Lutz,1970-03-13
+986,Joanne Harris,1964-07-03
+987,C.J. Box,1958-11-09
+988,Kate Douglas Wiggin,1856-09-28
+989,Ian Fleming,1908-05-28
+990,H.W. Janson,1913-10-04
+991,Twyla Tharp,1941-07-01
+992,Melody Beattie,1948-07-02
+993,Eve Ensler,1953-05-25
+994,Linda Howard,1950-08-03
+995,Ivan Goncharov,1812-06-18
+996,Per Petterson,1952-07-18
+997,David Brin,1950-10-06
+998,Denis Johnson,1949-07-01
+999,Keri Arthur,1967-12-04
+1000,Sarah Weeks,1955-03-18
+1001,Russell Hoban,1925-02-04
+1002,Ted Dekker,1962-10-24
+1003,John Stuart Mill,1806-05-20
+1004,Esther Hicks,1948-03-05
+1005,Jessica Day George,1976-10-11
+1006,Nikki Sixx,1958-12-11
+1007,Jonathan Haidt,1963-10-19
+1008,Joy Adamson,1910-01-20
+1009,Hillary Rodham Clinton,1947-10-26
+1010,Ntozake Shange,1948-10-18
+1011,Thomas Paine,1737-02-09
+1012,Eric Berne,1910-05-10
+1013,Astrid Lindgren,1907-11-14
+1014,George MacDonald,1824-12-10
+1015,Josh McDowell,1939-08-17
+1016,Vikas Swarup,1961-06-22
+1017,Rhys Bowen,1941-09-24
+1018,Wil Huygen,1922-06-23
+1019,Iris Chang,1968-03-28
+1020,Carrie Vaughn,1973-01-28
+1021,Émile Zola,1840-04-02
+1022,Antony Beevor,1946-12-14
+1023,Brian Azzarello,1962-08-11
+1024,R.L. Stine,1943-10-08
+1025,Henry Fielding,1707-04-22
+1026,Peter F. Drucker,1909-11-19
+1027,Ann M. Martin,1955-08-12
+1028,Jean-Paul Sartre,1905-06-21
+1029,Sherwood Anderson,1876-09-13
+1030,Robert Muchamore,1971-12-26
+1031,Adrian Conan Doyle,1910-11-19
+1032,Marya Hornbacher,1974-04-04
+1033,Anya Seton,1904-01-23
+1034,C.G. Jung,1875-07-26
+1035,Ram Dass,1931-04-06
+1036,Rudolfo Anaya,1937-10-30
+1037,Natsuo Kirino,1951-10-07
+1038,Wendy Mass,1967-04-22
+1039,Marianne Williamson,1952-07-08
+1040,Immanuel Kant,1724-04-22
+1041,bell hooks,1952-09-25
+1042,Matthew Reilly,1974-07-02
+1043,Maggie O'Farrell,1972-05-27
+1044,Lisi Harrison,1970-07-29
+1045,Syd Hoff,1912-09-04
+1046,Boris Vian,1920-03-10
+1047,John Fante,1909-04-08
+1048,Henryk Sienkiewicz,1846-05-05
+1049,Debbie Macomber,1948-10-22
+1050,James Dickey,1923-02-02
+1051,Malika Oufkir,1953-04-02
+1052,Booker T. Washington,1856-04-05
+1053,Andrea Levy,1956-03-07
+1054,Legs McNeil,1956-01-27
+1055,Tom Perrotta,1961-08-13
+1056,Betty Mahmoody,1945-06-09
+1057,Caroline Myss,1952-12-02
+1058,Philip José Farmer,1918-01-26
+1059,Jim Carroll,1949-08-01
+1060,Arthur Ransome,1884-01-18
+1061,René Descartes,1596-03-31
+1062,Eileen Christelow,1943-04-22
+1063,Georgette Heyer,1902-08-16
+1064,T. Coraghessan Boyle,1948-12-02
+1065,Marilyn Manson,1969-01-05
+1066,Leigh Nichols,1945-07-09
+1067,China Miéville,1972-09-06
+1068,Li Cunxin,1961-01-26
+1069,Lilian Jackson Braun,1913-06-20
+1070,Paulo Freire,1921-09-19
+1071,Donna Leon,1942-09-28
+1072,Iris Johansen,1938-04-07
+1073,Jack Ketchum,1946-11-10
+1074,Irvin D. Yalom,1931-06-13
+1075,P. Craig Russell,1951-10-30
+1076,James L. Swanson,1959-02-12
+1077,Al Franken,1951-05-21
+1078,Giuseppe Tomasi di Lampedusa,1896-12-23
+1079,Leon Uris,1924-08-03
+1080,Al Perkins,1944-01-18
+1081,John Banville,1945-12-08
+1082,Lawrence Wright,1947-08-02
+1083,Giorgio Vasari,1511-07-30
+1084,J.G. Ballard,1930-11-15
+1085,Joseph Conrad,1857-12-03
+1086,Shūsaku Endō,1923-03-27
+1087,Ann McGovern,1930-05-25
+1088,James M. McPherson,1936-10-11
+1089,Harold Bloom,1930-07-11
+1090,Rachael Ray,1968-08-25
+1091,Neil deGrasse Tyson,1958-10-05
+1092,Josephine Tey,1896-07-25
+1093,Audre Lorde,1934-02-18
+1094,Brian Herbert,1947-06-29
+1095,Kevin J. Anderson,1962-03-27
+1096,William Kent Krueger,1950-11-16
+1097,Maxine Hong Kingston,1940-10-27
+1098,Carlos Fuentes,1928-11-11
+1099,Edwidge Danticat,1969-01-19
+1100,Waris Dirie,1965-10-21
+1101,David D. Burns,1942-09-19
+1102,Madeleine Wickham,1970-12-12
+1103,Eric Van Lustbader,1946-12-24
+1104,Robert K. Massie,1929-01-05
+1105,Yukio Mishima,1925-01-14
+1106,Jim Starlin,1949-10-09
+1107,Amélie Nothomb,1966-07-09
+1108,Harold G. Moore,1922-02-13
+1109,Daniel H. Pink,1964-07-23
+1110,Arnaldur Indriðason,1961-01-28
+1111,Lincoln Child,1957-10-13
+1112,M.C. Beaton,1936-06-10
+1113,Simon Singh,1964-09-19
+1114,Stephen Crane,1871-11-01
+1115,Joss Whedon,1964-06-23
+1116,Stephen Coonts,1946-07-19
+1117,Peter Lynch,1944-01-19
+1118,E.E. Cummings,1894-10-14
+1119,Aldo Leopold,1887-01-11
+1120,Greg Bear,1951-08-20
+1121,Tobias Wolff,1945-06-19
+1122,David Fishelson,1956-07-24
+1123,Mercer Mayer,1943-12-30
+1124,Elisabeth Elliot,1926-12-21
+1125,Christopher Isherwood,1904-08-26
+1126,Natalie Goldberg,1948-01-04
+1127,Adele Faber,1928-01-12
+1128,T. Colin Campbell,1934-03-14
+1129,Arthur Koestler,1905-09-05
+1130,Douglas Coupland,1961-12-30
+1131,Jordan Sonnenblick,1969-07-04
+1132,Perry    Moore,1971-11-04
+1133,Reginald Rose,1920-12-10
+1134,Sandra Boynton,1953-04-03
+1135,Mark Helprin,1947-06-28
+1136,George R. Stewart,1895-05-31
+1137,Robert Kurson,1963-04-18
+1138,David Weber,1952-10-24
+1139,Marjorie Kinnan Rawlings,1896-08-08
+1140,Tove Jansson,1914-08-09
+1141,A.N. Roquelaure,1941-10-04
+1142,Guy Kawasaki,1954-08-30
+1143,Bernard Waber,1921-09-27
+1144,Sogyal Rinpoche,1947
+1145,Ron Chernow,1949-03-03
+1146,Paul Zindel,1936-05-15
+1147,J.B. Priestley,1894-09-13
+1148,Richard Paul Evans,1962-10-11
+1149,David Wiesner,1956-02-05
+1150,Alain de Botton,1969-12-20
+1151,Richard Russo,1949-07-15
+1152,Alan Hollinghurst,1954-05-26
+1153,Richard Siken,1967-02-15
+1154,Tim Harford,1973-09-27
+1155,Kōbō Abe,1924-03-07
+1156,Machado de Assis,1839-06-21
+1157,Kathryn Lasky,1944-06-24
+1158,Walker Percy,1916-05-28
+1159,Diane Duane,1952-05-18
+1160,Khushwant Singh,1915-02-02
+1161,Marshall Goldsmith,1949-03-20
+1162,Barbara Park,1947-04-21
+1163,Gary Larson,1950-08-14
+1164,Jill Bolte Taylor,1959-05-04
+1165,Tetsuko Kuroyanagi,1933-08-09
+1166,Niall Ferguson,1964-04-18
+1167,Elizabeth Chandler,1807-12-24
+1168,Meg Wolitzer,1959-05-28
+1169,Randy Shilts,1951-08-08
+1170,Eric S. Nylund,1964-11-12
+1171,Nancy Springer,1948-07-05
+1172,Naguib Mahfouz,1911-12-11
+1173,Federico García Lorca,1898-06-05
+1174,Joe Navarro,1953-05-26
+1175,Vera B. Williams,1927-01-28
+1176,Michael Teitelbaum,1944-01-21
+1177,Masashi Kishimoto,1974-11-08
+1178,Robert Sabuda,1965-03-08
+1179,Charles M. Sheldon,1857-02-26
+1180,Reza Aslan,1972-05-03
+1181,Naomi Wolf,1962-11-12
+1182,Elisabeth Kübler-Ross,1926-07-08
+1183,Alison Croggon,1962
+1184,Enid Bagnold,1889-10-27
+1185,Philippa Pearce,1920-01-22
+1186,Steffie Hall,1943-04-22
+1187,Kay Thompson,1909-11-09
+1188,Matt Ridley,1958-02-07
+1189,Larry Bossidy,1935-03-05
+1190,Heinrich Böll,1917-12-21
+1191,Amitav Ghosh,1956-07-11
+1192,Catherine Coulter,1942-12-26
+1193,Cate Tiernan,1961-07-24
+1194,Amin Maalouf,1949-02-25
+1195,Alice Waters,1944-04-28
+1196,Sandra Brown,1948-03-12
+1197,Carol Tavris,1944-09-17
+1198,Clifford D. Simak,1904-08-03
+1199,Simon Beckett,1960-04-20
+1200,Sherwood Smith,1951-05-29
+1201,Robert Crais,1953-06-20
+1202,Morton Rhue,1950-05-05
+1203,Sinclair Lewis,1885-02-07
+1204,Lloyd C. Douglas,1877-08-27
+1205,James Herbert,1943-04-08
+1206,Drew Karpyshyn,1971-07-28
+1207,Matthew Gregory Lewis,1775-07-09
+1208,Heather Brewer,1973-09-21
+1209,Deanna Raybourn,1968-06-17
+1210,Yasunari Kawabata,1899-06-11
+1211,Robert A. Caro,1935-10-30
+1212,Annie Dillard,1945-04-30
+1213,Shane Claiborne,1975-07-11
+1214,Thomas S. Kuhn,1922-07-18
+1215,Michael Moorcock,1939-12-18
+1216,Fernando Pessoa,1888-06-13
+1217,Chris d'Lacey,1954-12-15
+1218,Rob Bell,1970-08-23
+1219,Neil Postman,1931-03-08
+1220,Kenneth Oppel,1967-08-12
+1221,Michelle Paver,1960-09-07
+1222,Ford Madox Ford,1873-12-17
+1223,Eleanor Coerr,1922-05-29
+1224,Norman Mailer,1923-01-31
+1225,Sydney Taylor,1904-10-30
+1226,Friedrich Dürrenmatt,1921-01-05
+1227,Norman Maclean,1902-12-23
+1228,Diana L. Paxson,1943-02-20
+1229,Michael J. Fox,1961-06-09
+1230,Maud Hart Lovelace,1892-04-25
+1231,Deborah Ellis,1970-08-07
+1232,Sándor Márai,1900-04-11
+1233,Dorothy Gilman,1923-06-25
+1234,Margaret Sidney,1844-06-22
+1235,Alexis de Tocqueville,1805-07-29
+1236,Simon R. Green,1955-08-25
+1237,Richard Koch,1950-07-28
+1238,Gene Wolfe,1931-05-07
+1239,Ben Mezrich,1969-02-07
+1240,Jerzy Kosiński,1933-06-14
+1241,Louise Erdrich,1954-06-07
+1242,Charles Stross,1964-10-18
+1243,Katharine Graham,1917-06-16
+1244,James Lee Burke,1936-12-05
+1245,Firoozeh Dumas,1965-06-26
+1246,Guy Delisle,1966-01-19
+1247,Neil Shubin,1960-12-22
+1248,James Surowiecki,1967-04-30
+1249,Chris Gardner,1954-02-09
+1250,Arina Tanemura,1978-03-12
+1251,Lora Leigh,1965-03-06
+1252,Joe McGinniss,1942-12-09
+1253,Farley Mowat,1921-05-12
+1254,Johnny Cash,1932-02-26
+1255,Brian Michael Bendis,1967-08-18
+1256,Malcolm Lowry,1909-07-28
+1257,Steven Pinker,1954-09-18
+1258,Graeme Base,1958-04-06
+1259,Clarice Lispector,1920-12-10
+1260,Marguerite Yourcenar,1903-06-08
+1261,Robert Lynn Asprin,1946-06-28
+1262,Anchee Min,1957-01-14
+1263,Rolf Potts,1970-10-13
+1264,Walter Mosley,1952-01-12
+1265,Vicki Robin,1945-07-06
+1266,Ed Brubaker,1966-11-17
+1267,Chris Ware,1967-12-28
+1268,Nicholas Meyer,1945-12-24
+1269,Georgia Byng,1965-09-06
+1270,Joseph Boyden,1966-10-31
+1271,Natsume Sōseki,1867-02-09
+1272,Laura Lippman,1959-01-31
+1273,Val McDermid,1955-06-04
+1274,Elizabeth Strout,1956-01-06
+1275,Mineko Iwasaki,1949-11-02
+1276,Assata Shakur,1947-07-16
+1277,Sadegh Hedayat,1903-02-17
+1278,Tony Horwitz,1958-06-09
+1279,Alton Brown,1962-07-30
+1280,William Least Heat-Moon,1939-08-27
+1281,John Keats,1795-10-31
+1282,Harlan Ellison,1934-05-27
+1283,Marcella Hazan,1924-04-15
+1284,Robert Fulghum,1937-06-04
+1285,Elmore Leonard,1925-10-11
+1286,Jerome Lawrence,1915-07-14
+1287,Beverly Daniel Tatum,1954-09-27
+1288,Sam Walton,1918-03-29
+1289,Tim Winton,1960-08-04
+1290,Ambrose Bierce,1842-06-24
+1291,Tara Brach,1953-05-15
+1292,Daniel Tammet,1979-01-31
+1293,James E. Talmage,1862-09-21
+1294,Ina May Gaskin,1940-03-08
+1295,L. Ron Hubbard,1911-03-13
+1296,Elizabeth George,1949-02-26
+1297,Dino Buzzati,1906-10-14
+1298,Tony Hillerman,1925-05-27
+1299,David Ebershoff,1969-01-17
+1300,Romain Gary,1914-05-21
+1301,August Wilson,1945-04-27
+1302,Heinrich Harrer,1912-07-06
+1303,H.W. Brands,1953-08-07
+1304,Ryū Murakami,1952-02-19
+1305,Søren Kierkegaard,1813-05-05
+1306,Martin Amis,1949-08-25
+1307,Mary Wollstonecraft,1759-04-27
+1308,Luis Sepúlveda,1949-10-04
+1309,Luigi Pirandello,1867-06-28
+1310,Pascal Mercier,1944-06-23
+1311,Leslie Feinberg,1949-09-01
+1312,Jon Lee Anderson,1957-01-15
+1313,Jean Anouilh,1910-06-23
+1314,Edward W. Said,1935-11-01
+1315,Amelia Atwater-Rhodes,1984-04-16
+1316,Mo Hayder,1962-01-02
+1317,Hugh Laurie,1959-06-11
+1318,Mika Waltari,1908-09-19
+1319,Byron Katie,1942-12-06
+1320,Frantz Fanon,1925-07-20
+1321,Cynthia Voigt,1942-02-25
+1322,Patrick Carman,1966-02-27
+1323,Morris Gleitzman,1953-01-09
+1324,Mike Lupica,1952-05-11
+1325,Livia Bitton-Jackson,1931-02-28
+1326,Anne Carson,1950-06-21
+1327,Roddy Doyle,1958-05-08
+1328,Philip G. Zimbardo,1933-03-23
+1329,Thor Heyerdahl,1914-10-06
+1330,Mortimer J. Adler,1902-12-28
+1331,Elizabeth von Arnim,1866-08-31
+1332,Danielle Steel,1947-08-14
+1333,Friedrich A. Hayek,1899-05-08
+1334,Doris Lessing,1919-10-22
+1335,Zoë Heller,1965-07-07
+1336,Hannah Arendt,1906-10-14
+1337,Robert Henri,1865-06-24
+1338,Nathanael West,1903-10-17
+1339,Thomas Tryon,1634-09-06
+1340,Martin Luther King Jr.,1929-01-15
+1341,Clayborne Carson,1944-06-15
+1342,Aron Ralston,1975-10-27
+1343,Keri Hulme,1947-03-09
+1344,Maxwell Maltz,1899-03-10
+1345,Pearl Cleage,1948-12-07
+1346,Julie Otsuka,1962-05-15
+1347,Daniel Keyes,1927-08-09
+1348,Bethany McLean,1970-12-12
+1349,Walter Moers,1957-05-24
+1350,Brad Meltzer,1970-04-01
+1351,Joseph Wambaugh,1937-01-22
+1352,Jorge Amado,1912-08-10
+1353,Jack Finney,1911-10-02
+1354,Jill Murphy,1949-07-05
+1355,Henri J.M. Nouwen,1932-01-24
+1356,Joan Aiken,1924-09-04
+1357,Anthony Hope,1863-02-09
+1358,Olivia Goldsmith,1949-01-01
+1359,Italo Svevo,1861-12-19
+1360,Angela Y. Davis,1944-01-26
+1361,David Deida,1958-03-18
+1362,Felicia Bond,1954-07-18
+1363,Conn Iggulden,1971-02-24
+1364,Laurence Sterne,1713-11-24
+1365,Diane Mott Davidson,1949-03-22
+1366,John Steptoe,1950-09-14
+1367,Eva Ibbotson,1925-01-21
+1368,Homer Hickam,1943-02-19
+1369,Dian Fossey,1932-01-16
+1370,Chris Claremont,1950-11-25
+1371,Stephanie Laurens,1953-08-14
+1372,Eça de Queirós,1845-11-25
+1373,John Locke,1632-08-29
+1374,Leslie Marmon Silko,1948-03-05
+1375,Walter Benjamin,1892-07-15
+1376,George Saunders,1958-12-02
+1377,Melinda Haynes,1955-12-03
+1378,Judith Guest,1936-03-29
+1379,Steve Alten,1959-08-21
+1380,Caroline Alexander,1968-03-03
+1381,Susanna Kearsley,1966-01-17
+1382,Lauren Groff,1978-07-23
+1383,Lynda Barry,1956-01-02
+1384,Lynn Flewelling,1958-10-20
+1385,Liz Murray,1980-09-23
+1386,Adolfo Bioy Casares,1914-09-15
+1387,David Axton,1945-07-09
+1388,Walter Lord,1917-10-08
+1389,Brian Lumley,1937-12-02
+1390,Anaïs Nin,1903-02-21
+1391,Alaa Al Aswany,1957-05-26
+1392,Albert Einstein,1879-03-14
+1393,John Gribbin,1946-03-19
+1394,V.S. Naipaul,1932-08-17
+1395,Sherryl Woods,1944-07-23
+1396,Brené Brown,1965-11-18
+1397,Alan W. Watts,1915-01-06
+1398,John Patrick Shanley,1950-10-13
+1399,Gloria Naylor,1950-01-25
+1400,Pedro Calderón de la Barca,1600-01-17
+1401,Melvin Burgess,1954-04-25
+1402,Gene Stratton-Porter,1863-08-17
+1403,Alfred Uhry,1936-12-03
+1404,Miklós Nyiszli,1901-06-17
+1405,William March,1893-09-18
+1406,Steve Niles,1965-06-21
+1407,Jacqueline Wilson,1945-12-17
+1408,Jennifer L. Holm,1968-06-16
+1409,Frank Schätzing,1957-05-28
+1410,Ben Carson,1951-09-18
+1411,John Galsworthy,1867-08-14
+1412,Al Ries,1926-11-14
+1413,Laura Whitcomb,1958-12-19
+1414,Richard A. Knaak,1961-05-28
+1415,Gigi Levangie,1963-01-02
+1416,Gigi Levangie Grazer,1963-01-02
+1417,R. Scott Bakker,1967-02-02
+1418,T.A. Barron,1952-03-26
+1419,R.C. Sproul,1939-02-13
+1420,Donald J. Trump,1946-06-14
+1421,Alan Dean Foster,1946-11-18
+1422,Anna Gavalda,1970-12-09
+1423,Roland Smith,1951-11-30
+1424,David Gemmell,1948-08-01
+1425,Tony Kushner,1956-07-16
+1426,Bruce Degen,1945-06-14
+1427,Taylor Caldwell,1900-09-07
+1428,Johanna Lindsey,1952-03-10
+1429,Richard Rhodes,1937-07-04
+1430,Irving Shulman,1913-05-21
+1431,Tasha Alexander,1969-12-01
+1432,Andrea Camilleri,1925-09-06
+1433,Marc Levy,1961-10-16
+1434,Kate Brian,1974-03-11
+1435,Joan Lindsay,1896-11-16
+1436,Luke Rhinehart,1932-11-15
+1437,Mary Balogh,1944-03-24
+1438,Bertolt Brecht,1898-02-10
+1439,Rick Atkinson,1952-11-15
+1440,Alexander Pushkin,1799-06-06
+1441,David Farland,1957-05-28
+1442,Alex Kava,1959-06-07
+1443,Bohumil Hrabal,1914-03-28
+1444,Thomas Merton,1915-01-31
+1445,Kathleen E. Woodiwiss,1939-06-03
+1446,Jacqueline Davies,1948-05-21
+1447,Eduardo Galeano,1940-09-03
+1448,Christian Lander,1978-09-12
+1449,David Auburn,1969-11-30
+1450,Owen West,1969-09-24
+1451,Owen  West,1969-09-24
+1452,Paul Theroux,1941-04-10
+1453,Anne Perry,1938-10-28
+1454,Eric Hill,1927-09-07
+1455,Bruce Campbell,1958-06-22
+1456,V.S. Ramachandran,1951-08-10
+1457,Carolyn Parkhurst,1971-01-18
+1458,Anne Rivers Siddons,1936-01-09
+1459,Dean Karnazes,1962-08-23
+1460,Jonathan Tropper,1970-02-19
+1461,Tony Hawks,1960-02-27
+1462,Martin E.P. Seligman,1942-08-12
+1463,Iris Murdoch,1919-07-15
+1464,Bruce Coville,1950-05-16
+1465,John Bellairs,1938-01-17
+1466,Kiyohiko Azuma,1968-05-27
+1467,Sara Zarr,1970-10-03
+1468,Ivan Doig,1939-06-27
+1469,Harry Gregson-Williams,1961-12-13
+1470,Maurice Leblanc,1864-12-11
+1471,Fritjof Capra,1939-02-01
+1472,George Bernard Shaw,1856-07-26
+1473,Julie Andrews Edwards,1935-10-01
+1474,Alice Munro,1931-07-10
+1475,Georges Bataille,1897-09-10
+1476,Jean Racine,1639-12-21
+1477,F. Paul Wilson,1946-05-17
+1478,Nevada Barr,1952-03-01
+1479,Edward S. Herman,1925-04-07
+1480,David Simon,1960-02-09
+1481,Robertson Davies,1913-08-28
+1482,Peter Shaffer,1926-05-15
+1483,Hiroyuki Takei,1972-05-15
+1484,Flann O'Brien,1911-10-05
+1485,Michael Herr,1940-04-13
+1486,Maurice Druon,1918-04-23
+1487,John Steakley,1951-07-26
+1488,Richard Ford,1944-02-16
+1489,Nando Parrado,1949-12-09
+1490,Pramoedya Ananta Toer,1925-02-06
+1491,Ludwig Wittgenstein,1889-04-26
+1492,Ralph Waldo Emerson,1803-05-25
+1493,Carole Radziwill,1963-08-20
+1494,Andrew Loomis,1892-06-15
+1495,Martha Stewart,1941-08-03
+1496,Louise L. Hay,1926-10-08
+1497,Thomas  Moore,1779-05-28
+1498,Guy Debord,1931-12-28
+1499,Henry Hazlitt,1894-11-28
+1500,Celia Rees,1949-06-17
+1501,Mervyn Peake,1911-07-09
+1502,Steven Callahan,1952-02-06
+1503,Roger Lea MacBride,1929-08-06
+1504,Nancy Werlin,1961-10-29
+1505,Siri Hustvedt,1955-02-19
+1506,Michael Dorris,1945-01-30
+1507,Pamela Des Barres,1948-09-09
+1508,Eiji Yoshikawa,1892-08-11
+1509,Tom Brokaw,1940-02-06
+1510,Judith Kerr,1923-06-14
+1511,Tracy Letts,1965-07-04
+1512,George Carlin,1937-05-12
+1513,Robert B. Parker,1932-09-17
+1514,Dossie Easton,1944-02-26
+1515,Ivo Andrić,1892-10-09
+1516,Julian Barnes,1946-01-19
+1517,Joanna Weaver,1957-03-11
+1518,Saul Bellow,1915-06-10
+1519,Mireille Guiliano,1946-04-14
+1520,Tom Holland,1996-06-01
+1521,Harold S. Kushner,1935-04-03
+1522,James D. Watson,1928-04-06
+1523,Patricia Polacco,1944-07-11
+1524,Laura Schlessinger,1947-01-16
+1525,Dale Brown,1956-11-02
+1526,Langston Hughes,1901-02-01
+1527,Yvon Chouinard,1938-11-09
+1528,Simon Schama,1945-02-13
+1529,Dan Jurgens,1959-06-27
+1530,Jeffrey Toobin,1960-05-21
+1531,Steve Wozniak,1950-08-11
+1532,John Ortberg,1957-05-05
+1533,Marv Wolfman,1946-05-13
+1534,Elaine Pagels,1943-02-13
+1535,Theodore Sturgeon,1918-02-26
+1536,Susan Orlean,1955-10-31
+1537,Sara Paretsky,1947-06-08
+1538,Steve Perry,1949-01-22
+1539,Jaroslav Hašek,1883-04-30
+1540,John D. Fitzgerald,1906-02-03
+1541,Bart D. Ehrman,1955-10-05
+1542,Tori Spelling,1973-05-16
+1543,Len Wein,1948-06-12
+1544,Roberto Saviano,1979-09-22
+1545,Terry Jones,1942-02-01
+1546,Michelle Sagara,1963-05-05
+1547,Marguerite de Angeli,1889-03-14
+1548,Tom Shales,1944-11-03
+1549,Jack Gantos,1951-07-02
+1550,John  Williams,1932-02-08
+1551,Isa Chandra Moskowitz,1973-02-03
+1552,Sara Douglass,1957-06-02
+1553,Pat Barker,1943-05-08
+1554,Hanif Kureishi,1954-12-05
+1555,Hector Malot,1830-05-20
+1556,Hergé,1907-05-22
+1557,Dylan Thomas,1914-10-27
+1558,Stuart Woods,1938-01-09
+1559,Bette Greene,1934-06-28
+1560,Åsa Larsson,1966-06-28
+1561,Jun'ichirō Tanizaki,1886-07-24
+1562,Rita Golden Gelman,1937-07-02
+1563,Bill Finger,1914-02-08
+1564,Oriana Fallaci,1929-06-29
+1565,Peter Matthiessen,1927-05-22
+1566,Fannie Merritt Farmer,1857-03-23
+1567,George Harrison,1943-02-25
+1568,Scarlett Thomas,1972-07-05
+1569,John Updike,1932-03-18
+1570,Patrick Skene Catling,1925-02-14
+1571,Faye Kellerman,1952-07-31
+1572,Ruth Ozeki,1956-03-12
+1573,Ramachandra Guha,1958-04-29
+1574,Stephen Hunter,1946-03-25
+1575,Maj Sjöwall,1935-09-25
+1576,Martin Waddell,1941-04-10
+1577,Cynthia Rylant,1954-06-06
+1578,Henepola Gunaratana,1927-12-07
+1579,Jenny McCarthy,1972-11-01
+1580,Joe Sacco,1960-10-02
+1581,Frances Burney,1752-06-13
+1582,Dick Winters,1918-01-21
+1583,Erin Gruwell,1969-08-15
+1584,Terry McMillan,1951-10-18
+1585,Andy Andrews,1959-05-22
+1586,S.M. Stirling,1953-09-30
+1587,John C. Bogle,1929-05-08
+1588,Mem Fox,1946-03-05
+1589,Alex Berenson,1973-01-06
+1590,Joseph Stein,1912-05-30
+1591,Éric-Emmanuel Schmitt,1960-03-28
+1592,David Starkey,1945-01-03
+1593,Len Deighton,1929-02-18
+1594,Daniel Kehlmann,1975-01-13
+1595,Katharine Hepburn,1907-05-12
+1596,David A. Vise,1960-06-16
+1597,Michael E. Porter,1947-05-23
+1598,Ferenc Molnár,1878-01-12
+1599,Wayne Grudem,1948-02-11
+1600,Forrest Carter,1925-09-04
+1601,Daniel C. Dennett,1942-03-28
+1602,Patricia A. McKillip,1948-02-29
+1603,George Lucas,1944-05-14
+1604,Winston Graham,1908-06-30
+1605,Masaru Emoto,1943-07-22
+1606,Peter Hedges,1962-07-06
+1607,Rafael Sabatini,1875-04-29
+1608,E.T.A. Hoffmann,1776-01-24
+1609,Mark Mathabane,1960-10-18
+1610,John D. MacDonald,1916-07-24
+1611,Anne Rampling,1941-10-04
+1612,Nicky Cruz,1938-12-06
+1613,Paul Galdone,1907-06-02
+1614,Kurt Cobain,1967-02-20
+1615,Marge Piercy,1936-03-31
+1616,Melissa Anelli,1979-12-27
+1617,Winifred Watson,1906-10-20
+1618,Richard Wurmbrand,1909-03-24
+1619,Mourid Barghouti,1944-07-08
+1620,Anne Michaels,1958-04-15
+1621,Anne Sexton,1928-11-09
+1622,Anthony Trollope,1815-04-24
+1623,Linda Fairstein,1947-05-05
+1624,Steve Coll,1958-10-08
+1625,Rory Stewart,1973-01-03
+1626,Samuel R. Delany,1942-04-01
+1627,K.A. Applegate,1956-10-09
+1628,Robert J. Sawyer,1960-04-29
+1629,Marshall McLuhan,1911-07-21
+1630,Tim Powers,1952-02-29
+1631,Ann Aguirre,1970-08-27
+1632,Christopher R. Browning,1944-05-22
+1633,Will Durant,1885-11-05
+1634,Judith Krantz,1928-01-09
+1635,Nawal El Saadawi,1931-10-22
+1636,Erich von Däniken,1935-04-14
+1637,Tiffanie DeBartolo,1970-11-27
+1638,C.S. Forester,1899-08-27
+1639,Baruch Spinoza,1632-11-24
+1640,Anatoli Boukreev,1958-01-16
+1641,Paul Michael,1926-08-15
+1642,Jeanne Wakatsuki Houston,1934-09-26
+1643,Michael Frayn,1933-09-08
+1644,Robert Shea,1933-02-14
+1645,Jennifer Roy,1967-05-26
+1646,Mélanie Watt,1975-08-20
+1647,Adam Gopnik,1956-08-24
+1648,Tsitsi Dangarembga,1959-02-04
+1649,Carl R. Rogers,1902-01-08
+1650,Manuel Puig,1932-12-28
+1651,Jed Rubenfeld,1959-02-15
+1652,Lisa Unger,1970-04-26
+1653,Emily Rodda,1948-04-02
+1654,William Manchester,1922-04-01
+1655,Andre Norton,1912-02-17
+1656,Bruce Chatwin,1940-05-13
+1657,Richard Nelson Bolles,1927-03-19
+1658,Mary Mapes Dodge,1831-01-26
+1659,Ben Macintyre,1963-12-25
+1660,Humphrey Carpenter,1946-04-29
+1661,Ryūnosuke Akutagawa,1892-03-01
+1662,Iris Rainer Dart,1944-03-03
+1663,Lorrie Moore,1957-01-13
+1664,Miguel de Unamuno,1864-09-29
+1665,Dick King-Smith,1922-03-27
+1666,Donald Hall,1928-09-20
+1667,Harold McGee,1951-10-03
+1668,Sivananda Saraswati,1887-09-08
+1669,Sharon M. Draper,1948-08-21
+1670,C.J. Cherryh,1942-09-01
+1671,Harry Bernstein,1910-05-30
+1672,Thérèse de Lisieux,1873-01-02
+1673,Alexander Pope,1688-05-21
+1674,Jon J. Muth,1960-07-28
+1675,Richard Branson,1950-07-18
+1676,Beth Moore,1957-06-16
+1677,John O'Hara,1905-01-31
+1678,Sylvia Day,1973-03-11
+1679,Neil Simon,1927-07-04
+1680,Wendell Berry,1934-08-05
+1681,Barbara Delinsky,1945-08-08
+1682,Charles Bernard Nordhoff,1887-02-01
+1683,Jane Jacobs,1916-05-04
+1684,Michael Robotham,1960-11-09
+1685,Laurence Bergreen,1950-02-04
+1686,Dana Stabenow,1952-03-27
+1687,Andy McDermott,1974-07-02
+1688,Joel Fuhrman,1953-12-02
+1689,David Hackett Fischer,1935-12-02
+1690,Lorenzo Carcaterra,1954-10-16
+1691,Martin McDonagh,1970-03-26
+1692,Gordon B. Hinckley,1910-06-23
+1693,J.A. Konrath,1970-03-29
+1694,Steven Brust,1955-11-23
+1695,Julia Spencer-Fleming,1961-06-26
+1696,Charles Perrault,1628-01-12
+1697,Temple Grandin,1947-08-29
+1698,John Cheever,1912-05-27
+1699,Alex  Ross,1970-01-22
+1700,W.P. Kinsella,1935-05-25
+1701,Elizabeth Moon,1945-03-07
+1702,Susan Campbell Bartoletti,1958-11-18
+1703,William Carlos Williams,1883-09-17
+1704,Radclyffe Hall,1880-08-12
+1705,Samad Behrangi,1939-06-24
+1706,Max Barry,1973-03-18
+1707,Gustave Le Bon,1841-05-07
+1708,Eldridge Cleaver,1935-08-31
+1709,Josh Kilmer-Purcell,1969-08-28
+1710,Gavin Menzies,1937-08-14
+1711,Colin Dexter,1930-09-29
+1712,Lynley Dodd,1941-07-05
+1713,Steven Gould,1955-02-07
+1714,Robert McKee,1941-01-30
+1715,Erma Bombeck,1927-02-21
+1716,Joel Osteen,1963-03-05
+1717,Philip Caputo,1941-06-10
+1718,Zig Ziglar,1926-11-06
+1719,Amanda Quick,1948-03-28
+1720,Ernst Jünger,1895-03-29
+1721,Robyn Davidson,1950-09-06
+1722,John Hodgman,1971-06-03
+1723,Darrell Huff,1913-07-15
+1724,Antonio Skármeta,1940-11-07
+1725,Dave Wolverton,1957-05-28
+1726,Lord Byron,1788-01-22
+1727,Jean de La Fontaine,1621-07-08
+1728,Rex Stout,1886-12-01
+1729,Jules Feiffer,1929-01-26
+1730,Bruce H. Lipton,1944-10-21
+1731,Susanna Tamaro,1957-12-12
+1732,John Keegan,1934-05-15
+1733,Stephanie Bond,1981-05-16
+1734,Mary Cutler,1855-06-21
+1735,Harry Mulisch,1927-07-29
+1736,Chris Crutcher,1946-07-17
+1737,Ji-li Jiang,1954-02-02
+1738,Ian Holm,1931-09-12
+1739,Pamela Aidan,1953-10-18
+1740,Austin Grossman,1969-06-26
+1741,Judith Butler,1956-02-24
+1742,Dallas Willard,1935-09-04
+1743,Marjorie Weinman Sharmat,1928-11-12
+1744,Irene Gut Opdyke,1922-05-05
+1745,Larry Bond,1951-06-11
+1746,Andy McNab,1959-12-28
+1747,Melba Pattillo Beals,1941-12-07
+1748,Richard Brautigan,1935-01-30
+1749,Miles Davis,1926-05-26
+1750,Charlie Higson,1958-07-03
+1751,Scott Dikkers,1965-03-01
+1752,Billy Collins,1941-03-22
+1753,Gary Brandner,1930-05-31
+1754,James Howe,1946-08-02
+1755,Robert Bolt,1924-08-15
+1756,Siobhan Dowd,1960-02-04
+1757,Adrian Tomine,1974-05-31
+1758,James O'Barr,1960-01-01
+1759,David B.,1959-02-09
+1760,Graham Swift,1949-05-04
+1761,Ariel Durant,1898-05-10
+1762,LaVyrle Spencer,1943-07-17
+1763,Thomas J. Peters,1942-11-07
+1764,Diablo Cody,1978-06-14
+1765,David Henry Hwang,1957-08-11
+1766,Edmondo de Amicis,1846-10-21
+1767,Steve Martini,1946-02-28
+1768,Pattie Boyd,1944-03-17
+1769,Gloria Whelan,1923-11-23
+1770,Eugène Ionesco,1909-11-26
+1771,Jamie Oliver,1975-05-27
+1772,Frank Darabont,1959-01-28
+1773,Jackie Collins,1937-10-04
+1774,Richard Henry Dana Jr.,1815-08-01
+1775,Frederick P. Brooks Jr.,1931-04-19
+1776,Albert Speer,1905-03-19
+1777,Colin Cotterill,1952-10-02
+1778,Jean Edward Smith,1932-10-13
+1779,Devon Monk,1970-01-09
+1780,Lisa Scottoline,1955-07-01
+1781,Erin McCarthy,1990-07-07
+1782,Robert  Frank,1924-11-09
+1783,Jill Ker Conway,1934-10-09
+1784,Esther M. Friesner,1951-07-16
+1785,Frank A. Worsley,1872-02-22
+1786,David Clement-Davies,1964-01-06
+1787,Andrew Solomon,1963-10-30
+1788,Noam Chomsky,1928-12-07
+1789,Sara Ryan,1971-11-13
+1790,Mary Westmacott,1890-09-15
+1791,N.T. Wright,1948-12-01
+1792,Francis A. Schaeffer,1912-01-30
+1793,Robin Wasserman,1978-05-31
+1794,Sterling North,1906-11-04
+1795,E.R. Braithwaite,1912-06-27
+1796,Benedict Anderson,1936-08-26
+1797,Joseph Bruchac,1942-10-16
+1798,Robert W. Chambers,1865-05-26
+1799,Roger Lancelyn Green,1919-11-02
+1800,A. Lee Martinez,1973-01-12
+1801,John Ringo,1963-03-22
+1802,Ngaio Marsh,1895-04-23
+1803,Armstrong Sperry,1897-11-07
+1804,Sheri S. Tepper,1929-07-16
+1805,Tedd Arnold,1949-01-20
+1806,Lois Lenski,1893-10-14
+1807,Jean Baudrillard,1929-07-27
+1808,Luis Alberto Urrea,1955-08-20
+1809,Ernest J. Gaines,1933-01-15
+1810,Moisés Kaufman,1963-11-21
+1811,Helen Hooven Santmyer,1895-11-25
+1812,Nien Cheng,1915-01-28
+1813,Arthur Schnitzler,1862-05-15
+1814,Huston Smith,1919-05-31
+1815,Christina Rossetti,1830-12-05
+1816,Robert E. Howard,1906-01-22
+1817,Jonathan Coe,1961-08-19
+1818,Ryszard Kapuściński,1932-03-04
+1819,Margaret MacMillan,1943-12-23
+1820,Mikhail Sholokhov,1905-05-24
+1821,R.K. Narayan,1906-10-10
+1822,Jenna Jameson,1974-04-09
+1823,Carl von Clausewitz,1780-06-01
+1824,John Christopher,1922-04-16
+1825,Elizabeth Goudge,1900-04-24
+1826,Lilith Saintcrow,1976-12-31
+1827,Bethany Hamilton,1990-02-08
+1828,Karen Abbott,1973-01-23
+1829,Fareed Zakaria,1964-01-20
+1830,Ruth Rendell,1930-02-17
+1831,Gertrude Stein,1874-02-03
+1832,Karen Wynn Fonstad,1945-04-18
+1833,Simon Scarrow,1962-10-03
+1834,Kaye Gibbons,1960-05-05
+1835,Stephen Fry,1957-08-24
+1836,W.G. Sebald,1944-05-18
+1837,Laurie Lee,1914-06-26
+1838,Allen Carr,1934-09-02
+1839,David McKee,1935-01-02
+1840,Snorri Sturluson,1179
+1841,Bolesław Prus,1847-08-20
+1842,C.S. Friedman,1957-01-12
+1843,Victor Garber,1949-03-16
+1844,Elizabeth Bishop,1911-02-08
+1845,Richard Scarry,1919-06-05
+1846,Meindert DeJong,1906-03-04
+1847,David Lynch,1946-01-20
+1848,Blaise Pascal,1623-06-19
+1849,Louann Brizendine,1952-12-30
+1850,Gregory Benford,1941-01-30
+1851,Joan D. Vinge,1948-04-02
+1852,Sidney Poitier,1927-02-20
+1853,Jennifer Rardin,1965-04-28
+1854,Yu Hua,1960-04-03
+1855,Milton Friedman,1912-07-31
+1856,Peter Hessler,1969-06-14
+1857,Marsha Norman,1947-09-21
+1858,Anthony Doerr,1973-10-27
+1859,Pete Hamill,1935-06-24
+1860,Arto Paasilinna,1942-04-20
+1861,Harry G. Frankfurt,1929-05-29
+1862,Phillip C. McGraw,1950-09-01
+1863,Julian  May,1931-07-10
+1864,Franklin Foer,1974-07-20
+1865,Mary Oliver,1935-09-10
+1866,John F. Kennedy,1917-05-29
+1867,Marina Nemat,1965-04-22
+1868,Janet Ahlberg,1938-06-05
+1869,Thomas  Frank,1965-03-21
+1870,Donald F. Glut,1944-02-19
+1871,Johanna Reiss,1932-04-04
+1872,Anthony de Mello,1931-09-04
+1873,Max Weber,1864-04-21
+1874,Brian Augustyn,1954-11-02
+1875,Roméo Dallaire,1946-06-25
+1876,Jay Winik,1957-02-08
+1877,Shelby Foote,1916-11-17
+1878,Leopold von Sacher-Masoch,1836-01-27
+1879,Aluísio Azevedo,1857-04-14
+1880,Jann S. Wenner,1946-01-07
+1881,Colson Whitehead,1969-11-06
+1882,Will Eisner,1917-03-06
+1883,Octavio Paz,1914-03-31
+1884,Ron McLarty,1947-04-26
+1885,Louis L'Amour,1908-03-22
+1886,Tim Weiner,1956-06-20
+1887,Margaret Laurence,1926-07-18
+1888,Fritz Leiber,1910-12-24
+1889,John Rawls,1921-02-21
+1890,James Gurney,1958-06-14
+1891,Frédéric Bastiat,1801-06-30
+1892,Lisa Jewell,1968-07-19
+1893,Francis S. Collins,1950-04-14
+1894,Steven Weinberg,1933-05-03
+1895,Gail Z. Martin,1962-12-01
+1896,Ben Okri,1959-03-15
+1897,Boris Akunin,1956-05-20
+1898,William  James,1842-01-11
+1899,Ted Andrews,1952-07-15
+1900,Gordon D. Fee,1934-05-23
+1901,Elizabeth Barrett Browning,1806-03-06
+1902,Joris-Karl Huysmans,1848-02-05
+1903,Thomas Bulfinch,1796-07-15
+1904,Eudora Welty,1909-04-13
+1905,Bozorg Alavi,1904-02-02
+1906,Clifford Stoll,1950-06-04
+1907,Tom Sharpe,1928-03-30
+1908,Karen Russell,1981-07-10
+1909,Kevin Brockmeier,1972-12-06
+1910,John Gunther,1901-08-30
+1911,Isobelle Carmody,1958-06-16
+1912,Lawrence Durrell,1912-02-27
+1913,Edward de Bono,1933-05-19
+1914,Dorothy Parker,1893-08-22
+1915,David Halberstam,1934-04-10
+1916,Deb Caletti,1963-06-16
+1917,Arthur Machen,1863-03-03
+1918,Martin Sorrell,1945-02-14
+1919,Tim Butcher,1967-11-15
+1920,Elizabeth Jane Howard,1923-03-26
+1921,Masamune Shirow,1961-11-23
+1922,Zane Grey,1872-01-31
+1923,William Wordsworth,1770-04-07
+1924,Cathy Hopkins,1953-01-23
+1925,Poppy Z. Brite,1967-05-25
+1926,Oliver Goldsmith,1728-11-10
+1927,Tahar Ben Jelloun,1944-12-01
+1928,William M. Bass,1928-08-30
+1929,Richard Stark,1933-07-12
+1930,Lawrence Ferlinghetti,1919-03-24
+1931,Alain-Fournier,1886-10-03
+1932,Daniel J. Boorstin,1914-10-01
+1933,Michael A. Stackpole,1957-11-27
+1934,Martin Lings,1909-01-24
+1935,Harold Pinter,1930-10-10
+1936,Karel Čapek,1890-01-09
+1937,Neil Sheehan,1936-10-27
+1938,Esmeralda Santiago,1948-05-17
+1939,Stephen Sondheim,1930-03-22
+1940,Cornel West,1953-06-02
+1941,Thea Beckman,1923-07-23
+1942,Brian Wansink,1960-06-28
+1943,Zlata Filipović,1981-12-03
+1944,Jamaica Kincaid,1949-05-25
+1945,Ravi Zacharias,1946-03-26
+1946,Greg Keyes,1963-04-11
+1947,Wallace Stevens,1879-10-02
+1948,Tanith Lee,1947-09-19
+1949,Carole Wilkinson,1950-07-12
+1950,Arthur Schopenhauer,1788-02-22
+1951,Monty Roberts,1935-05-14
+1952,Parker J. Palmer,1939-02-28
+1953,John Calvin,1509-07-10
+1954,Osamu Dazai,1909-06-19
+1955,Natalia Ginzburg,1916-07-14
+1956,William McDonough,1951-02-20
+1957,Mordecai Richler,1931-01-27
+1958,Robert M. Sapolsky,1957-04-06
+1959,Kenzaburō Ōe,1935-01-31
+1960,Samuel P. Huntington,1927-04-18
+1961,Don Tapscott,1947-06-01
+1962,Anthony Swofford,1970-08-12
+1963,Jennifer Finney Boylan,1958-06-22
+1964,Grace Metalious,1924-09-08
+1965,Robert D. Hare,1931-01-01
+1966,Deborah Moggach,1948-06-28
+1967,Roger Kahn,1927-10-31
+1968,Minette Walters,1949-09-26
+1969,Miles Malleson,1888-05-25
+1970,Allan Frewin Jones,1954-04-30
+1971,Russell Freedman,1929-10-11
+1972,Jonathan Larson,1960-02-04
+1973,Bruce Olson,1941-11-10
+1974,Bernard Werber,1961-09-18
+1975,Jack Prelutsky,1940-09-08
+1976,David Liss,1966-03-16
+1977,Tanya Anne Crosby,1962-06-05
+1978,Daniel G. Amen,1954-07-19
+1979,William F. Nolan,1928-03-06
+1980,Shirley Ann Grau,1929-07-08
+1981,Darwyn Cooke,1962-11-16
+1982,John Osborne,1929-12-12
+1983,Neal Asher,1961-02-04
+1984,Camilo José Cela,1916-05-11
+1985,Bill Hybels,1951-12-12
+1986,Polly Horvath,1957-01-30
+1987,Eric Jerome Dickey,1961-07-07
+1988,Cesar Millan,1969-08-27
+1989,Katherine Applegate,1956-10-09
+1990,Simon Sebag Montefiore,1965-06-27
+1991,Nick Flynn,1960-01-26
+1992,Nancy Holder,1953-08-29
+1993,Tony Judt,1948-01-02
+1994,Bernard Malamud,1914-04-26
+1995,Anne Holm,1922-09-10
+1996,Booth Tarkington,1869-07-29
+1997,J.M. DeMatteis,1953-12-15
+1998,Jeffrey D. Sachs,1954-11-05
+1999,Ellen DeGeneres,1958-01-26
+2000,Stanley Kubrick,1928-07-26
+2001,Hayao Miyazaki,1941-01-05
+2002,A.M. Homes,1961-12-18
+2003,Graham Hancock,1950-08-02
+2004,Daniel Pennac,1944-12-01
+2005,Kazuki Takahashi,1961-10-04
+2006,Marianne Curley,1959-05-20
+2007,Ben Elton,1959-05-03
+2008,Ann Hood,1956-12-09
+2009,Iceberg Slim,1918-08-04
+2010,Howard Schultz,1953-07-19
+2011,Joseph O'Connor,1963-09-20
+2012,Ray Kurzweil,1948-02-12
+2013,Jean Giono,1895-03-30
+2014,Selma Lagerlöf,1858-11-20
+2015,Robert Kraus,1925-06-21
+2016,Rita Mae Brown,1944-11-28
+2017,David Rakoff,1964-11-27
+2018,Kathi Appelt,1954-07-06
+2019,André Gide,1869-11-22
+2020,J.L. Carr,1912-05-20
+2021,Bob Gale,1951-05-25
+2022,T.E. Lawrence,1888-08-16
+2023,Jacqueline Woodson,1963-02-12
+2024,Elfriede Jelinek,1946-10-20
+2025,Lois Duncan,1934-04-28
+2026,Alice Kuipers,1979-06-29
+2027,C.J. Mahaney,1953-09-21
+2028,Gloria E. Anzaldúa,1942-09-26
+2029,Andrey Kurkov,1961-04-23
+2030,Javier Marías,1951-09-20
+2031,Banana Yoshimoto,1964-07-24
+2032,Francine Prose,1947-04-01
+2033,Starhawk,1951-06-17
+2034,Harold Coyle,1952-02-16
+2035,Dexter Filkins,1961-05-24
+2036,Stephen Greenblatt,1943-11-07
+2037,Karin Fossum,1954-11-06
+2038,Vera Brittain,1893-12-29
+2039,Frank O'Hara,1926-03-27
+2040,Vasily Grossman,1905-12-12
+2041,Vladimir Bartol,1903-02-24
+2042,Terence McKenna,1946-11-16
+2043,Jim Harrison,1937-12-11
+2044,Cesare Pavese,1908-09-09
+2045,Ernest Becker,1924-09-27
+2046,Anne Moody,1940-09-15
+2047,Wataru Yoshizumi,1963-06-18
+2048,Willem Frederik Hermans,1921-09-01
+2049,Frank Delaney,1942-10-24
+2050,J.P. Donleavy,1926-04-23
+2051,Ewan McGregor,1971-03-31
+2052,Thomas Sowell,1930-06-30
+2053,Spider Robinson,1948-11-24
+2054,Sam Shepard,1943-11-05
+2055,Sigrid Undset,1882-05-20
+2056,William Walker Atkinson,1862-12-05
+2057,Venedikt Erofeev,1938-10-24
+2058,Leonard Susskind,1940-06-16
+2059,Jack Hamm,1916-03-05
+2060,Kathleen Flinn,1967-06-01
+2061,Lawrence Block,1938-06-24
+2062,Guy Sajer,1927-01-13
+2063,Pete McCarthy,1951-11-09
+2064,Sarah Rees Brennan,1983-09-21
+2065,Kurt Busiek,1960-09-16
+2066,Laura Gallego García,1977-10-11
+2067,Gordon R. Dickson,1923-11-01
+2068,Eliot Asinof,1919-07-13
+2069,Ted Hughes,1930-08-17
+2070,Paula Fox,1923-04-22
+2071,Lauren Myracle,1969-05-15
+2072,Catherine Marshall,1914-09-27
+2073,Richard Lee Byers,1950-09-21
+2074,Jonathan London,1978-12-05
+2075,Emma Bull,1954-12-13
+2076,Woody Allen,1935-11-30
+2077,Brian W. Kernighan,1942-01-30
+2078,Geoff Johns,1973-01-25
+2079,Nick Cave,1957-09-22
+2080,Barry Hughart,1934-03-13
+2081,Emma Thompson,1959-04-15
+2082,Vicki Pettersson,1972-11-26
+2083,Nathaniel Fick,1977-06-23
+2084,Mark Victor Hansen,1948-01-08
+2085,Wil Wheaton,1972-07-29
+2086,Scott Adams,1957-06-08
+2087,Ellen Bass,1947-06-16
+2088,John of the Cross,1542-06-24
+2089,René Barjavel,1911-01-24
+2090,Desmond Morris,1928-01-24
+2091,Ethel Lilian Voynich,1864-05-11
+2092,Amos Oz,1939-05-04
+2093,Rabindranath Tagore,1861-05-07
+2094,Michael Dante DiMartino,1974-07-18
+2095,Jayne Ann Krentz,1948-03-28
+2096,Leonardo Sciascia,1921-01-08
+2097,Jacques Pépin,1935-12-18
+2098,Anne Applebaum,1964-07-25
+2099,Catherynne M. Valente,1979-05-05
+2100,Helen Dunmore,1952-12-12
+2101,Tupac Shakur,1971-06-16
+2102,Hjalmar Söderberg,1869-07-02
+2103,Raymond Queneau,1903-02-21
+2104,Matt Ruff,1965-09-08
+2105,Eric L. Haney,1952-08-22
+2106,Rosemary Sutcliff,1920-12-14
+2107,Lawrence Sanders,1920-03-15
+2108,Lee Iacocca,1924-10-15
+2109,L.P. Hartley,1895-12-30
+2110,Yrsa Sigurðardóttir,1963-08-24
+2111,Ed Viesturs,1959-06-22
+2112,Brian Keene,1967-09-22
+2113,Algernon Blackwood,1869-03-14
+2114,Robert K. Ressler,1937-02-21
+2115,Samantha Power,1970-09-21
+2116,Imre Kertész,1929-11-09
+2117,Alexandra Day,1941-04-27
+2118,Muhammad Yunus,1940-06-28
+2119,Robin Furth,1965-06-11
+2120,Charles de Lint,1951-12-22
+2121,Eric Ludy,1970-12-17
+2122,Steven Millhauser,1943-08-03
+2123,Drew Goddard,1975-02-26
+2124,Allen Drury,1918-09-02
+2125,Ridley Pearson,1953-03-13
+2126,James Goldman,1927-06-30
+2127,Colm Tóibín,1955-05-30
+2128,B.K.S. Iyengar,1918-12-14
+2129,Carola Dunn,1946-11-14
+2130,Robert Newton Peck,1928-02-17
+2131,Jiddu Krishnamurti,1895-05-11
+2132,Erich Kästner,1899-02-23
+2133,Claire Cook,1955-02-14
+2134,Kang Chol-Hwan,1968-09-18
+2135,Giorgio Bassani,1916-03-04
+2136,Michael Shermer,1954-09-08
+2137,Pope John Paul II,1920-05-18
+2138,Katherine Mansfield,1888-10-14
+2139,Yumi Hotta,1957-10-15
+2140,Lee Smolin,1955-06-06
+2141,Vonda N. McIntyre,1948-08-28
+2142,Daniel Yergin,1947-02-06
+2143,Dan Gutman,1955-10-19
+2144,Florence Scovel Shinn,1871-09-24
+2145,Kamala Markandaya,1924-06-23
+2146,David Langford,1953-04-10
+2147,Nathaniel Hawthorne,1804-07-04
+2148,Stephen Jay Gould,1941-09-10
+2149,Jean Toomer,1894-12-26
+2150,Ellen Kushner,1955-10-06
+2151,Nikola Tesla,1856-07-10
+2152,Maira Kalman,1949-11-05
+2153,Kate Wilhelm,1928-06-08
+2154,Christopher Fowler,1953-03-26
+2155,Ann Petry,1908-10-12
+2156,Thomas Keller,1955-10-14
+2157,W. Michael Gear,1955-05-20
+2158,C.D. Payne,1949-07-05
+2159,Arthur Rimbaud,1854-10-20
+2160,Mary Botham Howitt,1799-03-12
+2161,James Weldon Johnson,1871-06-17
+2162,Bel Kaufman,1911-05-10
+2163,Monica Furlong,1930-01-17
+2164,Mick Foley,1965-06-07
+2165,Carolyn Meyer,1935-06-08
+2166,Queen Noor,1951-08-23
+2167,Jeffrey Gitomer,1946-02-11
+2168,James Thurber,1894-12-08
+2169,Gore Vidal,1925-10-03
+2170,Paul Dini,1957-08-07
+2171,Alexander Grin,1880-08-23
+2172,Joseph Roth,1894-09-02
+2173,Beverly Donofrio,1950-09-23
+2174,Taylor Branch,1947-01-14
+2175,Yasmina Khadra,1955-01-10
+2176,Gary Taubes,1956-04-30
+2177,Barbara Vine,1930-02-17
+2178,Iyanla Vanzant,1953-09-13
+2179,Terry Tempest Williams,1955-09-08
+2180,Robert Holdstock,1948-08-02
+2181,Irene M. Pepperberg,1949-04-01
+2182,Scott Heim,1966-09-26
+2183,Tom DeMarco,1940-08-20
+2184,Joshua Slocum,1844-02-20
+2185,Kinley MacGregor,1965-12-11
+2186,Nick Bruel,1965-12-13
+2187,Joel C. Rosenberg,1967-04-17
+2188,Elizabeth Janet Gray,1902-10-06
+2189,Gilda Radner,1946-06-28
+2190,Elizabeth Enright,1907-09-17
+2191,LeGrand Richards,1886-02-06
+2192,W.E.B. Griffin,1929-11-10
+2193,Karen Ackerman,1951-10-09
+2194,Howard Marks,1945-08-13
+2195,Ernest Shackleton,1874-02-15
+2196,Kelly Link,1969-07-19
+2197,Robert Silverberg,1935-01-15
+2198,Adam Rex,1973-05-16
+2199,Frances Goodrich,1890-12-21
+2200,Dorothy Dunnett,1923-08-25
+2201,Paul McCusker,1958-10-03
+2202,Vicki Iovine,1954-01-13
+2203,Louise Glück,1943-04-22
+2204,Nathaniel Branden,1930-04-09
+2205,Jennifer Lauck,1963-12-15
+2206,Denise Mina,1966-08-21
+2207,Claude  Brown,1937-02-23
+2208,P.B. Ryan,1954-08-09
+2209,Carter G. Woodson,1875-12-19
+2210,André Breton,1896-02-19
+2211,Eric Hoffer,1902-07-15
+2212,Josef Albers,1888-03-19
+2213,Edna Ferber,1885-08-15
+2214,M.H. Abrams,1912-07-23
+2215,Paul Brickhill,1916-12-20
+2216,David Mamet,1947-11-30
+2217,David Keirsey,1921-08-31
+2218,Rick Strassman,1952-02-08
+2219,Martin Handford,1956-09-27
+2220,Peter Singer,1946-07-06
+2221,Lester Bangs,1948-12-14
+2222,Rick Perlstein,1969-09-03
+2223,Jennings Michael Burch,1941-04-27
+2224,Mary Gaitskill,1954-11-11
+2225,Leonard Cohen,1934-09-21
+2226,Charles Haddon Spurgeon,1834-06-19
+2227,Jennifer  Lynch,1968-04-07
+2228,David Howarth,1958-11-10
+2229,Jane Roberts,1929-05-08
+2230,Richard Price,1723-02-23
+2231,Ta-Nehisi Coates,1975-09-30
+2232,Richard J. Evans,1947-09-29
+2233,Camilla Gibb,1968-02-20
+2234,Eugene H. Peterson,1932-11-06
+2235,Carol Higgins Clark,1956-07-28
+2236,Gaston Bachelard,1884-06-27
+2237,Albert Payson Terhune,1872-12-21
+2238,Jack McDevitt,1935-04-14
+2239,Francesca Lia Block,1962-12-03
+2240,Jeffrey Steingarten,1942-05-31
+2241,Russell Banks,1940-03-28
+2242,Robert Bringhurst,1946-10-16
+2243,Francine Pascal,1938-05-13
+2244,Faith Ringgold,1930-10-08
+2245,Witi Ihimaera,1944-02-07
+2246,Christopher  Rice,1978-03-11
+2247,Anderson Cooper,1967-06-03
+2248,Eric Ambler,1909-06-28
+2249,Greg Egan,1961-08-20
+2250,Donald Ray Pollock,1954-12-23
+2251,Yaşar Kemal,1923-10-06
+2252,Susan Faludi,1959-04-18
+2253,Joy Fielding,1945-03-18
+2254,Maurice Herzog,1919-01-15
+2255,Timothy Findley,1930-10-30
+2256,Mary Renault,1905-09-04
+2257,Dan Savage,1964-10-07
+2258,Cherríe L. Moraga,1952-09-25
+2259,Jonathan Weiner,1953-11-26
+2260,Watchman Nee,1903-11-04
+2261,Jamie O'Neill,1962-01-01
+2262,Alison Leslie Gold,1945-07-13
+2263,Friedrich Schiller,1759-11-10
+2264,Margot Adler,1946-04-16
+2265,Paula Danziger,1944-08-14
+2266,David Anthony Durham,1969-03-23
+2267,Roger MacBride Allen,1957-09-26
+2268,Ron Roy,1940-04-29
+2269,Steven Saylor,1956-03-23
+2270,Richard L. Bushman,1931-06-20
+2271,Robert Kanigel,1946-05-28
+2272,Fern Michaels,1933-04-09
+2273,Lucille Ball,1911-08-06
+2274,Burne Hogarth,1911-12-25
+2275,Judd Winick,1970-02-12
+2276,Mœbius,1938-05-08
+2277,Moss Hart,1904-10-24
+2278,John O'Donohue,1956-01-01
+2279,Dick Gregory,1932-10-12
+2280,Carly Phillips,1965-07-07
+2281,Caroline Graham,1931-07-17
+2282,Russell H. Conwell,1843-02-15
+2283,Victoria Holt,1906-09-01
+2284,Patrick D. Smith,1927-10-02
+2285,Yoshiyuki Sadamoto,1962-01-29
+2286,Paul Krugman,1953-02-28
+2287,Harry Turtledove,1949-06-14
+2288,Karin Boye,1900-10-26
+2289,James Salter,1925-06-10
+2290,Mikael Niemi,1959-08-13
+2291,John Lescroart,1948-01-14
+2292,Elizabeth Marie Pope,1917-05-01
+2293,Robert T. Bakker,1945-03-24
+2294,Peter B. Kyne,1880-10-12
+2295,Peter Godwin,1957-12-04
+2296,Alan Alda,1936-01-28
+2297,James St. James,1966-08-01
+2298,Jilly Cooper,1937-02-21
+2299,Adrienne Rich,1929-05-16
+2300,Barry Lyga,1971-09-11
+2301,Neal Bascomb,1971-04-01
+2302,Caryl Churchill,1938-09-03
+2303,Bill Simmons,1969-09-25
+2304,Philip Larkin,1922-08-09
+2305,Robert Olen Butler,1945-01-20
+2306,Edward Lear,1812-05-12
+2307,James George Frazer,1854-01-01
+2308,Scott Hahn,1957-10-28
+2309,Barbara Brown Taylor,1951-09-21
+2310,Berkeley Breathed,1957-06-21
+2311,Kathy Tyers,1952-07-07
+2312,Edna St. Vincent Millay,1892-02-22
+2313,Tony Abbott,1957-11-04
+2314,Paul Reps,1895-09-15
+2315,Jayne Castle,1948-03-28
+2316,Owen Wister,1860-07-14
+2317,Mariama Bâ,1929-04-17
+2318,Ed Greenwood,1959-07-21
+2319,Peter Guralnick,1943-12-15
+2320,Marilyn French,1929-11-21
+2321,Alfred Döblin,1878-08-10
+2322,Jean Rhys,1890-08-24
+2323,Sam Selvon,1923-05-20
+2324,Jack Vance,1916-08-28
+2325,Chögyam Trungpa,1939-03-05
+2326,Meša Selimović,1910-04-26
+2327,Thomas Bernhard,1931-02-09
+2328,Ruskin Bond,1934-05-19
+2329,Eric Metaxas,1963-06-27
+2330,Michael Frith,1941-07-08
+2331,Stephen Kinzer,1951-08-04
+2332,Angela Knight,1950-10-31
+2333,Andrew S. Grove,1936-09-02
+2334,Jay Abraham,1949-01-08
+2335,Po Bronson,1964-03-14
+2336,Richard Laymon,1947-01-14
+2337,Henry Roth,1906-02-08
+2338,Sandy Petersen,1955-09-16
+2339,Irene Spencer,1937-02-01
+2340,Richard Curtis,1956-11-08
+2341,Bruno Schulz,1892-07-12
+2342,Henry Rollins,1961-02-13
+2343,Julie Anne Peters,1952-01-16
+2344,Aaron Allston,1960-12-08
+2345,Paula Vogel,1951-11-16
+2346,Gordon S. Wood,1933-11-27
+2347,Amartya Sen,1933-11-03
+2348,Raymond Buckland,1934-08-31
+2349,Belva Plain,1915-10-09
+2350,Jessica Valenti,1978-11-01
+2351,Paolo Bacigalupi,1972-08-06
+2352,Phil Jackson,1945-09-17
+2353,Simon Wiesenthal,1908-12-31
+2354,Christopher Brookmyre,1968-09-06
+2355,Betty Ren Wright,1927-06-15
+2356,Charles Petzold,1953-02-02
+2357,Gene Kranz,1933-08-17
+2358,Lauren Child,1965-11-29
+2359,John Hersey,1914-06-17
+2360,Horace McCoy,1897-04-14
+2361,Buzz Bissinger,1954-11-01
+2362,Robert Rankin,1949-07-27
+2363,Georges Perec,1936-03-07
+2364,Sheri Dew,1953-11-21
+2365,Nikolay Nosov,1908-11-23
+2366,Garry Wills,1934-05-22
+2367,Doug Naylor,1955-12-31
+2368,Madeleine K. Albright,1937-05-15
+2369,Sherwin B. Nuland,1930-12-08
+2370,Bruce Lee,1940-11-27
+2371,David Morrell,1943-04-24
+2372,David Quammen,1948-02-24
+2373,John Feinstein,1956-07-28
+2374,John Taylor Gatto,1935-12-15
+2375,Edmund White,1940-01-13
+2376,Edward R. Tufte,1942-03-14
+2377,George V. Higgins,1939-11-13
+2378,Shirley MacLaine,1934-04-24
+2379,Shirley McClaine,1934-04-24
+2380,Kyra Davis,1972-08-23
+2381,Martin Cruz Smith,1942-11-03
+2382,Pat Hutchins,1942-06-18
+2383,Jennifer Roberson,1953-10-26
+2384,Walter D. Edmonds,1903-07-15
+2385,Jonathan Maberry,1958-05-18
+2386,N. Scott Momaday,1934-02-27
+2387,Jim Lovell,1928-03-25
+2388,Gerald N. Lund,1939-09-12
+2389,Juan Ramón Jiménez,1881-12-23
+2390,Denis Diderot,1713-10-05
+2391,Michael Ruhlman,1963-07-28
+2392,Multatuli,1820-03-02
+2393,Donita K. Paul,1950-11-20
+2394,Nancy Kress,1948-01-20
+2395,Christie Golden,1963-11-21
+2396,Kluun,1964-04-17
+2397,Deborah Curtis,1956-07-15
+2398,David Grossman,1954-01-25
+2399,Mary Crow Dog,1954-09-26
+2400,Stephen B. Oates,1936-01-05
+2401,Cynthia Lennon,1939-09-10
+2402,Patrick Modiano,1945-07-30
+2403,Joseph Finder,1958-10-06
+2404,Rachel Field,1894-09-19
+2405,David Small,1945-02-12
+2406,Robert L. Forward,1932-08-15
+2407,Jan Guillou,1944-01-17
+2408,Deborah Spungen,1958-02-27
+2409,Jennifer Armintrout,1980-07-15
+2410,Janet Lee Carey,1954-01-11
+2411,Cokie Roberts,1943-12-27
+2412,Dinaw Mengestu,1978-06-30
+2413,Helen Nicoll,1937-10-10
+2414,A.J. Cronin,1896-07-19
+2415,Jacques Derrida,1930-07-15
+2416,Alessandro Manzoni,1785-03-07
+2417,Robert F. Kennedy,1925-11-20
+2418,Victor Pelevin,1962-11-22
+2419,Simin Daneshvar,1921-04-28
+2420,Stan Lee,1922-12-28
+2421,Heather Graham,1970-01-29
+2422,Inio Asano,1980-09-22
+2423,Steven Levy,1951
+2424,Robert Musil,1880-11-06
+2425,Joel Greenblatt,1957-12-13
+2426,Ruth Prawer Jhabvala,1927-05-07
+2427,Andrew Neiderman,1940-10-26
+2428,Yuu Watase,1970-03-05
+2429,Jawaharlal Nehru,1889-11-14
+2430,Paul C. Nagel,1926-08-14
+2431,Helen Prejean,1939-04-21
+2432,Munshi Premchand,1880-07-31
+2433,Elinore Pruitt Stewart,1876-06-03
+2434,Melissa Wiley,1968-12-17
+2435,Sergei Dovlatov,1941-09-03
+2436,Aimee Bender,1969-06-28
+2437,Valerio Massimo Manfredi,1943-03-08
+2438,Ernst Haeckel,1834-02-16
+2439,Garrison Keillor,1942-08-07
+2440,Robert Specht,1921-10-22
+2441,Richard Brinsley Sheridan,1751-10-30
+2442,John  Dalton,1766-09-06
+2443,Berke Breathed,1957-06-21
+2444,Charles M. Schulz,1922-11-26
+2445,Ulysses S. Grant,1822-04-27
+2446,David Fromkin,1932-08-27
+2447,Molly Bang,1943-12-29
+2448,Takeshi Konomi,1970-06-26
+2449,Dick Francis,1920-10-31
+2450,Ron Paul,1935-08-20
+2451,Saul D. Alinsky,1909-01-30
+2452,Gertrude Crampton,1909-06-26
+2453,Emma Donoghue,1969-10-24
+2454,Robert J. Shiller,1946-03-29
+2455,Charlie Chaplin,1889-04-16
+2456,Tadeusz Borowski,1922-11-12
+2457,Robert L. Heilbroner,1919-03-24
+2458,David  Niven,1910-03-01
+2459,Bebe Moore Campbell,1950-02-18
+2460,Joe Pistone,1939-09-17
+2461,Elizabeth Bowen,1899-06-07
+2462,Joe R. Lansdale,1951-10-28
+2463,Roger Penrose,1931-08-08
+2464,Joshua Bloch,1961-08-28
+2465,Richard Wiseman,1966-09-17
+2466,Alan Garner,1934-10-17
+2467,E. Lynn Harris,1955-06-20
+2468,Henry Kissinger,1923-05-27
+2469,Tarjei Vesaas,1897-08-20
+2470,Deborah Wiles,1953-05-05
+2471,Cecil Castellucci,1969-10-25
+2472,Ted Bell,1946-07-03
+2473,Patrick Leigh Fermor,1915-02-11
+2474,Paul Collier,1949-04-23
+2475,Richard Montanari,1952-12-06
+2476,Elaine Cunningham,1957-08-12
+2477,Joseph E. Stiglitz,1943-02-09
+2478,Amy Krouse Rosenthal,1965-04-29
+2479,Allison Brennan,1969-09-29
+2480,Candice Ransom,1952-07-10
+2481,Eric P. Kelly,1884-03-16
+2482,Eden Robinson,1968-01-19
+2483,Luanne Rice,1955-09-25
+2484,Gina Kolata,1948-02-25
+2485,Al Gore,1948-03-31
+2486,Diane Ackerman,1948-10-07
+2487,Mircea Eliade,1907-03-13
+2488,Catherine Anderson,1948-12-22
+2489,Arnold Bennett,1867-05-27
+2490,Laurel Thatcher Ulrich,1938-07-11
+2491,Benedict of Nursia,480-03-02
+2492,Brian Bolland,1951-03-26
+2493,François Truffaut,1932-02-06
+2494,Esther Averill,1902-07-24
+2495,James Crumley,1939-10-12
+2496,Harold Schechter,1948-06-28
+2497,William Hope Hodgson,1877-11-15
+2498,Victor Villaseñor,1940-05-11
+2499,Abraham Lincoln,1809-02-12
+2500,Todd Strasser,1950-05-05
+2501,Jeffrey Konvitz,1944-07-22
+2502,Mercè Rodoreda,1908-10-10
+2503,Christopher  Morley,1890-05-05
+2504,Jane Goodall,1934-04-03
+2505,Tamera Alexander,1961-08-08
+2506,Frank Wedekind,1864-07-24
+2507,Andrew Sean Greer,1970-11-21
+2508,Barry  Lopez,1945-01-06
+2509,Elizabeth McCracken,1966-09-16
+2510,Ian Kerner,1966-05-01
+2511,Louis V. Gerstner Jr.,1942-03-01
+2512,Martin  Gilbert,1936-10-25
+2513,Carol Ann Duffy,1955-12-23
+2514,Fred Saberhagen,1930-05-18
+2515,Frank Portman,1964-09-21
+2516,Pam Muñoz Ryan,1951-12-25
+2517,George Alec Effinger,1947-01-10
+2518,Russell Baker,1925-08-14
+2519,Keiji Nakazawa,1939-03-14
+2520,John Barth,1930-05-27
+2521,Kazuo Koike,1936-05-08
+2522,Ali Smith,1962-08-24
+2523,Jacques Prévert,1900-02-04
+2524,Stanley Karnow,1925-02-04
+2525,Lisa Beamer,1969-04-10
+2526,Dick Lehr,1954-05-03
+2527,Margaret Maron,1938-08-25
+2528,Alfie Kohn,1957-10-15
+2529,James C. Dobson,1936-04-21
+2530,Joy Kogawa,1935-06-06
+2531,M.R. James,1862-08-01
+2532,W.H. Auden,1907-02-21
+2533,Brad Warner,1964-03-05
+2534,H.A. Rey,1898-09-16
+2535,Fredric Jameson,1934-04-14
+2536,Geraldine McCaughrean,1951-06-06
+2537,Syd Field,1935-12-19
+2538,Herbie Brennan,1940-07-05
+2539,Margaret Mazzantini,1961-10-27
+2540,Nadine Gordimer,1923-11-20
+2541,Ruth Plumly Thompson,1891-07-27
+2542,Lois Ehlert,1934-11-09
+2543,Nicholas Monsarrat,1910-03-22
+2544,Harvey Pekar,1939-10-08
+2545,J.G. Farrell,1935-01-25
+2546,Maryse Condé,1934-02-11
+2547,Katharine Kerr,1944-10-03
+2548,Gary Shteyngart,1972-07-05
+2549,Etgar Keret,1967-08-20
+2550,Frederik Peeters,1974-08-14
+2551,Ivan Vazov,1850-07-09
+2552,Thomas Mullen,1896-06-20
+2553,Apsley Cherry-Garrard,1886-01-02
+2554,Matthieu Ricard,1946-02-15
+2555,Marina Lewycka,1946-10-12
+2556,Walter Jon Williams,1953-10-28
+2557,C.E. Murphy,1973-06-01
+2558,Jean Stein,1934-02-09
+2559,Sharon Salzberg,1952-08-05
+2560,Lucy Hawking,1970-11-02
+2561,Beth Henley,1952-05-08
+2562,Dan   Barker,1949-06-25
+2563,Paul Ekman,1934-02-15
+2564,Ansel Adams,1902-02-20
+2565,Margery Allingham,1904-05-20
+2566,Arthur M. Schlesinger Jr.,1917-10-15
+2567,Amy Hempel,1951-12-14
+2568,Rebecca West,1892-12-21
+2569,Alan Greenspan,1926-03-06
+2570,Tahir Shah,1966-11-16
+2571,Ed McBain,1926-10-15
+2572,H.R. Giger,1940-02-05
+2573,Erin Hart,1958-09-01
+2574,Philip Kapleau,1912-08-20
+2575,Osho,1931-12-11
+2576,Warren Buffett,1930-08-30
+2577,Peter Hopkirk,1930-12-15
+2578,Peter Abrahams,1919-03-03
+2579,Michael Baisden,1963-06-26
+2580,Michael Palin,1943-05-05
+2581,Ellen Datlow,1949-12-31
+2582,Daniel Handler,1970-02-28
+2583,Eric Lomax,1919-05-30
+2584,Joann Sfar,1971-08-28
+2585,Nancy Pickard,1945-09-19
+2586,Gregg Olsen,1959-03-05
+2587,Inazō Nitobe,1862-09-01
+2588,Andy Diggle,1971-02-22
+2589,Dave McKean,1963-12-29
+2590,Jane Fallon,1960-12-09
+2591,José Zorrilla,1817-02-21
+2592,Jeff Grubb,1957-08-27
+2593,Carlo Levi,1902-11-29
+2594,Emily Cheney Neville,1919-12-28
+2595,Nigel Slater,1956-04-09
+2596,Joseph Joffo,1931-04-02
+2597,Ross Macdonald,1915-12-13
+2598,Lord Dunsany,1878-07-24
+2599,Jon Savage,1953-09-02
+2600,Joanna Russ,1937-02-22
+2601,Dominique Lapierre,1931-07-30
+2602,Kate Forsyth,1966-06-03
+2603,Sam Bourne,1967-02-25
+2604,Blake Crouch,1978-10-15
+2605,Nikki Giovanni,1943-06-07
+2606,William Trevor,1928-05-24
+2607,Valerie Solanas,1936-04-09
+2608,Katie Fforde,1952-09-27
+2609,John Berryman,1914-10-25
+2610,Barbara Hambly,1951-08-28
+2611,Gustav Meyrink,1868-01-19
+2612,Max Hastings,1945-12-28
+2613,Theodor W. Adorno,1903-09-11
+2614,Alice Dalgliesh,1893-10-07
+2615,Karen McCullah Lutz,1967-12-05
+2616,John McPhee,1931-03-08
+2617,Ashley Gardner,1964-04-11
+2618,Jane Urquhart,1949-06-21
+2619,Sy Montgomery,1958-02-07
+2620,Marina Tsvetaeva,1892-10-08
+2621,Yossi Ghinsberg,1959-04-25
+2622,Tommy Lee,1962-10-03
+2623,Derren Brown,1971-02-27
+2624,Calvin Trillin,1935-12-05
+2625,Pete Dexter,1943-07-22
+2626,Germaine Greer,1939-01-29
+2627,Susan Coolidge,1835-01-29
+2628,John Densmore,1944-12-01
+2629,Constantin Virgil Gheorghiu,1916-09-15
+2630,Mo Yan,1955-02-17
+2631,Sébastien Japrisot,1931-07-04
+2632,Gregory McDonald,1937-02-15
+2633,Lynne McTaggart,1951-01-23
+2634,Ian Kershaw,1943-04-29
+2635,"E.E. ""Doc"" Smith",1890-05-02
+2636,T.D. Jakes,1957-06-09
+2637,Harriet A. Washington,1951-10-05
+2638,Ray Monk,1957-02-15
+2639,Vilhelm Moberg,1898-08-20
+2640,David Downing,1946-08-09
+2641,Betty G. Birney,1947-04-26
+2642,Ahdaf Soueif,1950-03-23
+2643,Colin Powell,1937-04-05
+2644,Maggie Shayne,1962-02-06
+2645,Stephen L. Carter,1954-10-26
+2646,Eiko Kadono,1935-01-01
+2647,Cornelia Meigs,1884-12-06
+2648,Shyam Selvadurai,1965-02-12
+2649,Suze Orman,1951-06-05
+2650,Andrew Chaikin,1956-06-24
+2651,Nisargadatta Maharaj,1897-04-17
+2652,Paul Rusesabagina,1954-06-15
+2653,Elizabeth Wurtzel,1967-07-31
+2654,Gene Wilder,1933-06-11
+2655,Michael H. Hart,1932-04-27
+2656,Reginald Hill,1936-04-03
+2657,Charlotte Joko Beck,1917-03-27
+2658,Chris Kuzneski,1969-09-02
+2659,Satyajit Ray,1921-05-02
+2660,Kevin D. Mitnick,1963-08-06
+2661,John Guare,1938-02-05
+2662,Sidney Lumet,1924-06-25
+2663,Yasmina Reza,1959-05-01
+2664,Andrew Weil,1942-06-08
+2665,Jane Leavy,1951-12-26
+2666,Guillaume Apollinaire,1880-08-26
+2667,Ray Kroc,1902-10-05
+2668,Elizabeth Lowell,1944-04-05
+2669,Ellie Krieger,1965-09-26
+2670,Cynthia Kadohata,1956-07-02
+2671,John Lydon,1956-01-31
+2672,Shashi Tharoor,1956-03-09
+2673,David Leavitt,1961-06-23
+2674,Ralph Steadman,1936-05-15
+2675,Richard Marcinko,1940-11-21
+2676,G.H. Hardy,1877-02-07
+2677,Eve Babitz,1943-05-13
+2678,Helen Garner,1942-11-07
+2679,Emil M. Cioran,1911-04-08
+2680,Miles Franklin,1879-10-14
+2681,Jeanine Cummins,1974-12-06
+2682,Robert D. Putnam,1941-01-09
+2683,Milorad Pavić,1929-10-15
+2684,Mickey Spillane,1918-03-09
+2685,Joe McKinney,1967-05-12
+2686,Marcia Muller,1944-09-28
+2687,Drew Gilpin Faust,1947-09-18
+2688,Iraj Pezeshkzad,1927-01-29
+2689,David Deutsch,1953-05-18
+2690,Emma Cole,1845-01-23
+2691,Richard B. Pelzer,1965-06-16
+2692,Robert V.S. Redick,1967-12-04
+2693,Albert Sánchez Piñol,1965-07-11
+2694,Johnston McCulley,1883-02-02
+2695,David Drake,1945-09-24
+2696,James Blish,1921-05-23
+2697,Jeanne Ray,1963-12-02
+2698,Tim Green,1963-12-16
+2699,Mario Batali,1960-09-19
+2700,K.W. Jeter,1950-03-26
+2701,Albert Uderzo,1927-04-25
+2702,Alberto Moravia,1907-11-28
+2703,Herbert Marcuse,1898-07-19
+2704,Keith R.A. DeCandido,1969-04-18
+2705,Annie Ernaux,1940-09-01
+2706,Charles Tazewell,1900-06-02
+2707,Leonard Nimoy,1931-03-26
+2708,Kurt Eichenwald,1961-06-28
+2709,Allan Gurganus,1947-06-11
+2710,Elizabeth Taylor,1932-02-27
+2711,Louis Bayard,1963-11-30
+2712,Judith Rossner,1935-03-31
+2713,George Pelecanos,1957-02-18
+2714,Jackie French,1953-11-29
+2715,Ken Dryden,1947-08-08
+2716,Peter Temple,1946-03-10
+2717,Katherine Anne Porter,1890-05-15
+2718,Peter Lovesey,1936-09-10
+2719,Edmund Burke,1729-01-12
+2720,Christopher Stasheff,1944-01-15
+2721,Leo F. Buscaglia,1924-03-31
+2722,Kevin Crossley-Holland,1941-02-07
+2723,Jim Benton,1960-10-31
+2724,Norman L. Geisler,1932-07-21
+2725,Jeff VanderMeer,1968-07-07
+2726,Xiaolu Guo,1973-11-20
+2727,George Lakoff,1941-05-24
+2728,Fred Vargas,1957-06-07
+2729,Cathy Cassidy,1962-06-13
+2730,Poul Anderson,1926-11-25
+2731,Mark Billingham,1961-07-02
+2732,Marc J.  Seifer,1948-02-17
+2733,Brian W. Aldiss,1925-08-18
+2734,Michael Reaves,1950-09-14
+2735,Walter Murch,1943-07-12
+2736,Louis Theroux,1970-05-20
+2737,Shan Sa,1972-10-26
+2738,Jean Cocteau,1889-07-05
+2739,Bahaa Taher,1935-01-13
+2740,Alasdair Gray,1934-12-28
+2741,Hans Magnus Enzensberger,1929-11-11
+2742,J. Michael Straczynski,1954-07-17
+2743,Henry Winterfeld,1901-04-09
+2744,Jacob Bronowski,1908-01-18
+2745,Chris Hedges,1956-09-18
+2746,Roger Stern,1950-09-17
+2747,Bette Bao Lord,1938-11-03
+2748,Dzongsar Jamyang Khyentse,1961-06-18
+2749,Frank Zappa,1940-12-21
+2750,Tom Shippey,1943-09-09
+2751,Kathryn Harrison,1961-03-20
+2752,Rebecca Stead,1968-01-16
+2753,Frank Norris,1870-03-05
+2754,Väinö Linna,1920-12-20
+2755,Danny Meyer,1958-03-14
+2756,M.F.K. Fisher,1908-07-03
+2757,Wangari Maathai,1940-04-01
+2758,Mario Livio,1945-06-19
+2759,Jimmy Buffett,1946-12-25
+2760,Carol Plum-Ucci,1957-08-16
+2761,Edward O. Wilson,1929-06-10
+2762,Jonathan Carroll,1949-01-26
+2763,Peter Spier,1927-06-06
+2764,Marion Nestle,1936-09-10
+2765,Lawrence M. Krauss,1954-05-27
+2766,Priscilla Presley,1945-05-24
+2767,Eric Newby,1919-12-06
+2768,Marcus J. Borg,1942-03-11
+2769,Robin Wall Kimmerer,1953-09-13
+2770,Erwin Schrödinger,1887-08-12
+2771,Quentin Tarantino,1963-03-27
+2772,John Muir,1838-04-21
+2773,Varlam Shalamov,1907-06-18
+2774,Donna Jo Napoli,1948-02-28
+2775,Mary Roberts Rinehart,1876-08-12
+2776,Frances Moore Lappé,1944-02-10
+2777,Emma Goldman,1869-06-27
+2778,Paulette Bourgeois,1951-07-20
+2779,Ellen Wittlinger,1948-10-21
+2780,Jill Paton Walsh,1937-04-29
+2781,Elinor Lipman,1950-10-16
+2782,Nalo Hopkinson,1960-12-20
+2783,José Rodrigues dos Santos,1964-04-01
+2784,Willem Elsschot,1882-05-07
+2785,Mark Fuhrman,1952-02-05
+2786,Jeremy Clarkson,1960-04-11
+2787,David Harvey,1935-10-31
+2788,Deborah Tannen,1945-06-07
+2789,O.R. Melling,1952-12-02
+2790,Bess Streeter Aldrich,1881-02-17
+2791,Maurice Merleau-Ponty,1908-03-14
+2792,Ann Rinaldi,1934-08-27
+2793,Chingiz Aitmatov,1928-12-12
+2794,Bob Woodward,1943-03-26
+2795,Thad Carhart,1950-02-16
+2796,Shirley Hughes,1927-07-16
+2797,Bruce Catton,1899-10-09
+2798,A. Scott Berg,1949-12-04
+2799,James Thomas Flexner,1908-01-13
+2800,Charles Lamb,1775-02-10
+2801,Tad R. Callister,1945-12-17
+2802,Sandor Ellix Katz,1962-05-20
+2803,E.E. Knight,1965-03-07
+2804,Donald Barthelme,1931-04-07
+2805,Anna Kavan,1901-04-10
+2806,Jean Genet,1910-12-19
+2807,Charles F. Haanel,1866-05-22
+2808,Georges Simenon,1903-02-12
+2809,Alan Sillitoe,1928-03-04
+2810,Pär Lagerkvist,1891-05-23
+2811,Ken McElroy,1934-06-01
+2812,Rose Tremain,1943-08-02
+2813,Amity Shlaes,1960-09-10
+2814,George F. Will,1941-05-04
+2815,Francis Fukuyama,1952-10-27
+2816,Charley Boorman,1966-08-23
+2817,Kevin Smith,1970-08-02
+2818,Scott Ciencin,1962-09-01
+2819,Susan Glaspell,1876-07-01
+2820,Penelope Fitzgerald,1916-12-17
+2821,Alfred Noyes,1880-09-16
+2822,Jonah Goldberg,1969-03-21
+2823,Paul Fussell,1924-03-22
+2824,Alphonse Daudet,1840-05-13
+2825,Sharyn McCrumb,1948-02-26
+2826,Whitley Strieber,1945-06-13
+2827,Anzia Yezierska,1880-10-29
+2828,Suzanne Weyn,1955-07-06
+2829,Philip Kotler,1931-05-27
+2830,Clifford Ross,1952-10-15
+2831,Sanyika Shakur,1963-11-13
+2832,Philip Plait,1964-09-30
+2833,Tomie dePaola,1934-09-15
+2834,Jay Dobyns,1961-07-24
+2835,Evan S. Connell,1924-08-17
+2836,Douglas R. Hofstadter,1945-02-15
+2837,Robert Bly,1926-12-23
+2838,Sylvia Cassedy,1930-01-29
+2839,Nancy Mitford,1904-11-28
+2840,Roy  Jenkins,1920-11-11
+2841,Alfred Jarry,1873-09-08
+2842,Rand Miller,1959-01-17
+2843,Rick Moody,1961-10-18
+2844,Benedict XVI,1927-04-16
+2845,Bill Maher,1956-01-20
+2846,Sean Wilsey,1970-05-21
+2847,Geoff Emerick,1945-12-05
+2848,William J. Bennett,1943-07-31
+2849,Mark Gatiss,1966-10-17
+2850,Seamus Heaney,1939-04-13
+2851,David Adams Richards,1950-10-17
+2852,Marissa Moss,1959-09-29
+2853,Walter Van Tilburg Clark,1909-08-03
+2854,Jackie Kay,1961-11-09
+2855,Bryan Burrough,1961-08-13
+2856,Rona Jaffe,1931-06-12
+2857,Barry Hines,1939-06-30
+2858,Abraham H. Maslow,1908-04
+2859,Jane Fonda,1937-12-21
+2860,Patricia Nell Warren,1936-06-15
+2861,Renata Adler,1938-10-19
+2862,David K. Shipler,1942-12-03
+2863,Bill Cosby,1937-07-12
+2864,Athol Fugard,1932-06-11
+2865,Jennifer Allison,1966-07-15
+2866,Sarah Mlynowski,1977-01-04
+2867,Anthony Rapp,1971-10-26
+2868,Maureen McCormick,1956-08-05
+2869,Rex Pickett,1952-07-09
+2870,Steve Almond,1966-10-27
+2871,Donald E. Westlake,1933-07-12
+2872,John Dewey,1859-10-20
+2873,Manly P. Hall,1901-03-18
+2874,Tom Holt,1961-09-13
+2875,Ramón J. Sender,1901-02-03
+2876,Olaf Stapledon,1886-05-10
+2877,Hilaire Belloc,1870-07-27
+2878,Robert Browning,1812-05-07
+2879,James Boswell,1740-10-29
+2880,John Lennon,1940-10-09
+2881,Colin Dann,1943-03-10
+2882,Monica Hughes,1925-11-03
+2883,Ira Glass,1959-03-03
+2884,Jane Werner Watson,1915-07-11
+2885,Janny Wurts,1953-12-10
+2886,Elspeth Huxley,1907-07-23
+2887,Karen Pryor,1932-05-14
+2888,Dorothy West,1907-06-02
+2889,Sean B. Carroll,1960-09-17
+2890,Constance Garnett,1861-12-19
+2891,Alejo Carpentier,1904-12-26
+2892,Guy Fieri,1968-01-22
+2893,John R. Erickson,1943-10-20
+2894,Tananarive Due,1966-01-05
+2895,Matt Damon,1970-10-08
+2896,Chester Himes,1909-07-29
+2897,Robert Lacey,1944-01-03
+2898,Nicholas Pileggi,1933-02-22
+2899,Sven Regener,1961-01-01
+2900,Brendan O'Carroll,1955-09-17
+2901,R.D. Laing,1927-10-07
+2902,Michael Marshall Smith,1965-05-03
+2903,Woody Guthrie,1912-07-14
+2904,Helen Bannerman,1862-02-25
+2905,Melanie Joy,1966-09-02
+2906,William Easterly,1957-09-07
+2907,Fred Rogers,1928-03-20
+2908,Jonathan Kozol,1936-09-05
+2909,Douglas Niles,1954-12-01
+2910,John Meade Falkner,1858-05-08
+2911,Peter Ackroyd,1949-10-05
+2912,Richard Ellmann,1918-03-15
+2913,Rick Steves,1955-05-10
+2914,Kage Baker,1952-06-10
+2915,Breece D'J Pancake,1952-06-29
+2916,Linda Greenlaw,1960-12-22
+2917,M. John Harrison,1945-07-26
+2918,William Saroyan,1908-08-31
+2919,Kate Bornstein,1948-03-15
+2920,Katherine Ramsland,1953-01-02
+2921,Neil Peart,1952-09-12
+2922,Smedley D. Butler,1881-07-30
+2923,Paul Pope,1970-09-25
+2924,Lyndon Hardy,1941-04-16
+2925,Rachel Kushner,1968-10-07
+2926,Eric Foner,1943-02-07
+2927,Stefan Fatsis,1963-04-01
+2928,Billy Crystal,1948-03-14
+2929,Edna O'Brien,1930-12-15
+2930,Valerie Martin,1948-03-14
+2931,Chester Brown,1960-05-16
+2932,Christine Merrill,1987-08-20
+2933,Kristin Gore,1977-06-05
+2934,Elsa Morante,1912-08-18
+2935,Annette Gordon-Reed,1958-11-19
+2936,Carolyn Haines,1953-05-12
+2937,Thomas Hager,1953-04-18
+2938,Mahmoud Dowlatabadi,1940-08-01
+2939,Dorothy B. Hughes,1904-08-10
+2940,Chuck Yeager,1923-02-13
+2941,Nicci French,1959-05-28
+2942,Ben Hogan,1912-08-13
+2943,Ruby Bridges,1954-09-08
+2944,Howard Cruse,1944-05-02
+2945,Apostolos Doxiadis,1953-06-06
+2946,Jane Hawking,1944-03-29
+2947,Lisa Randall,1962-06-18
+2948,Jerry B. Jenkins,1949-09-23
+2949,Earl Nightingale,1921-03-12
+2950,John Battelle,1965-11-04
+2951,Robert G. Allen,1902-08-24
+2952,Peter Tremayne,1943-03-10
+2953,Billie Holiday,1915-04-07
+2954,Bruno Bettelheim,1904-08-28
+2955,Filip Müller,1922-01-03
+2956,Anton Myrer,1922-11-03
+2957,John Kenneth Galbraith,1908-10-15
+2958,Phyllis Reynolds Naylor,1933-01-04
+2959,Paul Kennedy,1945-06-17
+2960,Robert Nozick,1938-11-16
+2961,Allan Bloom,1930-09-14
+2962,Rumer Godden,1907-12-10
+2963,Warren Bennis,1925-03-08
+2964,Carl Zimmer,1966-07-13
+2965,Bret Hart,1957-07-02
+2966,David A. Adler,1947-04-10
+2967,Patricia Wentworth,1877-11-10
+2968,Richmal Crompton,1890-11-15
+2969,Jim C. Hines,1974-04-15
+2970,Gretel Ehrlich,1946-01-21
+2971,Wilhelm Busch,1832-04-14
+2972,Richard  Hammond,1969-12-19
+2973,David Gerrold,1944-01-24
+2974,E.M. Delafield,1890-06-09
+2975,Tim Wise,1968-10-04
+2976,Frederick Marryat,1792-07-10
+2977,Michael J. Durant,1961-07-23
+2978,Will Ferguson,1964-10-12
+2979,Lurlene McDaniel,1944-04-05
+2980,Laura Hillman,1923-10-16
+2981,Patricia Hill Collins,1948-05-01
+2982,Mike W. Barr,1952-05-30
+2983,Shirin Ebadi,1947-06-21
+2984,Erving Goffman,1922-06-11
+2985,Jean-François Lyotard,1924-08-10
+2986,Antonio Gramsci,1891-01-22
+2987,Studs Terkel,1912-05-16
+2988,John Birmingham,1964-08-07
+2989,Chris Jericho,1970-11-09
+2990,Adrian Tchaikovsky,1972-06
+2991,William Gaddis,1922-12-29
+2992,Murray Bail,1941-09-22
+2993,John Okada,1923-09-23
+2994,Paul Beatty,1962-06-09
+2995,Billy Graham,1918-11-07
+2996,Derek Benz,1971-10-27
+2997,Herta Müller,1953-08-17
+2998,Abraham Joshua Heschel,1907-01-11
+2999,Terry Eagleton,1943-02-22
+3000,Alasdair MacIntyre,1929-01-12
+3001,John Maynard Keynes,1883-06-05
+3002,Walter Dean Myers,1937-08-12
+3003,Morrie Schwartz,1916-12-20
+3004,Bruce Sterling,1954-04-14
+3005,Richard Erdoes,1912-07-07
+3006,Roger Hargreaves,1935-05-09
+3007,Jonathan Eig,1964-04-26
+3008,Leonard Peikoff,1933-10-15
+3009,Leonora Carrington,1917-04-06
+3010,Ann Radcliffe,1764-07-09
+3011,Marco Pierre White,1961-12-11
+3012,André Malraux,1901-11-03
+3013,Marian Engel,1933-05-24
+3014,Stewart O'Nan,1961-02-04
+3015,Uri Shulevitz,1935-02-27
+3016,Carl Sandburg,1878-01-06
+3017,Matthew Kelly,1950-05-09
+3018,Sean Stewart,1965-06-02
+3019,Bapsi Sidhwa,1938-08-11
+3020,Timothy Leary,1920-10-22
+3021,Meriwether Lewis,1774-08-18
+3022,William Clark,1770-08-01
+3023,Nobuhiro Watsuki,1970-05-26
+3024,Bernard DeVoto,1897-01-11
+3025,Elias Lönnrot,1802-04-09
+3026,Marc Guggenheim,1970-09-24
+3027,E.A. Wallis Budge,1857-07-27
+3028,Merlin Stone,1931-09-27
+3029,C.L.R. James,1901-01-04
+3030,James P. Carse,1932-12-24
+3031,Loretta Lynn,1932-04-14
+3032,Muhammad Asad,1900-07-02
+3033,Wolfgang Borchert,1921-05-20
+3034,Taslima Nasrin,1962-08-25
+3035,Cathy Kelly,1966-09-12
+3036,Aimé Césaire,1913-06-26
+3037,Aphrodite Jones,1958-11-27
+3038,Andrei Bely,1880-10-26
+3039,Maia Wojciechowska,1927-08-07
+3040,Stanley Weintraub,1929-04-17
+3041,G. Edward Griffin,1931-11-07
+3042,Angela Sommer-Bodenburg,1948-12-18
+3043,George Gissing,1857-11-22
+3044,Marion Chesney,1936-06-10
+3045,Penny Vincenzi,1939-04-10
+3046,Huey P. Newton,1942-02-17
+3047,Patricia Cabot,1967-02-01
+3048,Andrei Platonov,1899-08-28
+3049,Peter Yarrow,1938-05-31
+3050,Nicola Griffith,1960-09-30
+3051,Bibhutibhushan Bandyopadhyay,1894-09-12
+3052,Michael F. Roizen,1946-01-07
+3053,Irène Némirovsky,1903-02-11
+3054,Michael  Jackson,1958-08-29
+3055,Robert B. Baer,1952-07-11
+3056,Albert-László Barabási,1967-03-30
+3057,John H. Groberg,1934-06-17
+3058,Doug Moench,1948-02-23
+3059,Joyce Hansen,1942-10-18
+3060,D.T. Suzuki,1870-10-18
+3061,Fay Weldon,1931-09-22
+3062,Warren Fellows,1953-09-13
+3063,Karl Popper,1902-07-28
+3064,Gabriele D'Annunzio,1863-03-12
+3065,Eric R. Kandel,1929-11-07
+3066,Sudha Murty,1950-08-19
+3067,Lawrence S. Ritter,1922-05-23
+3068,Dorothy Day,1897-11-08
+3069,Mrs. Henry Wood,1814-01-17
+3070,Joseph A. Michelli,1960-08-11
+3071,Prosper Mérimée,1803-09-28
+3072,Christopher Golden,1967-07-15
+3073,Ngũgĩ wa Thiong'o,1938-01-05
+3074,Ken Wilber,1949-01-31
+3075,R.A. MacAvoy,1949-12-13
+3076,Gao Xingjian,1940-01-04
+3077,Charles W. Colson,1931-10-16
+3078,John Mortimer,1923-04-21
+3079,Nancy Martin,1973-02-17
+3080,Julian Jaynes,1920-02-27
+3081,Fatema Mernissi,1940-09-27
+3082,Friedrich Engels,1820-11-28
+3083,Zecharia Sitchin,1920-07-11
+3084,Jennifer 8. Lee,1976-03-15
+3085,William Guy Carr,1895-06-02
+3086,Richard A. Clarke,1950-10-27
+3087,Robert Fisk,1946-07-12
+3088,Martin J. Rees,1942-06-23
+3089,Bruce C. Greenwald,1946-08-15
+3090,John Allen Paulos,1945-07-04
+3091,A.E. van Vogt,1912-04-26
+3092,John Wooden,1910-10-14
+3093,Louis Menand,1952-01-21
+3094,Sarah Bradford,1938-09-03
+3095,Michael Moore,1954-04-23
+3096,Ha-Joon Chang,1963-10-07
+3097,A.E.W. Mason,1865-05-07
+3098,Ronald Takaki,1939-04-12
+3099,John Szarkowski,1925-12-18
+3100,Terry Kay,1938-02-10
+3101,Lynda La Plante,1943-03-15
+3102,E.F. Benson,1867-07-24
+3103,Claudia Rankine,1963-09-04
+3104,Marie Rutkoski,1977-03-05
+3105,Donald Kagan,1932-05-01
+3106,Irving Wallace,1916-03-19
+3107,James Van Praagh,1958-08-23
+3108,Cao Xueqin,1710-04-04
+3109,John A. Keel,1930-03-25
+3110,Edward Espe Brown,1945-03-24
+3111,Henry Adams,1838-02-16
+3112,John  Toland,1670-11-30
+3113,Ernest Callenbach,1929-04-03
+3114,Lindsey Fraser,1958-01-24
+3115,Ollie Johnston,1912-10-31
+3116,Bill  Gates,1955-10-28
+3117,Lothar-Günther Buchheim,1918-02-06
+3118,Charles Maturin,1780-09-25
+3119,T.K.V. Desikachar,1938-06-21
+3120,Molly Gloss,1944-11-20
+3121,Johanna Sinisalo,1958-06-22
+3122,Colum McCann,1965-02-28
+3123,Karen Katz,1947-09-16
+3124,David Abram,1957-06-24
+3125,Alexander Afanasyev,1826-07-23
+3126,Carolyn Haywood,1898-01-03
+3127,Helen Oyeyemi,1984-12-10
+3128,Kenneth Anger,1927-02-03
+3129,Andrei Tarkovsky,1932-04-04
+3130,Lynd Ward,1905-06-26
+3131,Gary Soto,1952-04-12
+3132,Melvyn Bragg,1939-10-06
+3133,Jeffrey Moussaieff Masson,1941-03-28
+3134,Alvin Toffler,1928-10-04
+3135,Stella Rimington,1935-05-13
+3136,Dennis O'Neil,1939-05-03
+3137,A'Lelia Perry Bundles,1952-06-07
+3138,Carlo Ginzburg,1939-04-15
+3139,Harold Robbins,1916-05-21
+3140,Marcus du Sautoy,1965-08-26
+3141,Craig Claiborne,1920-09-04
+3142,Nan Goldin,1953-09-12
+3143,May Gibbs,1877-01-17
+3144,Chico Buarque,1944-06-19
+3145,David Macaulay,1946-12-02
+3146,Juan Gomez-Jurado,1977-12-16
+3147,Hans Fallada,1893-07-21
+3148,Graham McNamee,1888-07-10
+3149,Timothy Conigrave,1959-11-19
+3150,H.R. McMaster,1962-07-24
+3151,Howard Stern,1954-01-12
+3152,Jamie Lee Curtis,1958-11-22
+3153,Fran Lebowitz,1950-10-27
+3154,J. Gresham Machen,1881-07-28
+3155,Jean-Jacques Sempé,1932-08-17
+3156,Jane Campion,1954-04-30
+3157,Max Beerbohm,1872-08-24
+3158,Jean Shepherd,1921-07-21
+3159,Percy Bysshe Shelley,1792-08-04
+3160,Norman Davies,1939-06-08
+3161,João Guimarães Rosa,1908-06-27
+3162,Tayari Jones,1970-11-30
+3163,Charles B. MacDonald,1922-11-23
+3164,William Landay,1963-07-23
+3165,Laura Dave,1977-07-18
+3166,Susan Jacoby,1945-06-04
+3167,Hinako Ashihara,1974-01-25
+3168,Daniel Jonah Goldhagen,1959-06-30
+3169,Dave Gorman,1971-03-02
+3170,Nicholas Wade,1942-05-17
+3171,Gail Collins,1945-11-25
+3172,Patrick Marber,1964-09-19
+3173,Robert Rodríguez,1968-06-20
+3174,Claire Tomalin,1933-06-20
+3175,Jean Plaidy,1906-09-01
+3176,Marilyn Monroe,1926-06-01
+3177,Paul Farmer,1959-10-26
+3178,Matt Groening,1954-02-15
+3179,Lucette Lagnado,1956-09-19
+3180,Christine McGuire,1926-07-30
+3181,Paul Watzlawick,1921-07-25
+3182,Max Pemberton,1863-06-19
+3183,Harold Abelson,1947-04-26
+3184,Mahmoud Darwish,1941-03-13
+3185,Jim Grimsley,1955-09-21
+3186,Giorgio Agamben,1942-04-22
+3187,D.M. Thomas,1935-01-25
+3188,Anthony Powell,1905-12-21
+3189,Wisława Szymborska,1923-07-02
+3190,John Burningham,1936-04-27
+3191,Jack L. Chalker,1944-12-17
+3192,Sven Hassel,1917-04-19
+3193,Howard Thurman,1899-11-18
+3194,Priscilla Shirer,1974-12-31
+3195,Adèle Geras,1944-03-15
+3196,Lauren Bacall,1924-09-16
+3197,Keigo Higashino,1958-02-04
+3198,Caprice Crane,1970-11-01
+3199,Wendy Orr,1958-03-27
+3200,Peter Sís,1949-05-11
+3201,Peter Weiss,1916-11-08
+3202,E.R. Eddison,1882-11-24
+3203,Gloria Steinem,1934-03-25
+3204,Osamu Tezuka, 1928 -11-03
+3205,Zygmunt Bauman,1925-11-19
+3206,Aleister Crowley,1875-10-12
+3207,Tom DeFalco,1950-06-26
+3208,Piri Thomas,1928-09-30
+3209,Gioconda Belli,1948-12-09
+3210,Phil Foglio,1956-05-01
+3211,John Gregory Betancourt,1963-10-25
+3212,Ron Kovic,1946-07-04
+3213,John  Ford,1894-02-01
+3214,Nikos Mourkogiannis,1952-03-09
+3215,Jessica Mitford,1917-09-11
+3216,Nicholson Baker,1957-01-07
+3217,Nick Mason,1944-01-27
+3218,Janet Farrar,1950-06-24
+3219,George Pólya,1887-12-13
+3220,Gregory A. Boyd,1957-06-02
+3221,Peter Handke,1942-12-06
+3222,Jonathan Ryder,1927-05-25
+3223,Darcy O'Brien,1939-07-16
+3224,Aaron Rosenberg,1912-08-26
+3225,Phoebe Gloeckner,1960-12-22
+3226,Tatyana Tolstaya,1951-05-03
+3227,Arnold Schwarzenegger,1947-07-30
+3228,Goldie Hawn,1945-11-21
+3229,Étienne de La Boétie,1530-11-01
+3230,Natalie Angier,1958-02-16
+3231,Jenny Colgan,1972-09-14
+3232,Larry Bird,1956-12-07
+3233,Cherry Adair,1951-04-02
+3234,Kate White,1951-09-03
+3235,Vicki Lewis Thompson,1950-10-11
+3236,Jacques Barzun,1907-11-30
+3237,Robert D. Kaplan,1952-06-23
+3238,Carol Drinkwater,1948-04-22
+3239,Robert Lipsyte,1938-01-16
+3240,Victor L. Wooten,1964-09-11
+3241,Lisa Yee,1959-08-27
+3242,David Ives,1950-07-11
+3243,Matthew Henry,1662-10-18
+3244,Robert Goddard,1882-10-05
+3245,Elizabeth Smart,1987-11-03
+3246,Willy Russell,1946-08-23
+3247,Azar Nafisi,1948-12-01
+3248,Jim Shooter,1951-09-27
+3249,Miguel Delibes,1920-10-17
+3250,Kate Seredy,1899-11-10
+3251,Craig Kyle,1971-11-03
+3252,R.D. Wingfield,1928-06-06
+3253,Erin St. Claire,1948-03-12
+3254,Erle Stanley Gardner,1889-07-17
+3255,Ron Suskind,1959-11-20
+3256,Robin P. Williams,1953-10-09
+3257,Jane Rule,1931-03-28
+3258,Gene Roddenberry,1921-08-19
+3259,Marsha Canham,1950-11-19
+3260,K.J. Parker,1961-09-13
+3261,Slavoj Žižek,1949-03-21
+3262,John E. Sarno,1923-06-23
+3263,Pamela Stephenson,1949-12-04
+3264,Ted Gioia,1957-10-21
+3265,Philippe Claudel,1962-02-02
+3266,Lewis Grassic Gibbon,1901-02-13
+3267,Marion Meade,1934-01-07
+3268,David Remnick,1958-10-29
+3269,Richard Baer,1911-09-09
+3270,Marcia Clark,1953-08-31
+3271,Jane Elliott,1933-11-30
+3272,Selwyn Raab,1934-06-26
+3273,Wendy Beckett,1930-02-25
+3274,Bipan Chandra,1928-05-24
+3275,Klaus Mann,1906-11-18
+3276,Jim  Murphy,1967-08-23
+3277,William J. Lederer,1912-03-31
+3278,Frederick Exley,1929-03-28
+3279,Eric Jager,1957-04-27
+3280,S.D. Perry,1970-03-14
+3281,Ayşe Kulin,1941-08-26
+3282,Harry Crews,1935-06-07
+3283,David H. Hackworth,1930-11-11
+3284,Jo Beverley,1947-09-22
+3285,Robert Merle,1908-08-28
+3286,Christina Stead,1902-07-17
+3287,Martin H. Greenberg,1941-03-01
+3288,Christopher   Clark,1960-03-14
+3289,Linus Torvalds,1969-12-28
+3290,John Ashbery,1927-07-28
+3291,Greg Rucka,1969-11-29
+3292,Le Corbusier,1887-10-06
+3293,Gayle Forman,1970-06-05
+3294,Bernie S. Siegel,1932-10-14
+3295,Bernard Evslin,1922-04-04
+3296,Miguel Ángel Asturias,1899-10-19
+3297,Benjamin Black,1945-12-08
+3298,Madhur Jaffrey,1933-08-13
+3299,Justine Larbalestier,1967-09-23
+3300,Thomas B. Costain,1885-05-08
+3301,Marquis de Sade,1740-06-02
+3302,A.C.H. Smith,1935-10-31
+3303,David Zinczenko,1969-12-13
+3304,Percival Everett,1956-12-22
+3305,Gary Snyder,1930-05-08
+3306,Joe Peters,1983-11-25
+3307,Paul Gallico,1897-07-26
+3308,Hans von Luck,1911-07-15
+3309,Jim Kjelgaard,1910-12-06
+3310,Mike Mullane,1945-09-10
+3311,W.O. Mitchell,1914-03-13
+3312,Lewis Black,1948-08-30
+3313,Chitose Yagami,1969-05-18
+3314,Milton William Cooper,1943-05-06
+3315,Nagaru Tanigawa,1970-12-19
+3316,Ariel Dorfman,1942-05-06
+3317,Mark Dever,1960-08-28
+3318,Akio Morita,1921-01-26
+3319,James C. Scott,1936-12-02
+3320,Seamus Deane,1940-02-09
+3321,Ben Bova,1932-11-08
+3322,Sarah Caudwell,1939-05-27
+3323,Hunter Davies,1936-01-07
+3324,Rudy Rucker,1946-03-22
+3325,James Hudson Taylor,1832-05-21
+3326,Bernard Bailyn,1922-09-09
+3327,Susan Sizemore,1951-03-24
+3328,Abdul Rahman Munif,1933-05-29
+3329,Tariq Ramadan,1962-08-26
+3330,Saul A. Kripke,1940-11-13
+3331,Matt Haig,1975-07-03
+3332,Harriet Doerr,1910-04-08
+3333,William Sutcliffe,1971-03-09
+3334,Maureen F. McHugh,1959-02-13
+3335,R.M. Ballantyne,1825-04-24
+3336,Jane Moore,1962-05-17
+3337,Jessica Burkhart,1987-01-29
+3338,Gladys Aylward,1902-02-24
+3339,Elizabeth Kolbert,1961-07-06
+3340,John N. Gray,1948-04-17
+3341,Milly Johnson,1964-02-23
+3342,Norman Lindsay,1879-02-22
+3343,Jamie Hewlett,1968-04-03
+3344,Morihei Ueshiba,1883-12-14
+3345,Matsuo Bashō,1644
+3346,Lynne Cox,1957-01-02
+3347,Antonin Artaud,1896-09-04
+3348,Henry Farrell,1920-09-27
+3349,Peter Brook,1925-03-21
+3350,Allan Ahlberg,1938-06-05
+3351,Lafcadio Hearn,1850-06-27
+3352,Frank Cottrell Boyce,1959-09-23
+3353,John McCain,1936-08-29
+3354,Natasha Trethewey,1966-04-26
+3355,Mikhail Bakunin,1814-05-30
+3356,Eric S. Raymond,1957-12-04
+3357,Glenn Beck,1964-02-10
+3358,Steven Barnes,1952-03-01
+3359,Louis de Montfort,1673-01-31
+3360,Frank Asch,1946-08-06
+3361,Jennifer Darling,1946-06-19
+3362,Walter Brueggemann,1933-03-11
+3363,Susan Blackmore,1951-07-29
+3364,John W. Dower,1938-06-21
+3365,James Kelman,1946-06-09
+3366,T.R. Fehrenbach,1925-01-12
+3367,Lynne Graham,1956-07-30
+3368,Richard Rohr,1943-03-20
+3369,Silas House,1971-08-07
+3370,Laurence Yep,1948-06-14
+3371,Jason Aaron,1973-01-28
+3372,Zülfü Livaneli,1946-06-20
+3373,Julia Fox,1990-02-02
+3374,Gideon Defoe,1975-12-26
+3375,David J. Griffiths,1942-12-05
+3376,Janet Malcolm,1934-07-08
+3377,May Sarton,1912-05-03
+3378,John Skipp,1957-05-20
+3379,Kadir Nelson,1974-05-15
+3380,William J. O'Neil,1933-03-25
+3381,Carlo D'Este,1936-08-29
+3382,Marc Acito,1966-01-11
+3383,Don Rosa,1951-06-29
+3384,Suzy Kline,1943-08-27
+3385,Albert Hourani,1915-03-31
+3386,Eric Flint,1947-02-06
+3387,Julius Lester,1939-01-27
+3388,Thomas Nagel,1937-07-04
+3389,Levon Helm,1940-05-26
+3390,Morgan Llywelyn,1937-12-03
+3391,Sheila Connolly,1950
+3392,Jonathan Ames,1964-03-23
+3393,Barbara Neely,1941-11-30
+3394,Naoki Urasawa,1960-01-02
+3395,Enrique Vila-Matas,1948-03-31
+3396,Paul C.W. Davies,1946-04-22
+3397,Erwin Raphael McManus,1958-08-28
+3398,Susan Brownmiller,1935-02-15
+3399,Craig Ferguson,1962-05-17
+3400,Bert Bates,1907-08-18
+3401,Bill McKibben,1960-12-08
+3402,Patricia St. John,1919-04-05
+3403,Henry Ford,1863-07-30
+3404,Jess Stearn,1914-04-26
+3405,Elaine Brown,1943-03-02
+3406,Carol Gilligan,1936-11-28
+3407,Steven Kellogg,1941-10-26
+3408,James Randi,1928-08-07
+3409,Colin Wilson,1931-06-26
+3410,John Rechy,1931-03-10
+3411,Tsutomu Nihei,1971-02-26
+3412,James Tiptree Jr.,1915-08-24
+3413,Deon Meyer,1958-07-04
+3414,Dara Joy,1986-05-20
+3415,Michael Koryta,1982-09-20
+3416,Cynthia Ozick,1928-04-17
+3417,Ignatius of Loyola,1491-10-23
+3418,Ted Conover,1958-01-17
+3419,Bjarne Stroustrup,1950-12-30
+3420,Peter Kuper,1958-09-22
+3421,David Wisniewski,1953-03-21
+3422,William Inge,1913-05-03
+3423,Margaret Mahy,1936-03-21
+3424,Margaret Ferguson,1863-08-29
+3425,Norman Rush,1933-10-24
+3426,A.J. Ayer,1910-10-29
+3427,Eleanor Roosevelt,1884-10-11
+3428,Dario Fo,1926-03-24
+3429,Stephanie Pearl-McPhee,1968-06-14
+3430,George H. Smith,1949-02-10
+3431,Candace B. Pert,1946-06-26
+3432,William Brinkley,1917-09-10
+3433,Todd Parr,1962-07-09
+3434,Conrad Richter,1890-10-13
+3435,William Eggleston,1939-07-27
+3436,Lillian Faderman,1940-07-18
+3437,Akira Kurosawa,1910-03-23
+3438,Jack   Black,1969-08-28
+3439,Isabel Briggs Myers,1897-10-18
+3440,Yiyun Li,1972-11-04
+3441,John Ehle,1925-12-13
+3442,Dean Lorey,1967-11-17
+3443,Nikolai Leskov,1831-02-16
+3444,Jim Morrison,1943-12-08
+3445,Elliot S. Maggin,1950-11-14
+3446,Gabrielle Roy,1909-03-22
+3447,Leon M. Lederman,1922-07-15
+3448,William Joyce,1906-04-24
+3449,Keith Laumer,1925-06-09
+3450,Tyler Florence,1971-03-03
+3451,Natalie Zemon Davis,1928-11-08
+3452,André P. Brink,1935-05-29
+3453,Colette,1873-01-28
+3454,Ernst W. Mayr,1904-07-05
+3455,Eileen Myles,1949-12-09
+3456,Raymond Briggs,1934-01-18
+3457,Kuki Gallmann,1943-06-01
+3458,Karl Pilkington,1972-09-23
+3459,Dorothy Roberts,1956-03-08
+3460,Frans de Waal,1948-10-29
+3461,Ayelet Waldman,1964-12-11
+3462,Peter Heather,1960-06-08
+3463,Eve Bunting,1928-12-19
+3464,Barry Miles,1943-02-21
+3465,Paul McCartney,1942-06-18
+3466,Brian Welch,1970-06-19
+3467,Albrecht Dürer,1471-05-21
+3468,Sarah Kane,1971-02-03
+3469,Loren D. Estleman,1952-09-15
+3470,Frédéric Beigbeder,1965-09-21
+3471,Chris Riddell,1962-04-13
+3472,Andrew Tobias,1947-04-20
+3473,Andreas Eschbach,1959-09-15
+3474,Flora Thompson,1876-12-05
+3475,Margaret Frazer,1946-11-26
+3476,Kazune Kawahara,1972-03-11
+3477,Joe Posnanski,1967-01-08
+3478,Jean Kerr,1922-07-10
+3479,Donald Spoto,1941-06-28
+3480,Giles Foden,1967-01-11
+3481,Robert Anton Wilson,1932-01-18
+3482,Wole Soyinka,1934-07-13
+3483,P.J. O'Rourke,1947-11-14
+3484,Elinor M. Brent-Dyer,1894-04-06
+3485,Jim Crace,1946-03-01
+3486,Fabian Nicieza,1961-12-31
+3487,Paul Lafargue,1842-01-15
+3488,Henry Jenkins,1958-06-04
+3489,Justo L. González,1937-08-09
+3490,Anwar Sadat,1918-12-25
+3491,Sylvia Browne,1936-10-19
+3492,Jonah Keri,1974-09-20
+3493,David Attenborough,1926-05-08
+3494,Nancy Huston,1953-09-16
+3495,Johan Huizinga,1872-12-07
+3496,Wendy Moore,1958-03-04
+3497,Rick Bayless,1953-11-23
+3498,Andrew Vachss,1942-10-19
+3499,Michael J. Behe,1952-01-18
+3500,Virginia H. Pearce,1945-02-08
+3501,Lauren Greenfield,1966-06-28
+3502,David Almond,1951-05-15
+3503,Slavenka Drakulić,1949-07-04
+3504,Sam R. Watkins,1839-06-26
+3505,Baird T. Spalding,1872-10-03
+3506,Simon Blackburn,1944-07-12
+3507,Marla Frazee,1958-01-16
+3508,Herbert Asbury,1891-09-01
+3509,Sharon Olds,1942-11-12
+3510,Larry King,1933-11-19
+3511,Jack Olsen,1925-06-07
+3512,Jan Wong,1952-08-15
+3513,Irwin Shaw,1913-02-27
+3514,Comte de Lautréamont,1846-04-04
+3515,Mark Steyn,1959-12-08
+3516,Louis Fischer,1896-02-29
+3517,Armand Marie Leroi,1964-07-16
+3518,Peter L. Berger,1929-03-17
+3519,Santa Montefiore,1970-02-02
+3520,Shahrnush Parsipur,1946-02-17
+3521,Robert A. Monroe,1915-10-30
+3522,Dave Harvey,1935-10-31
+3523,Sam Kieth,1963-01-11
+3524,Robert  Evans,1930-06-29
+3525,Richard Ben Cramer,1950-06-12
+3526,Elizabeth Knox,1959-02-15
+3527,Per Olov Enquist,1934-09-23
+3528,J.A. Baker,1926-08-06
+3529,Brooke Shields,1965-05-31
+3530,Steven E. Landsburg,1954-02-24
+3531,Antony Johnston,1972-08-25
+3532,Elliot Aronson,1932-01-09
+3533,Hiromu Arakawa,1973-05-08
+3534,Audrey Couloumbis,1947-08-09
+3535,Jimmy Carter,1924-10-01
+3536,Karyn Bosnak,1974-09-24
+3537,Ha Jin,1956-02-21
+3538,Roland Topor,1938-01-07
+3539,Lawrence Anthony,1950-09-17
+3540,Nancy Pearl,1945-01-12
+3541,Yoshihiro Tatsumi,1935-06-10
+3542,Jonathan Alter,1957-10-06
+3543,Anne Holt,1958-11-16
+3544,Meg Gardiner,1957-05-15
+3545,Yukito Kishiro,1967-03-20
+3546,Michel Onfray,1959-01-01
+3547,Greil Marcus,1945-06-19
+3548,Barry Unsworth,1930-08-10
+3549,Robert V. Remini,1921-07-17
+3550,Dominick Dunne,1925-10-29
+3551,Robin Lane Fox,1946-10-05
+3552,Tina McElroy Ansa,1949-11-18
+3553,Mary Ann Hoberman,1930-08-12
+3554,Henri Cartier-Bresson,1908-08-22
+3555,Jerry Lewis,1926-03-16
+3556,Clifford Geertz,1926-08-23
+3557,Alyson Noel,1965-12-03
+3558,Almudena Grandes,1960-05-07
+3559,Olga Tokarczuk,1962-01-29
+3560,Avinash K. Dixit,1944-08-06
+3561,Robert D. Siegel,1971-12-11
+3562,Dolly Parton,1946-01-19
+3563,Michael  Dobbs,1948-11-14
+3564,L.A. Banks,1959-12-11
+3565,Giovannino Guareschi,1908-05-01
+3566,Ismail Kadare,1936-01-28
+3567,Padraic Colum,1881-12-08
+3568,Laird Barron,1970-03-05
+3569,Baltasar Gracián,1601-01-08
+3570,Martha Wells,1964-09-01
+3571,Roman Dirge,1972-04-29
+3572,Mark Frost,1953-11-25
+3573,Edward Luce,1968-06-01
+3574,James R. Benn,1949-09-05
+3575,Wolfgang Amadeus Mozart,1756-01-27
+3576,Sebastian Haffner,1907-12-27
+3577,Rudolf Arnheim,1904-07-15
+3578,Annie Sanders,2007-07-22
+3579,Louis Berkhof,1873-10-13
+3580,Allen M. Steele,1958-01-19
+3581,Jim Wallis,1948-06-04
+3582,Henry Green,1905-10-29
+3583,George Gamow,1904-03-04
+3584,Doris Gates,1901-11-26
+3585,Zelda Fitzgerald,1900-07-24
+3586,Suzette Haden Elgin,1936-11-18
+3587,Rose Wilder Lane,1886-12-05
+3588,Greg Palast,1952-06-26
+3589,Joe Hyams,1923-06-06
+3590,George Soros,1930-08-12
+3591,Paul Monette,1945-10-16
+3592,Anita Desai,1937-06-24
+3593,John Howard Yoder,1927-12-29
+3594,Jill Thompson,1966-11-20
+3595,Terry Deary,1946-01-03
+3596,Makoto Inoue,1974-12-07
+3597,Chris Rose,1971-01-27
+3598,Chris  Rose,1971-01-27
+3599,Ralph Barger,1938-10-08
+3600,Peter Maas,1929-06-27
+3601,Sarah Orne Jewett,1849-09-03
+3602,Lars Saabye Christensen,1953-09-21
+3603,Émile Durkheim,1858-04-15
+3604,Lesley Pearse,1945-02-24
+3605,Jay McInerney,1955-01-13
+3606,László Krasznahorkai,1954-01-05
+3607,Kate Millett,1934-09-14
+3608,P.D. Ouspensky,1878-03-05
+3609,Gabor Maté,1944-01-06
+3610,Harvey Penick,1904-10-23
+3611,Robert Jay Lifton,1926-05-16
+3612,Norman P. Grubb,1895-08-02
+3613,M.G. Vassanji,1950-05-30
+3614,Thomas McNamee,1947-07-31
+3615,Tony Attwood,1952-02-09
+3616,Harriette Simpson Arnow,1908-07-07
+3617,Tim Allen,1953-06-13
+3618,Pete Earley,1951-09-05
+3619,Will Self,1961-09-26
+3620,Paul Shirley,1977-12-23
+3621,Evgenia Ginzburg,1904-12-20
+3622,Joseph Fielding Smith,1876-07-19
+3623,Jean-Claude Izzo,1945-06-20
+3624,George L. Jackson,1941-09-23
+3625,Alexei Panshin,1940-08-14
+3626,Hans-Georg Gadamer,1900-02-11
+3627,Bernard Lewis,1916-05-31
+3628,Neil LaBute,1963-03-19
+3629,Lobsang Rampa,1910-04-08
+3630,Thomas Jefferson,1743-04-13
+3631,Thorstein Veblen,1857-07-30
+3632,Mark Vonnegut,1947-05-11
+3633,Lauren Beukes,1976-06-05
+3634,Andreï Makine,1957-09-10
+3635,Lee Kuan Yew,1923-09-16
+3636,John Cage,1912-09-05
+3637,Alan Cooper,1952-06-03
+3638,Charles Mingus,1922-04-22
+3639,Jin Yong,1924-02-06
+3640,Walter Isaacson,1952-05-20
+3641,Mark Salzman,1959-12-03
+3642,Edward Hallett Carr,1892-06-28
+3643,Annie M.G. Schmidt,1911-05-20
+3644,Marsha M. Linehan,1943-05-05
+3645,Larry Schweikart,1951-04-21
+3646,Tariq Ali,1943-10-21
+3647,Marilyn Burns,1949-05-07
+3648,Tasha Tudor,1915-08-28
+3649,Edmund S. Morgan,1916-01-17
+3650,Andrea Davis Pinkney,1963-09-25
+3651,Barbara Gowdy,1950-06-25
+3652,Harry Browne,1933-06-17
+3653,Lawrence Schiller,1936-12-28
+3654,Kieran Scott,1974-03-11
+3655,Kamila Shamsie,1973-08-13
+3656,J. Gordon Melton,1942-09-19
+3657,Al Sarrantonio,1952-05-25
+3658,Joanna Trollope,1943-12-09
+3659,Susan Isaacs,1943-12-07
+3660,Brian Daley,1947-12-22
+3661,Mark R. Levin,1957-09-21
+3662,Clotaire Rapaille,1941-08-05
+3663,Alan Shepard,1923-11-18
+3664,E.P. Thompson,1924-02-03
+3665,Bob Newhart,1929-09-05
+3666,James Beard,1903-05-05
+3667,David S. Landes,1924-04-29
+3668,Witold Gombrowicz,1904-08-04
+3669,Neil A. Campbell,1946-04-17
+3670,Catherine Merridale,1959-10-12
+3671,Otsuichi,1978-10-21
+3672,Marita Conlon-McKenna,1956-11-05
+3673,Julia Kristeva,1941-06-24
+3674,Julia London,1959-03-18
+3675,R.D. Reynolds,1969-01-12
+3676,Abbie Hoffman,1936-11-30
+3677,Paul Celan,1920-11-23
+3678,Michael Freedland,1934-12-18
+3679,Sally Beauman,1944-07-25
+3680,José Eduardo Agualusa,1960-12-13
+3681,Amanda Glass,1948-03-28
+3682,Richard Zimler,1956-01-01
+3683,Paul Levine,1948-01-09
+3684,Vita Sackville-West,1892-03-09
+3685,Anne Fine,1947-12-07
+3686,Graham Chapman,1941-01-08
+3687,David Goodis,1917-03-02
+3688,Suzy Lee,1974-02-09
+3689,J. California Cooper,1931-11-10
+3690,Vine Deloria Jr.,1933-03-26
+3691,Robert Crumb,1943-08-30
+3692,Millard J. Erickson,1932-06-24
+3693,Konrad Lorenz,1903-11-07
+3694,Barbara Cooney,1917-08-06
+3695,Guy Vanderhaeghe,1951-04-05
+3696,Mari Jungstedt,1962-10-31
+3697,John             Lewis,1940-02-21
+3698,Alki Zei,1925-12-15
+3699,Cordwainer Smith,1913-07-11
+3700,R.C. Sherriff,1896-06-06
+3701,Bruce Feiler,1964-10-25
+3702,Czesław Miłosz,1911-06-30
+3703,Fernando Vallejo,1942-10-24
+3704,Grazia Deledda,1871-09-27
+3705,Emilia Pardo Bazán,1851-09-16
+3706,Le Ly Hayslip,1949-12-19
+3707,Paul Murray Kendall,1911-03-01
+3708,Verne Harnish,1959-01-21
+3709,Louis Zamperini,1917-01-26
+3710,Mike  McIntyre,1956-08-06
+3711,Justin Richards,1961-09-14
+3712,Terry Pluto,1955-06-12
+3713,Virginia Henley,1935-12-05
+3714,Graham Salisbury,1944-04-11
+3715,William Lane Craig,1949-08-23
+3716,Drew Barrymore,1975-02-22
+3717,James Lowder,1963-01-02
+3718,Richard Powers,1957-06-18
+3719,Scott Meyers,1959-04-09
+3720,Jeremy J. Siegel,1945-11-14
+3721,Ronald Reagan,1911-02-06
+3722,Matt Wagner,1961-10-09
+3723,Ryu Murakami,1952-02-19
+3724,César Aira,1949-02-23
+3725,Francesca Simon,1955-02-23
+3726,Jennifer Michael Hecht,1965-11-23
+3727,Georgi Gospodinov,1968-01-07
+3728,Benvenuto Cellini,1500-11-03
+3729,Tim Severin,1940-09-25
+3730,Louise Welsh,1965-02-01
+3731,Patty Duke,1946-12-14
+3732,Tim Flannery,1956-01-28
+3733,George S. Schuyler,1895-02-25
+3734,Karl Kesel,1959-01-07
+3735,Walter Cronkite,1916-11-04
+3736,William Cronon,1954-09-11
+3737,Cathi Hanauer,1962-10-05
+3738,Frederick Buechner,1926-07-11
+3739,Norman Schwarzkopf,1934-08-22
+3740,Kerstin Ekman,1933-08-27
+3741,Paule Marshall,1929-04-09
+3742,David Michelinie,1948-05-06
+3743,Emilio Salgari,1862-08-21
+3744,Michael Kimmelman,1958-05-08
+3745,Richard Fortey,1946-02-15
+3746,Jan Potocki,1761-03-08
+3747,Barry M. Goldwater,1909-01-02
+3748,Alan Jay Lerner,1918-08-31
+3749,Hope Edelman,1964-06-17
+3750,Jennifer Armstrong,1961-05-19
+3751,Jerri Nielsen,1952-03-01
+3752,Marc Simont,1915-11-23
+3753,Robert O. Paxton,1932-06-15
+3754,Laura  Jordan,1948-03-12
+3755,David Goodstein,1939-04-05
+3756,Marcus Sedgwick,1968-04-08
+3757,Akimi Yoshida,1956-08-12
+3758,John van de Ruit,1975-04-20
+3759,Paul Tillich,1886-08-20
+3760,Franny Billingsley,1954-07-03
+3761,Jacques Lacan,1901-04-13
+3762,Edward Frenkel,1968-05-02
+3763,Akiva Goldsman,1962-07-07
+3764,Freidoune Sahebjam,1933
+3765,Andy Stanton,1973-11-14
+3766,Marcel Mauss,1872-05-10
+3767,Richard Fariña,1937-03-08
+3768,Dave Sim,1956-05-17
+3769,Barbara Michaels,1927-09-29
+3770,Gyles Brandreth,1948-03-08
+3771,Jean Piaget,1896-08-09
+3772,Sharon Osbourne,1952-10-09
+3773,Ilan Pappé,1954-11-07
+3774,Isaac Bashevis Singer,1903-11-11
+3775,Salvador Dalí,1904-05-11
+3776,Richard Rorty,1931-10-04
+3777,Grace Paley,1922-12-11
+3778,John Masefield,1878-06-01
+3779,Edward E. Kramer,1961-03-20
+3780,Yasushi Inoue,1907-05-06
+3781,Robert Hellenga,1941-08-05
+3782,Suze Rotolo,1943-11-20
+3783,Sven Nordqvist,1946-04-30
+3784,Norah Lofts,1904-08-27
+3785,Shirley Hazzard,1931-01-30
+3786,Ruth Benedict,1887-06-05
+3787,Robin Lee Graham,1949-03-05
+3788,Bill Hicks,1961-12-16
+3789,Scott Rosenberg,1963-04-24
+3790,John  Peel,1939-08-30
+3791,Henry Louis Gates Jr.,1950-09-16
+3792,Kay Arthur,1933-11-11
+3793,Melody Carlson,1956-03-02
+3794,Mark   Fisher,1968-07-11
+3795,Ève Curie,1904-12-06
+3796,Hal Higdon,1931-06-17
+3797,Gerard Manley Hopkins,1844-07-28
+3798,William Bligh,1754-09-09
+3799,Karin Alvtegen,1965-06-08
+3800,Candace Camp,1949-05-23
+3801,Oakley Hall,1920-07-01
+3802,Alex Grey,1953-11-29
+3803,Phil Town,1948-09-21
+3804,Marianne Moore,1887-11-15
+3805,Benedicta Ward,1933-02-04
+3806,Damon Galgut,1963-11-12
+3807,Hugo Claus,1929-04-05
+3808,Peter Kay,1973-07-02
+3809,Tim Willocks,1957-10-27
+3810,Laurence J. Peter,1919-09-16
+3811,Bhikkhu Bodhi,1944-12-10
+3812,Devdutt Pattanaik,1970-12-11
+3813,Aaron Elkins,1935-07-24
+3814,Janet Burroway,1936-09-21
+3815,Michelle West,1963-05-05
+3816,Martin Caidin,1927-09-14
+3817,William Shatner,1931-03-22
+3818,Rollo May,1909-04-21
+3819,Gavin Maxwell,1914-07-15
+3820,Theodore Roosevelt,1858-10-27
+3821,Rem Koolhaas,1944-11-17
+3822,Ingeborg Bachmann,1926-06-25
+3823,Haing Ngor,1940-03-22
+3824,Betsy Byars,1928-08-07
+3825,Jo Edwards,1970-02-05
+3826,Douglas E. Winter,1950-10-30
+3827,Kaare Andrews,1975-07-13
+3828,Hart Crane,1899-07-21
+3829,Jean Fritz,1915-11-16
+3830,Brian Haig,1953-03-15
+3831,Sloan Wilson,1920-05-08
+3832,Robb White,1909-06-20
+3833,Maureen Jennings,1939-04-23
+3834,Stephanie Coontz,1944-08-31
+3835,John Barrowman,1967-03-11
+3836,Elena Poniatowska,1932-05-19
+3837,Alex Ross,1970-01-22
+3838,Alice McDermott,1953-06-27
+3839,Thomas Gilovich,1954-01-16
+3840,Mona Golabek,1954-06-23
+3841,Peggy Noonan,1950-09-07
+3842,Andre Dubus,1936-08-11
+3843,Vaughan Roberts,1965-03-17
+3844,R.F. Delderfield,1912-02-12
+3845,Margaret Campbell Barnes,1891-02-27
+3846,Nadeem Aslam,1966-06-11
+3847,Diarmaid MacCulloch,1951-10-31
+3848,Ken Jennings,1974-05-23
+3849,Linda Holeman,1949-12-24
+3850,Miguel León-Portilla,1926-02-22
+3851,Kat Martin,1947-07-14
+3852,Saul Williams,1972-02-29
+3853,Kallistos Ware,1934-09-11
+3854,Vera Caspary,1899-11-13
+3855,Albert Hofmann,1906-01-11
+3856,John Bul Dau,1974-01-15
+3857,Lisa Papademetriou,1971-08-25
+3858,Nigel Calder,1931-12-02
+3859,Sarah Monette,1974-11-25
+3860,Takuan Soho,1573-12-24
+3861,John McEnroe,1959-02-16
+3862,Sujata Massey,1964-03-04
+3863,Matthew Polly,1971-05-05
+3864,Alfredo Bryce Echenique,1939-02-19
+3865,Paul Karl Feyerabend,1924-01-13
+3866,Carla Emery,1939-01-19
+3867,Mona Simpson,1957-06-14
+3868,Latifa Zayyat,1923-08-08
+3869,Morris L. West,1916-04-26
+3870,Laura Leone,1962-08-17
+3871,Luis Buñuel,1900-02-22
+3872,C. Vann Woodward,1908-11-13
+3873,Lauren Slater,1963-03-21
+3874,Richard E. Nisbett,1941-06-01
+3875,Samuel Pepys,1633-02-23
+3876,Gene Brewer,1937-07-04
+3877,C.W. Anderson,1971-01-07
+3878,Os Guinness,1941-09-30
+3879,Timothy Ferris,1944-08-24
+3880,Brian Clevinger,1978-06-07
+3881,Jacob Burckhardt,1818-05-25
+3882,Chris Adrian,1970-11-07
+3883,John Shelby Spong,1931-06-16
+3884,George Berkeley,1685-03-12
+3885,Sylvia Beach,1887-03-14
+3886,Diane di Prima,1934-08-06
+3887,Barbara Wood,1947-01-30
+3888,Alan Duff,1950-10-26
+3889,Lew Sayre Schwartz,1926-07-24
+3890,Leslie Ludy,1975-12-16
+3891,Dervla Murphy,1931-11-28
+3892,Pico Iyer,1957-02-11
+3893,J.P. Moreland,1948-03-09
+3894,Alfred V. Aho,1941-08-09
+3895,Li-Young Lee,1957-08-19
+3896,Madeleine Brent,1920-04-11
+3897,Stuart Maconie,1961-08-13
+3898,David Wojnarowicz,1954-09-14
+3899,Judith Merkle Riley,1942-01-14
+3900,Diane Arbus,1923-03-14
+3901,Richard Hofstadter,1916-08-06
+3902,Maile Meloy,1972-01-01
+3903,Barry Hannah,1942-04-23
+3904,Shelagh Delaney,1938-11-25
+3905,Geoffrey Wellum,1921-08-04
+3906,Candace Fleming,1962-05-24
+3907,Andrew Lloyd Webber,1948-03-22
+3908,Siegfried Lenz,1926-03-17
+3909,Andrew Marr,1959-07-31
+3910,Graham Joyce,1954-10-22
+3911,Stephen Leather,1956-10-25
+3912,Bryan Talbot,1952-02-24
+3913,Joseph P. Lash,1909-12-02
+3914,Raph Koster,1971-09-07
+3915,Tony Buzan,1942-06-02
+3916,Henry Wadsworth Longfellow,1807-02-27
+3917,Ramana Maharshi,1879-12-30
+3918,Joel Goldman,1952-10-23
+3919,David Talbot,1951-09-22
+3920,Jaime Hernández,1972-01-18
+3921,James McManus,1951-03-22
+3922,Steven H. Strogatz,1959-08-13
+3923,Theodore Dalrymple,1949-10-11
+3924,Philip Sugden,1947-01-27
+3925,Richard Kadrey,1957-08-27
+3926,Edward Dolnick,1952-11-10
+3927,L. Sprague de Camp,1907-11-27
+3928,Ayi Kwei Armah,1939-10-28
+3929,Margaret Mead,1901-12-16
+3930,Shepard Fairey,1970-02-15
+3931,John Jantsch,1960-04-02
+3932,M. Ageyev,1898-08-08
+3933,Tim Parks,1954-12-19
+3934,Patrick White,1912-05-28
+3935,Jesse Schell,1970-06-13
+3936,Wendy Pini,1951-06-04
+3937,Delia Smith,1941-06-18
+3938,Connie Briscoe,1952-12-31
+3939,Wendy Wasserstein,1950-10-18
+3940,Yoshihiro Togashi,1966-04-27
+3941,Rebecca Walker,1969-11-17
+3942,Peter Berresford Ellis,1943-03-10
+3943,Margaret Drabble,1939-06-05
+3944,Geronimo,1829-06-16
+3945,Henri Troyat,1911-11-01
+3946,Richard J. Herrnstein,1930-05-20
+3947,D. Martyn Lloyd-Jones,1899-12-20
+3948,Kirby McCauley,1941-09-11
+3949,Camille Paglia,1947-04-02
+3950,Rosa Luxemburg,1871-03-05
+3951,Gabriela Zapolska,1857-03-30
+3952,Nelson Algren,1909-03-28
+3953,Marjorie Pay Hinckley,1910-06-23
+3954,Paul M. Buhle,1944-09-27
+3955,Peter Zumthor,1943-04-26
+3956,Neal Cassady,1926-02-08
+3957,William Glasser,1925-05-11
+3958,Roger Dawson,1940-03-19
+3959,Christopher Reich,1961-11-12
+3960,Joyce Maynard,1953-11-05
+3961,Stanley Hauerwas,1940-07-24
+3962,Molly Ivins,1944-08-30
+3963,Ralph Fletcher,1953-03-17
+3964,Richard Hugo,1923-12-21
+3965,Anna Katharine Green,1846-11-11
+3966,Jim Rohn,1930-09-17
+3967,Max Stirner,1806-10-25
+3968,Carl-Johan Vallgren,1964-07-26
+3969,Danilo Kiš,1935-02-22
+3970,Uta Hagen,1919-06-12
+3971,Israel Finkelstein,1949-03-29
+3972,Dani Shapiro,1962-04-10
+3973,Alex Comfort,1920-02-10
+3974,Colin Thiele,1920-11-16
+3975,Liz Carlyle,1958-08-07
+3976,Bill Amend,1962-09-20
+3977,Joseph Prince,1963-05-15
+3978,Phil Lesh,1940-03-15
+3979,Ingmar Bergman,1918-07-14
+3980,Melinda Metz,1962-03-07
+3981,Julie E. Czerneda,1955-04-11
+3982,Fawn M. Brodie,1915-09-15
+3983,Michel Tournier,1924-12-19
+3984,Jane Porter,1776-01-17
+3985,Blaize Clement,1932-08-18
+3986,Christa Wolf,1929-03-18
+3987,Mike Cohn,1962-08-25
+3988,Gary K. Wolf,1941-01-24
+3989,Rachel Vail,1966-07-26
+3990,Antjie Krog,1952-10-23
+3991,Ronald J. Sider,1939-09-17
+3992,Antonio Machado,1875-07-26
+3993,Charlotte MacLeod,1922-11-12
+3994,Jason Lutes,1967-12-07
+3995,James K. Morrow,1947-03-17
+3996,Ken MacLeod,1954-08-02
+3997,Emmanuel Carrère,1957-12-09
+3998,Brenda Janowitz,1973-06-22
+3999,Fuyumi Ono,1960-12-24
+4000,Catherine Cookson,1906-06-20
+4001,Anthony Summers,1942-12-21
+4002,Naoko Takeuchi,1967-03-15
+4003,Brad Gilbert,1961-08-09
+4004,Juan Arias,1964-12-03
+4005,Jonathan D. Spence,1936-08-11
+4006,Nick Sagan,1970-09-16
+4007,John Lanchester,1962-02-25
+4008,Groucho Marx,1890-10-02
+4009,Phoebe Gilman,1940-04-04
+4010,John McWhorter,1965-10-06
+4011,Robin Parrish,1975-10-13
+4012,Nancy Friday,1933-08-27
+4013,François Mauriac,1885-10-11
+4014,Janice Galloway,1955-12-02
+4015,Donald C. Johanson,1943-06-28
+4016,Winifred Holtby,1898-06-23
+4017,Christopher Durang,1949-01-02
+4018,John Vernon Lord,1939-04-09
+4019,Benjamin Zephaniah,1958-04-15
+4020,Evan Thomas,1951-04-25
+4021,Taiyo Matsumoto,1967-10-25
+4022,Uwe Timm,1940-03-30
+4023,Seth Grahame-Smith,1976-01-04
+4024,David Kenyon Webster,1922-06-02
+4025,Luc Besson,1959-03-18
+4026,Emmet Fox,1886-07-30
+4027,Pope Paul VI,1897-09-26
+4028,Carlos Bulosan,1913-11-24
+4029,Heinrich Mann,1871-03-27
+4030,Kevyn Aucoin,1962-02-14
+4031,Mariane Pearl,1967-07-23
+4032,David Ignatius,1950-05-26
+4033,Lawrence Lessig,1961-06-03
+4034,Robert Zubrin,1952-04-09
+4035,Gillian Cross,1945-12-24
+4036,James Carville,1944-10-25
+4037,Fumiko Enchi,1905-10-02
+4038,Robert Lowell,1917-03-01
+4039,Barbara Goldsmith,1931-05-18
+4040,Marcus Clarke,1846-04-24
+4041,Dennis Cooper,1953-01-10
+4042,Christopher Lasch,1932-06-01
+4043,Petr Beckmann,1924-11-13
+4044,Alexander Shulgin,1925-06-17
+4045,Charles R. Swindoll,1934-10-18
+4046,Jean M. Twenge,1971-08-24
+4047,Amy Dickinson,1959-11-06
+4048,Eileen Chang,1920-09-30
+4049,Bobby Flay,1964-12-10
+4050,Pete Seeger,1919-05-03
+4051,Charlie Brooker,1971-03-03
+4052,Nahoko Uehashi,1962-07-15
+4053,Bradley Trevor Greive,1970-02-22
+4054,Fran Ross,1935-06-25
+4055,Wayland Drew,1932-12-09
+4056,Simon Brett,1945-10-28
+4057,D.A. Carson,1946-12-21
+4058,Daniel Pinkwater,1941-11-15
+4059,Paul Stamets,1955-07-17
+4060,Hugh Fearnley-Whittingstall,1965-01-14
+4061,Isabella Lucy Bird,1831-10-15
+4062,Ralph Peters,1952-04-19
+4063,Peter Dickinson,1927-12-16
+4064,Marshall Berman,1940-11-24
+4065,Anthony  Lewis,1927-03-27
+4066,Carlo Emilio Gadda,1893-11-14
+4067,Charles Simic,1938-05-09
+4068,Jess Walter,1965-07-20
+4069,Adrian Wojnarowski,1969-03-04
+4070,H. Richard Niebuhr,1894-09-03
+4071,William D. Mounce,1953-02-17
+4072,Judith Jones,1924-03-10
+4073,Margaret Landon,1903-09-07
+4074,Douglas Brinkley,1960-12-14
+4075,Kitty Kelley,1942-04-04
+4076,Theresa Hak Kyung Cha,1951-03-04
+4077,James H. Schmitz,1911-10-15
+4078,William T. Vollmann,1959-07-28
+4079,Jan Tomasz Gross,1947-08-01
+4080,Beth Kobliner,1965-01-18
+4081,Michael S. Gazzaniga,1939-12-12
+4082,Bobbie Ann Mason,1940-05-01
+4083,Ann Coulter,1961-12-08
+4084,Derek Walcott,1930-01-23
+4085,John J. Mearsheimer,1947-12-14
+4086,Saki,1870-12-18
+4087,George Weigel,1951-04-17
+4088,Stefan Sagmeister,1962-08-06
+4089,Walter Wick,1953-02-23
+4090,Andy Serkis,1964-04-20
+4091,Paul Anthony Cartledge,1947-03-24
+4092,Michael Jordan,1963-02-17
+4093,Naomi Shihab Nye,1952-03-12
+4094,Pyotr Kropotkin,1842-12-09
+4095,Ernest Lawrence Thayer,1863-08-14
+4096,Max Allan Collins,1948-03-03
+4097,Fulton J. Sheen,1895-05-08
+4098,Catherine Asaro,1955-11-06
+4099,Anne Fausto-Sterling,1944-07-30
+4100,José Donoso,1924-10-05
+4101,Howard Bloom,1943-06-25
+4102,Margarita Engle,1951-09-02
+4103,Ousmane Sembène,1923-01-01
+4104,Francine Hughes,1947-08-17
+4105,Stephen J. Cannell,1941-02-05
+4106,James Moloney,1954-09-20
+4107,Karl Schroeder,1962-09-04
+4108,Robert Dallek,1934-05-16
+4109,Mark Lewisohn,1958-06-16
+4110,Ignazio Silone,1900-05-01
+4111,Tom Peters,1942-11-07
+4112,Beverly LaHaye,1929-04-30
+4113,Carl Schmitt,1888-07-11
+4114,Anthony Loyd,1966-09-12
+4115,Josef Pieper,1904-05-04
+4116,Fae Myenne Ng,1956-12-02
+4117,Derrick Jensen,1960-12-19
+4118,Will Hobbs,1947-08-22
+4119,Donald R. Burgett,1925-04-05
+4120,Antonio Tabucchi,1943-09-24
+4121,Meera Syal,1961-06-27
+4122,Joe  Boyd,1942-08-05
+4123,Mark Rippetoe,1956-02-12
+4124,Budd Schulberg,1914-03-27
+4125,Alex Bledsoe,1963-02-03
+4126,Jacob A. Riis,1849-05-03
+4127,Thomas M. Disch,1940-02-02
+4128,Rius,1934-06-20
+4129,Mikhail Saltykov-Shchedrin,1826-01-27
+4130,Lenny Bruce,1925-10-13
+4131,Margaret Truman,1924-02-17
+4132,Robyn Scott,1981-01-09
+4133,George S. Patton Jr.,1885-11-11
+4134,Marianne Wiggins,1947-11-08
+4135,Whitney Chadwick,1943-07-28
+4136,Sarah Ruhl,1974-01-24
+4137,Mary Zimmerman,1960-08-23
+4138,Bertrice Small,1937-12-09
+4139,Madonna,1958-08-16
+4140,Patrick F. McManus,1933-08-25
+4141,Lerone Bennett Jr.,1928-10-17
+4142,Ivan Van Sertima,1935-01-26
+4143,Georges Bernanos,1888-02-20
+4144,David W. Blight,1949-03-21
+4145,Tom Reiss,1964-05-05
+4146,Miss Read,1913-04-17
+4147,Dennis L. McKiernan,1932-04-04
+4148,Janisse Ray,1962-02-02
+4149,Joseph A. Schumpeter,1883-02-08
+4150,Robert Traver,1903-06-29
+4151,Harry Thompson,1960-02-06
+4152,Diana Peterfreund,1979-01-20
+4153,Junji Ito,1963-07-31
+4154,Valerian Albanov,1881-05-26
+4155,Samantha Hunt,1971-05-15
+4156,Irmgard Keun,1905-02-06
+4157,Bill Buxton,1949-03-10
+4158,Alistair Horne,1925-11-09
+4159,Dalene Matthee,1938-10-13
+4160,David Beckham,1975-05-02
+4161,Rudolf Höss,1901-11-25
+4162,Roderick Townley,1942-06-07
+4163,Christopher Andersen,1949-05-26
+4164,Frederick Kohner,1905-09-25
+4165,Marjorie Shostak,1945-05-11
+4166,Henry Van Dyke,1852-11-10
+4167,Cara Black,1979-02-17
+4168,Barbara Comyns,1907-12-27
+4169,Karl May,1842-02-25
+4170,Tim Gunn,1953-07-29
+4171,Alain Robbe-Grillet,1922-08-18
+4172,Olive Schreiner,1855-03-24
+4173,John Bolton,1948-11-20
+4174,Werner Heisenberg,1901-12-05
+4175,Elizabeth Zimmermann,1910-08-09
+4176,Rush Limbaugh,1951-01-12
+4177,Caitlín R. Kiernan,1964-05-26
+4178,Chelsea Quinn Yarbro,1942-09-15
+4179,Rudolph W. Giuliani,1944-05-28
+4180,Alison Uttley,1884-12-17
+4181,Frances O'Roark Dowell,1964-05-30
+4182,Gene Simmons,1949-08-25
+4183,Francis Macdonald Cornford,1874-02-27
+4184,Mike Royko,1932-09-19
+4185,Louis Couperus,1863-06-10
+4186,David Sklansky,1947-12-22
+4187,Paul Burrell,1958-06-06
+4188,Benjamin Constant,1767-10-25
+4189,Stuart Howarth,1990-01-26
+4190,Mattilda Bernstein Sycamore,1973-05-31
+4191,Evelyn Underhill,1875-12-06
+4192,Christianna Brand,1907-12-17
+4193,Murray N. Rothbard,1926-03-02
+4194,Jeff Robbins,1969-01-18
+4195,Penelope Lively,1933-03-17
+4196,Sarah Beth Durst,1974-05-23
+4197,Allison Winn Scotch,1973-06-12
+4198,Chris Abani,1966-12-27
+4199,John Edward,1969-10-19
+4200,Alistair MacLeod,1936-07-20
+4201,Valentine Davies,1905-08-25
+4202,Joan Lowery Nixon,1927-02-03
+4203,Ed Sanders,1939-08-17
+4204,Robert Bresson,1901-09-25
+4205,Steve Biko,1946-12-18
+4206,Siegfried Sassoon,1886-09-08
+4207,Jurek Becker,1937-09-30
+4208,John Dudley Ball,1911-07-08
+4209,Jen Bryant,1960-05-13
+4210,Nigel Nicolson,1917-01-19
+4211,Jason Pinter,1979-11-10
+4212,Jim DeRogatis,1964-09-02
+4213,Thomas E. Woods Jr.,1972-08-01
+4214,Jamling Tenzing Norgay,1965-04-23
+4215,Tad Hills,1963-04-01
+4216,Danny Sugerman,1954-10-11
+4217,Eleanor Cameron,1912-03-23
+4218,Ram Charan,1985-03-27
+4219,Matt Fraction,1975-12-01
+4220,Gerald G. May,1940-06-12
+4221,Philip Van Doren Stern,1900-09-10
+4222,Bernardine Evaristo,1959-05-28
+4223,Christopher Finch,1975-06-23
+4224,Ekaterina Sedia,1970-07-09
+4225,Ronald H. Spector,1943-01-17
+4226,Aleksandar Hemon,1964-09-09
+4227,Robert Darnton,1939-05-10
+4228,James Hadley Chase,1906-12-24
+4229,David Allen Sibley,1961-10-22
+4230,Francis Parkman,1823-09-16
+4231,Dan Slott,1967-07-03
+4232,Andrés Duany,1949-09-07
+4233,David Levering Lewis,1936-05-25
+4234,Ruth Krauss,1901-07-25
+4235,Jack Miles,1942-07-30
+4236,Sanford Meisner,1905-08-31
+4237,Giles Andreae,1966-03-16
+4238,Alejandro Jodorowsky,1929-02-17
+4239,Wolfgang Hohlbein,1953-08-15
+4240,Peter Milligan,1961-06-24
+4241,Anne LaBastille,1933-11-20
+4242,Sunil Gangopadhyay,1934-09-07
+4243,Vladimir Voinovich,1932-09-26
+4244,George Sand,1804-07-01
+4245,Jirō Taniguchi,1947-08-14
+4246,Henri Bergson,1859-10-18
+4247,David M. Buss,1953-04-14
+4248,Alisa Valdes,1969-02-28
+4249,Ann Halam,1952-02-14
+4250,August Strindberg,1849-01-22
+4251,Jane Espenson,1964-07-14
+4252,Carlo Lucarelli,1960-10-26
+4253,Amiri Baraka,1934-10-07
+4254,Bernard MacLaverty,1942-09-14
+4255,Rachel Pollack,1945-08-17
+4256,John G. Hemry,1956-04-14
+4257,Tomson Highway,1951-12-06
+4258,Leo Marks,1920-09-24
+4259,Andrea Gibson,1975-08-13
+4260,Hilda van Stockum,1908-02-09
+4261,Yun Kouga,1965-07-09
+4262,P.C. Hodgell,1951-03-16
+4263,Mawi Asgedom,1976-09-29
+4264,Mark Mazower,1958-02-20
+4265,Thubten Chodron,1950-09-18
+4266,Gwendolyn Brooks,1917-06-07
+4267,Galway Kinnell,1927-02-01
+4268,Paul Hornschemeier,1977-10-27
+4269,Luc Sante,1954-05-25
+4270,Karen Tei Yamashita,1951-01-08
+4271,Howard Chaykin,1950-10-07
+4272,Robert S. McNamara,1916-06-09
+4273,Cherie Priest,1975-07-30
+4274,Janet Kagan,1946-04-18
+4275,Rachel Hore,1960-01-26
+4276,Dorothy Sterling,1913-11-23
+4277,Edwin O'Connor,1918-07-29
+4278,Nicholas Negroponte,1943-12-01
+4279,Anatole France,1844-04-16
+4280,Zbigniew Brzeziński,1928-03-28
+4281,Stephan Pastis,1968-01-16
+4282,Maria Montessori,1870-08-31
+4283,Eva Schloss,1929-05-11
+4284,Wallace Thurman,1902-08-16
+4285,Lydia Davis,1947-07-15
+4286,Chalmers Johnson,1931-08-06
+4287,Octave Mirbeau,1848-02-16
+4288,Andrew J. Bacevich,1947-07-05
+4289,Betty DeGeneres,1930-05-20
+4290,Owen Beattie,1949-06-03
+4291,Vali Nasr,1960-12-20
+4292,Dan Harrington,1945-12-06
+4293,Ward Moore,1903-08-10
+4294,Leigh Brackett,1915-12-07
+4295,Donald Goines,1936-12-15
+4296,Mumia Abu-Jamal,1954-04-24
+4297,David Hewson,1953-01-09
+4298,H.E. Bates,1905-05-16
+4299,Mayu Shinjō,1973-01-26
+4300,William H. Gass,1924-07-30
+4301,Heather Henson,1970-12-19
+4302,Victor Davis Hanson,1953-09-05
+4303,Brian M. Fagan,1936-08-01
+4304,Sidney W. Mintz,1922-11-16
+4305,Julia Butterfly Hill,1974-02-18
+4306,Liz Williams,1965-02-26
+4307,Tom Christiansen,1963-02-13
+4308,Eugene Cernan,1934-03-14
+4309,Roger Ebert,1942-06-18
+4310,Phillip Lopate,1943-11-16
+4311,Pete Wentz,1979-06-05
+4312,Sally Brampton,1955-07-15
+4313,Ashok K. Banker,1964-02-07
+4314,Quentin Crisp,1908-12-25
+4315,Thomas H. Cook,1947-09-19
+4316,Tahmima Anam,1975-10-08
+4317,Desmond Tutu,1931-10-07
+4318,John Swartzwelder,1949-02-08
+4319,Connie Brockway,1954-12-16
+4320,Kenny Moore,1943-12-01
+4321,Andy Hertzfeld,1953-04-06
+4322,Dorothy Wall,1894-01-12
+4323,Abigail Adams,1744-11-22
+4324,Heda Margolius Kovály,1919-09-15
+4325,James T. Farrell,1904-02-27
+4326,Halldór Laxness,1902-04-23
+4327,Michael Walzer,1935-03-03
+4328,Bruce Alberts,1938-04-14
+4329,Dave Hickey,1938-12-05
+4330,Colin M. Turnbull,1924-11-23
+4331,Marthe Cohn,1920-04-13
+4332,Shulamith Firestone,1945-01-07
+4333,Miroslav Volf,1956-09-25
+4334,Doyle Brunson,1933-08-10
+4335,Allison DuBois,1972-01-24
+4336,George Pérez,1954-06-09
+4337,John McGahern,1934-11-12
+4338,Tom Veitch,1941-09-26
+4339,James I. Robertson Jr.,1930-07-18
+4340,William R. Forstchen,1950-10-11
+4341,Eiji Otsuka,1958-08-28
+4342,Elio Vittorini,1908-07-23
+4343,Elbert Hubbard,1856-06-19
+4344,G. Willow Wilson,1982-08-31
+4345,Mario Rigoni Stern,1921-11-01
+4346,David Bordwell,1947-07-23
+4347,Daniel Alarcón,1977-03-05
+4348,Alex Archer,1908-05-01
+4349,Jeremy Paxman,1950-05-11
+4350,Godfried Bomans,1913-03-02
+4351,Lu Xun,1881-09-25
+4352,Willis Barnstone,1927-11-13
+4353,Arlene Blum,1945-03-01
+4354,Hakim Bey,1945-10-20
+4355,Peter Lamborn Wilson,1945-10-20
+4356,Edward Bunker,1933-12-31
+4357,Harvey Fierstein,1954-06-06
+4358,Raimond Gaita,1946-05-14
+4359,Suzanne Finstad,1955-09-14
+4360,Francesco Petrarca,1304-07-20
+4361,Dan Eldon,1970-09-18
+4362,Will Cuppy,1884-08-23
+4363,John Julius Norwich,1929-09-15
+4364,John P. Marquand,1893-11-10
+4365,Raymond Arroyo,1970-09-20
+4366,Michael Ian Black,1971-08-12
+4367,Drew Carey,1958-05-23
+4368,Philippe Djian,1949-06-03
+4369,Charlie Kaufman,1958-11-19
+4370,Mike Krzyzewski,1947-02-13
+4371,Chris Bunch,1943-12-22
+4372,Kenneth Cook,1929-05-05
+4373,Nicola Barker,1966-03-30
+4374,Aleksey Nikolayevich Tolstoy,1883-01-10
+4375,Andrew S. Tanenbaum,1944-03-16
+4376,Monica Sjöö,1938-12-31
+4377,Li Zhisui,1919
+4378,Yoko Ono,1933-02-18
+4379,Suzy McKee Charnas,1939-10-22
+4380,Bernard Goldberg,1945-05-31
+4381,Nigel C. Benson,1955-01-15
+4382,Joshua Braff,1967-10-11
+4383,Eminem,1972-10-17
+4384,W.R. Burnett,1899-11-25
+4385,Paul Hawken,1946-02-08
+4386,John Braine,1922-04-13
+4387,Conrad Black,1944-08-25
+4388,Alice Borchardt,1939-10-06
+4389,David R. Roediger,1952-07-13
+4390,Amanda Cross,1926-01-13
+4391,Richard McKenna,1913-05-09
+4392,Jack Gilbert,1925-02-18
+4393,Homi K. Bhabha,1949-11-01
+4394,Parley P. Pratt,1807-04-12
+4395,Leonard Wibberley,1915-04-09
+4396,P.T. Barnum,1810-07-05
+4397,Howard Gardner,1943-07-11
+4398,C.K. Prahalad,1941-08-08
+4399,Ray Manzarek,1939-02-12
+4400,Kristin Harmel,1979-05-04
+4401,Olivia Manning,1908-03-02
+4402,Michael    Maloney,1957-06-19
+4403,James Kochalka,1967-05-26
+4404,Naomi Mitchison,1897-11-01
+4405,Kyle Mills,1979-03-15
+4406,Ying Chang Compestine,1963-03-08
+4407,David Graeber,1961-02-12
+4408,Carol Ryrie Brink,1895-12-28
+4409,Douglas Southall Freeman,1886-05-16
+4410,Sam Greenlee,1930-07-13
+4411,Robert Coover,1932-02-04
+4412,Shirley Temple Black,1928-04-23
+4413,G.M. Ford,1945
+4414,David J. Chalmers,1966-04-20
+4415,Norman G. Finkelstein,1953-12-08
+4416,Joachim Fest,1926-12-08
+4417,Robert  Burns,1759-01-25
+4418,John Pelan,1957-07-19
+4419,J.M. Roberts,1928-04-14
+4420,Laurence Leamer,1941-10-30
+4421,David Hockney,1937-07-09
+4422,Kathleen Krull,1952-07-29
+4423,Benazir Bhutto,1953-06-21
+4424,Albert L. Lehninger,1917-02-17
+4425,Nicholas A. Basbanes,1943-05-25
+4426,David Malouf,1934-03-20
+4427,Philip Wylie,1902-05-12
+4428,Quentin Blake,1932-12-16
+4429,Ali Shariati,1933-11-23
+4430,David G. Hartwell,1941-07-10
+4431,Ellen Gilchrist,1935-02-20
+4432,Katherine Marsh,1974-11-11
+4433,Ann Bannon,1932-09-15
+4434,Robert Sheckley,1928-07-16
+4435,Spike Lee,1957-03-20
+4436,Stephen Fried,1958-01-19
+4437,Beryl Bainbridge,1932-11-21
+4438,Howard F. Lyman,1938-09-17
+4439,Jerry Pournelle,1933-08-07
+4440,Robin D.G. Kelley,1962-03-14
+4441,Elizabeth Hand,1957-03-29
+4442,Herman Lehmann,1859-06-05
+4443,Shamim Sarif,1969-09-24
+4444,Harry Lorayne,1926-05-04
+4445,Christine Fletcher,1955-12-02
+4446,Jeffrey Zeldman,1955-01-12
+4447,Roberto Calasso,1941-05-30
+4448,Linda Lovelace,1949-01-10
+4449,Elizabeth Warren,1949-06-22
+4450,Allan Heinberg,1967-06-29
+4451,Catherine Clément,1939-02-10
+4452,John Norman,1931-06-03
+4453,Shawn Michaels,1965-07-22
+4454,Jim Corbett,1875-07-25
+4455,Seymour M. Hersh,1937-04-08
+4456,Karin Lowachee,1973-01-17
+4457,Morgan Spurlock,1970-11-07
+4458,David J. Garrow,1953-05-11
+4459,Brenda Maddox,1932-02-24
+4460,Robert Reed,1932-10-19
+4461,Hew Strachan,1949-09-01
+4462,Roy Thomas,1940-11-22
+4463,Daniil Kharms,1905-12-30
+4464,B.F. Skinner,1904-03-20
+4465,Bruce Schneier,1963-01-15
+4466,Chris Harman,1942-11-08
+4467,Robert Venturi,1925-06-25
+4468,Eve Kosofsky Sedgwick,1950-05-02
+4469,Eric Frank Russell,1905-01-06
+4470,Susie Orbach,1946-11-06
+4471,Carmen Martín Gaite,1925-12-08
+4472,Tom Kratman,1956-09-04
+4473,Philip J. Corso,1915-05-22
+4474,Donna Williams,1963-10-12
+4475,Hideyuki Kikuchi,1949-09-25
+4476,Robert Tine,1954-12-19
+4477,Steve Austin,1964-12-18
+4478,Edward Bulwer-Lytton,1803-05-25
+4479,David Reichert,1950-08-29
+4480,Mark Strand,1934-04-11
+4481,Victor Klemperer,1881-10-09
+4482,Elias Khoury,1948-07-12
+4483,Tori Amos,1963-08-22
+4484,Anthony Giddens,1938-01-18
+4485,Amina Wadud,1952-09-25
+4486,Robert Paul Weston,1975-10-21
+4487,Fredric Brown,1906-10-29
+4488,D.W. Winnicott,1896-04-07
+4489,Elias Canetti,1905-07-25
+4490,Garry Kasparov,1963-04-13
+4491,Bruno Latour,1947-06-22
+4492,Phil Vischer,1966-06-16
+4493,Joseph  O'Connor,1963-09-20
+4494,Renate Dorrestein,1954-01-25
+4495,Lucy Monroe,1906-10-23
+4496,Kristine Kathryn Rusch,1960-06-04
+4497,Jimmy Santiago Baca,1952-01-02
+4498,Alan M. Dershowitz,1938-09-01
+4499,Reginald Hudlin,1961-12-15
+4500,Robert van Gulik,1910-08-09
+4501,Mikhail Naimy,1889-10-17
+4502,Cornell Woolrich,1903-12-04
+4503,Ruth Klüger,1931-10-30
+4504,Rosemary Rogers,1932-12-07
+4505,Charna Halpern,1952-06-01
+4506,John Layman,1969-08-02
+4507,Donella H. Meadows,1941-03-13
+4508,Henri Barbusse,1873-05-17
+4509,Chuck Pfarrer,1957-04-13
+4510,Geoff Dyer,1958-06-05
+4511,Jason Hawes,1971-12-27
+4512,Kurt Aland,1915-03-28
+4513,James Dale Davidson,1946-04-16
+4514,Stephen Wolfram,1959-08-29
+4515,Marc Bloch,1886-07-06
+4516,Jennifer  Jordan,1974-10-17
+4517,Ernle Bradford,1922-01-11
+4518,Adam Zamoyski,1949-01-11
+4519,Ōgai Mori,1862-02-17
+4520,Jack Kirby,1917-08-28
+4521,Nathalie Sarraute,1900-07-18
+4522,Tim Russert,1950-05-07
+4523,Catherine Hamlin,1924-01-24
+4524,Denise Chong,1953-06-09
+4525,Elizabeth Edmondson,1950-07-01
+4526,Gail Sheehy,1936-11-27
+4527,Roger  Deakin,1943-02-11
+4528,Richard Evelyn Byrd,1888-10-25
+4529,Kingsley Amis,1922-04-16
+4530,Courtney Love,1964-07-09
+4531,Michka Assayas,1958-11-02
+4532,Christine King Farris,1927-09-11
+4533,John Jackson Miller,1968-01-12
+4534,Bob  Greene,1947-03-10
+4535,Dorothy Bryant,1930
+4536,Rosemary Wells,1943-01-29
+4537,Robert Bauval,1948-03-05
+4538,David Niven,1910-03-01
+4539,Edward J. Larson,1953-09-21
+4540,C.V. Wedgwood,1910-07-20
+4541,Victoria Beckham,1974-04-17
+4542,Micol Ostow,1976-04-29
+4543,Hannah Whitall Smith,1832-02-07
+4544,Michael Holley,1970-02-26
+4545,Qian Zhongshu,1910-11-21
+4546,Linda Joy Singleton,1957-10-29
+4547,Israel Regardie,1907-11-17
+4548,Sven Lindqvist,1932-03-28
+4549,Margaret Forster,1938-05-25
+4550,N. Gregory Mankiw,1958-02-03
+4551,Philippe Delerm,1950-11-27
+4552,Claude Lévi-Strauss,1908-11-28
+4553,Elizabeth Bear,1971-09-22
+4554,Joe Brainard,1942-03-11
+4555,Whittaker Chambers,1901-04-01
+4556,Frank Luntz,1962-02-23
+4557,Laura Resnick,1962-08-17
+4558,Sanora Babb,1907-04-21
+4559,Arthur T. Benjamin,1961-03-19
+4560,Shelby Steele,1946-01-01
+4561,Kenny Werner,1951-11-19
+4562,Malachi Martin,1921-07-23
+4563,Reyna Grande,1975-09-07
+4564,José Carlos Somoza,1959-11-13
+4565,Errol Flynn,1909-06-20
+4566,Seth Lloyd,1960-08-02
+4567,Oh! Great,1972-02-22
+4568,Eric Temple Bell,1883-02-07
+4569,Rüdiger Safranski,1945-01-01
+4570,Jean Merrill,1923-01-27
+4571,Richard Linklater,1960-07-30
+4572,Arlie Russell Hochschild,1940-01-15
+4573,Dee Dee Ramone,1951-09-18
+4574,Ricardo Piglia,1941-11-24
+4575,Václav Havel,1936-10-05
+4576,Jim Edgar,1946-07-22
+4577,Jo-Ann Mapson,1952-03-29
+4578,Tim Lebbon,1969-07-28
+4579,Jürgen Habermas,1929-06-18
+4580,Vivian Gornick,1935-06-14
+4581,Ben Schott,1974-05-26
+4582,Mary Douglas,1921-03-25
+4583,U.R. Ananthamurthy,1932-12-21
+4584,Ernest Poole,1880-01-23
+4585,Leonard Gross,1931-02-24
+4586,Gail Godwin,1937-06-18
+4587,Leonard Bernstein,1918-08-25
+4588,Jan  Thomas,1958-09-18
+4589,Elizabeth Cody Kimmel,1964-10-23
+4590,Sophie Treadwell,1885-10-03
+4591,Peter R.L. Brown,1935-07-26
+4592,Julia Sweeney,1959-10-10
+4593,Gelsey Kirkland,1952-12-29
+4594,Kelly Braffet,1977-02-21
+4595,Alan Sokal,1955-01-24
+4596,Maurice Bucaille,1920-07-19
+4597,Eugene D. Genovese,1930-05-19
+4598,John Dean,1938-10-14
+4599,Michael Stanley,1948-03-25
+4600,Edward Steichen,1879-03-27
+4601,Janet E. Morris,1946-05-25
+4602,Kwame Anthony Appiah,1954-05-08
+4603,Sarat Chandra Chattopadhyay,1876-09-15
+4604,Peter Hathaway Capstick,1940-01-11
+4605,Enki Bilal,1951-10-07
+4606,Neil Mulholland,1980-02-13
+4607,Ronald Hutton,1953-12-19
+4608,Ethan Canin,1960-07-19
+4609,John Stossel,1947-03-06
+4610,Pamela Ribon,1975-04-04
+4611,Marlon Brando,1924-04-03
+4612,Tomi Ungerer,1931-11-28
+4613,Lawrence Scanlan,1843-09-28
+4614,Petros Markaris,1937-01-01
+4615,Zack Hample,1977-09-14
+4616,H.D.,1886-09-10
+4617,Walter R. Borneman,1952-01-05
+4618,Stuart McLean,1948-04-19
+4619,Fletcher Knebel,1911-10-01
+4620,Robert Hass,1941-03-01
+4621,George Ritzer,1940-10-14
+4622,Ed Warren,1926-09-07
+4623,Lyudmila Ulitskaya,1943-02-21
+4624,Jay A. Parry,1950-10-12
+4625,William T. Sherman,1820-02-08
+4626,K.M. Peyton,1929-08-02
+4627,Katsuhiro Otomo,1954-04-14
+4628,Michael Innes,1906-09-30
+4629,James Kirkwood Jr.,1924-08-22
+4630,Kazuo Umezu,1936-09-03
+4631,Charles McCarry,1930-06-14
+4632,Helen Nearing,1904-02-23
+4633,Kenneth Frampton,1930-11-20
+4634,George M. Marsden,1939-02-25
+4635,Janet Frame,1924-08-28
+4636,David W. Mack,1972-10-07
+4637,Dennis Wheatley,1897-01-08
+4638,Richard Courant,1888-01-08
+4639,Richard Overy,1947-12-23
+4640,Joy Nash,1980-08-05
+4641,Ivan Klíma,1931-09-14
+4642,Michael Sipser,1954-09-17
+4643,Diana Vreeland,1903-09-29
+4644,Patrik Ouředník,1957-04-23
+4645,Kim Newman,1959-07-31
+4646,Barry Siegel,1949-09-07
+4647,Guy P. Harrison,1963-10-08
+4648,Rebecca York,1942-04-27
+4649,Bernard B. Fall,1926-11-19
+4650,Robert Graysmith,1942-09-17
+4651,Pu Songling,1640-06-05
+4652,Janet Lowe,1940-05-15
+4653,Lydia Chukovskaya,1907-03-24
+4654,Stephanie Alexander,1940-11-13
+4655,Robert B. Reich,1946-06-24
+4656,Gordon Ramsay,1966-11-08
+4657,Tom Mangold,1934-08-20
+4658,Anna Politkovskaya,1958-08-30
+4659,Erin Soderberg Downing,1976-10-21
+4660,Carol J. Clover,1940-07-31
+4661,James Alan Gardner,1955-01-10
+4662,Tina   Turner,1939-11-26
+4663,Anthony Grey,1938-07-05
+4664,Kevin O'Malley,1947-05-12
+4665,Davy Rothbart,1975-04-11
+4666,Roch Carrier,1937-05-13
+4667,Jill Lepore,1966-08-27
+4668,Etty Hillesum,1914-01-15
+4669,Harry Mazer,1925-05-31
+4670,Jerry Stahl,1953-09-28
+4671,Gary F. Marcus,1970-02-08
+4672,Curtis Jobling,1972-02-14
+4673,Eugene B. Fluckey,1913-10-05
+4674,John Dominic Crossan,1934-02-17
+4675,Alma Alexander,1963-07-05
+4676,Peter Kurth,1957-04-04
+4677,M. William Phelps,1967-02-01
+4678,Herbert Benson,1935-04-24
+4679,John Vornholt,1951-02-14
+4680,James Reston Jr.,1941-03-08
+4681,Neal Boortz,1945-04-06
+4682,Robert Axelrod,1943-05-27
+4683,Alexander Steele,1941-02-25
+4684,Barbara Fairchild,1950-11-12
+4685,Kyra Sundance,1970-07-20
+4686,Ivan Alekseyevich Bunin,1870-10-22
+4687,Norman Spinrad,1940-09-15
+4688,Sandi Toksvig,1958-05-03
+4689,Lao She,1899-02-03
+4690,George Jonas,1935-06-15
+4691,Eliot Schrefer,1978-11-25
+4692,Alan Guth,1947-02-27
+4693,Nicholas Wolterstorff,1932-01-21
+4694,Anita Brookner,1928-07-16
+4695,Randal L. Schwartz,1961-11-22
+4696,Rick Bass,1958-03-07
+4697,Ludwig von Mises,1881-09-29
+4698,Friedrich Hölderlin,1770-03-20
+4699,Ted Turner,1938-11-19
+4700,Jane Kenyon,1947-05-23
+4701,Julia Rawlinson,1964-02-29
+4702,Ron Carter,1937-05-04
+4703,Sharon Begley,1956-06-14
+4704,Stokely Carmichael,1941-06-29
+4705,John S.D. Eisenhower,1922-08-03
+4706,Michael B. Oren,1955-05-20
+4707,Victor Ostrovsky,1949-11-28
+4708,William Morris,1834-03-24
+4709,Sean Wilentz,1951-02-20
+4710,Chancellor Williams,1893-12-22
+4711,Ray Coleman,1937-06-15
+4712,David Batstone,1958-04-04
+4713,Henry Petroski,1942-02-06
+4714,Henry Williamson,1895-12-01
+4715,Benito Pérez Galdós,1843-05-10
+4716,David Bezmozgis,1973-06-02
+4717,Eric Idle,1943-03-29
+4718,مصطفى محمود,1921-12-25
+4719,Dianna Hutts Aston,1964-08-12
+4720,Giacomo Casanova,1725-04-02
+4721,Anne Digby,1943-05-05
+4722,James E. Lovelock,1919-07-26
+4723,Ronald L. Graham,1935-10-31
+4724,Owen Sheers,1974-09-20
+4725,Andrea Dworkin,1946-09-26
+4726,David Lubar,1954-03-16
+4727,Catherine Drinker Bowen,1897-01-01
+4728,F.F. Bruce,1910-10-12
+4729,Lynn Abbey,1948-09-18
+4730,Traci Lords,1968-05-07
+4731,Tao Lin,1983-07-02
+4732,Megan Lindholm,1952-03-05
+4733,Sheila Fitzpatrick,1941-06-04
+4734,Sid Jacobson,1929-10-20
+4735,Carlo Goldoni,1707-02-25
+4736,Cesare Beccaria,1738-03-15
+4737,Anne Bernays,1930-09-14
+4738,Tim Pat Coogan,1935-04-22
+4739,Alison Lester,1952-11-17
+4740,Cesare Bonesana,1738-03-15
+4741,Barbara Branden,1929-05-14
+4742,Richard Metzger,1965-07-28
+4743,Thomas J. DiLorenzo,1954-08-08
+4744,Donald Ervin Knuth,1938-01-10
+4745,H. Beam Piper,1904-03-23
+4746,Patrick Dennis,1921-05-18
+4747,Romila Thapar,1931-11-30
+4748,Florence King,1936-01-05
+4749,Robert Olmstead,1954-01-03
+4750,Edgar H. Schein,1928-03-05
+4751,Gerald Posner,1954-05-20
+4752,Sally Bedell Smith,1948-05-27
+4753,Patricia Beatty,1936-05-13
+4754,J. Richard Gott III,1947-02-08
+4755,Babette Cole,1950-09-10
+4756,William S. McFeely,1930-09-25
+4757,Cynthia Harrod-Eagles,1948-08-13
+4758,Charles R.  Jackson,1903-04-06
+4759,Margaret Starbird,1942-06-18
+4760,James M. Ward,1951-05-23
+4761,Muhammad Ali,1942-01-17
+4762,Doris Buchanan Smith,1934-06-01
+4763,Thomas Kinkade,1958-01-19
+4764,Northrop Frye,1912-07-14
+4765,Frederick Charles Copleston,1907-04-10
+4766,Guus Kuijer,1942-08-01
+4767,Ellen G. White,1827-11-26
+4768,Abraham Pais,1918-05-19
+4769,John T. Cacioppo,1951-06-12
+4770,Michael Korda,1933-10-08
+4771,Howie Carr,1952-01-17
+4772,Deborah Hopkinson,1952-02-04
+4773,Persia Woolley,1935-11-08
+4774,Paolo Maurensig,1943-03-26
+4775,Guillermo Cabrera Infante,1929-04-22
+4776,Anthony Hobson,1965-09-10
+4777,Jim Al-Khalili,1962-09-20
+4778,Randy Newman,1943-11-28
+4779,Margaret Millar,1915-02-05
+4780,Mark Medoff,1940-03-18
+4781,Seyyed Hossein Nasr,1933-04-07
+4782,Pat Mora,1942-01-19
+4783,Jim Marrs,1943-12-05
+4784,Deborah Solomon,1957-08-09
+4785,Thom Hartmann,1951-05-07
+4786,Red Auerbach,1917-09-20
+4787,Pavel Bazhov,1879-01-27
+4788,Adam Tooze,1967-07-05
+4789,Jim Garrison,1921-11-20
+4790,Adam Nicolson,1957-09-12
+4791,Nancy Yi Fan,1993-08-26
+4792,Akasha Gloria Hull,1944-12-06
+4793,Mark J. Plotkin,1955-05-21
+4794,Roger Tory Peterson,1908-08-28
+4795,Marvin Kaye,1938-03-10
+4796,John A. Nagl,1966-02-28
+4797,Mordecai Roshwald,1921-05-26
+4798,Ilya Kaminsky,1977-04-18
+4799,J.M. Synge,1871-04-16
+4800,Paul Brunton,1898-10-21
+4801,Lytton Strachey,1880-03-01
+4802,Jack Dann,1945-02-15
+4803,Ken Silverstein,1958-08-12
+4804,Gervase Phinn,1946-12-27
+4805,Kris Radish,1953-09-18
+4806,Karl Edward Wagner,1945-12-12
+4807,Debbie Miller,1950-09-27
+4808,T.J. Parsell,1960-07-12
+4809,Garry Disher,1949-08-15
+4810,Michelle Sagara West,1963-05-05
+4811,Jorge Volpi,1968-07-10
+4812,Emmanuel Le Roy Ladurie,1929-07-19
+4813,Joseph S. Nye Jr.,1937-01-19
+4814,Pamela Burford,1954-08-09
+4815,Arthur Edward Waite,1857-10-02
+4816,Chris Matthews,1945-12-17
+4817,Wendy Cope,1945-07-21
+4818,Tosca Reno,1959-05-22
+4819,Jeffry D. Wert,1946-05-08
+4820,Sam Hamm,1955-11-19
+4821,Elizabeth Ann Scarborough,1947-03-23
+4822,John W. Dean,1938-10-14
+4823,Elise Primavera,1955-05-19
+4824,Nancy Bond,1945-01-08
+4825,Yusef Komunyakaa,1941-04-29
+4826,William F. Buckley Jr.,1925-11-24
+4827,Ann Maxwell,1944-04-05
+4828,Paul W. Brand,1914-07-17
+4829,Kenneth N. Waltz,1924-06-08
+4830,Franklin Graham,1952-07-14
+4831,Jennet Conant,1959-07-15
+4832,James H. Cone,1938-08-05
+4833,Max Boot,1969-09-12
+4834,J.W. Rinzler,1962-08-17
+4835,Katherine Milhous,1894-11-27
+4836,John Clellon Holmes,1926-03-12
+4837,Nina Baym,1936-06-14
+4838,Shannon Drake,1953-03-15
+4839,Milton Sanford Mayer,1908-08-24
+4840,Mao Zedong,1893-12-26
+4841,Kevin DeYoung,1977-06-23
+4842,Linda Grant,1951-02-15
+4843,Mina Loy,1882-12-27
+4844,Ralph Moody,1917-09-10
+4845,Jonathan Raban,1942-06-14
+4846,Walter C. Willett,1945-06-20
+4847,Merry Shannon,1979-06-12
+4848,Ahmadou Kourouma,1927-11-24
+4849,Margaret Cho,1968-12-05
+4850,Willard Van Orman Quine,1908-06-25
+4851,Charles R. Morris,1939-10-23
+4852,Michael Roach,1952-12-17
+4853,André Bazin,1918-04-18
+4854,Abraham Kuyper,1837-10-29
+4855,Peter Woit,1957-09-11
+4856,Alister E. McGrath,1953-01-23
+4857,Christopher M. Bishop,1959-04-07
+4858,John Lutz,1973-04-23
+4859,Oswald Spengler,1880-05-29
+4860,Walt Morey,1907-02-03
+4861,R. Buckminster Fuller,1895-07-12
+4862,Kij Johnson,1960-01-20
+4863,Alain Badiou,1937-01-17
+4864,Emily Barr,1971-10-10
+4865,E.D.E.N. Southworth,1819-12-26
+4866,Philip Jenkins,1952-04-03
+4867,Alexander R. Luria,1902-07-16
+4868,Yusuf Idris,1927-05-19
+4869,Karen Horney,1885-09-16
+4870,Lesléa Newman,1955-11-05
+4871,Marc Bekoff,1945-09-06
+4872,W. Richard Stevens,1951-02-05
+4873,Atiq Rahimi,1962-02-26
+4874,William W. Johnstone,1938-10-28
+4875,Ava Gardner,1922-12-24
+4876,Walter Rudin,1921-05-02
+4877,Don Perrin,1964-10-01
+4878,Phillip E. Johnson,1940-06-18
+4879,Janusz Korczak,1878-07-22
+4880,Isaiah Berlin,1909-06-06
+4881,Erich von Manstein,1887-11-24
+4882,James Alan McPherson,1943-09-16
+4883,Trisha Yearwood,1964-09-19
+4884,Jeanne Betancourt,1941-10-02
+4885,Jim Dent,1939-05-09
+4886,James Bamford,1946-09-15
+4887,Keith  Miller,1919-11-28
+4888,Allan Kardec,1804-10-03
+4889,Lewis Thomas,1913-11-25
+4890,I.F. Stone,1907-12-24
+4891,Blanche Wiesen Cook,1941-04-20
+4892,Alfred W. Crosby,1931-01-15
+4893,Flora Annie Steel,1847-04-02
+4894,Burton Watson,1925-06-13
+4895,Maria Edgeworth,1768-01-01
+4896,Mark Doty,1953-08-10
+4897,Louise Brooks,1906-11-14
+4898,Harry Patterson,1929-07-27
+4899,Noel Fielding,1973-05-21
+4900,Roxana Robinson,1946-11-30
+4901,Rodney Stark,1934-07-08
+4902,Stephen McCauley,1955-06-26
+4903,Klas Östergren,1955-02-20
+4904,George Meredith,1828-02-12
+4905,William Blum,1933-03-06
+4906,Clive James,1939-10-07
+4907,Leonard Michaels,1933-01-02
+4908,Freya North,1967-11-21
+4909,Jake Arnott,1961-03-11
+4910,Novalis,1772-05-02
+4911,Colin  Ward,1924-08-14
+4912,Terry Bisson,1942-02-12
+4913,Desmond Bagley,1923-10-29
+4914,Thomas Gifford,1937-05-16
+4915,Taro Yashima,1908-09-21
+4916,Carolyn Treffinger,1891-10-24
+4917,Janet Dailey,1944-05-21
+4918,Robert Aickman,1914-06-27
+4919,Antoine Bello,1970-03-25
+4920,Diet Eman,1920-04-30
+4921,Jim Henson,1936-09-24
+4922,Judith Hermann,1970-05-15
+4923,Trevor Hastie,1953-06-27
+4924,Laurie Graham,1960-03-30
+4925,Leo Frankowski,1943-02-13
+4926,Albert Ellis,1913-09-27
+4927,Edward Mead Earle,1894-05-20
+4928,Richard Appignanesi,1940-12-20
+4929,Peter Paret,1924-04-13
+4930,Mark Driscoll,1970-10-11
+4931,Frank Deford,1938-12-16
+4932,Kim   Wilson,1951-01-06
+4933,Patrick McDonnell,1956-03-17
+4934,Janet McNaughton,1953-11-29
+4935,James Hamilton-Paterson,1941-11-06
+4936,Pamela Morsi,1951-03-12
+4937,Gerard Jones,1957-07-10
+4938,Stewart Brand,1938-12-14
+4939,Tracy Hickman,1955-11-26
+4940,Alan Aldridge,1938-07-08
+4941,Ernst Neufert,1900-03-15
+4942,Fergus Henderson,1963-07-31
+4943,Jeanne Marie Laskas,1958-09-22
+4944,Gus Hansen,1974-02-13
+4945,Bill Mollison,1928-05-04
+4946,Angelina Jolie,1975-06-04
+4947,Donna J. Haraway,1944-09-06
+4948,Gary Schroen,1941-11-06
+4949,Paul A. Offit,1951-03-27
+4950,Bear Grylls,1974-06-07
+4951,Charles Godfrey Leland,1824-08-15
+4952,Mary Hunter Austin,1868-09-09
+4953,Sri Sri Ravi Shankar,1956-05-13
+4954,Thornton W. Burgess,1874-01-14
+4955,Nina Kiriki Hoffman,1955-03-20
+4956,Barry Crump,1935-05-15
+4957,Gina Cerminara,1914-04-11
+4958,Joy Harjo,1951-05-09
+4959,Robert Creeley,1926-05-21
+4960,Ephraim Kishon,1924-08-23
+4961,Ama Ata Aidoo,1942-03-23
+4962,Antonin Sertillanges,1863-11-16
+4963,Nina Simone,1933-02-21
+4964,Maureen O'Hara,1920-08-17
+4965,Mark Verheiden,1956-03-26
+4966,Hans-Hermann Hoppe,1949-09-02
+4967,Leon Trotsky,1879-11-07
+4968,Erica Jong,1942-03-26
+4969,Horacio Quiroga,1878-12-31
+4970,Daniel L. Schacter,1952-06-17
+4971,John J. Nance,1946-07-05
+4972,Viola Canales,1957-04-21
+4973,April Henry,1959-04-19
+4974,Timothy Gowers,1963-11-20
+4975,Robert Falcon Scott,1868-06-06
+4976,Marie Forleo,1975-12-07
+4977,Henry Martyn Robert,1837-05-02
+4978,Lawrence Otis Graham,1961-12-25
+4979,James Plunkett,1920-05-21
+4980,Judith Orloff,1951-06-25
+4981,Rupert Everett,1959-05-29
+4982,Thomas Hauser,1946-02-27
+4983,Wayne Grover,1906-09-14
+4984,Louis Althusser,1918-10-16
+4985,Margaret Wander Bonanno,1950-02-07
+4986,Nora Okja Keller,1966-12-22
+4987,Victoria Houston,1945-03-25
+4988,Mike Resnick,1942-03-05
+4989,Alisa Craig,1922-11-12
+4990,John L. Hennessy,1952-09-22
+4991,Romesh Gunesekera,1954
+4992,Kiran Nagarkar,1942-04-02
+4993,Lauren Thompson,1982-07-29
+4994,Ethel Lina White,1876-04-02
+4995,Raymond Williams,1921-08-31
+4996,Thomas Ligotti,1953-07-09
+4997,Peggy Guggenheim,1898-08-26
+4998,Andrew J. Offutt,1934-08-16
+4999,G.A. Henty,1832-12-08
+5000,George A. Romero,1940-02-04
+5001,Joseph Plumb Martin,1760-11-21
+5002,Martin McGartland,1970-01-30
+5003,Shirlee Busbee,1941-08-09
+5004,David Icke,1952-04-29
+5005,Robert L. Park,1931-01-16
+5006,Christian Bök,1966-08-10
+5007,David Levien,1967-12-09
+5008,Darren Rowse,1972-04-27
+5009,Elizabeth Aston, 1948 -02-21
+5010,Aaron McGruder,1974-05-29
+5011,Patricia Kennealy-Morrison,1946-03-04
+5012,Steven Raichlen,1953-03-11
+5013,Walter Álvarez,1940-10-03
+5014,Dennis Prager,1948-08-02
+5015,Shawn Levy,1968-07-23
+5016,Olena Kalytiak Davis,1963-09-16
+5017,David Wingrove,1954-09-01
+5018,Gay Talese,1932-02-07
+5019,Kevin Sessums,1956-03-28
+5020,Dwight D. Eisenhower,1890-10-14
+5021,Barbara Mertz,1927-09-29
+5022,Angela Nissel,1978-12-05
+5023,Dany Laferrière,1953-04-13
+5024,Fridtjof Nansen,1861-10-10
+5025,Edmonde Charles-Roux,1920-04-17
+5026,Genevieve Foster,1893-04-13
+5027,Diane Carey,1954-10-02
+5028,Mother Teresa,1910-08-26
+5029,Mike Gold,1894-04-12
+5030,Adele Berlin,1943-05-23
+5031,Jürgen Moltmann,1926-04-08
+5032,Rose Macaulay,1881-08-01
+5033,Francis Bacon,1561-01-22
+5034,A.B. Yehoshua,1936-12-09
+5035,John M. Ford,1957-04-10
+5036,Steven Runciman,1903-07-07
+5037,Lorna Sage,1943-01-13
+5038,Richard Sennett,1943-01-01
+5039,Michael Isikoff,1952-06-16
+5040,Stuart Sutherland,1927-03-26
+5041,Hirohiko Araki,1960-06-07
+5042,James C. Humes,1934-10-31
+5043,Luca Turin,1953-11-20
+5044,Anna Windsor,1976-05-17
+5045,Reed Farrel Coleman,1956-03-29
+5046,Sinclair B. Ferguson,1948-02-21
+5047,Frank Rich,1949-06-02
+5048,Joel Chandler Harris,1848-12-09
+5049,Jack Trout,1935-01-31
+5050,Chuck Barris,1929-06-03
+5051,Larry Crabb,1944-07-13
+5052,Louise  Brown,1978-07-25
+5053,Alan Davis,1956-06-18
+5054,Siddharth Dhanvant Shanghvi,1977-08-25
+5055,Jennifer Wilde,1938-01-08
+5056,Gordon Parks,1912-11-30
+5057,Reay Tannahill,1929-12-09
+5058,David Plotz,1970-01-31
+5059,Nick Tosches,1949-10-23
+5060,Alex  Robinson,1969-08-08
+5061,Akhil Reed Amar,1958-09-06
+5062,Aung San Suu Kyi,1945-06-19
+5063,Susan Kyle,1946-12-11
+5064,John M. Perkins,1930-06-16
+5065,Esther  Williams,1921-08-08
+5066,Eric Bischoff,1955-05-27
+5067,Josemaría Escrivá,1902-01-09
+5068,Russell Kirk,1918-10-19
+5069,Jonathon King,1944-12-06
+5070,Ian Halperin,1964-08-17
+5071,Barbara Brooks Wallace,1922-12-03
+5072,Bernie Sanders,1941-09-08
+5073,Saul Friedländer,1932-10-11
+5074,Robert Twigger,1962-10-30
+5075,Justina Robson,1968-06-11
+5076,Fernand Braudel,1902-08-24
+5077,Douglas S. Massey,1952-10-05
+5078,Josephine Winslow Johnson,1910-06-20
+5079,Jean Little,1932-01-02
+5080,Anton Szandor LaVey,1930-04-11
+5081,Ian Buruma,1951-12-28
+5082,Peter Balakian,1951-06-13
+5083,Duane Swierczynski,1972-02-22
+5084,Cody Lundin,1967-03-15
+5085,Alfred Kubin,1877-04-10
+5086,Richard B. Hays,1948-05-04
+5087,Susan Minot,1956-12-07
+5088,Trixie Koontz,1945-07-09
+5089,Ellen Meiksins Wood,1942-04-12
+5090,Eric Walters,1957-03-03
+5091,Farah Pahlavi,1938-10-14
+5092,Martin Duberman,1930-08-06
+5093,Sam Giancana,1908-05-24
+5094,Akimitsu Takagi,1920-09-25
+5095,Derek Parfit,1942-12-11
+5096,Lanford Wilson,1937-04-13
+5097,Mary Robison,1949-01-14
+5098,Emily Brightwell,1948-11-10
+5099,Thomas Dubay,1921-12-30
+5100,Elizabeth Cady Stanton,1815-11-12
+5101,Jean-Pierre Vernant,1914-01-04
+5102,Amy Carmichael,1867-12-16
+5103,Alan Burgess,1915-02-01
+5104,Mary Morris,1915-12-13
+5105,Elizabeth Wein,1964-10-02
+5106,Stefan Aust,1946-07
+5107,Peter Rollins,1973-03-31
+5108,Carol Emshwiller,1921-04-12
+5109,B.S. Johnson,1933-02-05
+5110,Katie Price,1978-05-22
+5111,John Gilstrap,1957-02-27
+5112,Louie Giglio,1958-06-30
+5113,Graeme Goldsworthy,1934-09-07
+5114,Charles Addams,1912-01-07
+5115,50 Cent,1975-07-06
+5116,Linda Ellerbee,1944-08-15
+5117,Brigitte Gabriel,1964-10-21
+5118,Jean H. Baker,1933-02-09
+5119,Craig G. Bartholomew,1961-08-03
+5120,Erwin Rommel,1891-11-15
+5121,Barbara Ransby,1957-05-12
+5122,Pratibha Ray,1944-01-21
+5123,Kary Mullis,1944-12-28
+5124,Reynolds Price,1933-02-01
+5125,Jean-François Revel,1924-01-19
+5126,Walter Pater,1839-08-04
+5127,Ernest Gellner,1925-12-09
+5128,Aranka Siegal,1930-06-10
+5129,Robert Buettner,1947-07-07
+5130,Mary Daly,1928-10-16
+5131,Spencer Wells,1969-04-06
+5132,Patricia Grace,1937-08-17
+5133,Loraine Boettner,1901-03-07
+5134,Erik H. Erikson,1902-06-15
+5135,Eugene Field,1850-09-02
+5136,E. Jean Carroll,1943-12-12
+5137,Radu R. Florescu,1925-10-23
+5138,Claire Weekes,1903-04-11
+5139,Nicholas Blake,1904-04-27
+5140,A.J.P. Taylor,1906-03-25
+5141,Alexandre Kojève,1902-04-28
+5142,Roger Scruton,1944-02-27
+5143,Miles Copeland Jr.,1916-07-16
+5144,Claudio Magris,1939-04-10
+5145,Michael Dobbs,1948-11-14
+5146,Barbara Chase-Riboud,1939-06-26
+5147,Ali Vali,1950-10-19
+5148,Harryette Mullen,1953-07-01
+5149,Rebecca Godfrey,1967-12-02
+5150,Henry Handel Richardson,1870-01-03
+5151,Todd McFarlane,1961-03-16
+5152,Éliphas Lévi,1810-02-08
+5153,Mary Appelhof,1936-06-11
+5154,Eugene Braunwald,1929-08-15
+5155,Anthony S. Fauci,1940-12-24
+5156,Douglas Clegg,1958-04-01
+5157,Kurt J. Isselbacher,1925-09-12
+5158,A.C. Grayling,1949-04-03
+5159,Clinton Heylin,1960-04-08
+5160,Rebecca Goldstein,1950-02-23
+5161,Pierre Teilhard de Chardin,1881-05-01
+5162,Raden Adjeng Kartini,1879-04-21
+5163,Vicente Blasco Ibáñez,1867-01-29
+5164,Susan Cheever,1943-07-31
+5165,Dare Wright,1914-12-03
+5166,Suzan-Lori Parks,1963-05-10
+5167,Zenna Henderson,1917-11-01
+5168,Nicholas D. Kristof,1959-04-27
+5169,Geert Mak,1946-12-04
+5170,Jonathan L. Zittrain,1969-12-24
+5171,Elsa Beskow,1874-02-11
+5172,Ed Husain,1974-12-25
+5173,Mark A. Noll,1946-07-18
+5174,Randall Kennedy,1954-09-10
+5175,Michael Jan Friedman,1955-03-07
+5176,Bill Richardson,1947-11-15
+5177,Jean Stafford,1915-07-01
+5178,Jerry Siegel,1914-10-17
+5179,Russell Braddon,1921-01-25
+5180,Alexandre Jardin,1965-04-14
+5181,Lazar Lagin,1903-12-04
+5182,Thant Myint-U,1966-01-31
+5183,Peter Kreeft,1937-03-16
+5184,Gabriele Amorth,1925-05-01
+5185,Marilyn Nelson,1946-04-26
+5186,Josepha Sherman,1946-12-12
+5187,Laurens van der Post,1906-12-13
+5188,Charmian Carr,1942-12-27
+5189,William T. Close,1924-06-07
+5190,Joshua Clover,1962-12-30
+5191,Dario Marianelli,1963-06-21
+5192,Tony Johnston,1970-04-09
+5193,Alisa Valdes-Rodriguez,1969-02-28
+5194,Vardis Fisher,1895-03-31
+5195,Bill Mauldin,1921-10-29
+5196,Noel Ignatiev,1940-12-27
+5197,Ray Daniels,1923-07-15
+5198,Rudolf Steiner,1861-02-27
+5199,Daniel B. Wallace,1952-06-05
+5200,Gayatri Devi,1919-05-23
+5201,Kate Christensen,1962-08-22
+5202,Richard Van Camp,1971-10-08
+5203,Pío Baroja,1872-12-28
+5204,Hugh R. Trevor-Roper,1914-01-15
+5205,Jan Morris,1926-10-02
+5206,Mavis Gallant,1922-08-11
+5207,David Ritz,1943-12-02
+5208,Dafydd ab Hugh,1960-10-22
+5209,David S. Goyer,1965-12-22
+5210,Anatoly Kuznetsov,1929-08-18
+5211,Lon Milo DuQuette,1948-07-11
+5212,Claudia Black,1972-10-11
+5213,Terrance Dicks,1935-04-14
+5214,James  Baldwin,1924-08-02
+5215,Virginia Hamilton,1936-03-12
+5216,Michael Warner,1958-09-09
+5217,Christine Nöstlinger,1936-10-13
+5218,Sukumar Ray,1887-10-30
+5219,Jean de Joinville,1224-05-01
+5220,Susan Howe,1937-06-10
+5221,Kanata Konami,1958-07-03
+5222,Andrei Cherny,1975-08-04
+5223,Alexander Frater,1937-01-03
+5224,Jonathan Cott,1942-12-24
+5225,Adolf Galland,1912-03-19
+5226,Mari Sandoz,1896-05-11
+5227,Charles A. Lindbergh,1902-02-04
+5228,Terry Gross,1951-02-14
+5229,Zeruya Shalev,1959-05-13
+5230,Greg Kot,1957-03-03
+5231,Daniel V. Gallery,1901-07-10
+5232,Ibtisam Barakat,1963-10-02
+5233,Suzanne O'Malley,1954-05-15
+5234,Randall Jarrell,1914-05-06
+5235,Francis Iles,1893-07-05
+5236,Alison Gopnik,1955-06-16
+5237,Nancy Ekholm Burkert,1933-02-16
+5238,Andy Mangels,1966-12-02
+5239,Agnès Humbert,1894-10-12
+5240,Witold Rybczynski,1943-03
+5241,Bob  Graham,1936-11-09
+5242,Adam Parfrey,1957-04-12
+5243,Frederick Jackson Turner, 1861 -11-14
+5244,Gail Parent,1940-08-12
+5245,Tony Mitton,1951-01-10
+5246,Justin Pollard,1968-01-30
+5247,Adam  Copeland,1973-10-30
+5248,Karl Barth,1886-05-10
+5249,Sonya Hartnett,1968-03-23
+5250,David Markson,1927-12-20
+5251,Frances A. Yates,1899-11-28
+5252,Rachel Zoe,1971-09-01
+5253,Nancy A. Collins,1959-09-10
+5254,Jean Vanier,1928-09-10
+5255,Reba McEntire,1955-03-28
+5256,Carl Gottlieb,1938-03-18
+5257,Michael Caine,1933-03-14
+5258,Carl E. Schorske,1915-03-15
+5259,Andrew Niccol,1964-06-10
+5260,Beth Lisick,1968-12-13
+5261,Leroy Aarons,1933-12-08
+5262,Thomas R. Flynn,1936-07-02
+5263,Andy Greenwald,1977-05-19
+5264,Grace Slick,1939-10-30
+5265,Samuel Eliot Morison,1887-07-09
+5266,Linda Nagata,1960-11-07
+5267,Charles M. Payne,1948-03-14
+5268,Kinky Friedman,1944-11-01
+5269,Marina Warner,1946-11-09
+5270,John Henry Newman,1801-02-21
+5271,Robert B. Oxnam,1942-12-14
+5272,Lawrence Sutin,1951-10-12
+5273,Malachy McCourt,1931-09-20
+5274,Kathy Acker,1947-04-18
+5275,Elaine Scarry,1946-06-30
+5276,Masami Tsuda,1970-07-09
+5277,Marius Gabriel,1954-11-13
+5278,Gary Gutting,1942-04-11
+5279,Paul Éluard,1895-12-14
+5280,Megan Abbott,1971-08-21
+5281,Gregory Corso,1930-03-26
+5282,Mike Caro,1944-05-16
+5283,Kathleen Jamie,1962-05-13
+5284,Michael Eric Dyson,1958-10-23
+5285,Kenji Yoshino,1969-05-01
+5286,Richard Pryor,1940-12-01
+5287,M. Russell Ballard,1928-10-08
+5288,Peter D. Kramer,1948-10-22
+5289,E.M. Bounds,1835-08-15
+5290,Seth Mnookin,1972-04-27
+5291,Jim Rogers,1942-10-19
+5292,Carolyn See,1934-01-13
+5293,Theron Q. Dumont,1862-12-05
+5294,David Benatar,1966-12-08
+5295,Saira Shah,1964-10-05
+5296,Paul Magrs,1969-11-12
+5297,Stan Sakai,1953-05-25
+5298,V. Vale,1944-02-04
+5299,Cheikh Anta Diop,1923-12-29
+5300,Alfred Adler,1870-02-07
+5301,Jeff Lemire,1976-03-21
+5302,Gregory White Smith,1951-10-04
+5303,George H.W. Bush,1924-06-12
+5304,Rosina Lippi,1956-01-14
+5305,David Toop,1949-05-05
+5306,Hans J. Massaquoi,1926-01-19
+5307,Eric Shanower,1963-10-23
+5308,M.K. Wren,1938-06-05
+5309,Sofie Laguna,1968-04-02
+5310,David Wallechinsky,1948-02-05
+5311,Anna Botsford Comstock,1854-09-01
+5312,Newt Gingrich,1943-06-17
+5313,Fred Chappell,1936-05-28
+5314,Bessie Head,1937-07-06
+5315,Tzvetan Todorov,1939-03-01
+5316,Raul Hilberg,1926-06-02
+5317,John Coy,1958-08-09
+5318,Peter Bagge,1957-12-11
+5319,Victor Papanek,1923-11-22
+5320,Thomas McGuane,1939-12-11
+5321,Scott Simon,1952-03-16
+5322,Rita Marley,1946-07-25
+5323,Nikki Grimes,1950-10-20
+5324,Terri  Clark,1968-08-05
+5325,Vladimir Sorokin,1955-08-07
+5326,Chris Colfer,1990-05-27
+5327,Gustav Davidson,1895-12-25
+5328,Thomas S. Monson,1927-08-21
+5329,Julius Evola,1898-05-19
+5330,A.A. Attanasio,1951-09-20
+5331,Russ Kick,1969-07-20
+5332,Yoshiko Uchida,1921-11-24
+5333,James Stewart,1908-05-20
+5334,Ethan Coen,1954-11-29
+5335,Gabrielle Bell,1976-03-24
+5336,Mark Danner,1958-11-10
+5337,Archibald MacLeish,1892-05-07
+5338,Pierre-Joseph Proudhon,1809-01-15
+5339,Anna Grigoryevna Dostoyevskaya,1846-09-12
+5340,Lily Tomlin,1939-09-01
+5341,Robert Marion,1766
+5342,June Cross,1954-01-05
+5343,Lewis Mumford,1895-10-19
+5344,John Castle,1940-01-14
+5345,David Lee Roth,1954-10-10
+5346,Theodora Kroeber,1897-03-24
+5347,Dave Gibbons,1949-04-14
+5348,Donald Woods,1933-12-15
+5349,Ann Beattie,1947-09-08
+5350,Eugenio Montale,1896-10-12
+5351,Hiroo Onoda,1922-03-19
+5352,Kevin Weeks,1956-03-21
+5353,Jack Williamson,1908-04-29
+5354,Meir Shalev,1948-07-29
+5355,Edgar Cayce,1877-03-18
+5356,Harry Blamires,1916-11-06
+5357,Dinesh D'Souza,1961-04-25
+5358,Georgia O'Keeffe,1887-11-15
+5359,Pierre Berton,1920-07-12
+5360,Amos Tutuola,1920-06-20
+5361,Everett M. Rogers,1931-03-06
+5362,David Lipsky,1965-07-20
+5363,Helie Lee,1964-08-29
+5364,Keith H. Basso,1940-03-15
+5365,Alexander Berkman,1870-11-21
+5366,Max Arthur,1939-02-25
+5367,Marcus Annaeus Lucanus,39-11-03
+5368,Colby Buzzell,1976-07-17
+5369,Rick Yancey,1962-11-04
+5370,Augusto Boal,1931-03-16
+5371,T. Berry Brazelton,1918-05-10
+5372,Hermann Broch,1886-11-01
+5373,Dita Von Teese,1972-09-28
+5374,Richard Dreyfuss,1947-10-29
+5375,Neal D. Barnard,1953-07-10
+5376,Álvaro Mutis,1923-08-25
+5377,María Amparo Escandón,1957-06-19
+5378,Rachel Cusk,1967-02-08
+5379,Yuyi Morales,1968-11-07
+5380,Vinay   Kumar,1984-02-12
+5381,David Crystal,1941-07-06
+5382,Yakov Perelman,1882-12-04
+5383,Guillermo Arriaga,1958-03-13
+5384,Jean-Philippe Stassen,1966-03-14
+5385,Alan Booth,1946-12-05
+5386,Fred D'Aguiar,1960-02-02
+5387,John Ruskin,1819-02-08
+5388,Hugh D. Young,1930-11-03
+5389,Malidoma Patrice Somé,1956-01-30
+5390,Francis Weston Sears,1898-10-01
+5391,Ramsey Campbell,1946-01-04
+5392,Thea von Harbou,1888-12-27
+5393,John Lukacs,1924-01-31
+5394,Peter Ames Carlin,1963-03-13
+5395,James C. Christensen,1942-09-26
+5396,Deborah Eisenberg,1945-11-20
+5397,William Durbin,1953-12-31
+5398,Linda Chapman,1969-01-15
+5399,Barry Gifford,1946-10-18
+5400,Kirby Larson,1954-08-17
+5401,Steven T. Seagle,1965-03-31
+5402,Tristan Egolf,1971-12-19
+5403,Simon Reynolds,1963-06-19
+5404,Rodney Dangerfield,1921-11-22
+5405,The RZA,1969-07-05
+5406,Liza Picard,1927-10-11
+5407,Maria Dermoût,1888-06-15
+5408,Daniel Ellsberg,1931-04-07
+5409,Martha Raddatz,1953-02-14
+5410,Thomas Szasz,1920-04-15
+5411,Mahasweta Devi,1926-01-14
+5412,Alicia Giménez Bartlett,1951-06-10
+5413,Steve Augarde,1950-10-03
+5414,Joseph Moncure March,1899-07-27
+5415,Erik Weihenmayer,1968-09-23
+5416,Walter Block,1941-08-21
+5417,Ron Wood,1947-06-01
+5418,Michael Grunwald,1970-08-16
+5419,Frank Galati,1943-11-29
+5420,Arthur W. Upfield,1890-09-01
+5421,Jerzy Grotowski,1933-08-11
+5422,Judith Martin,1938-09-13
+5423,William Taubman,1941-11-13
+5424,Matthew Arnold,1822-12-24
+5425,Hervé Guibert,1955-12-14
+5426,Marc Aronson,1950-10-19
+5427,Gene Edwards,1932-07-18
+5428,Rudolf Otto,1869-09-25
+5429,Edward T. Hall,1914-05-16
+5430,Ralph D. Winter,1924-12-08
+5431,Gerald Schroeder,1938-02-20
+5432,Tony    Wilson,1950-02-20
+5433,Gerda Lerner,1920-04-30
+5434,Stanley Coren,1942-11-19
+5435,Michael Eliot Howard,1922-11-29
+5436,Gregory Bateson,1904-05-09
+5437,Sterling E. Lanier,1927-12-18
+5438,John Lindow,1946-07-23
+5439,Andrew M. Greeley,1928-02-05
+5440,Paul Schrader,1946-07-22
+5441,Walter Wink,1935-05-21
+5442,Bronisław Malinowski,1884-04-07
+5443,M.E. Kerr,1927-05-27
+5444,Laird Koenig,1927-09-24
+5445,Asma Barlas,1950-03-10
+5446,Mike Baron,1949-07-01
+5447,Chris Skidmore,1981-05-17
+5448,Edmund Hillary,1919-07-20
+5449,Beth Ann Fennelly,1971-05-22
+5450,Jay Wiseman,1949-06-16
+5451,John Bingham,1815-01-21
+5452,Ernest Cline,1972-03-29
+5453,Victoria A. Fromkin,1923-05-16
+5454,Marion Crawford,1909-06-05
+5455,Peter Irons,1940-08-11
+5456,Jorge G. Castañeda,1953-05-24
+5457,Peter Gay,1923-06-20
+5458,Glenway Wescott,1901-04-11
+5459,B.H. Liddell Hart,1895-10-31
+5460,Daniel Way,1974-12-27
+5461,Herbert Goldstein,1922-06-26
+5462,Courtney E. Martin,1979-12-31
+5463,Violet Jessop,1887-10-02
+5464,Richard Evans Schultes,1915-01-12
+5465,Miho Obana,1970-04-26
+5466,Douglas A. Anderson,1959-12-30
+5467,David Packard,1912-09-07
+5468,Florence Nightingale,1820-05-12
+5469,Gerhard L. Weinberg,1928-01-01
+5470,Graham Norton,1963-04-04
+5471,Tim Lott,1956-01-23
+5472,Steven Mithen,1960-10-16
+5473,Michel Tremblay,1942-06-25
+5474,Russell Means,1939-11-10
+5475,Julia L. Sauer,1891-04-08
+5476,James W. Fowler,1940-10-12
+5477,Hiroaki Samura,1970-02-17
+5478,Shōhei Ōoka,1909-03-06
+5479,F. Sionil José,1924-12-03
+5480,Jenna Maclaine,1975-07-30
+5481,Gianni Rodari,1920-10-23
+5482,Marjorie Wallace,1954-01-23
+5483,Robin McGraw,1950-09-01
+5484,Eddie Guerrero,1967-10-09
+5485,Rosamond Lehmann,1901-02-03
+5486,Rita Dove,1952-08-28
+5487,David Housewright,1955-02-07
+5488,John Ostrander,1949-04-20
+5489,Bryan Magee,1930-04-12
+5490,Daniel C. Esty,1959-06-06
+5491,Judith Tarr,1955-01-30
+5492,Louise Bagshawe,1971-06-28
+5493,Janet Morgan,1921
+5494,Mitsumasa Anno,1926-03-20
+5495,Charles G. Finney,1905-12-01
+5496,Amy Chua,1962-10-26
+5497,Lion Feuchtwanger,1884-07-07
+5498,Spalding Gray,1941-06-05
+5499,Bob Costas,1952-03-22
+5500,David F. Swensen,1954-01-26
+5501,Sharon Page,1971-06-27
+5502,Edmund Wilson,1895-05-08
+5503,Mark Bryan,1967-05-06
+5504,Madsen Pirie,1940-08-24
+5505,Stig Dagerman,1923-10-05
+5506,Pavlos Matesis,1933-01-12
+5507,David Crosby,1941-08-14
+5508,Christian Bobin,1951-04-24
+5509,Sarah B. Pomeroy,1938-03-13
+5510,Christina Lamb,1965-05-15
+5511,Caitlin Brennan,1955-01-30
+5512,Linda Greenhouse,1947-01-09
+5513,Lucius Shepard,1943-08-21
+5514,Sohrab Sepehri,1928-10-07
+5515,Ismat Chughtai,1915-08-21
+5516,Lin Yutang,1895-10-10
+5517,Franz Joseph,1830-08-18
+5518,Victor Serge,1890-12-30
+5519,Tara June Winch,1983-12-02
+5520,David G. Myers,1942-09-20
+5521,Kim Addonizio,1954-07-31
+5522,Marcel Pagnol,1895-02-28
+5523,Fiona Walker,1944-05-24
+5524,David J. Skal,1952-06-21
+5525,Stephen    Lewis,1937-11-11
+5526,Margaret  Wilson,1947-05-20
+5527,Robert Sobel,1931-02-19
+5528,Dorothy Porter,1954-03-26
+5529,Susan Griffin,1943-01-26
+5530,Robert C. Martin,1952-12-05
+5531,Sheree Renée Thomas,1972-09-30
+5532,Kurt Andersen,1954-08-22
+5533,David Bischoff,1951-12-15
+5534,James Sallis,1944-12-21
+5535,Seán O'Casey,1880-03-30
+5536,Parke Godwin,1929-01-28
+5537,Phyllis A. Whitney,1903-09-09
+5538,Bernice Rubens,1923-07-26
+5539,John Cleese,1939-10-27
+5540,George Smoot,1945-02-20
+5541,P.J. Haarsma,1964-06-05
+5542,Michael Baden,1934-07-27
+5543,Norman Lebrecht,1948-07-11
+5544,Edna Lewis,1916-04-13
+5545,Robin Morgan,1941-01-29
+5546,Michael D. Coe,1929-05-14
+5547,Eric  Williams,1911-09-25
+5548,David Bohm,1917-12-20
+5549,Napoleon A. Chagnon,1938-08-27
+5550,Samit Basu,1979-12-14
+5551,Lidia Matticchio Bastianich,1947-02-21
+5552,Giacomo Leopardi,1798-06-29
+5553,Celeste De Blasis,1946-05-08
+5554,Boy George,1961-06-14
+5555,Hal Foster,1892-08-16
+5556,James N. Rowe,1938-02-08
+5557,Sierra St. James,1966-04-01
+5558,Jennifer Storm,1975-05-07
+5559,Daniel Carter Beard,1850-06-21
+5560,Chuck Norris,1940-03-10
+5561,Miroslav Krleža,1893-07-07
+5562,Mantak Chia,1944-04-24
+5563,Anita Rau Badami,1961-09-24
+5564,Gail Evans,1941-12-17
+5565,Owen Chase,1797-10-07
+5566,Maurice Gee,1931-08-22
+5567,Daniel Estulin,1966-08-29
+5568,Jeffrey Ford,1955-11-08
+5569,Robert Shearman,1970-02-10
+5570,Willie Nelson,1933-04-29
+5571,Joan Nestle,1940-05-12
+5572,Rich Cohen,1968-07-30
+5573,Christopher Anvil,1925-03-11
+5574,Robert Kagan,1958-09-26
+5575,Albert M. Wolters,1942-03-30
+5576,Tom Keneally,1935-10-07
+5577,Marie Hall Ets,1895-12-16
+5578,Nancy Garden,1938-05-15
+5579,Steve Englehart,1947-04-22
+5580,Daniel Kahneman,1934-03-05
+5581,David Pietrusza,1949-11-22
+5582,Caroline Blackwood,1931-07-16
+5583,Olen Steinhauer,1970-06-21
+5584,Frank Parker Day,1881-05-09
+5585,Fuyumi Soryo,1959-01-06
+5586,C.P. Snow,1905-10-15
+5587,Barry B. Longyear,1942-05-12
+5588,Arthur Laurents,1917-07-14
+5589,Hans Ruesch,1913-05-17
+5590,Hillary Carlip,1956-10-20
+5591,Yamuna Devi,1942-05-19
+5592,Anita Loos,1888-04-26
+5593,Wilfred Thesiger,1910-06-03
+5594,Jerry Scott,1955-05-02
+5595,John  Adams,1735-10-30
+5596,Jean-Christophe Rufin,1952-06-28
+5597,Immanuel Wallerstein,1930-09-28
+5598,Inge Auerbacher,1934-12-31
+5599,Laurie Bauer,1949-08-09
+5600,Keith Giffen,1952-11-30
+5601,Edgar P. Jacobs,1904-03-30
+5602,Myron Levoy,1930-01-30
+5603,A.J. Liebling,1904-10-18
+5604,Carol Berkin,1942-10-01
+5605,James K.A. Smith,1970-10-09
+5606,Henry Mintzberg,1939-09-02
+5607,Paul Gilroy,1956-02-16
+5608,Bob Greene,1947-03-10
+5609,Frank Hurley,1885-10-15
+5610,Charles Olson,1910-12-27
+5611,Stephen J. Sansweet,1945-06-14
+5612,David  Crowder,1971-11-29
+5613,Joe Camp,1939-04-20
+5614,Tobias Smollett,1721-03-19
+5615,Katherine A. Dettwyler,1955-02-03
+5616,Byron Barton,1930-09-08
+5617,Rich Burlew,1974-09-01
+5618,Pauline Maier,1938-04-27
+5619,Al Seckel,1958-09-03
+5620,Elvira Lindo,1962-01-23
+5621,Ramakrishna,1836-02-18
+5622,Larry Winget,1952-10-02
+5623,Benoît B. Mandelbrot,1924-11-20
+5624,Lisa Whelchel,1963-05-29
+5625,Jarrett J. Krosoczka,1977-12-22
+5626,John W. Loftus,1954-09-18
+5627,André Schwarz-Bart,1928-05-23
+5628,Edgar Wallace,1875-04-01
+5629,Lana Wachowski,1965-06-21
+5630,Amir D. Aczel,1950-11-06
+5631,John M. Frame,1939-04-08
+5632,Eth Clifford,1915-12-25
+5633,Donn Pearce,1928-09-28
+5634,Charlie Connelly,1970-08-22
+5635,Raffi Cavoukian,1948-07-08
+5636,Paul McKenna,1963-11-08
+5637,Frank Hammond,1921-10-12
+5638,William Bramley,1928-04-18
+5639,Eric Linklater,1899-03-08
+5640,Margaret McNamara,1915-08-22
+5641,John Mongan,1925-04-17
+5642,Howard S. Becker,1928-04-18
+5643,Pauline Campanelli,1943-01-25
+5644,Jorie Graham,1950-05-09
+5645,Stewart Wieck,1968-05-10
+5646,John Pilger,1939-10-09
+5647,Steve Thayer,1953-03-23
+5648,George Takei,1937-04-20
+5649,Annie Leibovitz,1949-10-02
+5650,Ben Bradlee,1921-08-26
+5651,Petr Horáček,1974-01-11
+5652,Jessie Redmon Fauset,1882-04-27
+5653,H.R.F. Keating,1926-10-31
+5654,Carmen Carter,1954-10-21
+5655,Daniel K. Richter,1954-10-15
+5656,Igor Stravinsky,1882-06-17
+5657,A.N. Wilson,1950-10-27
+5658,Jean Raspail,1925-07-05
+5659,Steve Matchett,1962-12-23
+5660,Paul J. Steinhardt,1952-12-25
+5661,Minetarō Mochizuki,1964-01-29
+5662,Duncan Bannatyne,1949-02-02
+5663,Lynne Olson,1949-08-19
+5664,Tom Baker,1934-01-20
+5665,Caroline Kennedy,1957-11-27
+5666,Nnedi Okorafor,1974-04-08
+5667,John D. Barrow,1952-11-29
+5668,John E. Miller,1888-05-15
+5669,Arkady Babchenko,1977-03-18
+5670,Tom Waits,1949-12-07
+5671,Luis Fernando Verissimo,1936-09-26
+5672,Jane Addams,1860-09-06
+5673,Josef Breuer,1842-01-15
+5674,Joel Coen,1954-11-29
+5675,Peter D. Schiff,1963-03-23
+5676,Charles Vess,1951-06-10
+5677,Dan Jenkins,1928-12-02
+5678,Robert Lee Brewer,1939-03-01
+5679,William Blinn,1937-07-21
+5680,Linda Robinson,1947-06-18
+5681,Travis S. Taylor,1968-07-24
+5682,David A. Yallop,1937-01-27
+5683,Derek Prince,1915-08-14
+5684,Jane  Christmas,1954-01-22
+5685,Philip K. Howard,1948-10-24
+5686,Isobel Kuhn,1901-12-17
+5687,Adyashanti,1962-10-26
+5688,Elizabeth Edwards,1949-07-03
+5689,Kelly Hunter,1963-07-21
+5690,Walter Lippmann,1889-09-23
+5691,Mike Watkinson,1961-08-01
+5692,Chris Frith,1942-03-16
+5693,Humberto R. Maturana,1928-09-14
+5694,Gordon Burn,1948-01-16
+5695,Julia Peterkin,1880-10-31
+5696,Richard O'Connor,1889-08-21
+5697,Alan Ryan,1940-05-09
+5698,Elechi Amadi,1934-05-12
+5699,Bjørn Lomborg,1965-01-06
+5700,Donna  Hay,1970-01-28
+5701,Walter Simonson,1946-09-02
+5702,Maria Shriver,1955-11-06
+5703,Christopher Robbins,1946-11-19
+5704,Sheldon Lord,1938-06-24
+5705,Richard     Paul,1940-06-06
+5706,Leslie Rule,1958-02-25
+5707,Ranulph Fiennes,1944-03-07
+5708,P.C.  Wren,1875-11-01
+5709,Robert Mankoff,1944-05-01
+5710,Leanne Banks,1959-05-14
+5711,Paul Prudhomme,1940-07-13
+5712,Ishmael Reed,1938-02-22
+5713,Mel Levine,1943-06-07
+5714,Joey Goebel,1980-09-02
+5715,Eugene T. Gendlin,1926-12-25
+5716,Ron Koertge,1940-04-22
+5717,S.I. Hayakawa,1906-07-18
+5718,Vance Packard,1914-05-22
+5719,Mark Tully,1935-10-24
+5720,George Friedman,1949-02-01
+5721,David Galula,1919-01-10
+5722,Miklós Bánffy,1873-12-30
+5723,Kathleen   O'Malley,1924-03-31
+5724,Evangeline Walton,1907-11-24
+5725,James B. Stockdale,1923-12-23
+5726,Charles D. Ellis,1937-10-22
+5727,Gina B. Nahai,1960-12-09
+5728,Galileo Galilei,1564-02-15
+5729,Ann Cameron,1967-08-22
+5730,Lucy Kellaway,1959-06-26
+5731,Philip Stokes,1906-10-25
+5732,Arthur Ashe,1943-07-10
+5733,Martin Gardner,1914-10-21
+5734,Jabra Ibrahim Jabra,1919-08-28
+5735,Connie Mason,1937-08-24
+5736,David D. Friedman,1945-02-12
+5737,Stephen Manes,1949-01-08
+5738,Virginia Lanier,1930-10-28
+5739,Conrad Anker,1962-11-27
+5740,Wilhelm Reich,1897-03-24
+5741,Derrick A. Bell,1930-11-06
+5742,Shinichi Suzuki,1898-10-17
+5743,George Herbert,1593-04-03
+5744,Lorena A. Hickok,1893-03-07
+5745,Joyce Sidman,1956-06-04
+5746,Peter Mansfield,1933-10-09
+5747,Liliuokalani,1838-09-02
+5748,John Baylis,1885-05-11
+5749,Gene Barretta,1960-09-09
+5750,Jeff Nathanson,1965-10-12
+5751,Elizabeth Kata,1912-10-09
+5752,Maureen McCarthy,1936-03-11
+5753,Alan Cumming,1965-01-27
+5754,Diana Athill,1917-12-21
+5755,Lee Young You,1977-04-11
+5756,Teresa Rodríguez,1981-09-18
+5757,Eleanor Davis,1983-01-16
+5758,Marghanita Laski,1915-10-24
+5759,Malcolm Muggeridge,1903-03-24
+5760,Barry Cunliffe,1939-12-10
+5761,Charlotte Gerson,1881-10-18
+5762,Tony Campolo,1935-02-25
+5763,Krista Tippett,1960-11-09
+5764,Christopher Darden,1956-04-07
+5765,Thomas Wolfe,1900-10-03
+5766,Ted van Lieshout,1955-12-21
+5767,Joseph Brodsky,1940-05-24
+5768,James Dashner,1972-11-26
+5769,Stacy Schiff,1961-10-26
+5770,Stella Adler,1901-02-10
+5771,Terry Burnham,1949-08-08
+5772,Lydia Millet,1968-12-05
+5773,Christopher Kraft,1924-02-28
+5774,Doug TenNapel,1966-07-10
+5775,Dan O'Brien,1966-07-18
+5776,Claire de Duras,1777-03-23
+5777,Ray Huang,1918-06-25
+5778,Pier Paolo Pasolini,1922-03-05
+5779,Carly Fiorina,1954-09-06
+5780,Patricia Bosworth,1933-04-24
+5781,Hermione Lee,1948-02-29
+5782,Wess Stafford,1949-06-26
+5783,Jay Parini,1948-04-02
+5784,Denene Millner,1968-10-21
+5785,Jeremy Robinson,1974-10-22
+5786,Dave Navarro,1967-06-07
+5787,Lisa Crystal Carver,1968-11-09
+5788,Walter Rollin Brooks,1886-01-09
+5789,Eamon Duffy,1947-02-09
+5790,Fran Drescher,1957-09-30
+5791,Klaus Kinski,1926-10-18
+5792,Thomas F. Monteleone,1946-04-14
+5793,Charlotte Delbo,1913-08-10
+5794,Everett True,1961-04-21
+5795,George Tenet,1953-01-05
+5796,Ruthie Bolton,1967-05-25
+5797,Helen Humphreys,1961-03-29
+5798,Sonia Sanchez,1934-09-09
+5799,Gus Lee,1946-08-08
+5800,R.V. Cassill,1919-05-17
+5801,Thomas C. Schelling,1921-04-14
+5802,S.T. Joshi,1958-06-22
+5803,Rolland Baker,1959-08-29
+5804,Heidi Baker,1959-08-29
+5805,Diane Stanley,1943-12-27
+5806,Anne Stevenson,1933-01-03
+5807,Charlotte Zolotow,1915-06-26
+5808,Jacques-Yves Cousteau,1910-06-11
+5809,Alex  Wright,1975-05-17
+5810,Linda Seger,1945-08-27
+5811,Max I. Dimont,1912-08-12
+5812,Theodor Herzl,1860-05-02
+5813,Jim Bishop,1907-11-21
+5814,Daniel Guérin,1904-05-19
+5815,Sheila Kay Adams,1953-03-18
+5816,Michael Parenti,1933-09-30
+5817,Mike  Lee,1971-06-04
+5818,Gilbert Strang,1934-11-27
+5819,Mary Kay Ash,1918-05-12
+5820,Sarah Ferguson,1959-10-15
+5821,Andrzej Szczypiorski,1928-02-03
+5822,Howard R. Garis,1873-04-25
+5823,Kelly Bennett,1971-05-21
+5824,Harmony Korine,1973-01-04
+5825,Timothy Garton Ash,1955-07-12
+5826,John C. Polkinghorne,1930-10-16
+5827,Kazuaki Tanahashi,1933-10-04
+5828,Randall Garrett,1927-12-16
+5829,Marilyn Stokstad,1929-02-16
+5830,Fox Butterfield,1939-07-08
+5831,Richard Greenberg,1958-02-22
+5832,Buzz Aldrin,1930-01-20
+5833,Roger Garaudy,1913-07-17
+5834,Reinhold Niebuhr,1892-06-21
+5835,Christopher Reeve,1952-09-25
+5836,Angélica Gorodischer,1928-07-28
+5837,Carol Lynn Pearson,1939-12-01
+5838,Adam Ant,1954-11-03
+5839,Ann Head,1915-10-30
+5840,Bob Shea,1924-09-11
+5841,Paco Ignacio Taibo II,1949-01-11
+5842,Yan Lianke,1958-08-24
+5843,Jane Jensen,1963-01-28
+5844,Jane Haddam,1951-07-13
+5845,Guy Endore,1901-07-04
+5846,C.D. Wright,1949-01-06
+5847,Keith Ablow,1961-11-23
+5848,Philippe Ariès,1914-07-21
+5849,George Goodman,1930-08-10
+5850,Alfred Thayer Mahan,1840-09-27
+5851,Deric Longden,1936-11-29
+5852,Heather Graham Pozzessere,1953-03-15
+5853,Christopher Moeller,1963-05-01
+5854,I.J. Parker,1936-01-01
+5855,Ewen Montagu,1901-03-29
+5856,John Markoff,1949-10-24
+5857,Anne Hébert,1916-08-01
+5858,Ronald W. Walker,1939-10-12
+5859,Steven B. Sample,1940-11-29
+5860,Jan Tschichold,1902-04-02
+5861,Yusuke Kishi,1959-01-03
+5862,Ari Berk,1967-03-07
+5863,Jillian Michaels,1974-02-18
+5864,Toni Cade Bambara,1939-03-25
+5865,Joe Orton,1933-01-01
+5866,Vandana Shiva,1952-11-05
+5867,Brian Kiteley,1956-09-26
+5868,Simon Critchley,1960-02-27
+5869,Deborah Blum,1954-10-19
+5870,Myles Munroe,1954-04-20
+5871,Steven Naifeh,1952-06-19
+5872,Francine Patterson,1947-02-13
+5873,Jordan Horowitz,1980-04-10
+5874,Michael Harrington,1928-02-24
+5875,Douglas J. Moo,1950-03-15
+5876,Renée Fleming,1959-02-14
+5877,Orson Welles,1915-05-06
+5878,Sondra Marshak,1942-06-15
+5879,Frank Close,1945-07-24
+5880,George Plimpton,1927-03-18
+5881,John C. Waugh,1929-10-12
+5882,Brad Steiger,1936-02-19
+5883,Pumla Gobodo-Madikizela,1955-02-15
+5884,Dori Hillestad Butler,1965-08-25
+5885,Susan Juby,1969-03-30
+5886,Dana Canedy,1965-06-08
+5887,Dinah Maria Mulock Craik,1826-04-20
+5888,Gordon Ferris,1952-11-21
+5889,Valerie Boyd,1963-12-11
+5890,Edgar Snow,1905-07-19
+5891,E.M. Nathanson,1928-02-17
+5892,Jack Henry Abbott,1944-01-21
+5893,Kevin Barry,1902-01-20
+5894,A.E. Housman,1859-03-26
+5895,Judy Nunn,1945-04-13
+5896,Mahmood Mamdani,1946-04-23
+5897,Robert Conquest,1917-07-15
+5898,William H. Keith Jr.,1950-08-08
+5899,Sandra Day O'Connor,1930-03-26
+5900,Dorothy Garlock,1919-06-22
+5901,Jaroslav Pelikan,1923-12-17
+5902,David M. Friedman,1958-08-08
+5903,Henry Watson Fowler,1858-03-10
+5904,Peter Gilliver,1964-06-14
+5905,Stefanie Zweig,1932-09-19
+5906,Tom Colicchio,1962-08-15
+5907,Robin  Davis,1956-04-06
+5908,Jill Ciment,1955-05-20
+5909,Nancy  Wright,1917-03-28
+5910,Fletcher Hanks,1889-12-01
+5911,Gonzalo Torrente Ballester,1910-06-13
+5912,Seung Sahn,1927-08-01
+5913,Alona Frankel,1937-06-27
+5914,Andrew Carroll,1969-09-27
+5915,Cameron Crowe,1957-07-13
+5916,Billy Wilder,1906-06-22
+5917,Bo Giertz,1905-08-31
+5918,Yann Arthus-Bertrand,1946-03-13
+5919,Dennis Adair,1884-03-18
+5920,Kate Sedley,1926-07-30
+5921,Michael Gira,1954-02-19
+5922,Michael R. Beschloss,1955-11-30
+5923,Cheikh Hamidou Kane,1928-04-02
+5924,Freya Stark,1893-01-31
+5925,Aron Nimzowitsch,1886-11-07
+5926,Clark Howard,1955-06-20
+5927,Judith    Miller,1948-01-02
+5928,Linda King Newell,1941-01-16
+5929,Bette Davis,1908-04-05
+5930,Marie Cardinal,1929-03-09
+5931,Black Elk,1863-12-01
+5932,Janet Greene,1930-12-07
+5933,Joseph Epes Brown,1920-09-09
+5934,Rafael Sánchez Ferlosio,1927-12-04
+5935,Rick Geary,1946-02-25
+5936,Frederic Manning,1882-07-22
+5937,Lewis Nordan,1939-08-23
+5938,Peter  Post,1933-11-12
+5939,Amby Burfoot,1946-08-19
+5940,Melissa Hill,1970-01-08
+5941,René Girard,1923-12-25
+5942,Jonathan Luna,1965-10-21
+5943,David Buckley,1976-06-07
+5944,Philip R. Craig,1933-12-10
+5945,Alan Moorehead,1910-07-22
+5946,Janis Ian,1951-04-07
+5947,Alice Chetwynd Ley,1913-10-12
+5948,Dougal Dixon,1947-03-01
+5949,Idries Shah,1924-06-16
+5950,Gerry Conlon,1954-03-01
+5951,Hervé This,1955-06-05
+5952,Charles Le Gai Eaton,1921-01-01
+5953,Frances Farmer,1913-09-19
+5954,Mary Tyler Moore,1936-12-29
+5955,Steven Rinella,1974-02-13

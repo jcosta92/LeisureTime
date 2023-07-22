@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day Recommendations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .recommendation {
+            display: flex;
+            justify-content: space-between;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .day, .movies, .books {
+            width: 30%;
+        }
+        img {
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .day-img {
+            max-height: 400px;
+            max-width: 100%;
+        }
+        .movie-img, .book-img {
+            max-height: 400px;  /* increased size */
+            max-width: 100%;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align: center; margin-bottom: 50px;">Day Recommendations</h1>
+
+    {% for rec in recommendations %}
+        <div class="recommendation">
+            <div class="day">
+                <h2>{{ rec.day_name }}</h2>
+                {% if rec.day_image %}
+                    <img src="{{ rec.day_image }}" alt="{{ rec.day_name }}" class="day-img" onerror="this.style.display='none'">
+                {% endif %}
+                <p>{{ rec.day_description }}</p>
+            </div>
+
+            <div class="movies">
+                <h2>Movie Recommendations</h2>
+                {% for movie in rec.movies %}
+                    <h3>{{ movie.title }}</h3>
+                    {% if movie.image %}
+                        <img src="{{ movie.image }}" alt="{{ movie.title }}" class="movie-img" onerror="this.style.display='none'">
+                    {% endif %}
+                    <p>Rating: {{ movie.rating }}</p>
+                    <p>Nr. Rates: {{ movie.nr_rates }}</p>
+                    <p>{{ movie.description }}</p>
+                    <a href="{{ movie.url }}">Link to movie</a>
+                {% endfor %}
+            </div>
+
+            <div class="books">
+                <h2>Book Recommendations</h2>
+                {% for book in rec.books %}
+                    <h3>{{ book.title }}</h3>
+                    {% if book.image %}
+                        <img src="{{ book.image }}" alt="{{ book.title }}" class="book-img" onerror="this.style.display='none'">
+                    {% endif %}
+                    <p>Goodreads Rating: {{ book.rating }}</p>
+                    <p>Nr. Rates: {{ book.nr_rates }}</p>
+                    <p>{{ book.description }}</p>
+                    <a href="{{ book.url }}">Link to book</a>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+</body>
+</html>

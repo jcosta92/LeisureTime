@@ -1,0 +1,501 @@
+event,date,label,image
+http://www.wikidata.org/entity/Q164432,1568-06-02T00:00:00Z,Eighty Years' War,http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20-%20de%20Breda%20o%20Las%20Lanzas%20%28Museo%20del%20Prado%2C%201634-35%29.jpg
+http://www.wikidata.org/entity/Q1763918,1532-04-01T00:00:00Z,Inca Civil War,http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20de%20la%20guerra%20civil%20Inca%2C%20Atahualpa%20al%20norte%20y%20Hu%C3%A1scar%20al%20sur.png
+http://www.wikidata.org/entity/Q60830,1506-04-01T00:00:00Z,Lisbon Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Massacre%20de%20lisboa.jpg
+http://www.wikidata.org/entity/Q677693,1503-01-01T00:00:00Z,War of the Succession of Landshut,http://commons.wikimedia.org/wiki/Special:FilePath/339Kufstein%20Belagerung.jpg
+http://www.wikidata.org/entity/Q707364,1536-08-08T00:00:00Z,Count's Feud,http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20III%20of%20Denmark.jpg
+http://www.wikidata.org/entity/Q3016850,1588-01-24T00:00:00Z,War of the Polish Succession,http://commons.wikimedia.org/wiki/Special:FilePath/Byczyna%20battle.jpg
+http://www.wikidata.org/entity/Q3298746,1580-01-01T00:00:00Z,War of the Portuguese Succession,http://commons.wikimedia.org/wiki/Special:FilePath/Desembarcoislasterceiras.jpg
+http://www.wikidata.org/entity/Q3187015,1588-05-12T00:00:00Z,Day of the Barricades,http://commons.wikimedia.org/wiki/Special:FilePath/Le%20duc%20de%20Guise%20lors%20de%20la%20journee%20des%20barricades%20by%20Paul%20Lehugeur%2019th%20century.jpg
+http://www.wikidata.org/entity/Q1055358,1573-02-19T00:00:00Z,Croatian–Slovene peasant revolt,http://commons.wikimedia.org/wiki/Special:FilePath/Oton%20Ivekovic%2C%20Smaknuce%20Matije%20Gupca%20%28na%20trgu%20ispred%20crkve%20sv.%20Marka%20u%20Zagrebu%29.jpg
+http://www.wikidata.org/entity/Q2213756,1586-07-26T00:00:00Z,Destruction of Neuss,http://commons.wikimedia.org/wiki/Special:FilePath/Neus%201586.jpg
+http://www.wikidata.org/entity/Q513860,1566-01-01T00:00:00Z,beeldenstorm,http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hogenberg%20Bildersturm%201566.jpg
+http://www.wikidata.org/entity/Q5265413,1582-12-01T00:00:00Z,Destruction of the Oberstift,http://commons.wikimedia.org/wiki/Special:FilePath/Cologne%20War%201.svg
+http://www.wikidata.org/entity/Q874235,1576-11-14T00:00:00Z,Sack of Antwerp,http://commons.wikimedia.org/wiki/Special:FilePath/Incendio%20Ayuntamiento%20Amberes.jpg
+http://www.wikidata.org/entity/Q7253161,1525-04-20T00:00:00Z,Prussian Homage,http://commons.wikimedia.org/wiki/Special:FilePath/Prussian%20Homage.PNG
+http://www.wikidata.org/entity/Q4674470,1599-01-01T00:00:00Z,Acoma Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Acoma%20New%20Mexico%201846%20-%201847.jpg
+http://www.wikidata.org/entity/Q5194208,1583-07-25T00:00:00Z,Cuncolim Revolt,http://commons.wikimedia.org/wiki/Special:FilePath/Cuncolim%20Martyrs.jpg
+http://www.wikidata.org/entity/Q60830,1506-04-01T00:00:00Z,Lisbon Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Massacre%20de%20lisboa.jpg
+http://www.wikidata.org/entity/Q163891,1572-08-24T00:00:00Z,St. Bartholomew's Day massacre,http://commons.wikimedia.org/wiki/Special:FilePath/La%20masacre%20de%20San%20Bartolom%C3%A9%2C%20por%20Fran%C3%A7ois%20Dubois.jpg
+http://www.wikidata.org/entity/Q846876,1520-01-01T00:00:00Z,Stockholm Bloodbath,http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20Bloodbath.jpg
+http://www.wikidata.org/entity/Q1086489,1562-03-11T00:00:00Z,massacre of Vassy,http://commons.wikimedia.org/wiki/Special:FilePath/Massacre%20de%20Vassy%201562%20print%20by%20Hogenberg%20end%20of%2016th%20century.jpg
+http://www.wikidata.org/entity/Q1086489,1562-03-11T00:00:00Z,massacre of Vassy,http://commons.wikimedia.org/wiki/Special:FilePath/Massacre%20of%20Vassy.jpg
+http://www.wikidata.org/entity/Q19996396,1580-06-09T00:00:00Z,Taking of Diest,http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20of%20Diest%20%281580%29%20engraved%20by%20Frans%20Hogenberg.jpg
+http://www.wikidata.org/entity/Q787963,1586-01-01T00:00:00Z,Babington Plot,http://commons.wikimedia.org/wiki/Special:FilePath/Babington%20postscript.jpg
+http://www.wikidata.org/entity/Q465627,1527-05-06T00:00:00Z,"Sack of Rome, 1527",http://commons.wikimedia.org/wiki/Special:FilePath/Sack%20of%20Rome%20of%201527%20by%20Johannes%20Lingelbach%2017th%20century.jpg
+http://www.wikidata.org/entity/Q2066129,1557-08-20T00:00:00Z,Battle of St. Quentin,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20St.%20Quentin%201557%20map%20NL.png
+http://www.wikidata.org/entity/Q63472138,1600-01-01T00:00:00Z,cocoliztli epidemic,http://commons.wikimedia.org/wiki/Special:FilePath/FlorentineCodex%20BK12%20F54%20smallpox.jpg
+http://www.wikidata.org/entity/Q169598,1582-07-01T00:00:00Z,Honnō-ji Incident,http://commons.wikimedia.org/wiki/Special:FilePath/Honnoj.jpg
+http://www.wikidata.org/entity/Q3424110,1580-01-01T00:00:00Z,Portugal–Spain relations,http://commons.wikimedia.org/wiki/Special:FilePath/La%20reapertura%20de%20la%20frontera%20entre%20Espa%C3%B1a%20y%20Portugal%2C%20Badajoz%20y%20Elvas%2C%20mi%C3%A9rcoles%201%20de%20julio%20de%202020%20%2805%29.png
+http://www.wikidata.org/entity/Q112716652,1509-07-04T00:00:00Z,coronation of Henry VIII and Catherine of Aragon,http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20VIII%20Catherine%20of%20Aragon%20coronation%20woodcut.jpg
+http://www.wikidata.org/entity/Q662874,1515-07-01T00:00:00Z,First Congress of Vienna,http://commons.wikimedia.org/wiki/Special:FilePath/Wiener%20Doppelhochzeit.jpg
+http://www.wikidata.org/entity/Q56296380,1540-01-01T00:00:00Z,Drought in Central Europe 1540,http://commons.wikimedia.org/wiki/Special:FilePath/Residence%20W%C3%BCrzburg%20-%20Wine%20cellar%202.JPG
+http://www.wikidata.org/entity/Q2293284,1540-10-21T00:00:00Z,Battle of Alborán,http://commons.wikimedia.org/wiki/Special:FilePath/Kad%C4%B1rga%20Minyat%C3%BCr.jpg
+http://www.wikidata.org/entity/Q2297059,1545-07-29T00:00:00Z,Battle of the Solent,http://commons.wikimedia.org/wiki/Special:FilePath/Cowdray%20engraving-full-lowres.jpg
+http://www.wikidata.org/entity/Q2386251,1573-10-11T00:00:00Z,Battle on the Zuiderzee,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20op%20de%20Zuiderzee%20-%20Battle%20of%20the%20Zuiderzee%20in%201573%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q15197201,1592-08-13T00:00:00Z,Battle of Flores,http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Carrack%20%27Madre%20de%20Dios%27.jpg
+http://www.wikidata.org/entity/Q38251362,1519-04-25T00:00:00Z,Battle of Pianosa,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Preveza%20%281538%29.jpg
+http://www.wikidata.org/entity/Q55605053,1553-08-01T00:00:00Z,Battle of the Strait of Hormuz,http://commons.wikimedia.org/wiki/Special:FilePath/Lisuarte%20de%20Abreu-Hormuz.png
+http://www.wikidata.org/entity/Q484271,1598-12-16T00:00:00Z,Battle of Noryang,http://commons.wikimedia.org/wiki/Special:FilePath/Navalzhugenu2.jpg
+http://www.wikidata.org/entity/Q1392,1600-07-02T00:00:00Z,Battle of Nieuwpoort,http://commons.wikimedia.org/wiki/Special:FilePath/Maurits%20%281567-1625%29%2C%20prins%20van%20Oranje%2C%20in%20de%20slag%20bij%20Nieuwpoort%20%281600%29.jpg
+http://www.wikidata.org/entity/Q145934,1589-01-01T00:00:00Z,English Armada,http://commons.wikimedia.org/wiki/Special:FilePath/A%20Coru%C3%B1a.%20Mar%C3%ADa%20Pita%E2%80%99s%20statue.%20Galicia%20%28Spain%29.jpg
+http://www.wikidata.org/entity/Q165425,1571-10-07T00:00:00Z,Battle of Lepanto,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lepanto%201571.jpg
+http://www.wikidata.org/entity/Q2744068,1543-07-25T00:00:00Z,Battle of Muros Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Finis7803.png
+http://www.wikidata.org/entity/Q2890949,1574-05-30T00:00:00Z,Battle of Lillo,http://commons.wikimedia.org/wiki/Special:FilePath/WLANL%20-%20mennofokke%20-%20Wandtapijt%2C%20De%20slag%20voor%20Lillo%2C%20Jan%20de%20Maecht%2C%2030%20mei%201574.jpg
+http://www.wikidata.org/entity/Q3368187,1563-05-30T00:00:00Z,Action of 30 May 1563,http://commons.wikimedia.org/wiki/Special:FilePath/Jakob%20Brockenhuus%27%20s%C3%B8slag%20ved%20Bornholm%2C%201563.png
+http://www.wikidata.org/entity/Q1814248,1573-06-05T00:00:00Z,Battle of Haarlemmermeer,http://commons.wikimedia.org/wiki/Special:FilePath/Vroom%20Hendrick%20Cornelisz%20Battle%20of%20Haarlemmermeer.jpg
+http://www.wikidata.org/entity/Q1628477,1509-02-03T00:00:00Z,Battle of Diu,http://commons.wikimedia.org/wiki/Special:FilePath/Diu1.jpg
+http://www.wikidata.org/entity/Q4870470,1591-07-15T00:00:00Z,Battle of Berlengas Islands,http://commons.wikimedia.org/wiki/Special:FilePath/George%20Clifford%203rd%20Earl%20of%20Cumberland%20after%20Nicholas%20Hilliard.jpg
+http://www.wikidata.org/entity/Q4871029,1591-09-01T00:00:00Z,Battle of Flores,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Last%20fight%20of%20the%20Revenge%20off%20Flores%20in%20the%20Azores%201591%20by%20Charles%20Dixon.jpg
+http://www.wikidata.org/entity/Q4871030,1529-01-01T00:00:00Z,Battle of Formentera,http://commons.wikimedia.org/wiki/Special:FilePath/Barbarossa%20galley%20in%20France%201543.jpg
+http://www.wikidata.org/entity/Q4872923,1554-09-04T00:00:00Z,Battle of the Gulf of Oman,http://commons.wikimedia.org/wiki/Special:FilePath/Cannon%20of%20Suleyman%20founded%20by%20Mohammed%20ibn%20Hamza%20in%201530%201531%20for%20a%20Turkish%20invasion%20of%20India%20taken%20in%20the%20capture%20of%20Aden%20in%201839%20by%20Cap%20H%20Smith%20of%20HMS%20Volage%20with%20inscriptions.jpg
+http://www.wikidata.org/entity/Q575924,1512-08-10T00:00:00Z,Battle of Saint-Mathieu,http://commons.wikimedia.org/wiki/Special:FilePath/Cordeliere%20and%20Regent.jpg
+http://www.wikidata.org/entity/Q613478,1560-05-24T00:00:00Z,Battle of Djerba,http://commons.wikimedia.org/wiki/Special:FilePath/Gulf%20and%20Island%20of%20Djerba%20by%20Piri%20Reis.jpg
+http://www.wikidata.org/entity/Q679831,1573-04-17T00:00:00Z,Battle of Flushing,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20bij%20Vlissingen%20%28Michiel%20Colijn%2C%201616%29.jpg
+http://www.wikidata.org/entity/Q957491,1587-07-06T00:00:00Z,Singeing the King of Spain's Beard,http://commons.wikimedia.org/wiki/Special:FilePath/AtaqueDrakes.jpg
+http://www.wikidata.org/entity/Q1054975,1538-09-28T00:00:00Z,Battle of Preveza,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Preveza%20%281538%29.jpg
+http://www.wikidata.org/entity/Q1054975,1538-09-28T00:00:00Z,Battle of Preveza,http://commons.wikimedia.org/wiki/Special:FilePath/IAN%200137%20Urrabieta%20y%20Ortiz%201859%20Preveza.jpg
+http://www.wikidata.org/entity/Q5783527,1524-01-01T00:00:00Z,Spanish conquest of El Salvador,http://commons.wikimedia.org/wiki/Special:FilePath/Guerra%20de%20Cuzcatl%C3%A1n.png
+http://www.wikidata.org/entity/Q5783538,1509-05-01T00:00:00Z,Conquest of Oran,http://commons.wikimedia.org/wiki/Special:FilePath/Cisneros%20en%20la%20Toma%20de%20Oran%20Juan%20De%20Borgo%C3%B1a%201514.jpeg
+http://www.wikidata.org/entity/Q1429256,1526-01-01T00:00:00Z,War of the League of Cognac,http://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20charles%20v.png
+http://www.wikidata.org/entity/Q598774,1600-01-01T00:00:00Z,Polish–Swedish War (1600–11),http://commons.wikimedia.org/wiki/Special:FilePath/Kirholm%201605%20I.JPG
+http://www.wikidata.org/entity/Q636771,1532-01-01T00:00:00Z,Spanish conquest of the Inca Empire,http://commons.wikimedia.org/wiki/Special:FilePath/Inca-Spanish%20confrontation.JPG
+http://www.wikidata.org/entity/Q1106847,1507-01-01T00:00:00Z,Portuguese conquest of Ormuz,http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20of%20Hormuz.jpg
+http://www.wikidata.org/entity/Q2357384,1510-12-05T00:00:00Z,Portuguese Conquest of Goa,http://commons.wikimedia.org/wiki/Special:FilePath/%22Plan%20de%20Goa%22%2C%20in%20Histoire%20g%C3%A9n%C3%A9rale%20des%20voyages%2C1750.jpg
+http://www.wikidata.org/entity/Q2993582,1524-01-01T00:00:00Z,Spanish conquest of Guatemala,http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20de%20Alvarado%20%28Tom%C3%A1s%20Povedano%29.jpg
+http://www.wikidata.org/entity/Q431806,1546-01-01T00:00:00Z,Arauco War,http://commons.wikimedia.org/wiki/Special:FilePath/Guerra%20Arauco.jpg
+http://www.wikidata.org/entity/Q524189,1583-01-01T00:00:00Z,Cologne War,http://commons.wikimedia.org/wiki/Special:FilePath/Inname%20van%20Godesberg%20-%20Capture%20and%20destruction%20of%20Godesburg%20in%201583%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q576338,1598-12-16T00:00:00Z,Japanese invasions of Korea,http://commons.wikimedia.org/wiki/Special:FilePath/Siege-of-Busanjin-1592.jpg
+http://www.wikidata.org/entity/Q923852,1570-01-01T00:00:00Z,Crimean-Russian Wars,http://commons.wikimedia.org/wiki/Special:FilePath/S.%20V.%20Ivanov.%20At%20the%20guarding%20border%20of%20the%20Moscow%20state.%20%281907%29.jpg
+http://www.wikidata.org/entity/Q924600,1598-01-01T00:00:00Z,War against Sigismund,http://commons.wikimedia.org/wiki/Special:FilePath/Sigismunds%20truppf%C3%B6rflyttningar%20under%20Kriget%20mot%20Sigismund.gif
+http://www.wikidata.org/entity/Q961430,1570-07-07T00:00:00Z,Ottoman–Venetian War of 1570–1573,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lepanto%201571.jpg
+http://www.wikidata.org/entity/Q1164169,1547-10-01T00:00:00Z,Burmese–Siamese War of 1547–1549,http://commons.wikimedia.org/wiki/Special:FilePath/Burmese-Siamese%20War%20of%201548-49.svg
+http://www.wikidata.org/entity/Q246863,1558-02-01T00:00:00Z,Livonian War,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Narva%201558.jpg
+http://www.wikidata.org/entity/Q370963,1554-01-01T00:00:00Z,Russo-Swedish War of 1554–57,http://commons.wikimedia.org/wiki/Special:FilePath/Facial%20Chronicle%20-%20b.22%2C%20p.%20328%20-%20Swedish%20ambassador.gif
+http://www.wikidata.org/entity/Q430726,1585-01-01T00:00:00Z,Anglo-Spanish War,http://commons.wikimedia.org/wiki/Special:FilePath/Invincible%20Armada.jpg
+http://www.wikidata.org/entity/Q56296380,1540-01-01T00:00:00Z,Drought in Central Europe 1540,http://commons.wikimedia.org/wiki/Special:FilePath/Residence%20W%C3%BCrzburg%20-%20Wine%20cellar%202.JPG
+http://www.wikidata.org/entity/Q631799,1568-01-01T00:00:00Z,Russo-Turkish War (1568–1570),http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%82%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F%20%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%201568.jpg
+http://www.wikidata.org/entity/Q636365,1508-01-01T00:00:00Z,War of the League of Cambrai,http://commons.wikimedia.org/wiki/Special:FilePath/Northern%20Italy%20in%201494.png
+http://www.wikidata.org/entity/Q186336,1568-01-01T00:00:00Z,Dutch Revolt,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfHeiligerlee.jpg
+http://www.wikidata.org/entity/Q233594,1531-10-11T00:00:00Z,Second War of Kappel,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20Kappel.jpg
+http://www.wikidata.org/entity/Q2280714,1600-05-01T00:00:00Z,Burmese–Siamese War (1594–1605),http://commons.wikimedia.org/wiki/Special:FilePath/Siam%20Invasion%20of%20Burma%20%281594-1600%29%20map.jpg
+http://www.wikidata.org/entity/Q2452024,1530-01-01T00:00:00Z,Italian War of 1536–1538,http://commons.wikimedia.org/wiki/Special:FilePath/Truce%20of%20Nice%201538.jpg
+http://www.wikidata.org/entity/Q735349,1580-01-01T00:00:00Z,Russian conquest of Siberia,http://commons.wikimedia.org/wiki/Special:FilePath/Surikov%20Pokoreniye%20Sibiri%20Yermakom.jpg
+http://www.wikidata.org/entity/Q762191,1538-01-01T00:00:00Z,Ottoman–Portuguese conflicts,http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman%20fleet%20Indian%20Ocean%2016th%20century.jpg
+http://www.wikidata.org/entity/Q701644,1578-01-01T00:00:00Z,Ottoman–Safavid War,http://commons.wikimedia.org/wiki/Special:FilePath/OttomanEmpireIn1683.png
+http://www.wikidata.org/entity/Q688308,1521-01-01T00:00:00Z,Swedish War of Liberation,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Entry%20of%20King%20Gustav%20Vasa%20of%20Sweden%20into%20Stockholm%2C%201523%20%28Carl%20Larsson%29%20-%20Nationalmuseum%20-%2023935.tif
+http://www.wikidata.org/entity/Q698281,1521-01-01T00:00:00Z,Italian War of 1521–1526,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Pavia%2C%20oil%20on%20panel.jpg
+http://www.wikidata.org/entity/Q700841,1532-01-01T00:00:00Z,Ottoman–Safavid War,http://commons.wikimedia.org/wiki/Special:FilePath/Sueleymanname%20nahcevan.jpg
+http://www.wikidata.org/entity/Q151663,1520-04-26T00:00:00Z,Revolt of the Comuneros,http://commons.wikimedia.org/wiki/Special:FilePath/Comuneros.jpg
+http://www.wikidata.org/entity/Q164432,1568-06-02T00:00:00Z,Eighty Years' War,http://commons.wikimedia.org/wiki/Special:FilePath/Vel%C3%A1zquez%20-%20de%20Breda%20o%20Las%20Lanzas%20%28Museo%20del%20Prado%2C%201634-35%29.jpg
+http://www.wikidata.org/entity/Q2915203,1529-01-01T00:00:00Z,Ethiopian–Adal War,http://commons.wikimedia.org/wiki/Special:FilePath/YagbeaSionBattlingAdaSultan.JPG
+http://www.wikidata.org/entity/Q3119136,1537-01-01T00:00:00Z,Third Ottoman–Venetian War,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Preveza%20%281538%29.jpg
+http://www.wikidata.org/entity/Q3280731,1519-01-01T00:00:00Z,Mexican Indian Wars,http://commons.wikimedia.org/wiki/Special:FilePath/Conquista-de-M%C3%A9xico-por-Cort%C3%A9s-Tenochtitlan-Painting.png
+http://www.wikidata.org/entity/Q3312328,1512-01-01T00:00:00Z,Spanish conquest of Iberian Navarre,http://commons.wikimedia.org/wiki/Special:FilePath/Conquista%20de%20Navarra.svg
+http://www.wikidata.org/entity/Q4207617,1529-01-01T00:00:00Z,Balkan campaign of 1529,http://commons.wikimedia.org/wiki/Special:FilePath/Landscape%20with%20a%20Large%20Cannon%20MET%20MM7867.jpg
+http://www.wikidata.org/entity/Q2877472,1531-02-05T00:00:00Z,1531 Lisbon earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Augsburger%20Wunderzeichenbuch%20%E2%80%94%20Folio%20119.jpg
+http://www.wikidata.org/entity/Q1188930,1509-01-01T00:00:00Z,1509 Constantinople earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/1509%20Great%20Istanbul%20Earthquake.jpg
+http://www.wikidata.org/entity/Q1348877,1590-09-15T00:00:00Z,1590 Neulengbach earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Beben1590.jpg
+http://www.wikidata.org/entity/Q1348911,1575-12-26T00:00:00Z,1575 Valdivia earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Pedro%20De%20Valdivia%20Siedlungen%20in%20Chile%201540%20bis%201553.jpg
+http://www.wikidata.org/entity/Q8049168,1533-01-01T00:00:00Z,Yaqui Wars,http://commons.wikimedia.org/wiki/Special:FilePath/Uprising%20of%20Yaqui%20Indians%20Remington%201896.jpg
+http://www.wikidata.org/entity/Q10684373,1501-01-01T00:00:00Z,Svante Nilsson Sture's war against Denmark,http://commons.wikimedia.org/wiki/Special:FilePath/Svante%20Nilsson%20Regent%20of%20Sweden%20battle%20scene%201889%20by%20Louise%20Elisabet%20Granberg%20Stjernstr%C3%B6m%20%28b%26w%29.jpg
+http://www.wikidata.org/entity/Q11442711,1586-01-18T00:00:00Z,1586 Tenshō earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20of%20Kaerikumo%20Castle%20Ruins%20001.JPG
+http://www.wikidata.org/entity/Q11495186,1596-09-05T00:00:00Z,1596 Fushimi earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Toyotomi%20Hideyoshi%20and%20Kat%C5%8D%20Kiyomasa.jpg
+http://www.wikidata.org/entity/Q787963,1586-01-01T00:00:00Z,Babington Plot,http://commons.wikimedia.org/wiki/Special:FilePath/Babington%20postscript.jpg
+http://www.wikidata.org/entity/Q874235,1576-11-14T00:00:00Z,Sack of Antwerp,http://commons.wikimedia.org/wiki/Special:FilePath/Incendio%20Ayuntamiento%20Amberes.jpg
+http://www.wikidata.org/entity/Q688998,1519-01-01T00:00:00Z,Leipzig Debate,http://commons.wikimedia.org/wiki/Special:FilePath/Disputatio%201519.jpg
+http://www.wikidata.org/entity/Q19885891,1563-01-01T00:00:00Z,Siege of Orléans,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20d%27orl%C3%A9ans.jpg
+http://www.wikidata.org/entity/Q1156907,1542-01-01T00:00:00Z,Dacke War,http://commons.wikimedia.org/wiki/Special:FilePath/Gustav%20Vasa%20triumphs%204.jpg
+http://www.wikidata.org/entity/Q1233121,1536-01-01T00:00:00Z,Pilgrimage of Grace,http://commons.wikimedia.org/wiki/Special:FilePath/Banner%20of%20the%20Holy%20Wounds%20%28Pilgrimage%20of%20Grace%29.svg
+http://www.wikidata.org/entity/Q151663,1520-04-26T00:00:00Z,Revolt of the Comuneros,http://commons.wikimedia.org/wiki/Special:FilePath/Comuneros.jpg
+http://www.wikidata.org/entity/Q2980852,1598-01-01T00:00:00Z,First Tarnovo Uprising,http://commons.wikimedia.org/wiki/Special:FilePath/First%20Tarnovo%20Uprising.png
+http://www.wikidata.org/entity/Q685757,1569-01-03T00:00:00Z,Morisco Revolt,http://commons.wikimedia.org/wiki/Special:FilePath/Rebeli%C3%B3n%20de%20Las%20Alpujarras.png
+http://www.wikidata.org/entity/Q688308,1521-01-01T00:00:00Z,Swedish War of Liberation,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Entry%20of%20King%20Gustav%20Vasa%20of%20Sweden%20into%20Stockholm%2C%201523%20%28Carl%20Larsson%29%20-%20Nationalmuseum%20-%2023935.tif
+http://www.wikidata.org/entity/Q5951685,1510-01-01T00:00:00Z,Hvar Rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/Hvar%20City.jpg
+http://www.wikidata.org/entity/Q27566029,1549-07-18T00:00:00Z,Kett's Rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/A%20group%20of%20dissenters%20in%20Norfolk%20during%20Robert%20Kett%27s%20rebellion%20of%201549.jpg
+http://www.wikidata.org/entity/Q846876,1520-01-01T00:00:00Z,Stockholm Bloodbath,http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20Bloodbath.jpg
+http://www.wikidata.org/entity/Q3480181,1600-03-20T00:00:00Z,Linköping Bloodbath,http://commons.wikimedia.org/wiki/Special:FilePath/Familjen%20Gustaf%20Axelsson%20Ban%C3%A9r.jpg
+http://www.wikidata.org/entity/Q169598,1582-07-01T00:00:00Z,Honnō-ji Incident,http://commons.wikimedia.org/wiki/Special:FilePath/Honnoj.jpg
+http://www.wikidata.org/entity/Q576338,1598-12-16T00:00:00Z,Japanese invasions of Korea,http://commons.wikimedia.org/wiki/Special:FilePath/Siege-of-Busanjin-1592.jpg
+http://www.wikidata.org/entity/Q3720898,1558-01-01T00:00:00Z,Ottoman invasion of the Balearic Islands,http://commons.wikimedia.org/wiki/Special:FilePath/Minorca%20by%20Piri%20Reis.jpg
+http://www.wikidata.org/entity/Q5502260,1545-07-11T00:00:00Z,French invasion of the Isle of Wight,http://commons.wikimedia.org/wiki/Special:FilePath/The%20French%20fleet%20attacks%20Bembridge.jpg
+http://www.wikidata.org/entity/Q2931482,1572-11-01T00:00:00Z,Massacre of Naarden,http://commons.wikimedia.org/wiki/Special:FilePath/Naarden%20stadsbrand%201572.jpg
+http://www.wikidata.org/entity/Q216165,1580-02-02T00:00:00Z,Union of Utrecht,http://commons.wikimedia.org/wiki/Special:FilePath/Unie%20van%20Utrecht.jpg
+http://www.wikidata.org/entity/Q700035,1576-11-18T00:00:00Z,Pacification of Ghent,http://commons.wikimedia.org/wiki/Special:FilePath/Allegorie%20Pacificatie%20van%20Gent.jpg
+http://www.wikidata.org/entity/Q3485960,1553-01-12T00:00:00Z,Siege of Metz,http://commons.wikimedia.org/wiki/Special:FilePath/Siege-de-metz.JPG
+http://www.wikidata.org/entity/Q3485984,1590-01-01T00:00:00Z,Siege of Paris,http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20IV%20assi%C3%A9geant%20Paris.jpg
+http://www.wikidata.org/entity/Q3486023,1572-11-19T00:00:00Z,Siege of Sancerre,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20de%20Sancerre%20early%2017th%20century%20Claude%20Chastillon.jpg
+http://www.wikidata.org/entity/Q3486028,1558-07-03T00:00:00Z,Siege of Thionville,http://commons.wikimedia.org/wiki/Special:FilePath/Thionville-Vue%20cavali%C3%A8re%20du%20si%C3%A8ge%20de%201558.jpg
+http://www.wikidata.org/entity/Q1046201,1582-01-01T00:00:00Z,Siege of Takamatsu,http://commons.wikimedia.org/wiki/Special:FilePath/Takamatsumizuseme2.jpg
+http://www.wikidata.org/entity/Q1073030,1571-05-01T00:00:00Z,Sieges of Nagashima,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Nagashima.jpg
+http://www.wikidata.org/entity/Q694619,1574-10-13T00:00:00Z,Siege of Leiden,http://commons.wikimedia.org/wiki/Special:FilePath/Veen01.jpg
+http://www.wikidata.org/entity/Q697823,1584-07-01T00:00:00Z,Fall of Antwerp,http://commons.wikimedia.org/wiki/Special:FilePath/Parma%27s%20brug%2C%20Antwerpen%201585.JPG
+http://www.wikidata.org/entity/Q699917,1595-07-24T00:00:00Z,Siege of Groenlo,http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Grol%20%28Groenlo%29%20in%201595.jpg
+http://www.wikidata.org/entity/Q700893,1535-06-01T00:00:00Z,Conquest of Tunis,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Tunis%201535%20Attack%20on%20Goletta.jpg
+http://www.wikidata.org/entity/Q735043,1536-09-10T00:00:00Z,Siege of Klis,http://commons.wikimedia.org/wiki/Special:FilePath/Rijeka014.jpg
+http://www.wikidata.org/entity/Q535542,1521-09-08T00:00:00Z,Siege of Belgrade (1521),http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20Belgrade.jpg
+http://www.wikidata.org/entity/Q673641,1532-08-15T00:00:00Z,Siege of Güns,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20von%20G%C3%BCns.png
+http://www.wikidata.org/entity/Q3625430,1551-01-01T00:00:00Z,Siege of Mirandola (1551),http://commons.wikimedia.org/wiki/Special:FilePath/Claude%20Duchet%2C%20La%20Mirandola.jpg
+http://www.wikidata.org/entity/Q3625432,1511-01-01T00:00:00Z,Siege of Mirandola (1510),http://commons.wikimedia.org/wiki/Special:FilePath/La%20Resa%20di%20Mirandola%20%281810%29.JPG
+http://www.wikidata.org/entity/Q465627,1527-05-06T00:00:00Z,"Sack of Rome, 1527",http://commons.wikimedia.org/wiki/Special:FilePath/Sack%20of%20Rome%20of%201527%20by%20Johannes%20Lingelbach%2017th%20century.jpg
+http://www.wikidata.org/entity/Q474052,1580-01-01T00:00:00Z,Siege of Carrigafoyle Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Carrigafoyle%20Castle%202008.jpg
+http://www.wikidata.org/entity/Q474052,1580-01-01T00:00:00Z,Siege of Carrigafoyle Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Carrigafoyle%20Castle%20Ireland.jpg
+http://www.wikidata.org/entity/Q490935,1598-02-19T00:00:00Z,Siege of Ulsan,http://commons.wikimedia.org/wiki/Special:FilePath/Ulsan%20waesung%20attack.jpg
+http://www.wikidata.org/entity/Q497046,1592-05-25T00:00:00Z,Siege of Busan,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D1%81%D0%B0%D0%B4%D0%B0%20%D0%9F%D1%83%D1%81%D0%B0%D0%BD%D0%B0%20%281592%29.png
+http://www.wikidata.org/entity/Q497348,1592-04-15T00:00:00Z,Siege of Dongnae,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9E%D0%B1%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%20%D0%A2%D0%BE%D0%BD%D0%BD%D1%8D%20%281592%29.jpg
+http://www.wikidata.org/entity/Q604587,1541-08-31T00:00:00Z,Siege of Buda (1541),http://commons.wikimedia.org/wiki/Special:FilePath/Budav%C3%A1r%20ostroma%201541.jpg
+http://www.wikidata.org/entity/Q606621,1566-09-18T00:00:00Z,Siege of Szigetvár,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Szigetv%C3%A1r%20Krafft%20Peter.jpg
+http://www.wikidata.org/entity/Q623621,1598-11-02T00:00:00Z,Siege of Suncheon,http://commons.wikimedia.org/wiki/Special:FilePath/Tenshukaku%20Suncheon.JPG
+http://www.wikidata.org/entity/Q650082,1572-11-16T00:00:00Z,Siege of La Rochelle,http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Siege%20de%20La%20Rochelle%20par%20le%20Duc%20d%20Anjou%20en%201573.jpg
+http://www.wikidata.org/entity/Q652271,1572-12-21T00:00:00Z,Siege of Haarlem,http://commons.wikimedia.org/wiki/Special:FilePath/Het%20beleg%20van%20Haarlem%20in%201572%20%28Pieter%20Jansz.%20Saenredam%2C%201628%29.jpg
+http://www.wikidata.org/entity/Q666407,1597-09-28T00:00:00Z,Siege of Groenlo,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Grol%20%28Groenlo%29%201597%20-%20Grolla%20Obsessa%20et%20Capta%20%281649%29.jpg
+http://www.wikidata.org/entity/Q2069820,1586-06-28T00:00:00Z,Siege of Venlo,http://commons.wikimedia.org/wiki/Special:FilePath/Venlo%2028%20juni%201586.jpg
+http://www.wikidata.org/entity/Q2139412,1575-10-01T00:00:00Z,Siege of Zierikzee,http://commons.wikimedia.org/wiki/Special:FilePath/Zierikzee%201595%20Bor.jpg
+http://www.wikidata.org/entity/Q279611,1593-03-14T00:00:00Z,Siege of Haengju,http://commons.wikimedia.org/wiki/Special:FilePath/Ukita%20Hideie.jpg
+http://www.wikidata.org/entity/Q58732,1565-09-21T00:00:00Z,Siege of Malta,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20malta%201.jpg
+http://www.wikidata.org/entity/Q207576,1529-10-25T00:00:00Z,Siege of Vienna,http://commons.wikimedia.org/wiki/Special:FilePath/Siegeofvienna1529.jpg
+http://www.wikidata.org/entity/Q767935,1523-01-01T00:00:00Z,Siege of Rhodes,http://commons.wikimedia.org/wiki/Special:FilePath/OttomanJanissariesAndDefendingKnightsOfStJohnSiegeOfRhodes1522.jpg
+http://www.wikidata.org/entity/Q815127,1599-05-29T00:00:00Z,Siege of Cahir Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Ireland-Cahir%20Castle.jpg
+http://www.wikidata.org/entity/Q815178,1597-09-03T00:00:00Z,Siege of Meurs,http://commons.wikimedia.org/wiki/Special:FilePath/Mevrsae%20Obsidio%20-%20Siege%20of%20Meurs%20%28Moers%29%20by%20Maurice%20of%20Orange%20in%201597%20-%20%28Johannes%20Janssonius%2C%201651%29.jpg
+http://www.wikidata.org/entity/Q815184,1543-09-01T00:00:00Z,Siege of Nice,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A9ge%20de%20la%20flotte%20turc.jpg
+http://www.wikidata.org/entity/Q815194,1597-08-19T00:00:00Z,Siege of Rheinberg,http://commons.wikimedia.org/wiki/Special:FilePath/Vogelvlucht%20van%20de%20stad%20Rijnberk%20aan%20de%20Rijn%20met%20versterkingen%20-%20Siege%20of%20Rheinberg%20in%201597%20by%20Maurice%20of%20Orange%20%28Johannes%20Janssonius%2C%201651%29.jpg
+http://www.wikidata.org/entity/Q815196,1582-02-14T00:00:00Z,Siege of Pskov,http://commons.wikimedia.org/wiki/Special:FilePath/BrullovKP%20OsadaPskovPolGTG.jpg
+http://www.wikidata.org/entity/Q2701253,1558-01-18T00:00:00Z,Siege of Calais,http://commons.wikimedia.org/wiki/Special:FilePath/1838%20Fran%C3%A7ois-%C3%89douard%20Picot%20-%20The%20Siege%20of%20Calais.jpg
+http://www.wikidata.org/entity/Q850771,1542-01-01T00:00:00Z,Siege of Pest,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Pest%20Enea%20Vico%201542.jpg
+http://www.wikidata.org/entity/Q971364,1572-09-29T00:00:00Z,Siege of Mons (1572),http://commons.wikimedia.org/wiki/Special:FilePath/Braun%20Mons%20HAAB.jpg
+http://www.wikidata.org/entity/Q981042,1529-11-03T00:00:00Z,Siege of Florence,http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Van%20der%20Straet%20%28known%20as%20Giovanni%20Stradano%29%20-%20The%20siege%20of%20Florence%20-%20Google%20Art%20Project%20-%20fixed%20colors.jpg
+http://www.wikidata.org/entity/Q981042,1529-11-03T00:00:00Z,Siege of Florence,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Florence.JPG
+http://www.wikidata.org/entity/Q1073936,1573-01-01T00:00:00Z,Siege of Ichijōdani Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Fukugen-madhinami%20of%20Ichijodani%20Asakura%20Family%20Historic%20Ruins07s3s4500.jpg
+http://www.wikidata.org/entity/Q1086625,1570-09-27T00:00:00Z,Siege of Famagusta,http://commons.wikimedia.org/wiki/Special:FilePath/San%20Luca-Karmeliter%201.jpg
+http://www.wikidata.org/entity/Q1317918,1552-01-01T00:00:00Z,Siege of Temesvár,http://commons.wikimedia.org/wiki/Special:FilePath/After%20the%20capture%20of%20Temesv%C3%A1r%2C%201552.jpg
+http://www.wikidata.org/entity/Q1846216,1569-01-01T00:00:00Z,Siege of Odawara,http://commons.wikimedia.org/wiki/Special:FilePath/OdawaraJo1.jpg
+http://www.wikidata.org/entity/Q1871186,1592-09-02T00:00:00Z,Siege of Coevorden,http://commons.wikimedia.org/wiki/Special:FilePath/Coevorden%20taken%20by%20Maurice%20of%20Nassau%20in%201592%20-%20Coevorden%20ingenomen%20door%20Maurits%20in%201592%20%28Johannes%20Janssonius%29.jpg
+http://www.wikidata.org/entity/Q1871186,1592-09-02T00:00:00Z,Siege of Coevorden,http://commons.wikimedia.org/wiki/Special:FilePath/Coevordia%20Obsessa%20et%20Capta%20-%20Siege%20of%20Coevorden%20in%201592.jpg
+http://www.wikidata.org/entity/Q1949665,1591-01-01T00:00:00Z,Siege of Nijmegen,http://commons.wikimedia.org/wiki/Special:FilePath/Het%20beleg%20van%20Nijmegen%20%281591%29%20door%20Prins%20Maurits%20-%20The%20siege%20of%20Nijmegen%20%281591%29%20by%20Prince%20Maurice.jpg
+http://www.wikidata.org/entity/Q2017254,1561-01-01T00:00:00Z,Siege of Odawara,http://commons.wikimedia.org/wiki/Special:FilePath/Odawara%202006-02-21%20c.jpg
+http://www.wikidata.org/entity/Q2028290,1591-09-24T00:00:00Z,Siege of Hulst,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Hulst%20%281591%29%20door%20Maurits%20-%20Siege%20of%20Hulst%20by%20Prince%20Maurice%20%281591%29%20by%20Pieter%20Bast.jpg
+http://www.wikidata.org/entity/Q2043762,1590-02-03T00:00:00Z,Siege of Rheinberg,http://commons.wikimedia.org/wiki/Special:FilePath/Rheinberg%201590.jpg
+http://www.wikidata.org/entity/Q2050622,1588-11-13T00:00:00Z,Siege of Bergen-op-Zoom,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Bergen%20op%20Zoom%20%281588%29%20door%20Parma%20-%20Siege%20of%20Bergen%20op%20Zoom%20in%201588%20by%20Alexander%20Farnese%2C%20Duke%20of%20Parma%20%28Bartholomeus%20Willemsz.%20Dolendo%29.jpg
+http://www.wikidata.org/entity/Q2066129,1557-08-20T00:00:00Z,Battle of St. Quentin,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20St.%20Quentin%201557%20map%20NL.png
+http://www.wikidata.org/entity/Q3485884,1594-11-19T00:00:00Z,Siege of Fort Crozon,http://commons.wikimedia.org/wiki/Special:FilePath/Pointe%20des%20Espagnols%20-%20Vue%20c%C3%B4t%C3%A9%20mer.jpg
+http://www.wikidata.org/entity/Q5432140,1541-09-01T00:00:00Z,Fall of Agadir,http://commons.wikimedia.org/wiki/Special:FilePath/Portuguese%20Morocco.PNG
+http://www.wikidata.org/entity/Q5962857,1567-10-07T00:00:00Z,Siege of Inabayama Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Gifu%20Castle.jpg
+http://www.wikidata.org/entity/Q7443525,1546-11-20T00:00:00Z,Second Siege of Diu,http://commons.wikimedia.org/wiki/Special:FilePath/Earlybattle2.jpg
+http://www.wikidata.org/entity/Q7509804,1521-02-01T00:00:00Z,Siege of Allenstein,http://commons.wikimedia.org/wiki/Special:FilePath/Rzeczpospolita%20Royal%20Ducal.png
+http://www.wikidata.org/entity/Q12810411,1537-09-01T00:00:00Z,Siege of Corfu,http://commons.wikimedia.org/wiki/Special:FilePath/Corfu%20map%2016th%20century.jpg
+http://www.wikidata.org/entity/Q13437124,1591-05-30T00:00:00Z,Siege of Zutphen,http://commons.wikimedia.org/wiki/Special:FilePath/Zutphen%201591.jpg
+http://www.wikidata.org/entity/Q13490083,1591-07-25T00:00:00Z,Siege of Knodsenburg,http://commons.wikimedia.org/wiki/Special:FilePath/Ontzet%20van%20de%20schans%20Knodsenburg%20in%201591%20door%20Prins%20Maurits%20-%20Relief%20of%20the%20siege%20of%20fort%20Knodsenburg%20by%20Prince%20Maurice%20%28July%2025%2C%201591%29%28Bartholomeus%20Willemsz.%20Dolendo%29.jpg
+http://www.wikidata.org/entity/Q13538346,1587-08-04T00:00:00Z,Siege of Sluis (1587),http://commons.wikimedia.org/wiki/Special:FilePath/Sluis%201586%201.JPG
+http://www.wikidata.org/entity/Q7509977,1595-07-01T00:00:00Z,Siege of Doullens,http://commons.wikimedia.org/wiki/Special:FilePath/Doullens%20citadelle%20%28int%C3%A9rieur%29%205.jpg
+http://www.wikidata.org/entity/Q7510412,1580-11-20T00:00:00Z,Siege of Smerwick,http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20commemorating%20the%20Smerwick%20Harbour%20massacre%20-%20geograph.org.uk%20-%20459585.jpg
+http://www.wikidata.org/entity/Q7510418,1546-01-01T00:00:00Z,Siege of St Andrews Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Room%20With%20A%20View%20-%20geograph.org.uk%20-%20428699.jpg
+http://www.wikidata.org/entity/Q7510439,1600-01-01T00:00:00Z,Siege of Tanabe,http://commons.wikimedia.org/wiki/Special:FilePath/Maizuru%20Castle.jpg
+http://www.wikidata.org/entity/Q2670327,1552-01-01T00:00:00Z,Siege of Kazan,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Kazan%20%28Shamshin%2C%201894%29.jpeg
+http://www.wikidata.org/entity/Q2544586,1594-07-22T00:00:00Z,Siege of Groningen (1594),http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Groningen%20-%20Siege%20of%20Groningen%20%281594%29.jpg
+http://www.wikidata.org/entity/Q2585314,1572-11-14T00:00:00Z,Siege of Middelburg,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Middelburg%20-%20Beleg%20van%20Middelburg%20in%201574%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q2587413,1575-08-17T00:00:00Z,Siege of Oudewater,http://commons.wikimedia.org/wiki/Special:FilePath/Oudewater%201575.jpg
+http://www.wikidata.org/entity/Q2594176,1593-06-24T00:00:00Z,Siege of Geertruidenberg,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20St.%20Geertruidenberg%20by%20Maurice%20of%20Orange%20in%201595%20-%20Obsidio%20St.%20Geertrvydenberg%27.jpg
+http://www.wikidata.org/entity/Q2618828,1597-10-23T00:00:00Z,Siege of Oldenzaal,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20Oldenzaal%201597.jpg
+http://www.wikidata.org/entity/Q2621537,1539-08-16T00:00:00Z,Siege of Castelnuovo,http://commons.wikimedia.org/wiki/Special:FilePath/Castel%20Novo.jpg
+http://www.wikidata.org/entity/Q2621821,1582-09-25T00:00:00Z,Siege of Lochem,http://commons.wikimedia.org/wiki/Special:FilePath/Ontzet%20Lochem%201583.jpg
+http://www.wikidata.org/entity/Q2622890,1590-08-04T00:00:00Z,Siege of Odawara,http://commons.wikimedia.org/wiki/Special:FilePath/OdawaraJo2.jpg
+http://www.wikidata.org/entity/Q2649702,1585-10-15T00:00:00Z,Siege of IJsseloord,http://commons.wikimedia.org/wiki/Special:FilePath/IJsseloord%201585.jpg
+http://www.wikidata.org/entity/Q2664371,1574-09-23T00:00:00Z,Conquest of Tunis,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Ottoman%20fleet%20attacking%20Tunis%20at%20La%20Goulette%20Braun%20and%20Hogenberg%201574.jpg
+http://www.wikidata.org/entity/Q4825573,1597-11-12T00:00:00Z,Siege of Lingen,http://commons.wikimedia.org/wiki/Special:FilePath/Lingae%20Obsidio%20-%20Siege%20of%20Lingen%20in%201597%20by%20Maurice%20of%20Orange.jpg
+http://www.wikidata.org/entity/Q2143007,1596-08-18T00:00:00Z,Siege of Hulst,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Hulst%20%281596%29%20door%20Albertus%20van%20Oostenrijk%20-%20Siege%20of%20Hulst%20%281596%29%20by%20Albert%20of%20Austria%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q2163387,1545-01-01T00:00:00Z,Siege of Takatō,http://commons.wikimedia.org/wiki/Special:FilePath/TakatoCastle%EF%BC%88%E9%AB%98%E9%81%A0%E5%9F%8E%EF%BC%89.JPG
+http://www.wikidata.org/entity/Q2188582,1592-07-05T00:00:00Z,Siege of Steenwijk,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Steenwijk%20by%20Maurice%20of%20Orange%20%281592%29%20-%20Stenovicium%20Obsessa.jpg
+http://www.wikidata.org/entity/Q2202319,1584-09-17T00:00:00Z,Siege of Ghent (1583–1584),http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%2C%20Belgium%20%3B%20Braun%20%26%20Hogenberg%201576.jpg
+http://www.wikidata.org/entity/Q2218872,1550-01-01T00:00:00Z,Sieges of Toishi,http://commons.wikimedia.org/wiki/Special:FilePath/Toishijyo.JPG
+http://www.wikidata.org/entity/Q2220712,1590-03-04T00:00:00Z,Capture of Breda of 1590,http://commons.wikimedia.org/wiki/Special:FilePath/Turfschip%20Breda.jpg
+http://www.wikidata.org/entity/Q2231397,1578-11-29T00:00:00Z,Siege of Deventer in 1578,http://commons.wikimedia.org/wiki/Special:FilePath/Daventria.png
+http://www.wikidata.org/entity/Q2231652,1572-10-30T00:00:00Z,Relief of Goes,http://commons.wikimedia.org/wiki/Special:FilePath/Goes%201572%20Minuut%2B%20v%20Deventer.jpg
+http://www.wikidata.org/entity/Q2330922,1583-04-23T00:00:00Z,Siege of Eindhoven,http://commons.wikimedia.org/wiki/Special:FilePath/Eindhoven%20Hogenberg.jpg
+http://www.wikidata.org/entity/Q2350145,1573-10-18T00:00:00Z,Siege of Alkmaar,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Alkmaar%201573%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q2374971,1599-07-13T00:00:00Z,Siege of Zaltbommel,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Zaltbommel%20-%20Beleg%20van%20Bommel%20%28Zaltbommel%29%20in%201599%20%28Johannes%20Janssonius%29.jpg
+http://www.wikidata.org/entity/Q2384299,1599-01-01T00:00:00Z,Siege of Rees,http://commons.wikimedia.org/wiki/Special:FilePath/Blaeu%20Rees.jpg
+http://www.wikidata.org/entity/Q2398589,1536-05-16T00:00:00Z,Siege of Cuzco,http://commons.wikimedia.org/wiki/Special:FilePath/POMA0402v.jpg
+http://www.wikidata.org/entity/Q2483221,1580-10-28T00:00:00Z,Siege of Steenwijk,http://commons.wikimedia.org/wiki/Special:FilePath/De%20vergeefse%20belegering%20van%20Steenwijk%20door%20Graaf%20van%20Rennenberg%20%28Lalaing%29%20in%201580-81%20%28Jan%20Luyken%29.jpg
+http://www.wikidata.org/entity/Q2499253,1597-10-10T00:00:00Z,Siege of Bredevoort,http://commons.wikimedia.org/wiki/Special:FilePath/Bredevoort%20kaart.gif
+http://www.wikidata.org/entity/Q2502863,1541-11-01T00:00:00Z,Algiers expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Algiers%201541.jpg
+http://www.wikidata.org/entity/Q3394749,1538-11-01T00:00:00Z,Siege of Diu,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Portuguese%20Fortress%20of%20Diu%20in%20the%20mid-16th%20century.png
+http://www.wikidata.org/entity/Q3485809,1597-09-25T00:00:00Z,Siege of Amiens,http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20IV%20at%20Amiens%201597.jpg
+http://www.wikidata.org/entity/Q2701400,1596-04-01T00:00:00Z,Siege of Calais,http://commons.wikimedia.org/wiki/Special:FilePath/Calais%201596.JPG
+http://www.wikidata.org/entity/Q2752249,1524-02-27T00:00:00Z,Siege of Edo,http://commons.wikimedia.org/wiki/Special:FilePath/Imperial%20Palace%20Tokyo%20Fushimi%20Yagura%20Keep%201.JPG
+http://www.wikidata.org/entity/Q2758693,1579-07-11T00:00:00Z,Siege of Maastricht (1579),http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20Maastricht%201579.jpg
+http://www.wikidata.org/entity/Q2779261,1581-11-03T00:00:00Z,Siege of Niezijl,http://commons.wikimedia.org/wiki/Special:FilePath/Gedenkpenning%20Niezijl.png
+http://www.wikidata.org/entity/Q2854642,1586-07-17T00:00:00Z,Capture of Axel,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Axel%201586.jpg
+http://www.wikidata.org/entity/Q2860095,1551-08-15T00:00:00Z,Siege of Tripoli,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Tripoli%20by%20the%20Ottomans%201551.jpg
+http://www.wikidata.org/entity/Q2893211,1591-06-10T00:00:00Z,Siege of Deventer (1591),http://commons.wikimedia.org/wiki/Special:FilePath/Deventer%201591.jpg
+http://www.wikidata.org/entity/Q3275284,1600-09-01T00:00:00Z,Siege of Fushimi,http://commons.wikimedia.org/wiki/Special:FilePath/Fushimijo.jpg
+http://www.wikidata.org/entity/Q3321519,1552-01-01T00:00:00Z,Siege of Eger,http://commons.wikimedia.org/wiki/Special:FilePath/Sz%C3%A9kely%2C%20Bertalan%20-%20The%20Women%20of%20Eger%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q5036982,1534-01-01T00:00:00Z,Capture of Baghdad,http://commons.wikimedia.org/wiki/Special:FilePath/Ottoman%20empire.svg
+http://www.wikidata.org/entity/Q5037032,1550-09-01T00:00:00Z,Capture of Mahdiye,http://commons.wikimedia.org/wiki/Special:FilePath/Mahdia%20-%201535.jpg
+http://www.wikidata.org/entity/Q5037040,1552-08-01T00:00:00Z,Capture of Muscat,http://commons.wikimedia.org/wiki/Special:FilePath/Piris%20Reis%20expedition%20map-fr.svg
+http://www.wikidata.org/entity/Q7510123,1504-01-01T00:00:00Z,Siege of Kabul,http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Khorasan%20highlighted.jpg
+http://www.wikidata.org/entity/Q7510186,1560-01-01T00:00:00Z,Siege of Leith,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Leith%20map%2C%201560.jpg
+http://www.wikidata.org/entity/Q7510248,1561-01-01T00:00:00Z,Siege of Moji,http://commons.wikimedia.org/wiki/Special:FilePath/Mozi%20castle.JPG
+http://www.wikidata.org/entity/Q7510315,1518-01-01T00:00:00Z,Siege of Polotsk,http://commons.wikimedia.org/wiki/Special:FilePath/Belarus-Polatsk-Dzvina%20River-2.jpg
+http://www.wikidata.org/entity/Q7510337,1568-02-18T00:00:00Z,Siege of Ranthambore,http://commons.wikimedia.org/wiki/Special:FilePath/Bullocks%20dragging%20siege-guns%20up%20hill%20during%20the%20attack%20on%20Ranthambhor%20Fort.jpg
+http://www.wikidata.org/entity/Q7510370,1501-01-01T00:00:00Z,Siege of Samarkand,http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Shaybani.jpg
+http://www.wikidata.org/entity/Q4110453,1511-08-25T00:00:00Z,Capture of Malacca,http://commons.wikimedia.org/wiki/Special:FilePath/Malacca%20in%201550-1563.png
+http://www.wikidata.org/entity/Q4207737,1543-08-20T00:00:00Z,Siege of Esztergom (1543),http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Esztergom%201543.jpg
+http://www.wikidata.org/entity/Q4273940,1568-01-01T00:00:00Z,Siege of Malacca,http://commons.wikimedia.org/wiki/Special:FilePath/Malacca%201630.jpg
+http://www.wikidata.org/entity/Q4337382,1507-08-01T00:00:00Z,Siege of Cannanore,http://commons.wikimedia.org/wiki/Special:FilePath/Kannur-Fort-22.jpg
+http://www.wikidata.org/entity/Q4337412,1558-01-01T00:00:00Z,Siege of Narva,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Narva%201558.jpg
+http://www.wikidata.org/entity/Q4337418,1517-01-01T00:00:00Z,Siege of Opochka,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9E%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q4337433,1579-01-01T00:00:00Z,Siege of Polotsk,http://commons.wikimedia.org/wiki/Special:FilePath/Po%C5%82acak.%20%D0%9F%D0%BE%D0%BB%D0%B0%D1%86%D0%B0%D0%BA%20%281579%29.jpg
+http://www.wikidata.org/entity/Q4337446,1514-08-01T00:00:00Z,Siege of Smolensk (1514),http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Smolensk.jpg
+http://www.wikidata.org/entity/Q7510052,1583-01-01T00:00:00Z,Siege of Godesberg,http://commons.wikimedia.org/wiki/Special:FilePath/Inname%20van%20Godesberg%20-%20Capture%20and%20destruction%20of%20Godesburg%20in%201583%20%28Frans%20Hogenberg%29%20Edit%203.jpg
+http://www.wikidata.org/entity/Q7510063,1578-01-23T00:00:00Z,Siege of Gvozdansko,http://commons.wikimedia.org/wiki/Special:FilePath/Gvozdansko%2C%20Croatia.JPG
+http://www.wikidata.org/entity/Q7510065,1548-01-01T00:00:00Z,Siege of Haddington,http://commons.wikimedia.org/wiki/Special:FilePath/St%20Mary%27s%20Church%20%28Haddington%29%2020100919.jpg
+http://www.wikidata.org/entity/Q7510081,1600-01-01T00:00:00Z,Siege of Hasedō,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Hased%C5%8D%2001.jpg
+http://www.wikidata.org/entity/Q7510081,1600-01-01T00:00:00Z,Siege of Hasedō,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Hased%C5%8D%2002.jpg
+http://www.wikidata.org/entity/Q7510099,1562-09-21T00:00:00Z,Siege of Inverness,http://commons.wikimedia.org/wiki/Special:FilePath/Inverness%20Castle%208.JPG
+http://www.wikidata.org/entity/Q7510108,1579-01-01T00:00:00Z,Siege of Itami,http://commons.wikimedia.org/wiki/Special:FilePath/Itamij15.jpg
+http://www.wikidata.org/entity/Q7510502,1548-09-04T00:00:00Z,Siege of Van,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Rock%20and%20Walled%20City%20of%20Van%20%281893%29.jpg
+http://www.wikidata.org/entity/Q7510514,1574-01-01T00:00:00Z,siege of Wesenberg,http://commons.wikimedia.org/wiki/Special:FilePath/LIVONIAE%20NOVA%20DESCRIPTIO%201573-1578.jpg
+http://www.wikidata.org/entity/Q7510544,1585-01-01T00:00:00Z,Siege of Ōta Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Ootajo-ki9.jpg
+http://www.wikidata.org/entity/Q7510593,1563-01-01T00:00:00Z,Sieges of Oran and Mers El Kébir,http://commons.wikimedia.org/wiki/Special:FilePath/Moriscos%20Port%20d%27Or%C3%A1n.%20Vicente%20Mestre.jpg
+http://www.wikidata.org/entity/Q7885742,1544-09-24T00:00:00Z,Sieges of Boulogne (1544–1546),http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Brandon%2C%201st%20Duke%20of%20Suffolk.jpg
+http://www.wikidata.org/entity/Q10712925,1569-11-01T00:00:00Z,Siege of Varberg,http://commons.wikimedia.org/wiki/Special:FilePath/Varbergs%20kapitulation%201569.jpg
+http://www.wikidata.org/entity/Q10748887,1571-09-29T00:00:00Z,Siege of Mount Hiei,http://commons.wikimedia.org/wiki/Special:FilePath/Enryakuji1.jpg
+http://www.wikidata.org/entity/Q11242477,1578-01-01T00:00:00Z,Siege of Miki,http://commons.wikimedia.org/wiki/Special:FilePath/Mikij31.jpg
+http://www.wikidata.org/entity/Q13568719,1586-06-07T00:00:00Z,Siege of Grave,http://commons.wikimedia.org/wiki/Special:FilePath/Grave%201586%20-%200.jpg
+http://www.wikidata.org/entity/Q14475856,1593-02-08T00:00:00Z,Siege of Pyongyang (1593),http://commons.wikimedia.org/wiki/Special:FilePath/Chinapyongyangimjin.jpg
+http://www.wikidata.org/entity/Q14632126,1595-01-01T00:00:00Z,Siege of Huy,http://commons.wikimedia.org/wiki/Special:FilePath/Herovering%20van%20Hoei.JPG
+http://www.wikidata.org/entity/Q14632126,1595-01-01T00:00:00Z,Siege of Huy,http://commons.wikimedia.org/wiki/Special:FilePath/Inname%20van%20Hoei.JPG
+http://www.wikidata.org/entity/Q15663170,1590-01-01T00:00:00Z,Siege of Oshi,http://commons.wikimedia.org/wiki/Special:FilePath/Oshi-jo%20fukugen%20001.jpg
+http://www.wikidata.org/entity/Q19885891,1563-01-01T00:00:00Z,Siege of Orléans,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20d%27orl%C3%A9ans.jpg
+http://www.wikidata.org/entity/Q20526199,1592-06-19T00:00:00Z,Siege of Bihać,http://commons.wikimedia.org/wiki/Special:FilePath/Bihac%20tvrdi%20grad%20AD%201590.jpg
+http://www.wikidata.org/entity/Q20638909,1574-02-01T00:00:00Z,Capture of Valkenburg,http://commons.wikimedia.org/wiki/Special:FilePath/Valkenburg%2C%20Kasteelru%C3%AFne%2C%20overzicht02.jpg
+http://www.wikidata.org/entity/Q21187149,1594-02-01T00:00:00Z,siege of Enniskillen,http://commons.wikimedia.org/wiki/Special:FilePath/Enniskillen%20Castle.jpg
+http://www.wikidata.org/entity/Q16529030,1528-08-01T00:00:00Z,Siege of Naples,http://commons.wikimedia.org/wiki/Special:FilePath/Braun%20Napoli%20UBHD.jpg
+http://www.wikidata.org/entity/Q16931406,1567-10-30T00:00:00Z,Siege of Chittorgarh,http://commons.wikimedia.org/wiki/Special:FilePath/Akbar%20shoots%20Jaimal%20at%20the%20siege%20of%20Chitor.jpg
+http://www.wikidata.org/entity/Q17081667,1501-01-01T00:00:00Z,Siege of Tabriz,http://commons.wikimedia.org/wiki/Special:FilePath/Ismail%20declares%20himself%20shah%20by%20entering%20Tabriz%2C%20Chingiz%20Mehbaliyev.jpg
+http://www.wikidata.org/entity/Q55635543,1589-01-01T00:00:00Z,The Siege of Coruña,http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Pita%2C%20A%20Coru%C3%B1a%202.jpg
+http://www.wikidata.org/entity/Q55885827,1513-04-05T00:00:00Z,Siege of Aden,http://commons.wikimedia.org/wiki/Special:FilePath/Assault%20on%20Aden.jpg
+http://www.wikidata.org/entity/Q60766003,1565-07-03T00:00:00Z,Siege of Krupa,http://commons.wikimedia.org/wiki/Special:FilePath/Srednjovjekovna%20Krupa.jpg
+http://www.wikidata.org/entity/Q18713116,1522-06-08T00:00:00Z,Siege of Knin,http://commons.wikimedia.org/wiki/Special:FilePath/TenenPagano1522.png
+http://www.wikidata.org/entity/Q24971262,1592-05-21T00:00:00Z,Siege of Caudebec,http://commons.wikimedia.org/wiki/Special:FilePath/Parama%20Retreat%20atCaudebec1592.jpg
+http://www.wikidata.org/entity/Q25184700,1594-09-17T00:00:00Z,Siege of Morlaix,http://commons.wikimedia.org/wiki/Special:FilePath/Rempart%20Morlaix.jpg
+http://www.wikidata.org/entity/Q30608727,1599-05-02T00:00:00Z,Siege of Schenckenschans,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Schenkenschans%20door%20de%20Spanjaarden%201599.jpg
+http://www.wikidata.org/entity/Q55633151,1559-11-01T00:00:00Z,Siege of Bahrain,http://commons.wikimedia.org/wiki/Special:FilePath/Bahrain%20Fort%20March%202015.JPG
+http://www.wikidata.org/entity/Q55633151,1559-11-01T00:00:00Z,Siege of Bahrain,http://commons.wikimedia.org/wiki/Special:FilePath/Bellin%20-%20Karte%20von%20der%20K%C3%BCste%20von%20Arabien%20c.1745%20%28crop%29.png
+http://www.wikidata.org/entity/Q48779654,1593-10-28T00:00:00Z,Siege of Coevorden,http://commons.wikimedia.org/wiki/Special:FilePath/Beleg%20van%20Coevorden%20%281593-1594%29.JPG
+http://www.wikidata.org/entity/Q48804665,1600-03-06T00:00:00Z,Siege of San Andreas,http://commons.wikimedia.org/wiki/Special:FilePath/St%20andries%201651.jpg
+http://www.wikidata.org/entity/Q49000631,1557-03-01T00:00:00Z,Siege of Katsurayama,http://commons.wikimedia.org/wiki/Special:FilePath/Katsurayamajyo.jpg
+http://www.wikidata.org/entity/Q1054975,1538-09-28T00:00:00Z,Battle of Preveza,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Preveza%20%281538%29.jpg
+http://www.wikidata.org/entity/Q1054975,1538-09-28T00:00:00Z,Battle of Preveza,http://commons.wikimedia.org/wiki/Special:FilePath/IAN%200137%20Urrabieta%20y%20Ortiz%201859%20Preveza.jpg
+http://www.wikidata.org/entity/Q279250,1542-02-02T00:00:00Z,Battle of Baçente,http://commons.wikimedia.org/wiki/Special:FilePath/Adal.PNG
+http://www.wikidata.org/entity/Q280439,1531-08-22T00:00:00Z,Battle of Obertyn,http://commons.wikimedia.org/wiki/Special:FilePath/Modovian%20army%20Polski%20Kronika%20from%201564.jpg
+http://www.wikidata.org/entity/Q63468,1525-02-24T00:00:00Z,Battle of Pavia,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Pavia%20-%20Unknown%20Artist%20-%20Google%20Cultural%20Institute.jpg
+http://www.wikidata.org/entity/Q505699,1568-05-23T00:00:00Z,Battle of Heiligerlee,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20bij%20Heiligerlee%20-%20Battle%20of%20Heiligerlee%20-%201568%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q535542,1521-09-08T00:00:00Z,Siege of Belgrade (1521),http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20Belgrade.jpg
+http://www.wikidata.org/entity/Q178510,1526-08-29T00:00:00Z,Battle of Mohács,http://commons.wikimedia.org/wiki/Special:FilePath/Than%20M%C3%B3r%20Moh%C3%A1csi%20csata.jpg
+http://www.wikidata.org/entity/Q330,1515-09-24T00:00:00Z,Battle of Marignano,http://commons.wikimedia.org/wiki/Special:FilePath/Marignano.jpg
+http://www.wikidata.org/entity/Q39040,1582-07-12T00:00:00Z,Battle of Yamazaki,http://commons.wikimedia.org/wiki/Special:FilePath/War%20Council%20Before%20the%20Battle%20of%20Yamazaki.jpg
+http://www.wikidata.org/entity/Q58732,1565-09-21T00:00:00Z,Siege of Malta,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20malta%201.jpg
+http://www.wikidata.org/entity/Q606621,1566-09-18T00:00:00Z,Siege of Szigetvár,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Szigetv%C3%A1r%20Krafft%20Peter.jpg
+http://www.wikidata.org/entity/Q633362,1530-08-03T00:00:00Z,Battle of Gavinana,http://commons.wikimedia.org/wiki/Special:FilePath/Uffizi%2016%2C%20Francesco%20Ferrucci.JPG
+http://www.wikidata.org/entity/Q641757,1567-03-13T00:00:00Z,Battle of Oosterweel,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Oosterweel.jpg
+http://www.wikidata.org/entity/Q646525,1597-01-24T00:00:00Z,Battle of Turnhout,http://commons.wikimedia.org/wiki/Special:FilePath/De%20slagh%20bij%20Turnhout%20in%20den%20jaere%20MDXCVII%20-%201597%20%28Jan%20Luyken%2C%201681%29.jpg
+http://www.wikidata.org/entity/Q581542,1552-08-05T00:00:00Z,Battle of Ponza,http://commons.wikimedia.org/wiki/Special:FilePath/Kad%C4%B1rga%20Minyat%C3%BCr.jpg
+http://www.wikidata.org/entity/Q589285,1591-03-12T00:00:00Z,Battle of Tondibi,http://commons.wikimedia.org/wiki/Special:FilePath/SONGHAI%20empire%20map.PNG
+http://www.wikidata.org/entity/Q590658,1547-10-20T00:00:00Z,Battle of Huarina,http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20de%20Huarina.jpg
+http://www.wikidata.org/entity/Q591727,1569-10-03T00:00:00Z,Battle of Moncontour,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Moncontour%201569.jpg
+http://www.wikidata.org/entity/Q592069,1599-10-18T00:00:00Z,Battle of Sellenberk,http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Aman%20-%20Mihai%20Viteazul%20si%20capul%20lui%20Bathory.jpeg
+http://www.wikidata.org/entity/Q605321,1526-05-11T00:00:00Z,Battle of Panipat,http://commons.wikimedia.org/wiki/Special:FilePath/The%20battle%20of%20Panipat%20and%20the%20death%20of%20Sultan%20Ibr%C4%81h%C4%ABm%2C%20the%20last%20of%20the%20L%C5%8Dd%C4%AB%20Sultans%20of%20Delhi.jpg
+http://www.wikidata.org/entity/Q605321,1526-05-11T00:00:00Z,Battle of Panipat,http://commons.wikimedia.org/wiki/Special:FilePath/Vaki%27at-i%20Baburi%20-%20The%20Battle%20of%20Panipat%20%281526%29%20by%20Deo%20Gujarati.jpg
+http://www.wikidata.org/entity/Q225562,1583-06-11T00:00:00Z,Battle of Shizugatake,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Shizugatake.jpg
+http://www.wikidata.org/entity/Q233414,1556-11-05T00:00:00Z,Battle of Panipat (1556),http://commons.wikimedia.org/wiki/Special:FilePath/The%20defeat%20of%20Hemu%2C%20Akbarnama.jpg
+http://www.wikidata.org/entity/Q234188,1600-10-21T00:00:00Z,Battle of Sekigahara,http://commons.wikimedia.org/wiki/Special:FilePath/Sekigaharascreen.jpg
+http://www.wikidata.org/entity/Q349422,1560-06-22T00:00:00Z,Battle of Okehazama,http://commons.wikimedia.org/wiki/Special:FilePath/Bish%C5%AB%20Okehazama-gassen.jpg
+http://www.wikidata.org/entity/Q368207,1532-09-19T00:00:00Z,Battle of Leobersdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Porty%C3%A1z%C3%B3%20t%C3%B6r%C3%B6k%C3%B6k.jpg
+http://www.wikidata.org/entity/Q368207,1532-09-29T00:00:00Z,Battle of Leobersdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Porty%C3%A1z%C3%B3%20t%C3%B6r%C3%B6k%C3%B6k.jpg
+http://www.wikidata.org/entity/Q371409,1598-10-05T00:00:00Z,Battle of Stångebro,http://commons.wikimedia.org/wiki/Special:FilePath/Slaget%20vid%20St%C3%A5ngebro.jpg
+http://www.wikidata.org/entity/Q385677,1597-10-26T00:00:00Z,Battle of Myeongnyang,http://commons.wikimedia.org/wiki/Special:FilePath/Navalzhugenu2.jpg
+http://www.wikidata.org/entity/Q428369,1575-06-28T00:00:00Z,Battle of Nagashino,http://commons.wikimedia.org/wiki/Special:FilePath/Battle-of-Nagashino-Map-Folding-Screen-1575.png
+http://www.wikidata.org/entity/Q683341,1522-04-27T00:00:00Z,Battle of Bicocca,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Bicocca%20%28location%29.png
+http://www.wikidata.org/entity/Q474399,1565-02-01T00:00:00Z,Battle of Affane,http://commons.wikimedia.org/wiki/Special:FilePath/Lismore%20Castle.jpg
+http://www.wikidata.org/entity/Q477592,1547-06-02T00:00:00Z,Battle of Drakenburg,http://commons.wikimedia.org/wiki/Special:FilePath/Drakenburg%20Schlacht.png
+http://www.wikidata.org/entity/Q483088,1597-08-27T00:00:00Z,Battle of Chilcheollyang,http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20crest%20Tuta.svg
+http://www.wikidata.org/entity/Q483088,1597-08-27T00:00:00Z,Battle of Chilcheollyang,http://commons.wikimedia.org/wiki/Special:FilePath/Korea-Geoje-Gohyeon%20Castle-01.jpg
+http://www.wikidata.org/entity/Q484256,1592-05-08T00:00:00Z,Battle of Okpo,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D0%B1%D0%B8%D1%82%D0%B2%D0%B5%20%D0%BF%D1%80%D0%B8%20%D0%9E%D0%BA%D0%BF%D1%85%D0%BE%20%281592%29.JPG
+http://www.wikidata.org/entity/Q487332,1592-08-15T00:00:00Z,Battle of Hansan Island,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B8%D1%82%D0%B2%D0%B0%20%D0%BF%D1%80%D0%B8%20%D0%A5%D0%B0%D0%BD%D1%81%D0%B0%D0%BD%D0%B4%D0%BE.jpg
+http://www.wikidata.org/entity/Q489057,1597-11-01T00:00:00Z,Battle of Carrickfergus,http://commons.wikimedia.org/wiki/Special:FilePath/Carrickfergus%20Castle2.jpg
+http://www.wikidata.org/entity/Q661327,1547-04-25T00:00:00Z,Battle of Mühlberg,http://commons.wikimedia.org/wiki/Special:FilePath/Carlos%20V%20en%20la%20Batalla%20de%20M%C3%BChlberg%2C%20por%20Tiziano.jpg
+http://www.wikidata.org/entity/Q661940,1513-06-06T00:00:00Z,Battle of Novara,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20Novara%201513.jpg
+http://www.wikidata.org/entity/Q673641,1532-08-15T00:00:00Z,Siege of Güns,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20von%20G%C3%BCns.png
+http://www.wikidata.org/entity/Q675516,1590-03-14T00:00:00Z,Battle of Ivry,http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Paul%20Rubens%2C%20Pieter%20Snayers%20-%20Henry%20IV%20at%20the%20battle%20of%20Ivry.jpg
+http://www.wikidata.org/entity/Q679858,1568-04-25T00:00:00Z,Battle of Dahlen,http://commons.wikimedia.org/wiki/Special:FilePath/The%20siege%20of%20Dalen%20on%20july%2022%2C%201568%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q859756,1542-09-29T00:00:00Z,Battle of Azukizaka,http://commons.wikimedia.org/wiki/Special:FilePath/Site%20of%20Azukizaka%20Battle.jpg
+http://www.wikidata.org/entity/Q867236,1585-01-01T00:00:00Z,Battle of Werl,http://commons.wikimedia.org/wiki/Special:FilePath/Schenk%202.JPG
+http://www.wikidata.org/entity/Q895686,1553-07-19T00:00:00Z,Battle of Sievershausen,http://commons.wikimedia.org/wiki/Special:FilePath/Saxonia%20Museum%20f%C3%BCr%20saechsische%20Vaterlandskunde%20I%2037.jpg
+http://www.wikidata.org/entity/Q690464,1573-02-04T00:00:00Z,Battle of Mikatagahara,http://commons.wikimedia.org/wiki/Special:FilePath/Mikatagahara%20no%20tatakai.jpg
+http://www.wikidata.org/entity/Q690495,1596-01-01T00:00:00Z,Battle of Keresztes,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Mez%C5%91keresztes%201596.jpg
+http://www.wikidata.org/entity/Q695732,1574-04-15T00:00:00Z,Battle of Mookerheyde,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20op%20de%20Moockerheijde.jpg
+http://www.wikidata.org/entity/Q720801,1595-10-19T00:00:00Z,Battle of Cecora,http://commons.wikimedia.org/wiki/Special:FilePath/Walka%20o%20sztandar%20turecki.jpg
+http://www.wikidata.org/entity/Q741788,1580-08-25T00:00:00Z,Battle of Alcântara,http://commons.wikimedia.org/wiki/Special:FilePath/Batalha%20de%20Alc%C3%A2ntara.jpg
+http://www.wikidata.org/entity/Q744588,1574-01-29T00:00:00Z,Battle of Reimerswaal,http://commons.wikimedia.org/wiki/Special:FilePath/Reimerswaal%201622.png
+http://www.wikidata.org/entity/Q1041463,1567-01-01T00:00:00Z,Battle of Saint-Denis,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Saint%20Denis%201567.jpg
+http://www.wikidata.org/entity/Q1042049,1569-03-13T00:00:00Z,Battle of Jarnac,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Jarnac.jpg
+http://www.wikidata.org/entity/Q1064720,1545-10-01T00:00:00Z,Siege of Kawagoe Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Kawagoe%20castle-Honmaru-2006-02-12.jpg
+http://www.wikidata.org/entity/Q1064989,1555-10-26T00:00:00Z,Battle of Miyajima,http://commons.wikimedia.org/wiki/Special:FilePath/201201-TaroTokyo-Itsukushima-DSC08992.jpg
+http://www.wikidata.org/entity/Q1064989,1555-10-26T00:00:00Z,Battle of Miyajima,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Miyajima-2.jpg
+http://www.wikidata.org/entity/Q745110,1514-08-23T00:00:00Z,Battle of Chaldiran,http://commons.wikimedia.org/wiki/Special:FilePath/Sekumname1525%20Chaldiran%20battle.jpg
+http://www.wikidata.org/entity/Q930521,1568-10-20T00:00:00Z,Battle of Jodoigne,http://commons.wikimedia.org/wiki/Special:FilePath/Veldslag%20aan%20de%20rivier%20de%20Gete%2C%201568%20Pugna%20ad%20Getam%20fluvium%20Albano%20Gubernatore.%201568%20%28titel%20op%20object%29%2C%20RP-P-1904-3612.jpg
+http://www.wikidata.org/entity/Q751236,1562-12-19T00:00:00Z,Battle of Dreux,http://commons.wikimedia.org/wiki/Special:FilePath/BatailleDreux1562.jpg
+http://www.wikidata.org/entity/Q751236,1562-12-19T00:00:00Z,Battle of Dreux,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20Dreux%2019%2012%201562%20Franz%20Hogenberg%201540-1590.jpg
+http://www.wikidata.org/entity/Q764819,1578-02-10T00:00:00Z,Battle of Gembloux,http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20de%20Gembloux%201578.jpg
+http://www.wikidata.org/entity/Q767935,1523-01-01T00:00:00Z,Siege of Rhodes,http://commons.wikimedia.org/wiki/Special:FilePath/OttomanJanissariesAndDefendingKnightsOfStJohnSiegeOfRhodes1522.jpg
+http://www.wikidata.org/entity/Q815196,1582-02-14T00:00:00Z,Siege of Pskov,http://commons.wikimedia.org/wiki/Special:FilePath/BrullovKP%20OsadaPskovPolGTG.jpg
+http://www.wikidata.org/entity/Q699475,1513-08-16T00:00:00Z,Battle of Guinegate,http://commons.wikimedia.org/wiki/Special:FilePath/Battaglia%20di%20Guinegatte.jpg
+http://www.wikidata.org/entity/Q699475,1513-08-16T00:00:00Z,Battle of Guinegate,http://commons.wikimedia.org/wiki/Special:FilePath/Georg%20Lemberger%2C%20Battle%20of%20Guinegate%20%281513%29%2C%20Triumphzug%20Kaiser%20Maximilians.jpg
+http://www.wikidata.org/entity/Q700893,1535-06-01T00:00:00Z,Conquest of Tunis,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Tunis%201535%20Attack%20on%20Goletta.jpg
+http://www.wikidata.org/entity/Q701335,1593-06-22T00:00:00Z,Battle of Sisak,http://commons.wikimedia.org/wiki/Special:FilePath/Sziszeki%20csata%20%281593%29.JPG
+http://www.wikidata.org/entity/Q701367,1568-07-21T00:00:00Z,Battle of Jemmingen,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20bij%20Jemmingen%20-%20Schlacht%20von%20Jemgum%20-%2021%20Juli%201568%20%28Frans%20Hogenberg%29.jpg
+http://www.wikidata.org/entity/Q703363,1525-05-25T00:00:00Z,Battle of Frankenhausen,http://commons.wikimedia.org/wiki/Special:FilePath/Page077%20Die%20letzte%20Bauernschlacht%20bei%20Frankenhausen%20am%2025.%20Mai%201525.jpg
+http://www.wikidata.org/entity/Q964983,1570-08-09T00:00:00Z,Battle of Anegawa,http://commons.wikimedia.org/wiki/Special:FilePath/Anegawa%20battle.png
+http://www.wikidata.org/entity/Q971248,1516-08-24T00:00:00Z,Battle of Marj Dabiq,http://commons.wikimedia.org/wiki/Special:FilePath/Yavuz%20Sultan%20I.%20Selim%20Han.jpg
+http://www.wikidata.org/entity/Q1113509,1582-04-13T00:00:00Z,Battle of Tenmokuzan,http://commons.wikimedia.org/wiki/Special:FilePath/Katsuyori%20died%20at%20Mt.Tenmoku%2001.jpg
+http://www.wikidata.org/entity/Q1121532,1578-08-14T00:00:00Z,Battle of Alcácer Quibir,http://commons.wikimedia.org/wiki/Special:FilePath/Lagos46%20kopie.jpg
+http://www.wikidata.org/entity/Q1133861,1569-11-26T00:00:00Z,Battle of Mimasetōge,http://commons.wikimedia.org/wiki/Special:FilePath/Mimase-kosenjyo.JPG
+http://www.wikidata.org/entity/Q1137980,1512-04-11T00:00:00Z,Battle of Ravenna,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Ravenna%20%281512%29.JPG
+http://www.wikidata.org/entity/Q1137980,1512-04-11T00:00:00Z,Battle of Ravenna,http://commons.wikimedia.org/wiki/Special:FilePath/IB157reisige0001.JPG
+http://www.wikidata.org/entity/Q1137980,1512-04-11T00:00:00Z,Battle of Ravenna,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Gaston%20de%20Foix%20in%20the%20Battle%20of%20Ravenna.jpg
+http://www.wikidata.org/entity/Q1207310,1514-09-18T00:00:00Z,Battle of Orsha,http://commons.wikimedia.org/wiki/Special:FilePath/Autor%20nieznany%20%28malarz%20z%20kr%C4%99gu%20Lukasa%20Cranacha%20Starszego%29%2C%20Bitwa%20pod%20Orsz%C4%85.jpg
+http://www.wikidata.org/entity/Q1236849,1588-01-24T00:00:00Z,Battle of Byczyna,http://commons.wikimedia.org/wiki/Special:FilePath/Byczyna%20battle.jpg
+http://www.wikidata.org/entity/Q1255093,1525-04-24T00:00:00Z,Battle of Wurzach,http://commons.wikimedia.org/wiki/Special:FilePath/Grabener%20H%C3%B6he%20%28Blick%20auf%20die%20Alpen%29.jpg
+http://www.wikidata.org/entity/Q1425362,1532-11-16T00:00:00Z,Battle of Cajamarca,http://commons.wikimedia.org/wiki/Special:FilePath/La%20Captura%20de%20Atahualpa%20-%20Juan%20Lepiani%201920s.png
+http://www.wikidata.org/entity/Q1431771,1580-08-25T00:00:00Z,Battle of Glenmalure,http://commons.wikimedia.org/wiki/Special:FilePath/Glendalough%20-%20poor%20q%20-%20cropped.jpg
+http://www.wikidata.org/entity/Q1443091,1503-12-29T00:00:00Z,Battle of Garigliano,http://commons.wikimedia.org/wiki/Special:FilePath/Bayard%20sur%20le%20pont%20du%20Garigliano.jpeg
+http://www.wikidata.org/entity/Q1459058,1599-08-15T00:00:00Z,Battle of Curlew Pass,http://commons.wikimedia.org/wiki/Special:FilePath/Gaelic%20Chieftain.jpg
+http://www.wikidata.org/entity/Q1464620,1513-10-07T00:00:00Z,Battle of La Motta,http://commons.wikimedia.org/wiki/Special:FilePath/WP%20Prospero%20Colonna.jpg
+http://www.wikidata.org/entity/Q1760231,1595-05-27T00:00:00Z,Battle of Clontibret,http://commons.wikimedia.org/wiki/Special:FilePath/Aodh%20M%C3%B3r%20U%C3%AE%20N%C3%A9ill%20%28anglicis%C3%A9%20comme%2C%20Hugh%20The%20Great%20O%27Neill%29.jpg
+http://www.wikidata.org/entity/Q1760784,1572-08-12T00:00:00Z,Battle of Molodi,http://commons.wikimedia.org/wiki/Special:FilePath/Molodi%20-%20v%20pam%27at%27%20pobedy%201572%20goda%20-%2007.jpg
+http://www.wikidata.org/entity/Q1700886,1519-07-08T00:00:00Z,Battle of Soltau,http://commons.wikimedia.org/wiki/Special:FilePath/Heinrich%20II.%20%28der%20J%C3%BCngere%29%201489-1568%2001.jpg
+http://www.wikidata.org/entity/Q1754732,1509-05-14T00:00:00Z,Battle of Agnadello,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20d%27Agnadel.jpg
+http://www.wikidata.org/entity/Q1606958,1520-01-19T00:00:00Z,Battle of Bogesund,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20Sten%20Sture%20the%20Younger%20on%20the%20Ice%20of%20Lake%20M%C3%A4laren%20%28Carl%20Gustaf%20Hellqvist%29%20-%20Nationalmuseum%20-%2018562.tif
+http://www.wikidata.org/entity/Q1612597,1542-07-26T00:00:00Z,Battle of Chupas,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20chupas.jpg
+http://www.wikidata.org/entity/Q1612814,1533-11-25T00:00:00Z,Battle of Cuzco,http://commons.wikimedia.org/wiki/Special:FilePath/Capitulo-XCII.jpg
+http://www.wikidata.org/entity/Q1615387,1525-01-01T00:00:00Z,Battle of Punta Quemada,http://commons.wikimedia.org/wiki/Special:FilePath/Pizarro.jpg
+http://www.wikidata.org/entity/Q1300742,1513-09-19T00:00:00Z,Battle of Flodden,http://commons.wikimedia.org/wiki/Special:FilePath/Flodden%20Memorial%20-%20geograph.org.uk%20-%2039370.jpg
+http://www.wikidata.org/entity/Q1308854,1520-07-11T00:00:00Z,La Noche Triste,http://commons.wikimedia.org/wiki/Special:FilePath/The%20sad%20night.jpg
+http://www.wikidata.org/entity/Q1353633,1584-01-01T00:00:00Z,Battle of Komaki and Nagakute,http://commons.wikimedia.org/wiki/Special:FilePath/Nagakute%20Historic%20Battlefield.jpg
+http://www.wikidata.org/entity/Q1892080,1587-10-20T00:00:00Z,Battle of Coutras,http://commons.wikimedia.org/wiki/Special:FilePath/Henri-Pourbus.jpg
+http://www.wikidata.org/entity/Q1973800,1598-08-10T00:00:00Z,Battle of the Yellow Ford,http://commons.wikimedia.org/wiki/Special:FilePath/Ruadh%20Aodh%20U%C3%AE%20Domhaill.jpg
+http://www.wikidata.org/entity/Q2066129,1557-08-20T00:00:00Z,Battle of St. Quentin,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20St.%20Quentin%201557%20map%20NL.png
+http://www.wikidata.org/entity/Q2091449,1521-05-07T00:00:00Z,Battle of Mactan,http://commons.wikimedia.org/wiki/Special:FilePath/MactanShrinePainting2.jpg
+http://www.wikidata.org/entity/Q2236963,1558-07-23T00:00:00Z,Battle of Gravelines,http://commons.wikimedia.org/wiki/Special:FilePath/Pieter%20Snayers%20Siege%20of%20Gravelines.jpg
+http://www.wikidata.org/entity/Q2297059,1545-07-29T00:00:00Z,Battle of the Solent,http://commons.wikimedia.org/wiki/Special:FilePath/Cowdray%20engraving-full-lowres.jpg
+http://www.wikidata.org/entity/Q2338093,1548-04-09T00:00:00Z,Battle of Jaquijahuana,http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20de%20Jaquijahuana.jpg
+http://www.wikidata.org/entity/Q2338555,1554-02-23T00:00:00Z,Battle of Marihueñu,http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20entre%20Mapuches%20Espa%C3%B1oles.jpg
+http://www.wikidata.org/entity/Q2364604,1578-10-31T00:00:00Z,Battles of Wenden,http://commons.wikimedia.org/wiki/Special:FilePath/Cesis%20Burgruine1.jpg
+http://www.wikidata.org/entity/Q2368123,1547-09-20T00:00:00Z,Battle of Pinkie,http://commons.wikimedia.org/wiki/Special:FilePath/River%20Esk%20at%20Musselburgh.jpg
+http://www.wikidata.org/entity/Q2502863,1541-11-01T00:00:00Z,Algiers expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Algiers%201541.jpg
+http://www.wikidata.org/entity/Q2535988,1596-07-15T00:00:00Z,Capture of Cadiz,http://commons.wikimedia.org/wiki/Special:FilePath/Insula%20Gaditana.jpg
+http://www.wikidata.org/entity/Q2540658,1595-08-23T00:00:00Z,Battle of Călugăreni,http://commons.wikimedia.org/wiki/Special:FilePath/Theodor%20Aman%20-%20Izgonirea%20turcilor%20la%20Calugareni.jpg
+http://www.wikidata.org/entity/Q2237484,1544-04-11T00:00:00Z,Battle of Ceresole,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Ceresole%20%28preliminary%29.png
+http://www.wikidata.org/entity/Q2371616,1523-06-17T00:00:00Z,Conquest of Stockholm,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Entry%20of%20King%20Gustav%20Vasa%20of%20Sweden%20into%20Stockholm%2C%201523%20%28Carl%20Larsson%29%20-%20Nationalmuseum%20-%2023935.tif
+http://www.wikidata.org/entity/Q2264459,1503-04-28T00:00:00Z,Battle of Cerignola,http://commons.wikimedia.org/wiki/Special:FilePath/Elgrancapitantrasbatalladeceri%C3%B1ola.jpg
+http://www.wikidata.org/entity/Q2274112,1600-12-26T00:00:00Z,Battle of Imafuku,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Imafuku%20ja.png
+http://www.wikidata.org/entity/Q2408921,1589-09-29T00:00:00Z,Battle of Arques,http://commons.wikimedia.org/wiki/Special:FilePath/Henri%20IV%20%C3%A0%20la%20bataille%20d%27Arques%2021%20septembre%201589.jpeg
+http://www.wikidata.org/entity/Q2444941,1581-09-30T00:00:00Z,Battle of Noordhorn,http://commons.wikimedia.org/wiki/Special:FilePath/Noordhorn.jpg
+http://www.wikidata.org/entity/Q2457514,1583-01-17T00:00:00Z,French Fury,http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20Elizabeth%20I%20Feeds%20the%20Dutch%20Cow.png
+http://www.wikidata.org/entity/Q2888038,1520-07-07T00:00:00Z,Battle of Otumba,http://commons.wikimedia.org/wiki/Special:FilePath/The%20battle%20of%20Otumba.jpg
+http://www.wikidata.org/entity/Q2888138,1575-06-21T00:00:00Z,Battle of Besançon,http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20Besan%C3%A7on%20Pierre%20d%27Argent.jpg
+http://www.wikidata.org/entity/Q2599844,1506-08-16T00:00:00Z,Battle of Kletsk,http://commons.wikimedia.org/wiki/Special:FilePath/Klecak.%20%D0%9A%D0%BB%D0%B5%D1%86%D0%B0%D0%BA%20%281611%29.jpg
+http://www.wikidata.org/entity/Q2621537,1539-08-16T00:00:00Z,Siege of Castelnuovo,http://commons.wikimedia.org/wiki/Special:FilePath/Castel%20Novo.jpg
+http://www.wikidata.org/entity/Q2623793,1564-02-05T00:00:00Z,Battle of Ula,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B8%D1%82%D0%B2%D0%B0%20%D0%BF%D0%BE%D0%B4%20%D0%A7%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8%201564.png
+http://www.wikidata.org/entity/Q2888174,1586-01-17T00:00:00Z,Battle of Boksum,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20bij%20Boksum.JPG
+http://www.wikidata.org/entity/Q2628768,1554-08-02T00:00:00Z,Battle of Marciano,http://commons.wikimedia.org/wiki/Special:FilePath/Giorgio%20Vasari%20-%20The%20battle%20of%20Marciano%20in%20Val%20di%20Chiana%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q2723462,1582-11-14T00:00:00Z,Battle of Chuvash Cape,http://commons.wikimedia.org/wiki/Special:FilePath/Surikov%20Pokoreniye%20Sibiri%20Yermakom.jpg
+http://www.wikidata.org/entity/Q2762407,1564-01-25T00:00:00Z,Battle of Azukizaka,http://commons.wikimedia.org/wiki/Special:FilePath/Azukizaka%201564.JPG
+http://www.wikidata.org/entity/Q2664371,1574-09-23T00:00:00Z,Conquest of Tunis,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Ottoman%20fleet%20attacking%20Tunis%20at%20La%20Goulette%20Braun%20and%20Hogenberg%201574.jpg
+http://www.wikidata.org/entity/Q2888359,1592-05-23T00:00:00Z,Battle of Craon,http://commons.wikimedia.org/wiki/Special:FilePath/Armoiries%20ducs%20de%20Mayenne.svg
+http://www.wikidata.org/entity/Q2889368,1537-08-02T00:00:00Z,Battle of Montemurlo,http://commons.wikimedia.org/wiki/Special:FilePath/Battista%20franco%2C%20la%20battaglia%20di%20montemurlo%20e%20il%20ratto%20di%20Ganimede.jpg
+http://www.wikidata.org/entity/Q2889465,1538-12-01T00:00:00Z,Battle of Naungyo,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Naungyo.png
+http://www.wikidata.org/entity/Q2889540,1521-06-30T00:00:00Z,Battle of Noáin,http://commons.wikimedia.org/wiki/Special:FilePath/Batallanoain.JPG
+http://www.wikidata.org/entity/Q2890945,1565-10-20T00:00:00Z,Battle of Axtorna,http://commons.wikimedia.org/wiki/Special:FilePath/Slaget%20vid%20Axtorna.jpg
+http://www.wikidata.org/entity/Q2889763,1554-08-12T00:00:00Z,Battle of Renty,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Renty.jpg
+http://www.wikidata.org/entity/Q2889912,1568-09-23T00:00:00Z,Battle of San Juan de Ulúa,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20San%20Juan%20de%20Ul%C3%BAa.jpg
+http://www.wikidata.org/entity/Q2890025,1542-12-04T00:00:00Z,Battle of Solway Moss,http://commons.wikimedia.org/wiki/Special:FilePath/The%20River%20Esk%2C%20Arthuret%20-%20geograph.org.uk%20-%201325304.jpg
+http://www.wikidata.org/entity/Q2890338,1521-04-23T00:00:00Z,Battle of Villalar,http://commons.wikimedia.org/wiki/Special:FilePath/BatallaDeVillalar.jpg
+http://www.wikidata.org/entity/Q2936853,1578-07-31T00:00:00Z,Battle of Rijmenam,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20bij%20Rijmenam%2C%201578.jpg
+http://www.wikidata.org/entity/Q2982831,1512-05-08T00:00:00Z,Battle of Wisniowiec,http://commons.wikimedia.org/wiki/Special:FilePath/Lopuszno%20Kroniki%204.jpg
+http://www.wikidata.org/entity/Q3075969,1583-06-17T00:00:00Z,Battle of Steenbergen,http://commons.wikimedia.org/wiki/Special:FilePath/Steenbergen%201583.png
+http://www.wikidata.org/entity/Q3099190,1582-07-26T00:00:00Z,Battle of Ponta Delgada,http://commons.wikimedia.org/wiki/Special:FilePath/Desembarcoislasterceiras.jpg
+http://www.wikidata.org/entity/Q3099190,1582-07-26T00:00:00Z,Battle of Ponta Delgada,http://commons.wikimedia.org/wiki/Special:FilePath/Isla%20Terceira.jpg
+http://www.wikidata.org/entity/Q3297309,1575-03-13T00:00:00Z,Battle of Tukaroi,http://commons.wikimedia.org/wiki/Special:FilePath/Attributed%20to%20Hiranand%20-%20Illustration%20from%20a%20Dictionary%20%28unidentified%29-%20Da%27ud%20Receives%20a%20Robe%20of%20Honor%20from%20Mun%27im%20Khan%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q2890458,1586-09-22T00:00:00Z,Battle of Zutphen,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Zutphen%201586.png
+http://www.wikidata.org/entity/Q2890664,1595-08-04T00:00:00Z,Battle of Cornwall,http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20attack%20on%20Penzance.jpg
+http://www.wikidata.org/entity/Q4087439,1568-05-23T00:00:00Z,Battle of Langside,http://commons.wikimedia.org/wiki/Special:FilePath/Battlefield%20Monument%20-%20geograph.org.uk%20-%201098221.jpg
+http://www.wikidata.org/entity/Q4087480,1508-03-01T00:00:00Z,Battle of Chaul,http://commons.wikimedia.org/wiki/Special:FilePath/Portuguese%20ships%2016th%20century%20Livro%20das%20Armadas.jpg
+http://www.wikidata.org/entity/Q3636579,1510-01-01T00:00:00Z,Battle of Polesella,http://commons.wikimedia.org/wiki/Special:FilePath/Battista%20Dossi%2C%20ritratto%20di%20Alfonso%20I%20d%27Este%20-%20Modena.jpg
+http://www.wikidata.org/entity/Q3636591,1531-04-01T00:00:00Z,Battle of Puná,http://commons.wikimedia.org/wiki/Special:FilePath/Tumbes%20Puerto%20Pizarro.jpg
+http://www.wikidata.org/entity/Q3636592,1546-02-11T00:00:00Z,Battle of Quilacura,http://commons.wikimedia.org/wiki/Special:FilePath/Quilacura.jpg
+http://www.wikidata.org/entity/Q3636661,1533-11-19T00:00:00Z,Battle of Vilcaconga,http://commons.wikimedia.org/wiki/Special:FilePath/Inca-espa%C3%B1oles.jpg
+http://www.wikidata.org/entity/Q3652215,1578-08-09T00:00:00Z,Battle of Çıldır,http://commons.wikimedia.org/wiki/Special:FilePath/Secaatname%200016%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q4090268,1518-01-01T00:00:00Z,Fall of Tlemcen 1518,http://commons.wikimedia.org/wiki/Special:FilePath/Mechouar%20Tlemcen.jpg
+http://www.wikidata.org/entity/Q3635360,1576-06-28T00:00:00Z,Battle of Haldighati,http://commons.wikimedia.org/wiki/Special:FilePath/Chokha%2C%20Battle%20of%20Haldighati%2C%20painted%201822.jpg
+http://www.wikidata.org/entity/Q3636322,1550-02-06T00:00:00Z,Battle of Andalien,http://commons.wikimedia.org/wiki/Special:FilePath/Guerra%20de%20Arauco%20-%20Ger%C3%B3nimo%20de%20Bibar.jpg
+http://www.wikidata.org/entity/Q3636492,1557-11-18T00:00:00Z,Battle of Lagunillas,http://commons.wikimedia.org/wiki/Special:FilePath/Espanoles%20guerreando%20en%20chile%20ovalle.jpg
+http://www.wikidata.org/entity/Q4337418,1517-01-01T00:00:00Z,Siege of Opochka,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9E%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q4110453,1511-08-25T00:00:00Z,Capture of Malacca,http://commons.wikimedia.org/wiki/Special:FilePath/Malacca%20in%201550-1563.png
+http://www.wikidata.org/entity/Q4132831,1510-12-12T00:00:00Z,Battle of Marv,http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B5%D8%AD%D9%86%D9%87%20%D8%AC%D9%86%DA%AF%20%D9%85%D8%B1%D9%88%20%D9%85%DB%8C%D8%A7%D9%86%20%D8%B3%D9%BE%D8%A7%D9%87%20%D9%82%D8%B2%D9%84%D8%A8%D8%A7%D8%B4%20%D8%A8%D9%87%20%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C%20%D8%B4%D8%A7%D9%87%20%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%20%DB%8C%DA%A9%D9%85%20%28%D8%B3%D9%85%D8%AA%20%D8%B1%D8%A7%D8%B3%D8%AA%29%20%D9%88%20%D8%B3%D9%BE%D8%A7%D9%87%20%D8%A7%D8%B2%D8%A8%DA%A9%20%D8%A8%D9%87%20%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C%20%D8%B4%DB%8C%D8%A8%DA%A9%20%D8%AE%D8%A7%D9%86.jpg
+http://www.wikidata.org/entity/Q4166578,1527-01-01T00:00:00Z,Battle of Khanwa,http://commons.wikimedia.org/wiki/Special:FilePath/Babur%E2%80%99s%20army%20in%20battle%20against%20the%20army%20of%20Rana%20Sanga%20at.jpg
+http://www.wikidata.org/entity/Q4187960,1556-10-07T00:00:00Z,Battle of Inō,http://commons.wikimedia.org/wiki/Special:FilePath/In%C5%8Dgahara%20Battlefield.jpg
+http://www.wikidata.org/entity/Q4580894,1518-07-27T00:00:00Z,Battle of Brännkyrka,http://commons.wikimedia.org/wiki/Special:FilePath/Fresco%201-Slaget%20vid%20Br%C3%A4nnkyrka%201518.jpg
+http://www.wikidata.org/entity/Q4870214,1505-01-01T00:00:00Z,Battle of Achnashellach,http://commons.wikimedia.org/wiki/Special:FilePath/Footpath%20above%20Achnashellach%20-%20geograph.org.uk%20-%20203418.jpg
+http://www.wikidata.org/entity/Q4870268,1586-01-01T00:00:00Z,Battle of Allt Camhna,http://commons.wikimedia.org/wiki/Special:FilePath/Wee%20beach%20at%20the%20mouth%20of%20the%20Allt%20Camhna%20-%20geograph.org.uk%20-%20970786.jpg
+http://www.wikidata.org/entity/Q4870269,1542-01-01T00:00:00Z,Battle of Alltan-Beath,http://commons.wikimedia.org/wiki/Special:FilePath/Foulis%20Castle%20-%20geograph.org.uk%20-%20653068.jpg
+http://www.wikidata.org/entity/Q4870270,1518-01-01T00:00:00Z,Battle of Alltachuilain,http://commons.wikimedia.org/wiki/Special:FilePath/Dunrobin%20Castle%20-Sutherland%20-Scotland-28June2006.jpg
+http://www.wikidata.org/entity/Q4870270,1519-01-01T00:00:00Z,Battle of Alltachuilain,http://commons.wikimedia.org/wiki/Special:FilePath/Dunrobin%20Castle%20-Sutherland%20-Scotland-28June2006.jpg
+http://www.wikidata.org/entity/Q4870462,1600-01-01T00:00:00Z,Battle of Benbigrie,http://commons.wikimedia.org/wiki/Special:FilePath/Islay.svg
+http://www.wikidata.org/entity/Q4870514,1545-07-01T00:00:00Z,Battle of Bonchurch,http://commons.wikimedia.org/wiki/Special:FilePath/Monks%20Bay%20Battle%20of%20Bonchurch.jpg
+http://www.wikidata.org/entity/Q4871462,1511-01-01T00:00:00Z,Battle of Knock Mary,http://commons.wikimedia.org/wiki/Special:FilePath/Drummond%20castle%20-%20pano.jpg
+http://www.wikidata.org/entity/Q4870653,1567-06-15T00:00:00Z,Battle of Carberry Hill,http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Q%20Scots%201567.JPG
+http://www.wikidata.org/entity/Q4871100,1600-09-30T00:00:00Z,Battle of Gifu Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Gifujyou5802.JPG
+http://www.wikidata.org/entity/Q4871106,1544-03-26T00:00:00Z,Battle of Glasgow (1544),http://commons.wikimedia.org/wiki/Special:FilePath/John%20Slezer%20-%20Engraving%20of%20Glasgow%20Cathedral.jpg
+http://www.wikidata.org/entity/Q4871110,1594-10-03T00:00:00Z,Battle of Glenlivet,http://commons.wikimedia.org/wiki/Special:FilePath/Glenlivet%20-%20geograph.org.uk%20-%20599424.jpg
+http://www.wikidata.org/entity/Q4870765,1590-10-01T00:00:00Z,Battle of Clynetradwell,http://commons.wikimedia.org/wiki/Special:FilePath/Blason%20Comtes%20de%20Sutherland.svg
+http://www.wikidata.org/entity/Q4870792,1562-11-07T00:00:00Z,Battle of Corrichie,http://commons.wikimedia.org/wiki/Special:FilePath/Meikle%20Tap%20-%20geograph.org.uk%20-%20409302.jpg
+http://www.wikidata.org/entity/Q4870802,1571-11-30T00:00:00Z,Battle of Craibstone,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Crabstane.jpg
+http://www.wikidata.org/entity/Q4871547,1586-01-01T00:00:00Z,Battle of Leckmelm,http://commons.wikimedia.org/wiki/Special:FilePath/Leckmelm%20Vista%20-%20geograph.org.uk%20-%20767890.jpg
+http://www.wikidata.org/entity/Q4871609,1577-04-27T00:00:00Z,Battle of Lubieszów,http://commons.wikimedia.org/wiki/Special:FilePath/Polish%20hussar%20first%20half%20of%20XVI%20century.PNG
+http://www.wikidata.org/entity/Q4871846,1556-04-01T00:00:00Z,Battle of Nagara-gawa,http://commons.wikimedia.org/wiki/Special:FilePath/Nagararivergifu.JPG
+http://www.wikidata.org/entity/Q4872536,1567-07-01T00:00:00Z,Battle of Thanesar,http://commons.wikimedia.org/wiki/Special:FilePath/Mughals%20Slay%20the%20Sannyasis%20at%20Thanesar%2001.jpg
+http://www.wikidata.org/entity/Q4872575,1583-05-11T00:00:00Z,Battle of Torches,http://commons.wikimedia.org/wiki/Special:FilePath/Secaatname%200179%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q4872577,1517-01-01T00:00:00Z,Battle of Torran Dubh,http://commons.wikimedia.org/wiki/Special:FilePath/Meall%20nan%20Ruadhag%20-%20geograph.org.uk%20-%20804881.jpg
+http://www.wikidata.org/entity/Q4872584,1598-08-05T00:00:00Z,Battle of Traigh Ghruinneart,http://commons.wikimedia.org/wiki/Special:FilePath/Lachlan%20Mor%20Maclean%20of%20Duart%20Fell%20Here%20-%20geograph.org.uk%20-%201774739.jpg
+http://www.wikidata.org/entity/Q4873013,1544-07-01T00:00:00Z,Battle of the Shirts,http://commons.wikimedia.org/wiki/Special:FilePath/Loch%20Lochy%20-%20geograph.org.uk%20-%201379363.jpg
+http://www.wikidata.org/entity/Q4873016,1578-01-01T00:00:00Z,Battle of the Spoiling Dyke,http://commons.wikimedia.org/wiki/Special:FilePath/Trumpan%20Church%20-%20geograph.org.uk%20-%20768999.jpg
+http://www.wikidata.org/entity/Q4873017,1591-04-14T00:00:00Z,Battle of the Strait of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20Galley.jpg
+http://www.wikidata.org/entity/Q4872245,1581-08-04T00:00:00Z,Battle of Salga,http://commons.wikimedia.org/wiki/Special:FilePath/Visita%20costa%20sul%20mon%20salga%201.JPG
+http://www.wikidata.org/entity/Q4872278,1598-01-01T00:00:00Z,Battle of San Juan,http://commons.wikimedia.org/wiki/Special:FilePath/Old%20San%20Juan%20aerial%20view.jpg
+http://www.wikidata.org/entity/Q4873042,1586-01-01T00:00:00Z,Battle of the Western Isles,http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20Garrisdale%20-%20geograph.org.uk%20-%20996575.jpg
+http://www.wikidata.org/entity/Q5366156,1587-01-20T00:00:00Z,Battle of Hetsugigawa,http://commons.wikimedia.org/wiki/Special:FilePath/Hetsugigawa%20Battle%20Dead%20Rest-in-peace%20Memorial.jpg
+http://www.wikidata.org/entity/Q5723054,1538-08-30T00:00:00Z,Battle of Tocarema,http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20del%20Territorio%20Muisca.svg
+http://www.wikidata.org/entity/Q6059644,1551-07-01T00:00:00Z,Invasion of Gozo,http://commons.wikimedia.org/wiki/Special:FilePath/Citadel%20in%20Victoria.jpg
+http://www.wikidata.org/entity/Q163891,1572-08-24T00:00:00Z,St. Bartholomew's Day massacre,http://commons.wikimedia.org/wiki/Special:FilePath/La%20masacre%20de%20San%20Bartolom%C3%A9%2C%20por%20Fran%C3%A7ois%20Dubois.jpg
+http://www.wikidata.org/entity/Q7509804,1521-02-01T00:00:00Z,Siege of Allenstein,http://commons.wikimedia.org/wiki/Special:FilePath/Rzeczpospolita%20Royal%20Ducal.png
+http://www.wikidata.org/entity/Q10856357,1551-01-01T00:00:00Z,Tainei-ji incident,http://commons.wikimedia.org/wiki/Special:FilePath/Nagato%20Tainei-ji%20Temple.%20Grave%20of%20Ouchi%20Yoshitaka%20and%20his%20valet.jpg
+http://www.wikidata.org/entity/Q12723161,1595-10-30T00:00:00Z,Battle of Giurgiu,http://commons.wikimedia.org/wiki/Special:FilePath/Batalia%20de%20la%20Giurgiu.jpg
+http://www.wikidata.org/entity/Q15533030,1562-08-19T00:00:00Z,Battle of Nevel,http://commons.wikimedia.org/wiki/Special:FilePath/Nieviel.%20%D0%9D%D0%B5%D0%B2%D0%B5%D0%BB%D1%8C%20%281611%29.jpg
+http://www.wikidata.org/entity/Q14855684,1579-03-12T00:00:00Z,Battle of Borgerhout,http://commons.wikimedia.org/wiki/Special:FilePath/Slag%20bij%20Borgerhout%2C%201579.JPG
+http://www.wikidata.org/entity/Q15145340,1586-01-01T00:00:00Z,Battle of Santo Domingo,http://commons.wikimedia.org/wiki/Special:FilePath/Boazio-Sir%20Francis%20Drake%20in%20Santo%20Domingo.jpg
+http://www.wikidata.org/entity/Q15145481,1586-02-11T00:00:00Z,Battle of Cartagena de Indias,http://commons.wikimedia.org/wiki/Special:FilePath/Boazio-Sir%20Francis%20Drake%20in%20Cartagena.jpg
+http://www.wikidata.org/entity/Q16537286,1578-11-25T00:00:00Z,Battle of Mollahasanli,http://commons.wikimedia.org/wiki/Special:FilePath/Secaatname%200076%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q17515442,1592-07-19T00:00:00Z,Battle of Brest,http://commons.wikimedia.org/wiki/Special:FilePath/Nadgrobna%20plo%C4%8Da%20bana%20Tome%20Baka%C4%8Da%20Erd%C3%B6dyja%20ZG%20Katedrala.jpg
+http://www.wikidata.org/entity/Q18213916,1559-02-01T00:00:00Z,Second Battle of Kalaa of the Beni Abbes,http://commons.wikimedia.org/wiki/Special:FilePath/Kab%201500-1750.png
+http://www.wikidata.org/entity/Q16931406,1567-10-30T00:00:00Z,Siege of Chittorgarh,http://commons.wikimedia.org/wiki/Special:FilePath/Akbar%20shoots%20Jaimal%20at%20the%20siege%20of%20Chitor.jpg
+http://www.wikidata.org/entity/Q19610920,1517-01-01T00:00:00Z,Portuguese attack on Jiddah 1517,http://commons.wikimedia.org/wiki/Special:FilePath/Portuguese%20attack%20on%20Jiddah%201517.jpg
+http://www.wikidata.org/entity/Q20164399,1583-02-03T00:00:00Z,Battle of São Vicente,http://commons.wikimedia.org/wiki/Special:FilePath/Benedito%20Calixto%20-%20Ba%C3%ADa%20de%20S%C3%A3o%20Vicente.jpg
+http://www.wikidata.org/entity/Q20312954,1528-01-01T00:00:00Z,Battle of Chanderi,http://commons.wikimedia.org/wiki/Special:FilePath/1528%20Chanderi%20fort-large.jpg
+http://www.wikidata.org/entity/Q16243583,1586-07-13T00:00:00Z,Battle of Pantelleria,http://commons.wikimedia.org/wiki/Special:FilePath/Pantelleria%20Costa.jpg
+http://www.wikidata.org/entity/Q16253729,1558-01-01T00:00:00Z,Battle of Rio de Janeiro,http://commons.wikimedia.org/wiki/Special:FilePath/Rio%201555%20Fran%C3%A7a%20Ant%C3%A1rtica.jpg
+http://www.wikidata.org/entity/Q16253733,1567-01-20T00:00:00Z,Battle of Rio de Janeiro,http://commons.wikimedia.org/wiki/Special:FilePath/Rio%201555%20Fran%C3%A7a%20Ant%C3%A1rtica.jpg
+http://www.wikidata.org/entity/Q16253733,1567-01-30T00:00:00Z,Battle of Rio de Janeiro,http://commons.wikimedia.org/wiki/Special:FilePath/Rio%201555%20Fran%C3%A7a%20Ant%C3%A1rtica.jpg
+http://www.wikidata.org/entity/Q16253803,1595-09-03T00:00:00Z,Battle of the Lippe,http://commons.wikimedia.org/wiki/Special:FilePath/Nederlaag%20van%20het%20Staatse%20leger%20bij%20Wesel%2C%201595.jpg
+http://www.wikidata.org/entity/Q22935893,1519-01-01T00:00:00Z,Battle of Gagron,http://commons.wikimedia.org/wiki/Special:FilePath/Rana%20Sanga%20of%20Mewar.jpg

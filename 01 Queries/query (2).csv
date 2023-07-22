@@ -1,0 +1,1001 @@
+event,date,label,image
+http://www.wikidata.org/entity/Q200749,1788-06-07T00:00:00Z,Day of the Tiles,http://commons.wikimedia.org/wiki/Special:FilePath/Journ%C3%A9e%20des%20Tuiles%20%28Alexandre%20Debelle%29%2C%20Mus%C3%A9e%20de%20la%20R%C3%A9volution%20fran%C3%A7aise%20-%20Vizille.jpg
+http://www.wikidata.org/entity/Q642021,1792-06-20T00:00:00Z,Demonstration of 20 June 1792,http://commons.wikimedia.org/wiki/Special:FilePath/Bild%20Tuileriensturm1792.jpg
+http://www.wikidata.org/entity/Q1151536,1795-05-20T00:00:00Z,Revolt of 1 prairial year III,http://commons.wikimedia.org/wiki/Special:FilePath/1er%20prairial%20an%20III.jpg
+http://www.wikidata.org/entity/Q1154330,1792-08-10T00:00:00Z,10 August insurrection,http://commons.wikimedia.org/wiki/Special:FilePath/Tuileriensturm.jpg
+http://www.wikidata.org/entity/Q1538124,1780-06-01T00:00:00Z,Gordon Riots,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Gordon%20Riots%20by%20John%20Seymour%20Lucas.jpg
+http://www.wikidata.org/entity/Q7231569,1736-04-14T00:00:00Z,Porteous Riots,http://commons.wikimedia.org/wiki/Special:FilePath/James%20Drummond%20The%20Porteous%20Mob%201855.jpg
+http://www.wikidata.org/entity/Q150701,1701-07-01T00:00:00Z,War of the Spanish Succession,http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%20of%20Vigo%20Bay.jpg
+http://www.wikidata.org/entity/Q157548,1778-01-01T00:00:00Z,War of the Bavarian Succession,http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20der%20Grosse%20und%20der%20Feldscher.jpg
+http://www.wikidata.org/entity/Q690096,1712-08-11T00:00:00Z,Toggenburg War,http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Zweiter%20Villmergerkrieg%201712.png
+http://www.wikidata.org/entity/Q1049945,1746-04-20T00:00:00Z,Jacobite rising of 1745,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20Culloden.jpg
+http://www.wikidata.org/entity/Q150701,1701-07-01T00:00:00Z,War of the Spanish Succession,http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%20of%20Vigo%20Bay.jpg
+http://www.wikidata.org/entity/Q249960,1794-01-01T00:00:00Z,Chouannerie,http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9fenseRochefort-en-terre2.jpg
+http://www.wikidata.org/entity/Q32929,1740-12-16T00:00:00Z,War of the Austrian Succession,http://commons.wikimedia.org/wiki/Special:FilePath/WaroftheAustrianSuccession.png
+http://www.wikidata.org/entity/Q150701,1701-07-01T00:00:00Z,War of the Spanish Succession,http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%20of%20Vigo%20Bay.jpg
+http://www.wikidata.org/entity/Q83258064,1789-04-21T00:00:00Z,George Washington's reception at Trenton,http://commons.wikimedia.org/wiki/Special:FilePath/Washington%27s%20reception%20by%20the%20ladies%2C%20on%20passing%20the%20bridge%20at%20Trenton%2C%20N.J.%20April%201789%2C%20on%20his%20way%20to%20New%20York%20to%20be%20inaugurated%20first%20president%20of%20the%20United%20States%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q1151917,1789-10-06T00:00:00Z,Women's March on Versailles,http://commons.wikimedia.org/wiki/Special:FilePath/Women%27s%20March%20on%20Versailles01.jpg
+http://www.wikidata.org/entity/Q2701022,1740-01-01T00:00:00Z,Pachtersoproer,http://commons.wikimedia.org/wiki/Special:FilePath/Pachtersoproer.jpg
+http://www.wikidata.org/entity/Q1150578,1740-01-01T00:00:00Z,1740 Batavia massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Chinezenmoord%20van%20stolk%20%282%29.jpg
+http://www.wikidata.org/entity/Q154100,1773-01-01T00:00:00Z,Pugachev's Rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/Gorelov%20lynching%202.jpg
+http://www.wikidata.org/entity/Q568387,1798-01-01T00:00:00Z,Peasants' War,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Peasant%20War.jpg
+http://www.wikidata.org/entity/Q13581715,1798-01-01T00:00:00Z,Mediterranean campaign of 1798,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20the%20Nile.jpg
+http://www.wikidata.org/entity/Q2367644,1784-08-14T00:00:00Z,Awa'uq Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Shelikhov%20settlement.jpg
+http://www.wikidata.org/entity/Q6534,1789-05-05T00:00:00Z,French Revolution,http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg
+http://www.wikidata.org/entity/Q2264242,1792-09-21T00:00:00Z,proclamation of the abolition of the monarchy,http://commons.wikimedia.org/wiki/Special:FilePath/Proclamation%20de%20l%27abolition%20de%20la%20royaut%C3%A9%2C%2021%20Septembre%201792.jpg
+http://www.wikidata.org/entity/Q2264242,1792-09-21T00:00:00Z,proclamation of the abolition of the monarchy,http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9cret%20de%20la%20Convention%20abolissant%20la%20Royaut%C3%A9%2C%2021%20septembre%201792.png
+http://www.wikidata.org/entity/Q3649504,1790-01-01T00:00:00Z,fall of the Republic of Venice,http://commons.wikimedia.org/wiki/Special:FilePath/Manin%27s%20abdication.jpg
+http://www.wikidata.org/entity/Q3062714,1793-01-21T00:00:00Z,execution of Louis XVI,http://commons.wikimedia.org/wiki/Special:FilePath/Hinrichtung%20Ludwig%20des%20XVI.png
+http://www.wikidata.org/entity/Q15207500,1719-05-10T00:00:00Z,Capture of Eilean Donan Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Eilean%20Donan%20Castle%20banner.jpg
+http://www.wikidata.org/entity/Q143866,1790-07-14T00:00:00Z,Fête de la Fédération,http://commons.wikimedia.org/wiki/Special:FilePath/F%C3%AAte%20de%20la%20F%C3%A9d%C3%A9ration%201790%2C%20Mus%C3%A9e%20de%20la%20R%C3%A9volution%20fran%C3%A7aise%20-%20Vizille.jpg
+http://www.wikidata.org/entity/Q6539,1789-07-14T00:00:00Z,Storming of the Bastille,http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20de%20la%20Bastille.jpg
+http://www.wikidata.org/entity/Q55605055,1778-01-01T00:00:00Z,"Battle off Liverpool, Nova Scotia (1778)",http://commons.wikimedia.org/wiki/Special:FilePath/SimeonPerkinsNewYorkPublicLibrary.png
+http://www.wikidata.org/entity/Q11611,1729-11-29T00:00:00Z,Natchez Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/View%20on%20Natchez.jpg
+http://www.wikidata.org/entity/Q4779013,1704-01-01T00:00:00Z,Apalachee massacre,http://commons.wikimedia.org/wiki/Special:FilePath/ApalacheeRegion1733.jpg
+http://www.wikidata.org/entity/Q1089686,1791-07-17T00:00:00Z,Champ de Mars Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Malheureuse%20journ%C3%A9e%20du%2017%20juillet%201791.jpg
+http://www.wikidata.org/entity/Q1533038,1782-03-08T00:00:00Z,Gnadenhutten massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Gnadenhutten%20monument%20to%20the%20Moravian%20Christian%20Indian%20Martyrs.jpg
+http://www.wikidata.org/entity/Q2865739,1760-09-08T00:00:00Z,Articles of Capitulation of Montreal,http://commons.wikimedia.org/wiki/Special:FilePath/Capitulation%20Montreal.jpg
+http://www.wikidata.org/entity/Q2865741,1759-09-18T00:00:00Z,Articles of Capitulation of Quebec,http://commons.wikimedia.org/wiki/Special:FilePath/PlainsOfAbraham2007.jpg
+http://www.wikidata.org/entity/Q19024,1773-12-16T00:00:00Z,Boston Tea Party,http://commons.wikimedia.org/wiki/Special:FilePath/Boston%20Tea%20Party%20Currier%20colored.jpg
+http://www.wikidata.org/entity/Q3044867,1758-11-01T00:00:00Z,Ile Saint-Jean Campaign,http://commons.wikimedia.org/wiki/Special:FilePath/Isle%20Saint-Jean.jpg
+http://www.wikidata.org/entity/Q45334,1775-10-18T00:00:00Z,Burning of Falmouth,http://commons.wikimedia.org/wiki/Special:FilePath/FalmouthBurning1775.png
+http://www.wikidata.org/entity/Q2866987,1797-06-01T00:00:00Z,Assault on Cadiz,http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20at%20Cadiz.jpg
+http://www.wikidata.org/entity/Q1139109,1782-06-12T00:00:00Z,Crawford expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Burning%20of%20Colonel%20Crawford.jpg
+http://www.wikidata.org/entity/Q3018913,1790-10-22T00:00:00Z,Harmar Campaign,http://commons.wikimedia.org/wiki/Special:FilePath/Josiah%20Harmar%20by%20Raphaelle%20Peale.jpeg
+http://www.wikidata.org/entity/Q7971587,1776-12-01T00:00:00Z,Washington's crossing of the Delaware River,http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Crossing%20the%20Delaware%201856-71%20George%20Caleb%20Bingham.jpg
+http://www.wikidata.org/entity/Q246501,1768-11-05T00:00:00Z,Treaty of Fort Stanwix,http://commons.wikimedia.org/wiki/Special:FilePath/Frontier%20of%20NY%20in%20Revolution2.png
+http://www.wikidata.org/entity/Q1899798,1793-01-01T00:00:00Z,Declaration of the Rights of Man and Citizen of 1793,http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20des%20Droits%20de%20l%27Homme%20et%20du%20Citoyen%20de%201793.jpg
+http://www.wikidata.org/entity/Q523680,1752-05-14T00:00:00Z,Appin Murder,http://commons.wikimedia.org/wiki/Special:FilePath/Seumas%20a%27%20Ghlinne%20memorial%20cairn-geograph.org.uk-1651543.jpg
+http://www.wikidata.org/entity/Q19874865,1779-02-14T00:00:00Z,death of James Cook,http://commons.wikimedia.org/wiki/Special:FilePath/Zoffany%20Death%20of%20Captain%20Cook.jpg
+http://www.wikidata.org/entity/Q1936002,1720-01-01T00:00:00Z,Great Plague of Marseille,http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Serre-Peste-Cours%20Belsunce.jpg
+http://www.wikidata.org/entity/Q24969773,1735-01-01T00:00:00Z,Project of Filippo Juvarra for the Royal Palace of Madrid,http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Palace%20of%20Madrid%20by%20Filippo%20Juvarra.jpg
+http://www.wikidata.org/entity/Q780023,1714-01-01T00:00:00Z,Ejima-Ikushima affair,http://commons.wikimedia.org/wiki/Special:FilePath/Lady%20Ejima%20and%20the%20Actor%20Ikushima%20Shingoro%20LACMA%20M.84.31.105a-b.jpg
+http://www.wikidata.org/entity/Q1297497,1764-07-26T00:00:00Z,Enoch Brown school massacre,http://commons.wikimedia.org/wiki/Special:FilePath/Enoch%20Brown%20mem%20FrankCo%20PA.JPG
+http://www.wikidata.org/entity/Q2671292,1709-07-12T00:00:00Z,surrender at Perevolochna,http://commons.wikimedia.org/wiki/Special:FilePath/Perewolotnja-1709.PNG
+http://www.wikidata.org/entity/Q2671292,1709-07-12T00:00:00Z,surrender at Perevolochna,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0.%20%D0%A2%D0%BE%D0%BC%20%E2%84%96%2018.%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q1936002,1720-01-01T00:00:00Z,Great Plague of Marseille,http://commons.wikimedia.org/wiki/Special:FilePath/Michel%20Serre-Peste-Cours%20Belsunce.jpg
+http://www.wikidata.org/entity/Q499799,1717-01-01T00:00:00Z,Christmas flood of 1717,http://commons.wikimedia.org/wiki/Special:FilePath/Christmas%20flood%201717.jpg
+http://www.wikidata.org/entity/Q3352530,1795-01-01T00:00:00Z,Copenhagen Fire of 1795,http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B8benhavns%20brand%201795.jpg
+http://www.wikidata.org/entity/Q1883498,1766-01-01T00:00:00Z,Esquilache Riots,http://commons.wikimedia.org/wiki/Special:FilePath/Esquilache%20riots.jpg
+http://www.wikidata.org/entity/Q7959515,1741-01-01T00:00:00Z,Wager Mutiny,http://commons.wikimedia.org/wiki/Special:FilePath/Captain%20Cheap%20shoots%20Midshipman%20Cozens%20in%20the%20face.png
+http://www.wikidata.org/entity/Q4742016,1776-12-14T00:00:00Z,Ambush of Geary,http://commons.wikimedia.org/wiki/Special:FilePath/Cornet%20Francis%20Geary%20memorial%20site%2C%20NJ.jpg
+http://www.wikidata.org/entity/Q5757855,1745-08-16T00:00:00Z,Highbridge Skirmish,http://commons.wikimedia.org/wiki/Special:FilePath/High%20Bridge%20near%20Spean%20Bridge%20-%20geograph.org.uk%20-%2015325.jpg
+http://www.wikidata.org/entity/Q28407981,1746-03-20T00:00:00Z,Skirmish of Keith,http://commons.wikimedia.org/wiki/Special:FilePath/Keithauldbrig.jpg
+http://www.wikidata.org/entity/Q28408092,1746-05-02T00:00:00Z,Skirmish of Loch nan Uamh,http://commons.wikimedia.org/wiki/Special:FilePath/Loch%20Nan%20Uamh%20-%20geograph.org.uk%20-%2023934.jpg
+http://www.wikidata.org/entity/Q29075715,1715-10-24T00:00:00Z,Skirmish of Dunfermline,http://commons.wikimedia.org/wiki/Special:FilePath/Ruined%20Refectory%20of%20Dunfermline%20Abbey%2C%20Fife.jpg
+http://www.wikidata.org/entity/Q315310,1760-07-08T00:00:00Z,Battle of Restigouche,http://commons.wikimedia.org/wiki/Special:FilePath/Dessin%20du%20Machault%20%281791%29.jpg
+http://www.wikidata.org/entity/Q311759,1702-10-22T00:00:00Z,Battle of Vigo Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%20of%20Vigo%20Bay.jpg
+http://www.wikidata.org/entity/Q742187,1795-07-13T00:00:00Z,Battle of Hyères Islands,http://commons.wikimedia.org/wiki/Special:FilePath/Porquerolles%2C%20%C3%8Eles%20d%27Hy%C3%A8res.JPG
+http://www.wikidata.org/entity/Q742187,1795-07-13T00:00:00Z,Battle of Hyères Islands,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Minerve%20off%20Toulon.jpg
+http://www.wikidata.org/entity/Q742187,1795-07-13T00:00:00Z,Battle of Hyères Islands,http://commons.wikimedia.org/wiki/Special:FilePath/Tonnant%20LeBreton%20PX8975.jpg
+http://www.wikidata.org/entity/Q820269,1711-09-22T00:00:00Z,Battle of Rio de Janeiro,http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20de%20Janeiro%201711.gif
+http://www.wikidata.org/entity/Q178912,1780-01-16T00:00:00Z,Battle of Cape St. Vincent,http://commons.wikimedia.org/wiki/Special:FilePath/Holman%2C%20Cape%20St%20Vincent.jpg
+http://www.wikidata.org/entity/Q233430,1747-10-25T00:00:00Z,Second Battle of Cape Finisterre,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20bataille%20cap%20finisterre%20octobre%201747.jpg
+http://www.wikidata.org/entity/Q241110,1718-08-11T00:00:00Z,Battle of Cape Passaro,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20Cape%20Passaro.jpg
+http://www.wikidata.org/entity/Q243979,1798-08-01T00:00:00Z,Battle of the Nile,http://commons.wikimedia.org/wiki/Special:FilePath/Seeschlacht%20bei%20Abukir.jpg
+http://www.wikidata.org/entity/Q450318,1759-11-20T00:00:00Z,Battle of Quiberon Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Quibcardinaux2.jpg
+http://www.wikidata.org/entity/Q338370,1720-08-07T00:00:00Z,Battle of Grengam,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20grengam.jpg
+http://www.wikidata.org/entity/Q338370,1720-08-07T00:00:00Z,Battle of Grengam,http://commons.wikimedia.org/wiki/Special:FilePath/Ceremonial%20parade%20after%20the%20battle%20of%20Grengam.jpg
+http://www.wikidata.org/entity/Q338370,1720-08-07T00:00:00Z,Battle of Grengam,http://commons.wikimedia.org/wiki/Special:FilePath/Ferdinand%20Victor%20Perrot%20-%20The%20Battle%20of%20Grengam%20on%2027th%20July%201720.jpg
+http://www.wikidata.org/entity/Q338370,1720-08-07T00:00:00Z,Battle of Grengam,http://commons.wikimedia.org/wiki/Special:FilePath/Ledsund-1720.jpg
+http://www.wikidata.org/entity/Q338370,1720-08-07T00:00:00Z,Battle of Grengam,http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pantaleon%27s%20Church%20from%20Pestel%27s%20Street%20%28Saint%20Petersburg%29.jpg
+http://www.wikidata.org/entity/Q338792,1795-03-14T00:00:00Z,Battle of Genoa,http://commons.wikimedia.org/wiki/Special:FilePath/Capnoli.jpg
+http://www.wikidata.org/entity/Q373401,1797-02-14T00:00:00Z,Battle of Cape St. Vincent,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20Cape%20St%20Vincent%2C%2014%20February%201797%20RMG%20BHC0486.jpg
+http://www.wikidata.org/entity/Q2601178,1782-07-06T00:00:00Z,Battle of Negapatam,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Negapatam%2C%206%20July%201782%20RMG%20BHC0448.jpg
+http://www.wikidata.org/entity/Q2601189,1782-04-12T00:00:00Z,Battle of Providien,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Provedien%201782%20Mahan.png
+http://www.wikidata.org/entity/Q2606313,1758-08-03T00:00:00Z,Battle of Negapatam,http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20George%20Pocock%20by%20Thomas%20Hudson.jpg
+http://www.wikidata.org/entity/Q2606331,1758-04-29T00:00:00Z,Battle of Cuddalore (1758),http://commons.wikimedia.org/wiki/Special:FilePath/Regiment%20de%20la%20marine%201757.jpeg
+http://www.wikidata.org/entity/Q464226,1759-08-19T00:00:00Z,Battle of Lagos,http://commons.wikimedia.org/wiki/Special:FilePath/La%20bataille%20de%20Lagos%20en%201759%20vue%20par%20le%20peintre%20Thomas%20Luny.jpg
+http://www.wikidata.org/entity/Q577081,1797-10-11T00:00:00Z,Battle of Camperdown,http://commons.wikimedia.org/wiki/Special:FilePath/Thomas-Whitcombe-Battle-of-Camperdown.jpg
+http://www.wikidata.org/entity/Q645723,1719-06-04T00:00:00Z,Battle of Ösel Island,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20oesel.jpg
+http://www.wikidata.org/entity/Q677929,1744-02-22T00:00:00Z,Battle of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Action%20off%20toulon%204.jpg
+http://www.wikidata.org/entity/Q691729,1717-07-19T00:00:00Z,Battle of Matapan,http://commons.wikimedia.org/wiki/Special:FilePath/Batalha%20naval%20de%20Cabo%20Matap%C3%A3o.jpg
+http://www.wikidata.org/entity/Q694502,1704-08-24T00:00:00Z,Battle of Vélez-Málaga,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Malaga%2C%201704.jpg
+http://www.wikidata.org/entity/Q695673,1747-05-14T00:00:00Z,First Battle of Cape Finisterre,http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Scott%20-%20Vice%20Admiral%20Sir%20George%20Anson%27s%20Victory%20off%20Cape%20Finisterre%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q2890526,1778-09-06T00:00:00Z,Invasion of Dominica,http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20de%20la%20Dominique%20cph.3b49565.jpg
+http://www.wikidata.org/entity/Q2890852,1707-05-02T00:00:00Z,Action of 2 May 1707,http://commons.wikimedia.org/wiki/Special:FilePath/Attaque%20d%27une%20Escadre%20Angloise%20dans%20la%20Manche.jpg
+http://www.wikidata.org/entity/Q2890859,1707-10-21T00:00:00Z,Battle at The Lizard,http://commons.wikimedia.org/wiki/Special:FilePath/BatailleCaplizard.jpg
+http://www.wikidata.org/entity/Q2890866,1781-03-16T00:00:00Z,Battle of Cape Henry,http://commons.wikimedia.org/wiki/Special:FilePath/CapeHenry.jpg
+http://www.wikidata.org/entity/Q2366970,1741-01-01T00:00:00Z,Battle of Cartagena de Indias,http://commons.wikimedia.org/wiki/Special:FilePath/Ataque%20Cartagena%20de%20Indias.jpg
+http://www.wikidata.org/entity/Q2388607,1744-05-08T00:00:00Z,Action of 8 May 1744,http://commons.wikimedia.org/wiki/Special:FilePath/Northumberland-1724-Garneray-5106.jpg
+http://www.wikidata.org/entity/Q2564536,1789-01-01T00:00:00Z,First Battle of Svensksund,http://commons.wikimedia.org/wiki/Special:FilePath/Svensksund%201789%2C%20%C3%96%203932.tif
+http://www.wikidata.org/entity/Q2574010,1780-08-09T00:00:00Z,Action of 9 August 1780,http://commons.wikimedia.org/wiki/Special:FilePath/British%20convoy%20of%20sixty-three%20ships%20and%20all%20but%20eight%20ships%20captured%20by%20Spanish%20and%20French%20under%20Cordova.jpg
+http://www.wikidata.org/entity/Q2578358,1781-12-12T00:00:00Z,Battle of Ushant (1781),http://commons.wikimedia.org/wiki/Special:FilePath/Ouessant%20et%20l%27archipel%20de%20Mol%C3%A8ne.png
+http://www.wikidata.org/entity/Q2578430,1790-07-10T00:00:00Z,Battle of Svensksund,http://commons.wikimedia.org/wiki/Special:FilePath/Johan%20Tietrich%20Schoultz%20m%C3%A5lning%20Slaget%20vid%20Svensksund.jpg
+http://www.wikidata.org/entity/Q2583204,1780-04-17T00:00:00Z,Battle of Martinique,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20la%20Dominique%2017%20Avril%201780%20Rossel%20de%20Cercy%201736%201804.jpg
+http://www.wikidata.org/entity/Q2601126,1782-02-17T00:00:00Z,Battle of Sadras,http://commons.wikimedia.org/wiki/Special:FilePath/SouthIndia1794.jpeg
+http://www.wikidata.org/entity/Q2601158,1782-09-03T00:00:00Z,Battle of Trincomalee,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfTrincomaleeBySerres.jpg
+http://www.wikidata.org/entity/Q19902501,1794-10-22T00:00:00Z,Battle of Île Ronde,http://commons.wikimedia.org/wiki/Special:FilePath/Cyb%C3%A8le%20and%20Prudente%20vs%20English%20ship%20and%20frigate%2022%20dec%201794-Durand%20Brager%20img%203104.jpg
+http://www.wikidata.org/entity/Q20011866,1797-01-28T00:00:00Z,Bali Strait Incident,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Mellish%20in%20Sydney%20Harbour.jpg
+http://www.wikidata.org/entity/Q20036666,1761-07-17T00:00:00Z,Action of 17 July 1761,http://commons.wikimedia.org/wiki/Special:FilePath/Ship%20of%2074-gun%20model%201760.jpg
+http://www.wikidata.org/entity/Q20050723,1794-06-17T00:00:00Z,Battle of Mykonos,http://commons.wikimedia.org/wiki/Special:FilePath/Sibylle%20vs%20Romney.jpg
+http://www.wikidata.org/entity/Q21070658,1745-05-21T00:00:00Z,Battle of Anguilla,http://commons.wikimedia.org/wiki/Special:FilePath/Anguilla-aerial%20view%20western%20portion.jpg
+http://www.wikidata.org/entity/Q27628110,1779-08-17T00:00:00Z,Action of 17 August 1779,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20du%2017%20ao%C3%BBt%201779.png
+http://www.wikidata.org/entity/Q84320699,1781-04-04T00:00:00Z,Capture of HMS St. Fermin,http://commons.wikimedia.org/wiki/Special:FilePath/Chebec%20Mistic-IMG%208860.jpg
+http://www.wikidata.org/entity/Q1028247,1795-06-23T00:00:00Z,Battle of Groix,http://commons.wikimedia.org/wiki/Special:FilePath/Bridports%20Action%20Groix.jpg
+http://www.wikidata.org/entity/Q1083872,1794-06-01T00:00:00Z,Glorious First of June,http://commons.wikimedia.org/wiki/Special:FilePath/Loutherbourg-La%20Victoire%20de%20Lord%20Howe.jpg
+http://www.wikidata.org/entity/Q1134191,1798-10-12T00:00:00Z,Battle of Tory Island,http://commons.wikimedia.org/wiki/Special:FilePath/WarrensAction1798Ireland.jpg
+http://www.wikidata.org/entity/Q1136414,1748-10-12T00:00:00Z,Battle of Havana (1748),http://commons.wikimedia.org/wiki/Special:FilePath/End%20of%20Knowles%27%20action%20off%20Havana%2C%201%20October%201748.jpg
+http://www.wikidata.org/entity/Q1196554,1756-05-20T00:00:00Z,Battle of Minorca,http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20Port%20Mahon%20Minorque%2020%20mai%201756.jpg
+http://www.wikidata.org/entity/Q2657874,1788-07-17T00:00:00Z,Battle of Hogland,http://commons.wikimedia.org/wiki/Special:FilePath/Desprez%20-%20Battle%20of%20Hogland.jpg
+http://www.wikidata.org/entity/Q2662144,1759-09-10T00:00:00Z,Battle of Pondicherry,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Pitt%20engaging%20the%20Saint%20Louis%2029%20septembre%201758%20Indes.jpg
+http://www.wikidata.org/entity/Q2666730,1702-09-04T00:00:00Z,Action of August 1702,http://commons.wikimedia.org/wiki/Special:FilePath/Benbow%20fights%20on.jpg
+http://www.wikidata.org/entity/Q2671443,1778-12-15T00:00:00Z,Battle of St. Lucia,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Sainte%20Lucie%20entre%20d%27Estaing%20et%20Barrington%201778%20-%20BHC0422%2C.jpg
+http://www.wikidata.org/entity/Q2732287,1781-04-16T00:00:00Z,Battle of Porto Praya,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Porto%20Praya.jpg
+http://www.wikidata.org/entity/Q2888243,1718-01-01T00:00:00Z,Battle of Cape Fear River,http://commons.wikimedia.org/wiki/Special:FilePath/Capefearrivermap.png
+http://www.wikidata.org/entity/Q2888245,1757-10-21T00:00:00Z,Battle of Cap-Français,http://commons.wikimedia.org/wiki/Special:FilePath/Action%20off%20Cape%20Francois.jpg
+http://www.wikidata.org/entity/Q2888252,1758-02-28T00:00:00Z,Battle of Cartagena,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Monmouth%20and%20Foudroyant%201758.jpg
+http://www.wikidata.org/entity/Q2888502,1779-09-23T00:00:00Z,Battle of Flamborough Head,http://commons.wikimedia.org/wiki/Special:FilePath/Serapis%209790.jpg
+http://www.wikidata.org/entity/Q2889560,1746-07-06T00:00:00Z,Action of 6 July 1746,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20navale%20de%20N%C3%A9gapatam%20en%201746.jpg
+http://www.wikidata.org/entity/Q1970159,1779-07-06T00:00:00Z,Battle of Grenada,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20de%20la%20Grenade.png
+http://www.wikidata.org/entity/Q2040773,1772-11-09T00:00:00Z,Action of 6 November 1772,http://commons.wikimedia.org/wiki/Special:FilePath/Jacob%20Philipp%20Hackert%20%D0%A0atras.jpg
+http://www.wikidata.org/entity/Q2080397,1710-11-09T00:00:00Z,Battle of Syracuse,http://commons.wikimedia.org/wiki/Special:FilePath/Veduta%20aerea%20di%20Siracusa%20e%20con%20l%27Etna%20sullo%20sfondo%20%28Foto%20di%20Angelo%20Bonomo%29.jpg
+http://www.wikidata.org/entity/Q2113036,1796-12-01T00:00:00Z,Expédition d'Irlande,http://commons.wikimedia.org/wiki/Special:FilePath/Irish-Invasion-Gillray.jpeg
+http://www.wikidata.org/entity/Q1850800,1782-04-12T00:00:00Z,Battle of the Saintes,http://commons.wikimedia.org/wiki/Special:FilePath/The%20battle%20of%20the%20Saints%2012%20avril%201782.jpg
+http://www.wikidata.org/entity/Q1343040,1778-07-27T00:00:00Z,First Battle of Ushant,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20d%27Ouessant%20juillet%201778%20par%20Theodore%20Gudin.jpg
+http://www.wikidata.org/entity/Q1419459,1781-09-05T00:00:00Z,Battle of the Chesapeake,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfVirginiaCapes.jpg
+http://www.wikidata.org/entity/Q1431266,1782-01-26T00:00:00Z,Battle of Saint Kitts,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Frigate%20Bay.jpg
+http://www.wikidata.org/entity/Q1444121,1781-07-21T00:00:00Z,Action of 21 July 1781,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20de%20Louisbourg%201781.jpg
+http://www.wikidata.org/entity/Q1649183,1783-06-20T00:00:00Z,Battle of Cuddalore (1783),http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20en%20rade%20de%20Gondelour%2C%2020%20juin%201783.jpg
+http://www.wikidata.org/entity/Q1780316,1715-04-24T00:00:00Z,Action of 24 April 1715,http://commons.wikimedia.org/wiki/Special:FilePath/Fehmarn%20battle%201715.jpg
+http://www.wikidata.org/entity/Q1780931,1781-04-30T00:00:00Z,Battle of Fort Royal,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Fort%20Royal%20de%20la%20Martinique%2029%20avril%201781.jpg
+http://www.wikidata.org/entity/Q1781080,1782-10-20T00:00:00Z,Battle of Cape Spartel,http://commons.wikimedia.org/wiki/Special:FilePath/Escadre%20de%20Richard%20Howe%20en%20vue%20de%20Gibraltar%201782.jpg
+http://www.wikidata.org/entity/Q1844815,1716-07-08T00:00:00Z,Battle of Dynekilen,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Dynekilen.jpg
+http://www.wikidata.org/entity/Q7639108,1794-02-09T00:00:00Z,Sunda Strait campaign of January 1794,http://commons.wikimedia.org/wiki/Special:FilePath/Java%20and%20Sumatra.png
+http://www.wikidata.org/entity/Q9173377,1788-01-01T00:00:00Z,Naval actions at the siege of Ochakov,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5%20%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%B4%20%D0%9E%D1%87%D0%B0%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC%201788.png
+http://www.wikidata.org/entity/Q10671396,1704-07-27T00:00:00Z,Battle of Orford Ness,http://commons.wikimedia.org/wiki/Special:FilePath/Slaget%20vid%20Orford%20Ness.jpg
+http://www.wikidata.org/entity/Q13470147,1798-04-21T00:00:00Z,Battle of the Raz de Sein,http://commons.wikimedia.org/wiki/Special:FilePath/H.M.S.%20Mars%20and%20the%20French%20%2774%20Hercule%20off%20Brest%2C%2021st%20April%201798.jpg
+http://www.wikidata.org/entity/Q14644681,1748-03-22T00:00:00Z,Battle of Saint-Louis-du-Sud,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Capture%20of%20Port%20Louis%2C%20Cuba%2C%208%20March%201748%20RMG%20BHC0372.jpg
+http://www.wikidata.org/entity/Q15262148,1796-09-05T00:00:00Z,Newfoundland expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Entrada%20del%20Puerto%20de%20Saint%20John.jpg
+http://www.wikidata.org/entity/Q16058058,1795-03-08T00:00:00Z,Action of 8 March 1795,http://commons.wikimedia.org/wiki/Special:FilePath/Haute-Corse%20department%20relief%20location%20map.jpg
+http://www.wikidata.org/entity/Q16158115,1779-10-06T00:00:00Z,Action of 6 October 1779,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20frigates%20surveillante%20quebec.jpg
+http://www.wikidata.org/entity/Q16158115,1779-10-06T00:00:00Z,Action of 6 October 1779,http://commons.wikimedia.org/wiki/Special:FilePath/Engagement%20between%20Quebec%20%26%20Surveillante.jpg
+http://www.wikidata.org/entity/Q17346979,1760-05-16T00:00:00Z,Battle of Neuville,http://commons.wikimedia.org/wiki/Special:FilePath/Pomone.jpg
+http://www.wikidata.org/entity/Q17389316,1780-09-30T00:00:00Z,action of 30 September 1780,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Pearl%20vs%20Esperance.jpg
+http://www.wikidata.org/entity/Q18920216,1798-07-07T00:00:00Z,USS Delaware vs La Croyable,http://commons.wikimedia.org/wiki/Special:FilePath/USSConstellationVsInsurgente.jpg
+http://www.wikidata.org/entity/Q19870576,1795-06-24T00:00:00Z,Action of 24 June 1795,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Minerve%20off%20Toulon.jpg
+http://www.wikidata.org/entity/Q19870870,1796-06-22T00:00:00Z,Atlantic raid of June 1796,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20the%20French%20Frigate%20La%20Tribune%20byThe%20Unicorn%2C%20Pocock.jpg
+http://www.wikidata.org/entity/Q19871866,1761-08-14T00:00:00Z,Battle of Cape Finisterre,http://commons.wikimedia.org/wiki/Special:FilePath/Bellona%20%26%20Courageux%201761.jpg
+http://www.wikidata.org/entity/Q19873489,1793-10-05T00:00:00Z,Raid on Genoa,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Modeste.jpg
+http://www.wikidata.org/entity/Q4677387,1740-04-08T00:00:00Z,Action of 8 April 1740,http://commons.wikimedia.org/wiki/Special:FilePath/PrincesaVs3brits%C3%81ngelCortelliniS%C3%A1nchez%281858-1912%29museonavaldemadrid.jpg
+http://www.wikidata.org/entity/Q4677389,1755-06-08T00:00:00Z,Action of 8 June 1755,http://commons.wikimedia.org/wiki/Special:FilePath/CaptureOfAlcideAndLys.jpg
+http://www.wikidata.org/entity/Q4872529,1791-11-18T00:00:00Z,Battle of Tellicherry,http://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Bengal%20map%201800s.png
+http://www.wikidata.org/entity/Q4873048,1798-05-07T00:00:00Z,Battle of the Îles Saint-Marcouf,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20St%20Marcou.jpg
+http://www.wikidata.org/entity/Q4873060,1778-03-07T00:00:00Z,Battle off Barbados,http://commons.wikimedia.org/wiki/Special:FilePath/USS%20Randolph%201776.jpg
+http://www.wikidata.org/entity/Q5037004,1782-01-22T00:00:00Z,Capture of Demerara and Essequibo,http://commons.wikimedia.org/wiki/Special:FilePath/Dutch%20colonies%20Guyana.png
+http://www.wikidata.org/entity/Q5082999,1706-09-01T00:00:00Z,Charles Town expedition,http://commons.wikimedia.org/wiki/Special:FilePath/CarolinaToFloridaCoast1733.jpg
+http://www.wikidata.org/entity/Q5504481,1794-05-29T00:00:00Z,Frigate action of 29 May 1794,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20the%20Castor.jpg
+http://www.wikidata.org/entity/Q5977822,1702-10-01T00:00:00Z,Newfoundland expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Newfoundland1744.jpg
+http://www.wikidata.org/entity/Q6981993,1782-05-29T00:00:00Z,Naval battle off Halifax,http://commons.wikimedia.org/wiki/Special:FilePath/BriggObserveregagingtheJack29May1782HalifaxPublRDodd1Sept1784BerleyRobisonCollectionUSNavalAcademy.jpg
+http://www.wikidata.org/entity/Q6981994,1745-06-15T00:00:00Z,Naval battle off Tatamagouche,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfTatamagoucheMonument.jpg
+http://www.wikidata.org/entity/Q7283750,1759-07-05T00:00:00Z,Raid on Le Havre,http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20generale%20du%20bombardement%20du%20Havre%20en%201759%20par%20les%20Anglais.jpg
+http://www.wikidata.org/entity/Q7283755,1703-10-01T00:00:00Z,Raid on Nassau,http://commons.wikimedia.org/wiki/Special:FilePath/NewProvidenceIsland1803%20NPIonly.png
+http://www.wikidata.org/entity/Q4677263,1798-07-15T00:00:00Z,Action of 15 July 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Lion%20and%20Dorotea.jpg
+http://www.wikidata.org/entity/Q4677278,1793-06-18T00:00:00Z,Action of 18 June 1793,http://commons.wikimedia.org/wiki/Special:FilePath/Nymphe%20%26%20cleopatre%20sketch%20-Pocock.jpg
+http://www.wikidata.org/entity/Q4677295,1793-10-20T00:00:00Z,Action of 20 October 1793,http://commons.wikimedia.org/wiki/Special:FilePath/Reunion%20and%20Crescent%2C%20Dixon%201901.jpg
+http://www.wikidata.org/entity/Q4677298,1795-08-22T00:00:00Z,Action of 22 August 1795,http://commons.wikimedia.org/wiki/Special:FilePath/Defeat%20of%20the%20Dutch%20Fleet%20off%20Egero%2C%2022%20August%201795.jpg
+http://www.wikidata.org/entity/Q4677312,1793-10-24T00:00:00Z,Action of 24 October 1793,http://commons.wikimedia.org/wiki/Special:FilePath/Exp%C3%A9dition%20d%27Irlande%20Map.PNG
+http://www.wikidata.org/entity/Q4677317,1797-01-01T00:00:00Z,Action of 26 April 1797,http://commons.wikimedia.org/wiki/Special:FilePath/Spain%20Cadiz%20Municipality%20of%20Cadiz.png
+http://www.wikidata.org/entity/Q4677323,1798-06-27T00:00:00Z,Action of 27 June 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Strait%20of%20Sicily%20map.png
+http://www.wikidata.org/entity/Q4677346,1798-05-31T00:00:00Z,Action of 30 May 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%20%26%20Confiante.jpg
+http://www.wikidata.org/entity/Q4677350,1793-07-31T00:00:00Z,Action of 31 July 1793,http://commons.wikimedia.org/wiki/Special:FilePath/Embuscade%20vs%20Boston%2038974.JPG
+http://www.wikidata.org/entity/Q2984923,1798-12-14T00:00:00Z,Action of 14 December 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Ambuscade%20vs%20Bayonnaise-Ozanne-1.jpg
+http://www.wikidata.org/entity/Q2984945,1779-01-01T00:00:00Z,Battle of Martinique,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20de%20la%20Martinique.jpg
+http://www.wikidata.org/entity/Q2984953,1778-06-17T00:00:00Z,Action of 17 June 1778,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20la%20Belle%20Poule%20et%20de%20l%27Ar%C3%A9thusa.jpg
+http://www.wikidata.org/entity/Q2984958,1794-04-23T00:00:00Z,Action of 23 April 1794,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Engageante%20Babet%20and%20Pomone%20131144.JPG
+http://www.wikidata.org/entity/Q2984961,1794-11-06T00:00:00Z,Action of 6 November 1794,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Alexander%2C%20Shortly%20before%20Striking%20Her%20Colours%20to%20the%20French%20Squadron%2C%206%20November%201794.jpg
+http://www.wikidata.org/entity/Q2984963,1782-10-19T00:00:00Z,Action of 18 October 1782,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20du%20Scipion%20conte%20le%20London-Rossel%20de%20Cercy%20mg%205095c.jpg
+http://www.wikidata.org/entity/Q2984973,1798-08-18T00:00:00Z,Action of 18 August 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Leander%20%26%20Genereux.jpg
+http://www.wikidata.org/entity/Q2984988,1703-05-22T00:00:00Z,Battle of Cap de la Roque,http://commons.wikimedia.org/wiki/Special:FilePath/Coetlogon.jpg
+http://www.wikidata.org/entity/Q3061033,1797-01-14T00:00:00Z,Action of 13 January 1797,http://commons.wikimedia.org/wiki/Special:FilePath/Vaisseau-Droits-de-lHomme.jpg
+http://www.wikidata.org/entity/Q3062432,1782-08-08T00:00:00Z,Hudson Bay expedition,http://commons.wikimedia.org/wiki/Special:FilePath/HudsonBay1779.jpg
+http://www.wikidata.org/entity/Q3403821,1794-01-29T00:00:00Z,Capture of Fort-Dauphin,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Saint%20Joseph%20-%20Fort%20Liberte%20%28Looking%20South%29.jpg
+http://www.wikidata.org/entity/Q3606777,1713-01-01T00:00:00Z,Action of 22 July 1713,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Hogland%201713.png
+http://www.wikidata.org/entity/Q4090280,1782-04-21T00:00:00Z,Battle of Ushant (1782),http://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Serres%20-%20Foudroyant%20and%20P%C3%A9gase%20entering%20Portsmouth%20Harbour%2C%201782%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q4090287,1782-04-19T00:00:00Z,Battle of the Mona Passage,http://commons.wikimedia.org/wiki/Special:FilePath/Mona%20Passage%2019%20april%201782.jpg
+http://www.wikidata.org/entity/Q4340192,1795-06-17T00:00:00Z,Cornwallis's Retreat,http://commons.wikimedia.org/wiki/Special:FilePath/Cornwallis%27s%20Retreat%2C%20June%2017%2C%201795.jpg
+http://www.wikidata.org/entity/Q4438427,1790-09-09T00:00:00Z,Battle of Tendra,http://commons.wikimedia.org/wiki/Special:FilePath/AdmFFUshakoffByBazhanoff-e.jpg
+http://www.wikidata.org/entity/Q4555138,1794-06-01T00:00:00Z,Atlantic campaign of May 1794,http://commons.wikimedia.org/wiki/Special:FilePath/The%20%27Defence%27%20at%20the%20Battle%20of%20the%20First%20of%20June%2C%201794.jpg
+http://www.wikidata.org/entity/Q4677221,1795-04-11T00:00:00Z,Action of 10 April 1795,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Astraea%20and%20Gloire.jpg
+http://www.wikidata.org/entity/Q1348869,1783-02-05T00:00:00Z,1783 Calabrian earthquakes,http://commons.wikimedia.org/wiki/Special:FilePath/Einblattdruck%20-%20Messina%20-%20Erdbeben%201783%20-%20Will.jpg
+http://www.wikidata.org/entity/Q191055,1755-11-01T00:00:00Z,1755 Lisbon earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/1755%20Lisbon%20Earthquake%20Location.png
+http://www.wikidata.org/entity/Q4552798,1746-01-01T00:00:00Z,1746 Lima - Callao earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Catedral%20de%20Lima%201746.jpg
+http://www.wikidata.org/entity/Q4553120,1773-01-01T00:00:00Z,1773 Guatemala earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Sanfranciscoantigua.JPG
+http://www.wikidata.org/entity/Q4553469,1797-02-10T00:00:00Z,1797 Sumatra earthquake,http://commons.wikimedia.org/wiki/Special:FilePath/Plate%20setting%20Sunda%20megathrust.png
+http://www.wikidata.org/entity/Q3591486,1792-05-21T00:00:00Z,1792 Unzen earthquake and tsunami,http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B3%B6%E5%8E%9F%E5%A4%A7%E5%A4%89%E8%82%A5%E5%BE%8C%E8%BF%B7%E6%83%91.jpg
+http://www.wikidata.org/entity/Q3591486,1792-05-21T00:00:00Z,1792 Unzen earthquake and tsunami,http://commons.wikimedia.org/wiki/Special:FilePath/Ariake%20sea%20coastline.png
+http://www.wikidata.org/entity/Q3591486,1792-05-21T00:00:00Z,1792 Unzen earthquake and tsunami,http://commons.wikimedia.org/wiki/Special:FilePath/%E5%B3%B6%E5%8E%9F%E5%A4%A7%E5%A4%89%E8%82%A5%E5%BE%8C%E8%BF%B7%E6%83%91.jpg
+http://www.wikidata.org/entity/Q3591486,1792-05-21T00:00:00Z,1792 Unzen earthquake and tsunami,http://commons.wikimedia.org/wiki/Special:FilePath/Ariake%20sea%20coastline.png
+http://www.wikidata.org/entity/Q1265114,1725-12-15T00:00:00Z,Father Rale's War,http://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20Father%20Sebastian%20Rale%20of%20the%20Society%20of%20Jesus.jpg
+http://www.wikidata.org/entity/Q1349425,1735-10-14T00:00:00Z,Spanish–Portuguese War,http://commons.wikimedia.org/wiki/Special:FilePath/ORIENTALES.png
+http://www.wikidata.org/entity/Q1352215,1792-01-01T00:00:00Z,Polish–Russian War of 1792,http://commons.wikimedia.org/wiki/Special:FilePath/PolishRuswar1792.PNG
+http://www.wikidata.org/entity/Q8628,1793-12-01T00:00:00Z,War in the Vendée,http://commons.wikimedia.org/wiki/Special:FilePath/GuerreVend%C3%A9e%201.jpg
+http://www.wikidata.org/entity/Q31307,1767-04-07T00:00:00Z,Burmese–Siamese War (1765–67),http://commons.wikimedia.org/wiki/Special:FilePath/Burmese-Siamese%20war%20%281765-1767%29%20map%20-%20EN%20-%20001.jpg
+http://www.wikidata.org/entity/Q32929,1740-12-16T00:00:00Z,War of the Austrian Succession,http://commons.wikimedia.org/wiki/Special:FilePath/WaroftheAustrianSuccession.png
+http://www.wikidata.org/entity/Q54434,1739-10-22T00:00:00Z,War of Jenkins' Ear,http://commons.wikimedia.org/wiki/Special:FilePath/A%20new%20and%20correct%20map%20of%20the%20trading%20part%20of%20the%20West%20Indies.png
+http://www.wikidata.org/entity/Q568387,1798-01-01T00:00:00Z,Peasants' War,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Peasant%20War.jpg
+http://www.wikidata.org/entity/Q604204,1727-01-01T00:00:00Z,Anglo-Spanish War of 1727–1729,http://commons.wikimedia.org/wiki/Special:FilePath/German%20print%20of%20the%201727%20Gibraltar%20Siege.jpg
+http://www.wikidata.org/entity/Q616846,1762-01-01T00:00:00Z,Anglo-Spanish War,http://commons.wikimedia.org/wiki/Special:FilePath/Dominic%20Serres%20the%20Elder%20-%20The%20Capture%20of%20Havana%2C%201762%2C%20Storming%20of%20Morro%20Castle%2C%2030%20July.jpg
+http://www.wikidata.org/entity/Q617070,1767-01-01T00:00:00Z,First Anglo-Mysore War,http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Mysore%20War%201%20and%202.png
+http://www.wikidata.org/entity/Q617350,1792-03-18T00:00:00Z,Third Anglo-Mysore War,http://commons.wikimedia.org/wiki/Special:FilePath/Anglo-Mysore%20War%203.png
+http://www.wikidata.org/entity/Q559181,1740-12-16T00:00:00Z,First Silesian War,http://commons.wikimedia.org/wiki/Special:FilePath/Wilhelm%20Camphausen-Die%20Huldigung.jpg
+http://www.wikidata.org/entity/Q324438,1795-07-22T00:00:00Z,War of the Pyrenees,http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20Panissars.jpg
+http://www.wikidata.org/entity/Q382116,1763-01-01T00:00:00Z,Caucasian War,http://commons.wikimedia.org/wiki/Special:FilePath/Plenenie%20shamilja%20%28Rubo-1886%29.jpg
+http://www.wikidata.org/entity/Q431001,1762-01-01T00:00:00Z,Spanish–Portuguese War (1762–1763),http://commons.wikimedia.org/wiki/Special:FilePath/January%20Suchodolski%2C%20Bitwa%20pod%20Somosierr%C4%85.jpg
+http://www.wikidata.org/entity/Q525097,1796-11-01T00:00:00Z,Persian Expedition of 1796,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%20%D0%BF%D1%80%D0%B8%D1%81%D1%8F%D0%B3%D0%B5%20%D0%BD%D0%B0%20%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8%20%D0%93%D0%B0%D1%81%D0%B8%D0%BC%20%D1%85%D0%B0%D0%BD%D0%B0%20%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%BC%20%D0%97%D1%83%D0%B1%D0%BE%D0%B2%D0%B2%D1%8B%D0%BC.jpg
+http://www.wikidata.org/entity/Q2096286,1788-09-24T00:00:00Z,Theater War,http://commons.wikimedia.org/wiki/Special:FilePath/Kvistrum1788.jpg
+http://www.wikidata.org/entity/Q2109300,1787-10-10T00:00:00Z,Prussian invasion of Holland,http://commons.wikimedia.org/wiki/Special:FilePath/Entry%20of%20the%20Prussian%20troops%20in%201787%2C%20attributed%20to%20Johannes%20Merken.jpg
+http://www.wikidata.org/entity/Q2280723,1785-01-01T00:00:00Z,Burmese–Siamese War (1785–86),http://commons.wikimedia.org/wiki/Special:FilePath/Buddha%20Yodfa%20Chulaloke%20portrait.jpg
+http://www.wikidata.org/entity/Q2427419,1756-02-01T00:00:00Z,Guaraní War,http://commons.wikimedia.org/wiki/Special:FilePath/Reducciones.PNG
+http://www.wikidata.org/entity/Q2471586,1757-09-13T00:00:00Z,Pomeranian War,http://commons.wikimedia.org/wiki/Special:FilePath/Pomeraniae%20Ducatus%20Tabula.jpg
+http://www.wikidata.org/entity/Q2632175,1774-10-01T00:00:00Z,Dunmore's War,http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Joshua%20Reynolds%20-%20John%20Murray%2C%204th%20Earl%20of%20Dunmore%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q2656995,1785-01-01T00:00:00Z,Northwest Indian War,http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20Greenville.jpg
+http://www.wikidata.org/entity/Q233663,1780-01-01T00:00:00Z,Second Anglo-Mysore War,http://commons.wikimedia.org/wiki/Special:FilePath/SiegeOfCuddalore1783.jpg
+http://www.wikidata.org/entity/Q233702,1745-12-25T00:00:00Z,Second Silesian War,http://commons.wikimedia.org/wiki/Special:FilePath/Hohenfriedeberg%20-%20Attack%20of%20Prussian%20Infantry%20-%201745.jpg
+http://www.wikidata.org/entity/Q4126346,1759-01-01T00:00:00Z,Holy War of Jahangir Khoja,http://commons.wikimedia.org/wiki/Special:FilePath/Recapture%20of%20Kaschgar%20and%20capture%20of%20the%20rebel%20chief.jpg
+http://www.wikidata.org/entity/Q5037035,1798-11-15T00:00:00Z,Capture of Minorca,http://commons.wikimedia.org/wiki/Special:FilePath/John%20Thomas%20Serres%20-%20Port%20Mahon%2C%20Minorca%20with%20British%20Men-of-War%20at%20Anchor%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q6542740,1788-02-01T00:00:00Z,Austro–Turkish War (1788-1791),http://commons.wikimedia.org/wiki/Special:FilePath/TurkischeHauptArmeeHochenleitterBGHistory.jpg
+http://www.wikidata.org/entity/Q638587,1739-10-03T00:00:00Z,Russo-Turkish War (1736–1739),http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Azov%20%281736%29.jpg
+http://www.wikidata.org/entity/Q699511,1796-01-01T00:00:00Z,Campaigns of 1796 in the French Revolutionary Wars,http://commons.wikimedia.org/wiki/Special:FilePath/Italian%20campaigns%201796.JPG
+http://www.wikidata.org/entity/Q123070,1701-01-01T00:00:00Z,Russo-Turkish War (1768–1774),http://commons.wikimedia.org/wiki/Special:FilePath/Torelli2.jpg
+http://www.wikidata.org/entity/Q154697,1754-01-01T00:00:00Z,French and Indian War,http://commons.wikimedia.org/wiki/Special:FilePath/French%20and%20indian%20war%20map.svg
+http://www.wikidata.org/entity/Q2913821,1730-01-01T00:00:00Z,Afsharid-Ottoman War,http://commons.wikimedia.org/wiki/Special:FilePath/1730%20Ottens%20Map%20of%20Persia%20%28Iran%2C%20Iraq%2C%20Turkey%29%20-%20Geographicus%20-%20RegnumPersicum-ottens-1730.jpg
+http://www.wikidata.org/entity/Q3118940,1749-01-01T00:00:00Z,Father Le Loutre's War,http://commons.wikimedia.org/wiki/Special:FilePath/The%20founding%20of%20Halifax%2C%201749.%20by%20Charles%20W.%20Jefferys.png
+http://www.wikidata.org/entity/Q3651696,1783-09-01T00:00:00Z,Anglo-French War (1778–1783),http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20en%20rade%20de%20Gondelour%2C%2020%20juin%201783.jpg
+http://www.wikidata.org/entity/Q1362162,1746-01-01T00:00:00Z,First Carnatic War,http://commons.wikimedia.org/wiki/Special:FilePath/Surrender%20of%20The%20City%20of%20Madras%201746.jpg
+http://www.wikidata.org/entity/Q1362209,1775-01-01T00:00:00Z,First Anglo-Maratha War,http://commons.wikimedia.org/wiki/Special:FilePath/Maratha%20British%20Treaty.JPG
+http://www.wikidata.org/entity/Q1418582,1723-09-12T00:00:00Z,Russo-Persian War of 1722–23,http://commons.wikimedia.org/wiki/Special:FilePath/Roubaud-Peter-in-Tarki.jpg
+http://www.wikidata.org/entity/Q1632880,1759-12-01T00:00:00Z,Burmese–Siamese War (1759–60),http://commons.wikimedia.org/wiki/Special:FilePath/Burmese-siamese-war-1759-1760.png
+http://www.wikidata.org/entity/Q1758978,1776-09-01T00:00:00Z,"Burmese–Siamese War, 1775–76",http://commons.wikimedia.org/wiki/Special:FilePath/Thonburi.jpg
+http://www.wikidata.org/entity/Q499799,1717-01-01T00:00:00Z,Christmas flood of 1717,http://commons.wikimedia.org/wiki/Special:FilePath/Christmas%20flood%201717.jpg
+http://www.wikidata.org/entity/Q1549050,1703-01-01T00:00:00Z,Great Storm of 1703,http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Storm%201703%20Goodwin%20Sands%20engraving.PNG
+http://www.wikidata.org/entity/Q15053704,1792-01-01T00:00:00Z,Coalition Wars,http://commons.wikimedia.org/wiki/Special:FilePath/French%20Empire%20on%20World%201812.png
+http://www.wikidata.org/entity/Q26799687,1716-01-01T00:00:00Z,Austro-Turkish War of 1716–18,http://commons.wikimedia.org/wiki/Special:FilePath/Eugene%20of%20Savoy%20during%20the%20Battle%20of%20Belgrade%201717.jpg
+http://www.wikidata.org/entity/Q26809259,1783-09-01T00:00:00Z,Anglo-Spanish War,http://commons.wikimedia.org/wiki/Special:FilePath/Combate%20de%20Santa%20Mar%C3%ADa.jpg
+http://www.wikidata.org/entity/Q16837735,1704-01-01T00:00:00Z,1704 Polish–Lithuanian royal election,http://commons.wikimedia.org/wiki/Special:FilePath/Election%20of%20Stanis%C5%82aw%20Leszczy%C5%84ski%20in%201704.PNG
+http://www.wikidata.org/entity/Q16837740,1733-01-01T00:00:00Z,1733 Polish–Lithuanian royal election,http://commons.wikimedia.org/wiki/Special:FilePath/Anonymous%20Election%20of%20Augustus%20III.jpg
+http://www.wikidata.org/entity/Q16837743,1764-09-01T00:00:00Z,1764 Polish–Lithuanian royal election,http://commons.wikimedia.org/wiki/Special:FilePath/Bellotto%20Election%20of%20Stanislas%20Augustus.jpg
+http://www.wikidata.org/entity/Q377542,1791-01-01T00:00:00Z,Whiskey Rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/WhiskeyRebellion.jpg
+http://www.wikidata.org/entity/Q499468,1786-01-01T00:00:00Z,Lin Shuangwen rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/Crossing%20the%20ocean%20and%20triumphant%20return.jpg
+http://www.wikidata.org/entity/Q1049945,1746-04-20T00:00:00Z,Jacobite rising of 1745,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20Culloden.jpg
+http://www.wikidata.org/entity/Q812312,1705-11-01T00:00:00Z,Bavarian People's Uprising,http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20Sendling%20Fresco%20Old%20Church%20St%20Margaret%20Detail.jpg
+http://www.wikidata.org/entity/Q849176,1794-11-16T00:00:00Z,Kościuszko Uprising,http://commons.wikimedia.org/wiki/Special:FilePath/Rp%201794.jpg
+http://www.wikidata.org/entity/Q10935020,1757-01-01T00:00:00Z,Revolt of the Altishahr Khojas,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D1%80%D0%B8%20%D0%95%D1%88%D0%B8%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D0%B5%2C%201759%2C%20%D1%83%D0%B9%D0%B3%D1%83%D1%80%D1%8B-%D0%BA%D0%B0%D1%88%D0%BA%D0%B0%D1%80%D1%86%D1%8Bvs%D0%BC%D0%B0%D0%BD%D1%8C%D1%87%D0%B6%D1%83%D1%80%D0%BE-%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8B-%D1%85%D0%B0%D0%BD%D1%8C%D1%86%D1%8B.jpg
+http://www.wikidata.org/entity/Q1545288,1797-04-17T00:00:00Z,Veronese Easters,http://commons.wikimedia.org/wiki/Special:FilePath/15%2C%20Via%20Mazzanti%2C%20Verona.jpg
+http://www.wikidata.org/entity/Q1659789,1769-06-01T00:00:00Z,Koliivshchyna,http://commons.wikimedia.org/wiki/Special:FilePath/Camp%20of%20haidamakas.PNG
+http://www.wikidata.org/entity/Q1806552,1780-11-04T00:00:00Z,Rebellion of Túpac Amaru II,http://commons.wikimedia.org/wiki/Special:FilePath/Rebeli%C3%B3n%20de%20Tupac%20Amaru%2C%20de%20Tadeo%20Escalante%20%281802-1840%29.jpg
+http://www.wikidata.org/entity/Q1962507,1787-05-30T00:00:00Z,Bijltjesoproer,http://commons.wikimedia.org/wiki/Special:FilePath/Strijd%20tussen%20patriotten%20en%20prinsgezinden%20bij%20de%20Kattenburgerbrug%2030%20mei%201787.jpg
+http://www.wikidata.org/entity/Q16399387,1722-01-01T00:00:00Z,Syunik rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20of%20Halidzor.jpg
+http://www.wikidata.org/entity/Q20204978,1775-09-08T00:00:00Z,Rising of the Priests,http://commons.wikimedia.org/wiki/Special:FilePath/Sudika%20Il-Belt%20Sant%27Elmo%20entrance.jpg
+http://www.wikidata.org/entity/Q2591793,1794-04-19T00:00:00Z,Warsaw Uprising,http://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20insurrection%201794%20by%20Juliusz%20Kossak.PNG
+http://www.wikidata.org/entity/Q2701022,1740-01-01T00:00:00Z,Pachtersoproer,http://commons.wikimedia.org/wiki/Special:FilePath/Pachtersoproer.jpg
+http://www.wikidata.org/entity/Q3052957,1707-01-01T00:00:00Z,Emboabas' War,http://commons.wikimedia.org/wiki/Special:FilePath/Guerra%20dos%20Emboabas.jpg
+http://www.wikidata.org/entity/Q65042005,1782-12-01T00:00:00Z,1782 Sylhet uprising,http://commons.wikimedia.org/wiki/Special:FilePath/Sylhet%20Shahi%20Eidgah%2856%29.jpg
+http://www.wikidata.org/entity/Q152006,1772-01-01T00:00:00Z,Partitions of Poland,http://commons.wikimedia.org/wiki/Special:FilePath/ChelmonskiJozef.1875.KazimierzPulaskiPodCzestochowa.jpg
+http://www.wikidata.org/entity/Q18408564,1783-04-19T00:00:00Z,annexation of Crimea by the Russian Empire,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8C%20%D0%B2%20%D0%9A%D1%80%D1%8B%D0%BC%D1%83.%201783.jpg
+http://www.wikidata.org/entity/Q60022,1789-06-20T00:00:00Z,Tennis Court Oath,http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Serment%20du%20Jeu%20de%20paume.jpg
+http://www.wikidata.org/entity/Q183447,1795-01-23T00:00:00Z,Capture of the Dutch fleet at Den Helder,http://commons.wikimedia.org/wiki/Special:FilePath/Helder%20Morel-Fatio.jpg
+http://www.wikidata.org/entity/Q1151917,1789-10-06T00:00:00Z,Women's March on Versailles,http://commons.wikimedia.org/wiki/Special:FilePath/Women%27s%20March%20on%20Versailles01.jpg
+http://www.wikidata.org/entity/Q3133590,1783-11-25T00:00:00Z,Evacuation Day,http://commons.wikimedia.org/wiki/Special:FilePath/Evacuation%20Day%20and%20Washington%27s%20Triumphal%20Entry.jpg
+http://www.wikidata.org/entity/Q5169779,1782-05-10T00:00:00Z,Corbly Family Massacre,http://commons.wikimedia.org/wiki/Special:FilePath/John%20Corbly%20Massacre%20Monument.jpg
+http://www.wikidata.org/entity/Q19874865,1779-02-14T00:00:00Z,death of James Cook,http://commons.wikimedia.org/wiki/Special:FilePath/Zoffany%20Death%20of%20Captain%20Cook.jpg
+http://www.wikidata.org/entity/Q47198426,1783-12-23T00:00:00Z,George Washington's resignation as commander-in-chief,http://commons.wikimedia.org/wiki/Special:FilePath/General%20George%20Washington%20Resigning%20his%20Commission.jpg
+http://www.wikidata.org/entity/Q83258064,1789-04-21T00:00:00Z,George Washington's reception at Trenton,http://commons.wikimedia.org/wiki/Special:FilePath/Washington%27s%20reception%20by%20the%20ladies%2C%20on%20passing%20the%20bridge%20at%20Trenton%2C%20N.J.%20April%201789%2C%20on%20his%20way%20to%20New%20York%20to%20be%20inaugurated%20first%20president%20of%20the%20United%20States%20%28cropped%29.jpg
+http://www.wikidata.org/entity/Q1536983,1739-09-09T00:00:00Z,Stono Rebellion,http://commons.wikimedia.org/wiki/Special:FilePath/Stono%20Rebellion%20site%20-%20Jan%2023%202013.jpg
+http://www.wikidata.org/entity/Q19897783,1795-01-01T00:00:00Z,Curaçao Slave Revolt of 1795,http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20to%201795%20Slave%20Revolt%2C%20Cura%C3%A7ao.jpg
+http://www.wikidata.org/entity/Q20556343,1749-06-29T00:00:00Z,Conspiracy of the Slaves,http://commons.wikimedia.org/wiki/Special:FilePath/Valletta%20St%20Johns%20square%20Malta%202014%203.jpg
+http://www.wikidata.org/entity/Q47004504,1719-01-01T00:00:00Z,Jacobite rising of 1719,http://commons.wikimedia.org/wiki/Special:FilePath/George%20Keith%2C%2010th%20Earl%20Marischal%20by%20Placido%20Costanzi.jpg
+http://www.wikidata.org/entity/Q6534,1789-05-05T00:00:00Z,French Revolution,http://commons.wikimedia.org/wiki/Special:FilePath/LouisXVIExecutionBig.jpg
+http://www.wikidata.org/entity/Q248033,1797-09-04T00:00:00Z,Coup of 18 Fructidor,http://commons.wikimedia.org/wiki/Special:FilePath/Augereau%20Coup%20d%20etat%2018%20Fructidor%20in%20Tuileries.jpg
+http://www.wikidata.org/entity/Q720498,1795-10-05T00:00:00Z,13 Vendémiaire,http://commons.wikimedia.org/wiki/Special:FilePath/13Vend%C3%A9miaire.jpg
+http://www.wikidata.org/entity/Q192769,1763-03-22T00:00:00Z,American Revolution,http://commons.wikimedia.org/wiki/Special:FilePath/Declaration%20of%20Independence%20%281819%29%2C%20by%20John%20Trumbull.jpg
+http://www.wikidata.org/entity/Q4062556,1765-08-12T00:00:00Z,Treaty of Prayagraj,http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20East%20India%20Company%20official.jpg
+http://www.wikidata.org/entity/Q4062556,1765-08-12T00:00:00Z,Treaty of Prayagraj,http://commons.wikimedia.org/wiki/Special:FilePath/Shah%20%27Alam%20conveying%20the%20grant%20of%20the%20Diwani%20to%20Lord%20Clive.jpg
+http://www.wikidata.org/entity/Q952774,1775-01-01T00:00:00Z,Invasion of Canada (1775),http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20General%20Montgomery%20in%20the%20Attack%20on%20Quebec%20December%2031%201775.jpeg
+http://www.wikidata.org/entity/Q3649504,1790-01-01T00:00:00Z,fall of the Republic of Venice,http://commons.wikimedia.org/wiki/Special:FilePath/Manin%27s%20abdication.jpg
+http://www.wikidata.org/entity/Q4940494,1784-07-12T00:00:00Z,Bombardment of Algiers,http://commons.wikimedia.org/wiki/Special:FilePath/La%20cite%20le%20port%20et%20le%20mole%20d%20Alger.jpg
+http://www.wikidata.org/entity/Q4940496,1783-08-08T00:00:00Z,Bombardment of Algiers,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20de%20la%20baie%20d%20alger%20situee%20sur%20la%20cote%20d%20afrique%20expedition%20barcelo%201783.jpg
+http://www.wikidata.org/entity/Q2740393,1776-09-21T00:00:00Z,Great Fire of New York,http://commons.wikimedia.org/wiki/Special:FilePath/NYC%20fire%201776.jpg
+http://www.wikidata.org/entity/Q163236,1714-03-07T00:00:00Z,Treaty of Rastatt,http://commons.wikimedia.org/wiki/Special:FilePath/Europe%2C%201714.png
+http://www.wikidata.org/entity/Q1456685,1797-01-01T00:00:00Z,Treaty of Tripoli,http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20Tripoli%20as%20communicated%20to%20Congress%201797.png
+http://www.wikidata.org/entity/Q1568837,1794-11-19T00:00:00Z,Jay Treaty,http://commons.wikimedia.org/wiki/Special:FilePath/Jay%27s-treaty.jpg
+http://www.wikidata.org/entity/Q375717,1756-05-01T00:00:00Z,Treaty of Versailles,http://commons.wikimedia.org/wiki/Special:FilePath/Medaille%20FOEDUS%20VERSALIIS%20SANCITUM%201756.jpg
+http://www.wikidata.org/entity/Q525997,1783-08-04T00:00:00Z,Treaty of Georgievsk,http://commons.wikimedia.org/wiki/Special:FilePath/Treaty%20of%20Georgievsk%20of%201783%20%28Esadze%2C%201913%29.JPG
+http://www.wikidata.org/entity/Q682403,1706-07-22T00:00:00Z,Treaty of Union,http://commons.wikimedia.org/wiki/Special:FilePath/Articles%20of%20Union%20between%20England%20and%20Scotland%2028%20Jan%201707.png
+http://www.wikidata.org/entity/Q698176,1725-04-30T00:00:00Z,Treaty of Vienna,http://commons.wikimedia.org/wiki/Special:FilePath/First%20Treaty%20of%20Vienna%20%281725%29.png
+http://www.wikidata.org/entity/Q1422396,1750-01-13T00:00:00Z,Treaty of Madrid,http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20geogr%C3%A1fico%20de%20la%20mayor%20parte%20de%20la%20Am%C3%A9rica%20Meridional%20que%20contiene%20los%20paises%20por%20donde%20debe%20trazarse%20la%20l%C3%ADnia%20divisoria%20que%20divida%20los%20dominios%20de%20Espa%C3%B1a%20y%20Portugal%20%284587179892%29.jpg
+http://www.wikidata.org/entity/Q3536917,1715-08-13T00:00:00Z,Persian embassy to Louis XIV,http://commons.wikimedia.org/wiki/Special:FilePath/Ambassade%20Perse%20aupr%C3%A8s%20de%20Louis%20XIV.jpg
+http://www.wikidata.org/entity/Q2978493,1755-02-13T00:00:00Z,Treaty of Giyanti,http://commons.wikimedia.org/wiki/Special:FilePath/Mataram%201830-en.png
+http://www.wikidata.org/entity/Q2978493,1755-02-13T00:00:00Z,Treaty of Giyanti,http://commons.wikimedia.org/wiki/Special:FilePath/MsGiyanti.jpg
+http://www.wikidata.org/entity/Q2978493,1755-02-13T00:00:00Z,Treaty of Giyanti,http://commons.wikimedia.org/wiki/Special:FilePath/Jawa%20Setelah%20Perjanjian%20Giyanti.png
+http://www.wikidata.org/entity/Q2978493,1755-02-13T00:00:00Z,Treaty of Giyanti,http://commons.wikimedia.org/wiki/Special:FilePath/Location%20of%20Treaty%20of%20Giyanti.jpg
+http://www.wikidata.org/entity/Q45067,1775-01-01T00:00:00Z,Siege of Savage's Old Fields,http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Richardson.jpg
+http://www.wikidata.org/entity/Q63652,1793-06-24T00:00:00Z,Siege of Bellegarde,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20de%20Bellegarde%2006.jpg
+http://www.wikidata.org/entity/Q74257,1762-11-01T00:00:00Z,Siege of Cassel,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20du%20Siege%20de%20Cassel%20%28Frederic%20Auguste%29%201762.jpg
+http://www.wikidata.org/entity/Q138025,1708-12-23T00:00:00Z,Siege of Veprik,http://commons.wikimedia.org/wiki/Special:FilePath/Assault%20of%20Veprik.jpg
+http://www.wikidata.org/entity/Q539707,1756-10-14T00:00:00Z,Siege of Pirna,http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek%20df%20rp-d%200360017%20Pirna.%20Karte%20von%20einem%20Teil%20des%20Kurf%C3%BCrstentums%20Sachsen%2C%20Petri%2C%20nach%201759%20%28Sign.%2C.jpg
+http://www.wikidata.org/entity/Q552225,1702-01-01T00:00:00Z,Battle of Cádiz,http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20the%20Battle%20of%20Cadiz%201702.png
+http://www.wikidata.org/entity/Q558435,1793-01-01T00:00:00Z,Siege of Mainz,http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Belagerung%20von%201793%20a.jpg
+http://www.wikidata.org/entity/Q562277,1762-08-13T00:00:00Z,Battle of Havana,http://commons.wikimedia.org/wiki/Special:FilePath/British%20fleet%20entering%20Havana.jpg
+http://www.wikidata.org/entity/Q571699,1715-12-24T00:00:00Z,Sieges of Stralsund,http://commons.wikimedia.org/wiki/Special:FilePath/Stralsund%2C%20Gedenktafel%20Gustav%20Adolf%20in%20Mauer%20%282006-09-11%29.JPG
+http://www.wikidata.org/entity/Q610150,1760-07-22T00:00:00Z,Siege of Dresden,http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%201760%20-%204.jpg
+http://www.wikidata.org/entity/Q628086,1734-01-01T00:00:00Z,Siege of Gaeta,http://commons.wikimedia.org/wiki/Special:FilePath/El%20Futuro%20Carlos%20III%20de%20Espa%C3%B1a%20a%20caballo%20en%20Gaeta.jpg
+http://www.wikidata.org/entity/Q633067,1702-10-11T00:00:00Z,Siege of Nöteborg,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20N%C3%B6teborg%20%281702%29.jpg
+http://www.wikidata.org/entity/Q638462,1705-10-19T00:00:00Z,Siege of Barcelona (1705),http://commons.wikimedia.org/wiki/Special:FilePath/Setge%20de%20Barcelona%20de%201705.jpg
+http://www.wikidata.org/entity/Q427982,1727-06-12T00:00:00Z,Thirteenth Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/German%20print%20of%20the%201727%20Gibraltar%20Siege.jpg
+http://www.wikidata.org/entity/Q459447,1781-01-01T00:00:00Z,Siege of Yorktown,http://commons.wikimedia.org/wiki/Special:FilePath/Surrender%20of%20Lord%20Cornwallis.jpg
+http://www.wikidata.org/entity/Q464517,1714-02-01T00:00:00Z,Siege of Tönning,http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B6nning1651.jpg
+http://www.wikidata.org/entity/Q481325,1734-07-18T00:00:00Z,Siege of Philippsburg,http://commons.wikimedia.org/wiki/Special:FilePath/PhilippsburgSiege1734.jpeg
+http://www.wikidata.org/entity/Q508088,1758-01-01T00:00:00Z,Siege of Olomouc,http://commons.wikimedia.org/wiki/Special:FilePath/Olomouc%20map%201757.jpg
+http://www.wikidata.org/entity/Q815153,1702-04-18T00:00:00Z,Siege of Kaiserswerth,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20Kaiserswerth%201702.jpg
+http://www.wikidata.org/entity/Q688436,1714-09-11T00:00:00Z,Siege of Barcelona (1713-1714),http://commons.wikimedia.org/wiki/Special:FilePath/Sitio-barcelona-11-septiembre-1714.jpg
+http://www.wikidata.org/entity/Q694054,1704-08-09T00:00:00Z,Battle of Narva,http://commons.wikimedia.org/wiki/Special:FilePath/Narva%201704.jpg
+http://www.wikidata.org/entity/Q694073,1704-08-04T00:00:00Z,Capture of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Verovering%20van%20Gibraltar%20door%20een%20Engels-Nederlandse%20vloot%2C%201704%20Verovering%20van%20de%20sterke%20stad%20Gibraltar%20door%20de%20gecombineerde%20Engelsche%20en%20Hollandsche%20Oorlogsvloot%20%28titel%20op%20object%29%2C%20RP-P-OB-83.182.jpg
+http://www.wikidata.org/entity/Q694492,1708-12-10T00:00:00Z,Siege of Lille,http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20plan%20relief%20lille.JPG
+http://www.wikidata.org/entity/Q2493908,1798-09-02T00:00:00Z,Siege of Malta,http://commons.wikimedia.org/wiki/Special:FilePath/Ta%27%20Xindi%20Farmhouse.jpeg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Moonlight%20battle%20Aftermath.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Moonlight%20Battle%20off%20Cape%20St%20Vincent%2C%2016%20January%201780.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Siege%20and%20Relief%20of%20Gibraltar%20%282%29.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Siege%20of%20Gibraltar%2C%201782%20by%20George%20Carter.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Sortie%20Made%20by%20the%20Garrison%20of%20Gibraltar.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20du%20siege%20de%20Gibraltar%20et%20explosion%20des%20batteries%20flottantes%201782.jpeg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20generale%20du%20siege%20et%20bombardement%20de%20Gibraltar%20commentaire%20en%20allemand%201782.jpeg
+http://www.wikidata.org/entity/Q815175,1797-02-02T00:00:00Z,Siege of Mantua,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20la%20Favorite%20%28Vernet%20engraving%29.jpg
+http://www.wikidata.org/entity/Q815214,1703-10-14T00:00:00Z,Siege of Thorn (1703),http://commons.wikimedia.org/wiki/Special:FilePath/National%20Museum%20in%20Poznan%20-%20Siege%20of%20Torun.JPG
+http://www.wikidata.org/entity/Q708610,1707-01-01T00:00:00Z,Battle of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20von%20Toulon%201707.jpg
+http://www.wikidata.org/entity/Q771681,1793-11-14T00:00:00Z,Battle of Granville,http://commons.wikimedia.org/wiki/Special:FilePath/Incendie%20Granville%201793.JPG
+http://www.wikidata.org/entity/Q815128,1775-04-19T00:00:00Z,Siege of Boston,http://commons.wikimedia.org/wiki/Special:FilePath/SiegeBoston.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20explosion%20des%20batteries%20avec%20fuite%20des%20equipages%20et%20chaloupes%201782.jpeg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Gibraltar%20Grand%20Assault.jpg
+http://www.wikidata.org/entity/Q815145,1783-02-07T00:00:00Z,Great Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/Howe%27s%20relief%20of%20gibraltar.jpg
+http://www.wikidata.org/entity/Q815229,1710-06-12T00:00:00Z,Siege of Vyborg,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Vyborg%201710.png
+http://www.wikidata.org/entity/Q819999,1797-01-09T00:00:00Z,Siege of Kehl,http://commons.wikimedia.org/wiki/Special:FilePath/Austrians%2013%20Sept%201796%20Kehl.jpg
+http://www.wikidata.org/entity/Q840250,1795-10-29T00:00:00Z,Battle of Mainz,http://commons.wikimedia.org/wiki/Special:FilePath/Early%20flight%2002561u%20%281%29.jpg
+http://www.wikidata.org/entity/Q904495,1794-11-22T00:00:00Z,Siege of Luxembourg,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20de%20Luxembourg%201794-1795.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Cerco%20de%20Toulon%201793.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Destruction%20of%20the%20French%20Fleet%20at%20Toulon%2018th%20December%201793.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Evacuation%20de%20Toulon%20et%20incendie%20de%20vaisseaux%201793%20nmmacuk.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Flotte%20Anglo-Espagnole%20au%20si%C3%A8ge%20de%20Toulon%201793.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20%C3%A0%20Toulon%20par%20Edouard%20Detaille.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20reprimant%20Tolon.jpg
+http://www.wikidata.org/entity/Q815228,1793-12-19T00:00:00Z,Siege of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20de%20Toulon.PNG
+http://www.wikidata.org/entity/Q2080325,1757-08-03T00:00:00Z,Siege of Fort William Henry,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20of%20Fort%20William%20Henry%20on%20Lake%20George.jpg
+http://www.wikidata.org/entity/Q2080385,1733-10-28T00:00:00Z,Siege of Kehl,http://commons.wikimedia.org/wiki/Special:FilePath/Festung%20Kehl%201788.jpg
+http://www.wikidata.org/entity/Q2354105,1734-01-01T00:00:00Z,Siege of Danzig,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Danzig%201734.PNG
+http://www.wikidata.org/entity/Q2366970,1741-01-01T00:00:00Z,Battle of Cartagena de Indias,http://commons.wikimedia.org/wiki/Special:FilePath/Ataque%20Cartagena%20de%20Indias.jpg
+http://www.wikidata.org/entity/Q2372093,1790-12-22T00:00:00Z,Siege of Izmail,http://commons.wikimedia.org/wiki/Special:FilePath/Taking%20of%20Izmail.jpg
+http://www.wikidata.org/entity/Q1136002,1793-08-08T00:00:00Z,Revolt of Lyon against the National Convention,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Lyon%20%281793%29.jpg
+http://www.wikidata.org/entity/Q1152894,1745-06-28T00:00:00Z,Siege of Louisbourg,http://commons.wikimedia.org/wiki/Special:FilePath/Louisbourg%20assiegee%20en%201745.jpg
+http://www.wikidata.org/entity/Q1307876,1777-01-01T00:00:00Z,Siege of Fort Ticonderoga,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Ticonderoga%2C%20Ticonderoga%2C%20NY.jpg
+http://www.wikidata.org/entity/Q1779428,1775-11-03T00:00:00Z,Siege of Fort St. Jean,http://commons.wikimedia.org/wiki/Special:FilePath/RichelieuValleyMontrealThreeRivers1777.png
+http://www.wikidata.org/entity/Q3073526,1762-08-01T00:00:00Z,Siege of Almeida,http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20of%20Almeida.jpg
+http://www.wikidata.org/entity/Q3078994,1710-10-13T00:00:00Z,Siege of Port Royal,http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20nicholson%20Dahl.jpg
+http://www.wikidata.org/entity/Q3079017,1707-09-01T00:00:00Z,Siege of Port Royal,http://commons.wikimedia.org/wiki/Special:FilePath/BayOfMaine1713.jpg
+http://www.wikidata.org/entity/Q1835856,1747-09-01T00:00:00Z,Siege of Bergen op Zoom,http://commons.wikimedia.org/wiki/Special:FilePath/Kaart1747.jpg
+http://www.wikidata.org/entity/Q1924575,1746-01-01T00:00:00Z,Siege of Brussels,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20de%20Bruxelles%201746%20-%20L.%20N.%20van%20Blarenberghe.jpg
+http://www.wikidata.org/entity/Q2060558,1781-05-09T00:00:00Z,Siege of Pensacola,http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20troops%20at%20Pensacola.jpg
+http://www.wikidata.org/entity/Q3235083,1780-05-12T00:00:00Z,Siege of Charleston,http://commons.wikimedia.org/wiki/Special:FilePath/Sullivans-island-1050x777.jpg
+http://www.wikidata.org/entity/Q3272485,1706-04-27T00:00:00Z,Siege of Barcelona (1706),http://commons.wikimedia.org/wiki/Special:FilePath/Alliberament%20de%20Barcelona%201706.jpg
+http://www.wikidata.org/entity/Q2815407,1718-11-30T00:00:00Z,Siege of Fredriksten,http://commons.wikimedia.org/wiki/Special:FilePath/Fredriksten%20fortress%20Norway%20seen%20from%20Halden%20harbor.jpg
+http://www.wikidata.org/entity/Q3050672,1758-07-26T00:00:00Z,Siege of Louisbourg,http://commons.wikimedia.org/wiki/Special:FilePath/British%20burning%20warship%20Prudent%20and%20capturing%20Bienfaisant.%20Siege%20of%20Louisbourg%201758.%20Maritime%20Museum%20of%20the%20Atlantic%2C%20M55.7.1.jpg
+http://www.wikidata.org/entity/Q3073029,1760-09-04T00:00:00Z,Siege of Pondicherry,http://commons.wikimedia.org/wiki/Special:FilePath/Ruines%20de%20Pondichery%20en%201762.jpg
+http://www.wikidata.org/entity/Q3485811,1793-12-04T00:00:00Z,Siege of Angers,http://commons.wikimedia.org/wiki/Special:FilePath/Angers%20maine%20chateau.jpg
+http://www.wikidata.org/entity/Q3485851,1794-08-10T00:00:00Z,Siege of Calvi,http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20at%20Calvi.jpg
+http://www.wikidata.org/entity/Q3485856,1761-03-01T00:00:00Z,Siege of Cassel,http://commons.wikimedia.org/wiki/Special:FilePath/Kassel-merian.jpg
+http://www.wikidata.org/entity/Q3485885,1763-10-31T00:00:00Z,Siege of Fort Detroit,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Fort%20Detroit.jpg
+http://www.wikidata.org/entity/Q3485894,1745-07-01T00:00:00Z,Fall of Ghent,http://commons.wikimedia.org/wiki/Special:FilePath/Ghent%2C%20Ferraris%20Map%2C%201775.jpg
+http://www.wikidata.org/entity/Q2576215,1782-02-05T00:00:00Z,Invasion of Minorca,http://commons.wikimedia.org/wiki/Special:FilePath/Port%20Mahon%201781.jpg
+http://www.wikidata.org/entity/Q2631076,1717-07-16T00:00:00Z,Siege of Belgrade,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20belgrad%201717.jpg
+http://www.wikidata.org/entity/Q2631076,1717-08-16T00:00:00Z,Siege of Belgrade,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20belgrad%201717.jpg
+http://www.wikidata.org/entity/Q2682171,1780-01-01T00:00:00Z,Battle of Fort Charlotte,http://commons.wikimedia.org/wiki/Special:FilePath/BritishWestFlorida1776.jpg
+http://www.wikidata.org/entity/Q2724886,1788-12-17T00:00:00Z,Siege of Ochakov,http://commons.wikimedia.org/wiki/Special:FilePath/January%20Suchodolski%20-%20Ochakiv%20siege.jpg
+http://www.wikidata.org/entity/Q2744875,1779-10-18T00:00:00Z,Siege of Savannah,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Savannah%20-%20A.I.%20Keller.jpg
+http://www.wikidata.org/entity/Q7510496,1793-07-27T00:00:00Z,Siege of Valenciennes,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Grand%20Attack%20on%20Valenciennes%20by%20the%20Combined%20Armies%20under%20the%20Command%20of%20His%20Royal%20Highness%20the%20Duke%20of%20York%2C%2025%20July%201793.jpg
+http://www.wikidata.org/entity/Q11284205,1745-05-23T00:00:00Z,Siege of Annapolis Royal,http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20lacma%20Smibert%20Scotland%20portrait%20of%20Paul%20Mascarene.jpg
+http://www.wikidata.org/entity/Q3485925,1792-10-08T00:00:00Z,Siege de Lille (1792),http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20de%20Lille%201792.JPG
+http://www.wikidata.org/entity/Q3485928,1746-09-20T00:00:00Z,Raid on Lorient,http://commons.wikimedia.org/wiki/Special:FilePath/Lorient-au-18-eme-siecle.jpg
+http://www.wikidata.org/entity/Q3485950,1759-04-07T00:00:00Z,Siege of Masulipatam,http://commons.wikimedia.org/wiki/Special:FilePath/Musalipatam%20Mschilipatnam%20port%20in%201759.jpg
+http://www.wikidata.org/entity/Q3485995,1778-10-19T00:00:00Z,Siege of Pondicherry (1778),http://commons.wikimedia.org/wiki/Special:FilePath/Pondicherry1778.jpg
+http://www.wikidata.org/entity/Q3486014,1794-11-28T00:00:00Z,Siege of Roses,http://commons.wikimedia.org/wiki/Special:FilePath/Ciutadella%20Roses%20Portal%20del%20Mar.jpg
+http://www.wikidata.org/entity/Q3486020,1740-07-20T00:00:00Z,Siege of St. Augustine,http://commons.wikimedia.org/wiki/Special:FilePath/Fort2.jpg
+http://www.wikidata.org/entity/Q3486033,1792-10-16T00:00:00Z,Siege of Thionville,http://commons.wikimedia.org/wiki/Special:FilePath/Thionville-si%C3%A8ge.jpg
+http://www.wikidata.org/entity/Q7510022,1794-06-30T00:00:00Z,Siege of Fort Recovery,http://commons.wikimedia.org/wiki/Special:FilePath/Ft%20Recover%20%28blockhouses%29%20P4020190.JPG
+http://www.wikidata.org/entity/Q7510027,1777-01-01T00:00:00Z,Siege of Fort Stanwix,http://commons.wikimedia.org/wiki/Special:FilePath/Fost%20areal%20image007.jpg
+http://www.wikidata.org/entity/Q7510029,1779-02-25T00:00:00Z,Siege of Fort Vincennes,http://commons.wikimedia.org/wiki/Special:FilePath/Fall%20of%20Fort%20Sackville.jpg
+http://www.wikidata.org/entity/Q7510031,1781-01-01T00:00:00Z,Siege of Fort Watson,http://commons.wikimedia.org/wiki/Special:FilePath/SiegeOfFortWatson.gif
+http://www.wikidata.org/entity/Q7510033,1746-04-03T00:00:00Z,Siege of Fort William,http://commons.wikimedia.org/wiki/Special:FilePath/The%20old%20fort%20at%20Fort%20William%20-%20geograph.org.uk%20-%2013420.jpg
+http://www.wikidata.org/entity/Q7510056,1749-12-04T00:00:00Z,Siege of Grand Pre,http://commons.wikimedia.org/wiki/Special:FilePath/GrandPreMonuments.jpg
+http://www.wikidata.org/entity/Q7510103,1715-01-01T00:00:00Z,Siege of Inverness,http://commons.wikimedia.org/wiki/Special:FilePath/Inverness%20Castle%208.JPG
+http://www.wikidata.org/entity/Q7510105,1746-02-01T00:00:00Z,Siege of Inverness,http://commons.wikimedia.org/wiki/Special:FilePath/Jacobite%20broadside%20-%20Castle%20of%20Inverness..jpg
+http://www.wikidata.org/entity/Q7509870,1789-10-08T00:00:00Z,Siege of Belgrade,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20Belgrad%202.jpg
+http://www.wikidata.org/entity/Q7509878,1746-04-02T00:00:00Z,Siege of Blair Castle,http://commons.wikimedia.org/wiki/Special:FilePath/Blair%20castle%20-%20facade.jpg
+http://www.wikidata.org/entity/Q7509881,1778-01-01T00:00:00Z,Siege of Boonesborough,http://commons.wikimedia.org/wiki/Special:FilePath/Boonesborough.gif
+http://www.wikidata.org/entity/Q7509883,1715-11-01T00:00:00Z,Siege of Brahan,http://commons.wikimedia.org/wiki/Special:FilePath/Brahan%20Castle.jpg
+http://www.wikidata.org/entity/Q7509907,1745-01-01T00:00:00Z,Siege of Carlisle,http://commons.wikimedia.org/wiki/Special:FilePath/CarlisleCastle001.JPG
+http://www.wikidata.org/entity/Q7509910,1745-01-01T00:00:00Z,Siege of Carlisle,http://commons.wikimedia.org/wiki/Special:FilePath/CarlisleCastle001.JPG
+http://www.wikidata.org/entity/Q7509987,1791-01-01T00:00:00Z,Siege of Dunlap's Station,http://commons.wikimedia.org/wiki/Special:FilePath/Ohio%20Country%20en.png
+http://www.wikidata.org/entity/Q7510004,1745-12-01T00:00:00Z,Siege of Fort Augustus,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Augustus.%20-%20geograph.org.uk%20-%20429387.jpg
+http://www.wikidata.org/entity/Q7510005,1746-03-01T00:00:00Z,Siege of Fort Augustus,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Augustus.%20-%20geograph.org.uk%20-%20429387.jpg
+http://www.wikidata.org/entity/Q7510008,1782-01-01T00:00:00Z,Siege of Fort Henry,http://commons.wikimedia.org/wiki/Special:FilePath/Forthenrywv.jpg
+http://www.wikidata.org/entity/Q7510009,1777-09-01T00:00:00Z,Siege of Fort Henry (1777),http://commons.wikimedia.org/wiki/Special:FilePath/Forthenrywv.jpg
+http://www.wikidata.org/entity/Q7510013,1760-08-09T00:00:00Z,Siege of Fort Loudoun,http://commons.wikimedia.org/wiki/Special:FilePath/Draught%20of%20the%20Cherokee%20Country.jpg
+http://www.wikidata.org/entity/Q7510017,1777-11-16T00:00:00Z,Siege of Fort Mifflin,http://commons.wikimedia.org/wiki/Special:FilePath/HessianMapMudIsland.jpg
+http://www.wikidata.org/entity/Q7510019,1781-01-01T00:00:00Z,Siege of Fort Motte,http://commons.wikimedia.org/wiki/Special:FilePath/Mrs.%20Motte%20Directing%20Generals%20Marion%20and%20Lee%20to%20Burn%20Her%20Mansion%20John%20Blake%20White.jpg
+http://www.wikidata.org/entity/Q7510020,1740-06-26T00:00:00Z,Siege of Fort Mose,http://commons.wikimedia.org/wiki/Special:FilePath/St%20Aug%20Fort%20Mose01.jpg
+http://www.wikidata.org/entity/Q4120811,1798-11-04T00:00:00Z,Siege of Corfu,http://commons.wikimedia.org/wiki/Special:FilePath/RR5115-0010R%20300-%D0%BB%D0%B5%D1%82%D0%B8%D0%B5%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%84%D0%BB%D0%BE%D1%82%D0%B0.gif
+http://www.wikidata.org/entity/Q4337399,1774-12-09T00:00:00Z,Siege of Melilla,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Melilla%20%281774%E2%80%931775%29.jpg
+http://www.wikidata.org/entity/Q4337426,1737-07-02T00:00:00Z,Siege of Ochakov,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Ochakov%20%281737%29.jpg
+http://www.wikidata.org/entity/Q4527017,1791-07-03T00:00:00Z,Siege of Anapa (1791),http://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%90%D0%BD%D0%B0%D0%BF%D0%B0%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q4927235,1726-01-01T00:00:00Z,Blockade of Porto Bello,http://commons.wikimedia.org/wiki/Special:FilePath/SantiagoPortobello.jpg
+http://www.wikidata.org/entity/Q3625513,1733-12-09T00:00:00Z,Siege of Pizzighettone,http://commons.wikimedia.org/wiki/Special:FilePath/SiegeOfPizzighetone1733.jpg
+http://www.wikidata.org/entity/Q3756324,1756-06-29T00:00:00Z,Siege of Fort St Philip,http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20Port%20Mahon%20Minorque%2020%20mai%201756.jpg
+http://www.wikidata.org/entity/Q3791537,1719-01-01T00:00:00Z,Attack on Marstrand,http://commons.wikimedia.org/wiki/Special:FilePath/Anfallet%20mot%20Marstrand.jpg
+http://www.wikidata.org/entity/Q12717504,1702-12-30T00:00:00Z,Siege of St. Augustine,http://commons.wikimedia.org/wiki/Special:FilePath/StAugustine1702Siege.jpg
+http://www.wikidata.org/entity/Q12717505,1707-11-30T00:00:00Z,Siege of Pensacola,http://commons.wikimedia.org/wiki/Special:FilePath/PensacolaFortSanCarlosDeAustria1699.jpg
+http://www.wikidata.org/entity/Q12976096,1783-07-25T00:00:00Z,Siege of Cuddalore,http://commons.wikimedia.org/wiki/Special:FilePath/SiegeOfCuddalore1783.jpg
+http://www.wikidata.org/entity/Q7510145,1737-04-01T00:00:00Z,Siege of Kandahar,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Kandahar.gif
+http://www.wikidata.org/entity/Q7510220,1758-12-01T00:00:00Z,Siege of Madras,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20St.%20George%2C%20Chennai.jpg
+http://www.wikidata.org/entity/Q7510275,1781-06-19T00:00:00Z,Siege of Ninety-Six,http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Rawdon-Hastings%2C%201st%20Marquess%20of%20Hastings%20by%20Hugh%20Douglas%20Hamilton.jpg
+http://www.wikidata.org/entity/Q7510328,1757-06-01T00:00:00Z,Siege of Prague,http://commons.wikimedia.org/wiki/Special:FilePath/Bombardov%C3%A1n%C3%AD%20Prahy%20Prusy%201757.gif
+http://www.wikidata.org/entity/Q7510359,1794-02-20T00:00:00Z,Siege of Saint-Florent,http://commons.wikimedia.org/wiki/Special:FilePath/San%20Fiorenzo.jpg
+http://www.wikidata.org/entity/Q6059597,1775-07-08T00:00:00Z,Invasion of Algiers,http://commons.wikimedia.org/wiki/Special:FilePath/Plano%20ideal%20de%20la%20Ciudad%20de%20Argel.jpg
+http://www.wikidata.org/entity/Q7509818,1744-10-06T00:00:00Z,Siege of Annapolis Royal,http://commons.wikimedia.org/wiki/Special:FilePath/WLA%20lacma%20Smibert%20Scotland%20portrait%20of%20Paul%20Mascarene.jpg
+http://www.wikidata.org/entity/Q7509848,1791-01-01T00:00:00Z,Siege of Bangalore,http://commons.wikimedia.org/wiki/Special:FilePath/RobertHome%20-%20The%20Death%20of%20Colonel%20Moorhouse%20at%20the%20Storming%20of%20the%20Pettah%20Gate%20of%20Bangalore.jpg
+http://www.wikidata.org/entity/Q7509863,1794-05-22T00:00:00Z,Siege of Bastia,http://commons.wikimedia.org/wiki/Special:FilePath/Bastia%201794.jpg
+http://www.wikidata.org/entity/Q5913740,1722-10-23T00:00:00Z,Siege of Isfahan (1722),http://commons.wikimedia.org/wiki/Special:FilePath/Isfahan%20to%20the%20south%20side%20by%20Eug%C3%A8ne%20Flandin.jpg
+http://www.wikidata.org/entity/Q5928017,1705-03-05T00:00:00Z,Siege of St. John's,http://commons.wikimedia.org/wiki/Special:FilePath/Newfoundland1744Annotated.jpg
+http://www.wikidata.org/entity/Q11703925,1704-09-01T00:00:00Z,Twelfth Siege of Gibraltar,http://commons.wikimedia.org/wiki/Special:FilePath/1704%20-%20Louis%20Boudan%20-%20Taking%20of%20Gibraltar.jpg
+http://www.wikidata.org/entity/Q11794849,1782-02-12T00:00:00Z,Siege of Brimstone Hill,http://commons.wikimedia.org/wiki/Special:FilePath/BrimstoneHill01.jpg
+http://www.wikidata.org/entity/Q11794876,1716-01-01T00:00:00Z,Siege of Corfu (1716),http://commons.wikimedia.org/wiki/Special:FilePath/1716.%20Plan%20de%20Corfou.jpg
+http://www.wikidata.org/entity/Q22907839,1793-01-01T00:00:00Z,Siege of Pondicherry,http://commons.wikimedia.org/wiki/Special:FilePath/Pondicherry1778.jpg
+http://www.wikidata.org/entity/Q26928861,1794-11-08T00:00:00Z,Siege of Nijmegen (1794),http://commons.wikimedia.org/wiki/Special:FilePath/Valkhofburcht%20HendrikHoogers.jpg
+http://www.wikidata.org/entity/Q27027120,1793-02-27T00:00:00Z,Siege of Breda (1793),http://commons.wikimedia.org/wiki/Special:FilePath/Inname%20Breda%201793.jpg
+http://www.wikidata.org/entity/Q46992489,1705-09-27T00:00:00Z,Siege of Hagenau (1705),http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20de%20Haguenau-1700.jpg
+http://www.wikidata.org/entity/Q47011821,1712-10-19T00:00:00Z,Siege of Bouchain (1712),http://commons.wikimedia.org/wiki/Special:FilePath/Lille%20PdBA%20-%20plan%20relief%20Bouchain.JPG
+http://www.wikidata.org/entity/Q48041030,1705-09-05T00:00:00Z,Siege of Zoutleeuw,http://commons.wikimedia.org/wiki/Special:FilePath/Stadhuis%20Zoutleeuw.jpg
+http://www.wikidata.org/entity/Q55633158,1788-01-01T00:00:00Z,Siege of Khotin (1788),http://commons.wikimedia.org/wiki/Special:FilePath/Khotin.jpg
+http://www.wikidata.org/entity/Q74836290,1708-12-30T00:00:00Z,Siege of Ghent (1708),http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Ghent%20by%20Claude%20Dubosc%20and%20John%20Campbell.jpg
+http://www.wikidata.org/entity/Q16827690,1793-07-12T00:00:00Z,Siege of Condé,http://commons.wikimedia.org/wiki/Special:FilePath/Cond%C3%A9%20gracht.jpg
+http://www.wikidata.org/entity/Q16837456,1793-11-14T00:00:00Z,Siege of Fort-Louis,http://commons.wikimedia.org/wiki/Special:FilePath/Carte%20cassini%20Fort-Louis.jpg
+http://www.wikidata.org/entity/Q16851788,1780-01-01T00:00:00Z,Siege of Kastania,http://commons.wikimedia.org/wiki/Special:FilePath/GreeceMani.png
+http://www.wikidata.org/entity/Q16894607,1795-10-18T00:00:00Z,Siege of Mannheim (1795),http://commons.wikimedia.org/wiki/Special:FilePath/Mannheim%20von%20Christoph%20Haffner%201729.jpg
+http://www.wikidata.org/entity/Q16904212,1794-06-18T00:00:00Z,Siege of Ypres (1794),http://commons.wikimedia.org/wiki/Special:FilePath/Ieper%2C%20Belgium%20%3B%20Ferraris%20Map.jpg
+http://www.wikidata.org/entity/Q16934060,1792-03-18T00:00:00Z,Siege of Seringapatam,http://commons.wikimedia.org/wiki/Special:FilePath/Surrender%20of%20Tipu%20Sultan.jpg
+http://www.wikidata.org/entity/Q28088235,1790-09-25T00:00:00Z,Siege of Ceuta (1790-1791),http://commons.wikimedia.org/wiki/Special:FilePath/Ceuta%20durante%20el%20sitio%20de%201790%20-%201791.jpg
+http://www.wikidata.org/entity/Q28748064,1757-12-07T00:00:00Z,Siege of Breslau,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Breslau.jpg
+http://www.wikidata.org/entity/Q31180913,1716-10-12T00:00:00Z,Siege of Temeşvar (1716),http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Timisoara%201716.jpg
+http://www.wikidata.org/entity/Q17984632,1793-09-13T00:00:00Z,Siege of Le Quesnoy,http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Quesnoy%20-%20remparts%2001.JPG
+http://www.wikidata.org/entity/Q17984866,1745-08-29T00:00:00Z,Siege of Ruthven Barracks,http://commons.wikimedia.org/wiki/Special:FilePath/Ruthven%20Barracks%20-%20geograph.org.uk%20-%2014443.jpg
+http://www.wikidata.org/entity/Q17984869,1746-02-11T00:00:00Z,Siege of Ruthven Barracks,http://commons.wikimedia.org/wiki/Special:FilePath/Ruthven%20Barracks%20-%20geograph.org.uk%20-%2014443.jpg
+http://www.wikidata.org/entity/Q18206535,1796-11-27T00:00:00Z,Siege of Hüningen,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20Brueckenkopf%20Festung%20Hueningen%201796-1797.jpg
+http://www.wikidata.org/entity/Q18216901,1702-09-12T00:00:00Z,Siege of Landau,http://commons.wikimedia.org/wiki/Special:FilePath/Landau%20012.jpg
+http://www.wikidata.org/entity/Q18219624,1792-10-21T00:00:00Z,Siege of Mainz (1792),http://commons.wikimedia.org/wiki/Special:FilePath/DieBelagerungVonMainz1792S132.jpg
+http://www.wikidata.org/entity/Q18358461,1733-07-01T00:00:00Z,Siege of Baghdad,http://commons.wikimedia.org/wiki/Special:FilePath/1733%20Siege%20of%20Baghdad.jpg
+http://www.wikidata.org/entity/Q20977942,1794-01-01T00:00:00Z,Siege of Collioure,http://commons.wikimedia.org/wiki/Special:FilePath/Fort-saint-elme.jpg
+http://www.wikidata.org/entity/Q21003964,1746-01-01T00:00:00Z,Siege of Stirling Castle,http://commons.wikimedia.org/wiki/Special:FilePath/StirlingCastle1900.jpg
+http://www.wikidata.org/entity/Q60749287,1745-10-16T00:00:00Z,Siege of Culloden House,http://commons.wikimedia.org/wiki/Special:FilePath/Culloden%20House%20%28old%29.jpg
+http://www.wikidata.org/entity/Q85801095,1715-07-20T00:00:00Z,Siege of Nauplia,http://commons.wikimedia.org/wiki/Special:FilePath/Palamidi%20fortress%20%28Nafplio%2C%20Greece%29.jpg
+http://www.wikidata.org/entity/Q85801100,1760-05-17T00:00:00Z,Siege of Quebec,http://commons.wikimedia.org/wiki/Special:FilePath/A%20view%20of%20the%20City%20of%20Quebec%2C%20the%20capital%20of%20Canada%20%28%E2%80%A6%29%20by%20Captain%20Hervey%20Smyth%20-%20Vue%20de%20la%20ville%20de%20Qu%C3%A9bec%2C%20capitale%20du%20Canada%20%28%E2%80%A6%29%20par%20le%20Capt%20Harvey%20Smyth%20-%20P%20Benazech%20sculp.tif
+http://www.wikidata.org/entity/Q5454184,1789-04-30T00:00:00Z,first inauguration of George Washington,http://commons.wikimedia.org/wiki/Special:FilePath/United%20States%3B%20a%20history-%20the%20most%20complete%20and%20most%20popular%20history%20of%20the%20United%20States%20of%20America%20from%20the%20aboriginal%20times%20to%20the%20present%20day..%20%281893%29%20%2814780598075%29.jpg
+http://www.wikidata.org/entity/Q6013761,1797-03-04T00:00:00Z,inauguration of John Adams,http://commons.wikimedia.org/wiki/Special:FilePath/John%20Adams%20A18236.jpg
+http://www.wikidata.org/entity/Q7443717,1793-03-04T00:00:00Z,second inauguration of George Washington,http://commons.wikimedia.org/wiki/Special:FilePath/Washington%27s%20inauguration%20at%20Philadelphia%20cph.3g12011.jpg
+http://www.wikidata.org/entity/Q211220,1757-03-23T00:00:00Z,Battle of Chandannagar,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20de%20Chandernagor%20en%201757%20par%20la%20Royal%20Navy.jpg
+http://www.wikidata.org/entity/Q211220,1757-03-23T00:00:00Z,Battle of Chandannagar,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20de%20Chandernagor%20en%201757%20par%20la%20Royal%20Navy.jpg
+http://www.wikidata.org/entity/Q223622,1757-05-06T00:00:00Z,battle of Prague (1757),http://commons.wikimedia.org/wiki/Special:FilePath/PragueVeldslag.JPG
+http://www.wikidata.org/entity/Q233417,1777-01-02T00:00:00Z,Battle of the Assunpink Creek,http://commons.wikimedia.org/wiki/Special:FilePath/General%20George%20Washington%20at%20Trenton%20by%20John%20Trumbull.jpeg
+http://www.wikidata.org/entity/Q251184,1762-09-15T00:00:00Z,Battle of Signal Hill,http://commons.wikimedia.org/wiki/Special:FilePath/Vue%20de%20la%20descente%20a%20Terre%20Neuve%20par%20le%20chevalier%20de%20Ternay%20en%201762.jpg
+http://www.wikidata.org/entity/Q428035,1796-04-13T00:00:00Z,Battle of Millesimo,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Millesimo.jpg
+http://www.wikidata.org/entity/Q428280,1793-09-20T00:00:00Z,Battle of Pont-Barré,http://commons.wikimedia.org/wiki/Special:FilePath/Pont%20Barr%C3%A9%20%281%29.jpg
+http://www.wikidata.org/entity/Q546317,1745-09-21T00:00:00Z,Battle of Prestonpans,http://commons.wikimedia.org/wiki/Special:FilePath/Cairn%20in%20memory%20of%20Battle%20of%20Prestonpans%201745%20-%20geograph.org.uk%20-%20957225.jpg
+http://www.wikidata.org/entity/Q425773,1781-03-15T00:00:00Z,Battle of Guilford Court House,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Guilford%20Courthouse%2015%20March%201781.jpg
+http://www.wikidata.org/entity/Q427891,1758-10-12T00:00:00Z,Battle of Fort Ligonier,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Ligonier.jpg
+http://www.wikidata.org/entity/Q541362,1758-10-10T00:00:00Z,Battle of Lutterberg,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Luternberg.jpg
+http://www.wikidata.org/entity/Q543154,1797-07-25T00:00:00Z,Battle of Santa Cruz de Tenerife,http://commons.wikimedia.org/wiki/Special:FilePath/Ataque%20brit%C3%A1nico%20en%20Santa%20Cruz%20de%20Tenerife.jpg
+http://www.wikidata.org/entity/Q506909,1760-07-31T00:00:00Z,Battle of Warburg,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Warburg.jpg
+http://www.wikidata.org/entity/Q508088,1758-01-01T00:00:00Z,Siege of Olomouc,http://commons.wikimedia.org/wiki/Special:FilePath/Olomouc%20map%201757.jpg
+http://www.wikidata.org/entity/Q523857,1777-10-04T00:00:00Z,Battle of Germantown,http://commons.wikimedia.org/wiki/Special:FilePath/Germantown.jpg
+http://www.wikidata.org/entity/Q524828,1755-07-09T00:00:00Z,Battle of the Monongahela,http://commons.wikimedia.org/wiki/Special:FilePath/Braddock%27s%20death%20at%20the%20Battle%20of%20Monongahela%209-July-1755.jpg
+http://www.wikidata.org/entity/Q528183,1779-08-29T00:00:00Z,Battle of Newtown,http://commons.wikimedia.org/wiki/Special:FilePath/NewtownBattlefieldView.jpg
+http://www.wikidata.org/entity/Q539707,1756-10-14T00:00:00Z,Siege of Pirna,http://commons.wikimedia.org/wiki/Special:FilePath/Fotothek%20df%20rp-d%200360017%20Pirna.%20Karte%20von%20einem%20Teil%20des%20Kurf%C3%BCrstentums%20Sachsen%2C%20Petri%2C%20nach%201759%20%28Sign.%2C.jpg
+http://www.wikidata.org/entity/Q335174,1762-10-05T00:00:00Z,Battle of Vila Velha,http://commons.wikimedia.org/wiki/Special:FilePath/16th%20Light%20Dragoons.jpg
+http://www.wikidata.org/entity/Q338792,1795-03-14T00:00:00Z,Battle of Genoa,http://commons.wikimedia.org/wiki/Special:FilePath/Capnoli.jpg
+http://www.wikidata.org/entity/Q368457,1794-03-24T00:00:00Z,Battle of Martinique,http://commons.wikimedia.org/wiki/Special:FilePath/Capture%20of%20Fort%20Louis%2C%20Martinique%2C%201794.jpg
+http://www.wikidata.org/entity/Q386601,1793-11-30T00:00:00Z,Battle of Kaiserslautern,http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Guillaume%20Ferdinand-duc%20de%20Brunswick%20ag1.jpg
+http://www.wikidata.org/entity/Q387215,1795-11-22T00:00:00Z,Battle of Loano,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Loano.jpg
+http://www.wikidata.org/entity/Q390286,1710-12-10T00:00:00Z,Battle of Villaviciosa,http://commons.wikimedia.org/wiki/Special:FilePath/Vendome-and-PhilipV.jpg
+http://www.wikidata.org/entity/Q402312,1743-06-27T00:00:00Z,Battle of Dettingen,http://commons.wikimedia.org/wiki/Special:FilePath/George%20II%20at%20Dettingen.jpg
+http://www.wikidata.org/entity/Q421399,1782-04-08T00:00:00Z,Battle of Delaware Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Hyder%20Ally%20battle.jpg
+http://www.wikidata.org/entity/Q4411,1792-09-20T00:00:00Z,Battle of Valmy,http://commons.wikimedia.org/wiki/Special:FilePath/Valmy%20Battle%20painting.jpg
+http://www.wikidata.org/entity/Q32198,1775-01-01T00:00:00Z,Battle of Gloucester,http://commons.wikimedia.org/wiki/Special:FilePath/BostonCapeAnn1775.png
+http://www.wikidata.org/entity/Q32493,1746-10-11T00:00:00Z,Battle of Rocoux,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Roucoux%20painting.jpg
+http://www.wikidata.org/entity/Q41320,1712-07-24T00:00:00Z,Battle of Denain,http://commons.wikimedia.org/wiki/Special:FilePath/Villars%20a%20Denain1.jpg
+http://www.wikidata.org/entity/Q313435,1757-12-05T00:00:00Z,Battle of Leuthen,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20leuthen%20shift.gif
+http://www.wikidata.org/entity/Q315310,1760-07-08T00:00:00Z,Battle of Restigouche,http://commons.wikimedia.org/wiki/Special:FilePath/Dessin%20du%20Machault%20%281791%29.jpg
+http://www.wikidata.org/entity/Q316139,1708-07-11T00:00:00Z,Battle of Oudenarde,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20oudenarde.png
+http://www.wikidata.org/entity/Q316897,1709-09-11T00:00:00Z,Battle of Malplaquet,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20Malplaquet.jpg
+http://www.wikidata.org/entity/Q281461,1798-03-05T00:00:00Z,Battle of Grauholz,http://commons.wikimedia.org/wiki/Special:FilePath/GrauholzWalthard.jpg
+http://www.wikidata.org/entity/Q301487,1777-09-11T00:00:00Z,Battle of Brandywine,http://commons.wikimedia.org/wiki/Special:FilePath/Woundedatbrandywine.jpg
+http://www.wikidata.org/entity/Q303998,1794-05-18T00:00:00Z,Battle of Tourcoing,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Mouscron%201794%20Mozin.jpg
+http://www.wikidata.org/entity/Q311726,1759-09-13T00:00:00Z,Battle of the Plains of Abraham,http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20West%20005.jpg
+http://www.wikidata.org/entity/Q311759,1702-10-22T00:00:00Z,Battle of Vigo Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Bakhuizen%2C%20Battle%20of%20Vigo%20Bay.jpg
+http://www.wikidata.org/entity/Q320394,1707-04-24T00:00:00Z,Battle of Almansa,http://commons.wikimedia.org/wiki/Special:FilePath/Batalladealmansa.jpg
+http://www.wikidata.org/entity/Q320394,1707-04-25T00:00:00Z,Battle of Almansa,http://commons.wikimedia.org/wiki/Special:FilePath/Batalladealmansa.jpg
+http://www.wikidata.org/entity/Q610150,1760-07-22T00:00:00Z,Siege of Dresden,http://commons.wikimedia.org/wiki/Special:FilePath/Dresden%201760%20-%204.jpg
+http://www.wikidata.org/entity/Q610328,1796-08-05T00:00:00Z,Battle of Castiglione,http://commons.wikimedia.org/wiki/Special:FilePath/Victor%20Adam%20-%20Battle%20of%20Castiglione%20-%201836.jpg
+http://www.wikidata.org/entity/Q620947,1702-07-29T00:00:00Z,Battle of Hummelshof,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Hummelshof%201702.png
+http://www.wikidata.org/entity/Q693265,1747-07-19T00:00:00Z,Battle of Assietta,http://commons.wikimedia.org/wiki/Special:FilePath/La%20mort%20du%20chevalier%20de%20Belle-Isle.jpg
+http://www.wikidata.org/entity/Q696945,1704-07-02T00:00:00Z,Battle of Schellenberg,http://commons.wikimedia.org/wiki/Special:FilePath/Schellenberg%201704.jpg
+http://www.wikidata.org/entity/Q688978,1702-02-01T00:00:00Z,Battle of Cremona,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20cremona.jpg
+http://www.wikidata.org/entity/Q688986,1759-09-25T00:00:00Z,Battle of Hoyerswerda,http://commons.wikimedia.org/wiki/Special:FilePath/Colored%20Print%20Battle%20of%20Minden%201785.jpeg
+http://www.wikidata.org/entity/Q689007,1761-07-16T00:00:00Z,Battle of Villinghausen,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Willinghausen.jpg
+http://www.wikidata.org/entity/Q689183,1760-04-28T00:00:00Z,Battle of Sainte-Foy,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Sainte-Foy.jpg
+http://www.wikidata.org/entity/Q690391,1716-08-05T00:00:00Z,Battle of Petrovaradin,http://commons.wikimedia.org/wiki/Special:FilePath/Bredael%20Schlacht%20bei%20Peterwardein.jpg
+http://www.wikidata.org/entity/Q692137,1776-09-15T00:00:00Z,Landing at Kip's Bay,http://commons.wikimedia.org/wiki/Special:FilePath/The%20British%20landing%20at%20Kip%27s%20Bay%2C%20New%20York%20Island%2C%2015%20September%201776%20RMG%20PAH9491.jpg
+http://www.wikidata.org/entity/Q693282,1706-09-07T00:00:00Z,Siege of Turin,http://commons.wikimedia.org/wiki/Special:FilePath/BattleofTurin%20prince%20Anhalt.JPG
+http://www.wikidata.org/entity/Q694054,1704-08-09T00:00:00Z,Battle of Narva,http://commons.wikimedia.org/wiki/Special:FilePath/Narva%201704.jpg
+http://www.wikidata.org/entity/Q694061,1757-04-21T00:00:00Z,Battle of Reichenberg,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20Reichemberg.jpg
+http://www.wikidata.org/entity/Q694061,1757-04-21T00:00:00Z,Battle of Reichenberg,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20reichenberg.jpeg
+http://www.wikidata.org/entity/Q694068,1706-02-13T00:00:00Z,Battle of Fraustadt,http://commons.wikimedia.org/wiki/Special:FilePath/Regementets%20Kalk.jpg
+http://www.wikidata.org/entity/Q694122,1714-03-02T00:00:00Z,Battle of Napue,http://commons.wikimedia.org/wiki/Special:FilePath/Slaget%20vid%20Storkyro%20skiss.jpg
+http://www.wikidata.org/entity/Q694478,1756-10-01T00:00:00Z,Battle of Lobositz,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfLobositz.JPG
+http://www.wikidata.org/entity/Q694502,1704-08-24T00:00:00Z,Battle of Vélez-Málaga,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Malaga%2C%201704.jpg
+http://www.wikidata.org/entity/Q694883,1702-01-09T00:00:00Z,Battle of Erastfer,http://commons.wikimedia.org/wiki/Special:FilePath/Mitrophan%20Grekov%2006.jpg
+http://www.wikidata.org/entity/Q695312,1757-11-22T00:00:00Z,Battle of Breslau,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Breslau.jpg
+http://www.wikidata.org/entity/Q695314,1745-09-30T00:00:00Z,Battle of Soor,http://commons.wikimedia.org/wiki/Special:FilePath/Friedrich%20%26%20Karl.jpg
+http://www.wikidata.org/entity/Q626762,1703-05-01T00:00:00Z,Battle of Pułtusk,http://commons.wikimedia.org/wiki/Special:FilePath/Pultusk%201703.jpg
+http://www.wikidata.org/entity/Q695325,1745-12-15T00:00:00Z,Battle of Kesselsdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Leopold%20von%20Dessau%20%26%20Feldmarschall%20Rutowsky.jpg
+http://www.wikidata.org/entity/Q695485,1754-05-28T00:00:00Z,Battle of Jumonville Glen,http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Pennsylvania%20Mapb.jpg
+http://www.wikidata.org/entity/Q695673,1747-05-14T00:00:00Z,First Battle of Cape Finisterre,http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Scott%20-%20Vice%20Admiral%20Sir%20George%20Anson%27s%20Victory%20off%20Cape%20Finisterre%20-%20Google%20Art%20Project.jpg
+http://www.wikidata.org/entity/Q695925,1758-10-14T00:00:00Z,Battle of Hochkirch,http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4rtchen%20zur%20Schlacht%20bei%20Hochkirch%20%2814.10.1758%29.jpg
+http://www.wikidata.org/entity/Q696689,1757-08-30T00:00:00Z,Battle of Gross-Jägersdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Gros%20Jaegerndorff.jpg
+http://www.wikidata.org/entity/Q696699,1747-07-02T00:00:00Z,Battle of Lauffeld,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lauffeldt.jpg
+http://www.wikidata.org/entity/Q481466,1796-08-21T00:00:00Z,Battle of Amberg,http://commons.wikimedia.org/wiki/Special:FilePath/Arc%20de%20Triomphe%20Detail.JPG
+http://www.wikidata.org/entity/Q325486,1782-08-19T00:00:00Z,Battle of Blue Licks,http://commons.wikimedia.org/wiki/Special:FilePath/Daniel%20Boone%20At%20Battle%20of%20Blue%20Licks%20Indian%20History%20For%20Young%20Folks%20By%20Francis%20S%20Drake.jpg
+http://www.wikidata.org/entity/Q331725,1758-06-30T00:00:00Z,Battle of Domstadtl,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Domstadtl%20memorial.jpg
+http://www.wikidata.org/entity/Q332543,1798-07-21T00:00:00Z,Battle of the Pyramids,http://commons.wikimedia.org/wiki/Special:FilePath/Francois-Louis-Joseph%20Watteau%20001.jpg
+http://www.wikidata.org/entity/Q334029,1775-06-17T00:00:00Z,Battle of Bunker Hill,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20General%20Warren%20at%20the%20Battle%20of%20Bunker%27s%20Hill.jpg
+http://www.wikidata.org/entity/Q63313,1776-10-18T00:00:00Z,Battle of Pell's Point,http://commons.wikimedia.org/wiki/Special:FilePath/Pell%27s%20point2.JPG
+http://www.wikidata.org/entity/Q63431,1762-02-12T00:00:00Z,Invasion of Martinique,http://commons.wikimedia.org/wiki/Special:FilePath/La%20prise%20de%20la%20Martinique%20en%20f%C3%A9vrier%201762%20par%20les%20Anglais.jpg
+http://www.wikidata.org/entity/Q72454,1790-01-01T00:00:00Z,Battle of Kerch Strait,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9A%D0%B5%D1%80%D1%87%D1%8C-%D0%95%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q74009,1761-06-01T00:00:00Z,Invasion of Dominica,http://commons.wikimedia.org/wiki/Special:FilePath/LocationDominica.png
+http://www.wikidata.org/entity/Q74257,1762-11-01T00:00:00Z,Siege of Cassel,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20du%20Siege%20de%20Cassel%20%28Frederic%20Auguste%29%201762.jpg
+http://www.wikidata.org/entity/Q74391,1762-08-30T00:00:00Z,Battle of Nauheim,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20du%20Johannsberg%20pres%20de%20Friedberg.jpg
+http://www.wikidata.org/entity/Q111648,1779-07-16T00:00:00Z,Battle of Stony Point,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Stony%20Point.jpg
+http://www.wikidata.org/entity/Q127299,1757-06-18T00:00:00Z,Battle of Kolín,http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%A4rtchen%20zur%20Schlacht%20bei%20Kolin%20%2818.06.1757%29.jpg
+http://www.wikidata.org/entity/Q445663,1703-03-29T00:00:00Z,Battle of Saladen,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Bir%C5%BEai%20in%201703.PNG
+http://www.wikidata.org/entity/Q445710,1706-04-30T00:00:00Z,Battle of Kletsk,http://commons.wikimedia.org/wiki/Special:FilePath/Klecak.%20%D0%9A%D0%BB%D0%B5%D1%86%D0%B0%D0%BA%20%28T.%20Mako%C5%ADski%2C%20XVII%29.jpg
+http://www.wikidata.org/entity/Q459447,1781-01-01T00:00:00Z,Siege of Yorktown,http://commons.wikimedia.org/wiki/Special:FilePath/Surrender%20of%20Lord%20Cornwallis.jpg
+http://www.wikidata.org/entity/Q473706,1759-08-03T00:00:00Z,Battle of Kay,http://commons.wikimedia.org/wiki/Special:FilePath/1759-07-23%20-%20Battle%20of%20Paltzig.jpg
+http://www.wikidata.org/entity/Q481334,1705-07-21T00:00:00Z,Battle of Warsaw,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Warsaw%201705.PNG
+http://www.wikidata.org/entity/Q562277,1762-08-13T00:00:00Z,Battle of Havana,http://commons.wikimedia.org/wiki/Special:FilePath/British%20fleet%20entering%20Havana.jpg
+http://www.wikidata.org/entity/Q562324,1704-08-09T00:00:00Z,OTO Melara Mod 56,http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Patkul.jpg
+http://www.wikidata.org/entity/Q568613,1780-09-10T00:00:00Z,Battle of Pollilur,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20pollilur.jpg
+http://www.wikidata.org/entity/Q573972,1757-11-05T00:00:00Z,Battle of Rossbach,http://commons.wikimedia.org/wiki/Special:FilePath/MeyersRossbach.jpg
+http://www.wikidata.org/entity/Q574881,1734-05-25T00:00:00Z,Battle of Bitonto,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Bitonto%20by%20Giovanni%20Luigi%20Rocco.jpg
+http://www.wikidata.org/entity/Q579971,1755-09-08T00:00:00Z,Battle of Lake George,http://commons.wikimedia.org/wiki/Special:FilePath/Johnson%20saving%20Dieskau.jpg
+http://www.wikidata.org/entity/Q552296,1701-07-09T00:00:00Z,Battle of Carpi,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20carpi.png
+http://www.wikidata.org/entity/Q552351,1702-10-14T00:00:00Z,Battle of Friedlingen,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20der%20Schlacht%20bei%20Friedlingen.JPG
+http://www.wikidata.org/entity/Q552574,1705-08-16T00:00:00Z,Battle of Cassano,http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Martin%20Schlacht%20bei%20Cassano%201705.jpg
+http://www.wikidata.org/entity/Q554447,1706-10-29T00:00:00Z,Battle of Kalisz,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Kalisz%201706.png
+http://www.wikidata.org/entity/Q554462,1708-09-10T00:00:00Z,Battle of Malatitze,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%E2%84%96%202%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B5%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q720641,1708-08-03T00:00:00Z,Battle of Trencsén,http://commons.wikimedia.org/wiki/Special:FilePath/TN%20battle%20memorial.JPG
+http://www.wikidata.org/entity/Q569953,1745-05-11T00:00:00Z,Battle of Fontenoy,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Battle%20of%20Fontenoy%2C%2011th%20May%201745.png
+http://www.wikidata.org/entity/Q571675,1746-06-16T00:00:00Z,Battle of Piacenza,http://commons.wikimedia.org/wiki/Special:FilePath/Karl%20von%20Blaas%20-%20Der%20Kampf%20bei%20Piacenza%201746%20-%202740%20-%20Kunsthistorisches%20Museum.jpg
+http://www.wikidata.org/entity/Q571694,1759-04-13T00:00:00Z,Battle of Bergen,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Bergen.jpg
+http://www.wikidata.org/entity/Q571861,1703-11-15T00:00:00Z,Battle of Speyerbach,http://commons.wikimedia.org/wiki/Special:FilePath/Speyerbach.jpg
+http://www.wikidata.org/entity/Q572883,1792-08-29T00:00:00Z,Battle of Verdun,http://commons.wikimedia.org/wiki/Special:FilePath/Capitulation%20de%20Verdun%201792.jpg
+http://www.wikidata.org/entity/Q573963,1760-10-15T00:00:00Z,Battle of Kloster Kampen,http://commons.wikimedia.org/wiki/Special:FilePath/Mort%20du%20chevalier%20d%27Assas.JPG
+http://www.wikidata.org/entity/Q698166,1706-04-19T00:00:00Z,Battle of Calcinato,http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Baptiste%20Martin%20Schlacht%20bei%20Calcinato%201706.jpg
+http://www.wikidata.org/entity/Q699758,1759-11-21T00:00:00Z,Battle of Maxen,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Maxen.jpg
+http://www.wikidata.org/entity/Q700218,1770-08-01T00:00:00Z,Battle of Kagul,http://commons.wikimedia.org/wiki/Special:FilePath/Kagula.jpg
+http://www.wikidata.org/entity/Q700316,1702-08-15T00:00:00Z,Battle of Luzzara,http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20de%20Luzzara.jpg
+http://www.wikidata.org/entity/Q653664,1776-12-26T00:00:00Z,Battle of Trenton,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Trenton%20by%20Charles%20McBarron.jpg
+http://www.wikidata.org/entity/Q656046,1797-05-02T00:00:00Z,Battle of San Juan,http://commons.wikimedia.org/wiki/Special:FilePath/San%20Jeronimo%20aerial.jpg
+http://www.wikidata.org/entity/Q657406,1745-11-23T00:00:00Z,Battle of Hennersdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Ziethen%20aus%20dem%20Busch%20Gedenkstein.jpg
+http://www.wikidata.org/entity/Q636007,1701-09-01T00:00:00Z,Battle of Chiari,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Chiari%2C%201701.png
+http://www.wikidata.org/entity/Q638374,1713-10-17T00:00:00Z,Battle of Pälkäne,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9F%D0%B5%D0%BB%D0%BA%D0%B5%D0%BD%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0.%20%D0%A2%D0%BE%D0%BC%20%E2%84%96%2018.%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q638601,1713-02-01T00:00:00Z,Skirmish at Bender,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Bender%201713.png
+http://www.wikidata.org/entity/Q644004,1762-06-24T00:00:00Z,Battle of Wilhelmsthal,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Cbersichtskarte%20Feldzug%20des%20Herzogs%20von%20Braunschweig-L%C3%BCneburg%201762.jpg
+http://www.wikidata.org/entity/Q648223,1791-08-11T00:00:00Z,Battle of Cape Kaliakra,http://commons.wikimedia.org/wiki/Special:FilePath/Ushakov%20Monument%20Kaliakra.jpg
+http://www.wikidata.org/entity/Q649567,1704-10-28T00:00:00Z,Battle of Punitz,http://commons.wikimedia.org/wiki/Special:FilePath/Mogi%C5%82a%20Szwed%C3%B3w.jpg
+http://www.wikidata.org/entity/Q651919,1746-04-27T00:00:00Z,Battle of Culloden,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20culloden.JPG
+http://www.wikidata.org/entity/Q708866,1712-12-20T00:00:00Z,Battle of Gadebusch,http://commons.wikimedia.org/wiki/Special:FilePath/Gadebusch1712.jpg
+http://www.wikidata.org/entity/Q731564,1776-04-06T00:00:00Z,Battle of Block Island,http://commons.wikimedia.org/wiki/Special:FilePath/USS%20Alfred.jpg
+http://www.wikidata.org/entity/Q733705,1793-10-15T00:00:00Z,Battle of La Tremblaye,http://commons.wikimedia.org/wiki/Special:FilePath/Lescure.jpg
+http://www.wikidata.org/entity/Q138025,1708-12-23T00:00:00Z,Siege of Veprik,http://commons.wikimedia.org/wiki/Special:FilePath/Assault%20of%20Veprik.jpg
+http://www.wikidata.org/entity/Q152486,1709-07-08T00:00:00Z,Battle of Poltava,http://commons.wikimedia.org/wiki/Special:FilePath/Marten%27s%20Poltava.jpg
+http://www.wikidata.org/entity/Q154635,1704-08-13T00:00:00Z,Battle of Blenheim,http://commons.wikimedia.org/wiki/Special:FilePath/Duke-of-Marlborough-signing-Despatch-Blenheim-Bavaria-1704.jpg
+http://www.wikidata.org/entity/Q658845,1760-01-22T00:00:00Z,Battle of Wandiwash,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20-%20Vandavasi.jpg
+http://www.wikidata.org/entity/Q663359,1708-07-14T00:00:00Z,Battle of Holowczyn,http://commons.wikimedia.org/wiki/Special:FilePath/CharlesXII%20Holowczyn%201708.jpg
+http://www.wikidata.org/entity/Q663359,1708-07-14T00:00:00Z,Battle of Holowczyn,http://commons.wikimedia.org/wiki/Special:FilePath/Holowczynkrigsplan.jpeg
+http://www.wikidata.org/entity/Q663405,1758-09-05T00:00:00Z,Battle of Zorndorf,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20zorndorf.jpg
+http://www.wikidata.org/entity/Q962450,1791-11-04T00:00:00Z,St. Clair's Defeat,http://commons.wikimedia.org/wiki/Special:FilePath/Little%20Turtle.jpg
+http://www.wikidata.org/entity/Q161325,1706-05-23T00:00:00Z,Battle of Ramillies,http://commons.wikimedia.org/wiki/Special:FilePath/1706-05-23-Slag%20bij%20Ramillies.jpg
+http://www.wikidata.org/entity/Q166015,1708-10-09T00:00:00Z,Battle of Lesnaya,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lesnaya.jpg
+http://www.wikidata.org/entity/Q166015,1708-10-09T00:00:00Z,Battle of Lesnaya,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Lesnaya%201708%20by%20Larmessin.jpg
+http://www.wikidata.org/entity/Q701139,1760-08-15T00:00:00Z,Battle of Liegnitz,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20von%20Liegnitz.jpg
+http://www.wikidata.org/entity/Q704567,1705-07-26T00:00:00Z,Battle of Gemauerthof,http://commons.wikimedia.org/wiki/Special:FilePath/M%C5%ABrmui%C5%BEas%20kauja%20%28Johans%20Kristofs%20Broce%3B%201705%29.jpg
+http://www.wikidata.org/entity/Q704762,1702-07-19T00:00:00Z,Battle of Klissow,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Kliszow%201702.JPG
+http://www.wikidata.org/entity/Q705409,1710-03-10T00:00:00Z,Battle of Helsingborg,http://commons.wikimedia.org/wiki/Special:FilePath/Magnus%20Stenbock%20vid%20Helsingborg.jpg
+http://www.wikidata.org/entity/Q706755,1776-11-16T00:00:00Z,Battle of Fort Washington,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfFortWashingtonMapBySauthier.jpg
+http://www.wikidata.org/entity/Q706755,1776-11-16T00:00:00Z,Battle of Fort Washington,http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20the%20Attack%20Against%20Fort%20Washington.jpeg
+http://www.wikidata.org/entity/Q663435,1741-04-10T00:00:00Z,Battle of Mollwitz,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Mollwitz.png
+http://www.wikidata.org/entity/Q663435,1741-04-10T00:00:00Z,Battle of Mollwitz,http://commons.wikimedia.org/wiki/Special:FilePath/Prussian%20Army%20during%20battle%20of%20Mollwitz%201741.jpg
+http://www.wikidata.org/entity/Q203233,1757-06-23T00:00:00Z,Battle of Plassey,http://commons.wikimedia.org/wiki/Special:FilePath/Clive.jpg
+http://www.wikidata.org/entity/Q203233,1757-06-23T00:00:00Z,Battle of Plassey,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Monument%20of%20Battle%20of%20Plassey%2006.jpg
+http://www.wikidata.org/entity/Q166929,1793-09-12T00:00:00Z,Battle of Avesnes-le-Sec,http://commons.wikimedia.org/wiki/Special:FilePath/Rimex-France%20location%20Nord-Pas-de-Calais.svg
+http://www.wikidata.org/entity/Q167143,1760-10-01T00:00:00Z,Raid on Berlin,http://commons.wikimedia.org/wiki/Special:FilePath/Russians%20in%20Berlin%201760%20Chodowiecki.jpg
+http://www.wikidata.org/entity/Q167971,1709-01-01T00:00:00Z,Pursuit of Krasnokutsk,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D1%83%D1%82%D1%81%D0%BA%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q169602,1704-08-05T00:00:00Z,Battle of Jakobstadt,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Jakobstadt.jpg
+http://www.wikidata.org/entity/Q170400,1759-08-23T00:00:00Z,Battle of Kunersdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Kunersdorff.jpg
+http://www.wikidata.org/entity/Q182831,1796-10-24T00:00:00Z,Battle of Schliengen,http://commons.wikimedia.org/wiki/Special:FilePath/BW41%20Schliengen.jpg
+http://www.wikidata.org/entity/Q697267,1710-07-27T00:00:00Z,Battle of Almenar,http://commons.wikimedia.org/wiki/Special:FilePath/Derrota-i-humillacion%20borbonica-en-almenar-27-7-1710-catalu%C3%B1a.jpg
+http://www.wikidata.org/entity/Q697897,1758-07-08T00:00:00Z,Battle of Carillon,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Victory%20of%20Montcalms%20Troops%20at%20Carillon%20by%20Henry%20Alexander%20Ogden.JPG
+http://www.wikidata.org/entity/Q697913,1760-06-23T00:00:00Z,Battle of Landeshut,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20Landeshut.jpg
+http://www.wikidata.org/entity/Q697982,1762-07-21T00:00:00Z,Battle of Burkersdorf,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20burkersdorf.jpg
+http://www.wikidata.org/entity/Q688504,1742-05-17T00:00:00Z,Battle of Chotusitz,http://commons.wikimedia.org/wiki/Special:FilePath/Pam%C3%A1tn%C3%ADk%20bitvy%20u%20Chotusic.jpg
+http://www.wikidata.org/entity/Q688802,1760-11-03T00:00:00Z,Battle of Torgau,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20Torgau.jpg
+http://www.wikidata.org/entity/Q820269,1711-09-22T00:00:00Z,Battle of Rio de Janeiro,http://commons.wikimedia.org/wiki/Special:FilePath/Rio%20de%20Janeiro%201711.gif
+http://www.wikidata.org/entity/Q826133,1701-07-18T00:00:00Z,Crossing of the Düna,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20D%C3%BCna%2C%201701.png
+http://www.wikidata.org/entity/Q826133,1701-07-18T00:00:00Z,Crossing of the Düna,http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20XII%20is%20crossing%20the%20D%C3%BCna%2C%201701.jpg
+http://www.wikidata.org/entity/Q829443,1793-12-23T00:00:00Z,Battle of Savenay,http://commons.wikimedia.org/wiki/Special:FilePath/Savenay-Croix-Vendeens.jpg
+http://www.wikidata.org/entity/Q833861,1710-08-20T00:00:00Z,Battle of Saragossa,http://commons.wikimedia.org/wiki/Special:FilePath/Batalla%20de%20Zaragoza-1710.jpg
+http://www.wikidata.org/entity/Q840012,1794-05-22T00:00:00Z,Battle of Tournay,http://commons.wikimedia.org/wiki/Special:FilePath/Tournai-1794.jpg
+http://www.wikidata.org/entity/Q840250,1795-10-29T00:00:00Z,Battle of Mainz,http://commons.wikimedia.org/wiki/Special:FilePath/Early%20flight%2002561u%20%281%29.jpg
+http://www.wikidata.org/entity/Q934626,1776-10-11T00:00:00Z,Battle of Valcour Island,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfValcourIsland%20watercolor.jpg
+http://www.wikidata.org/entity/Q934626,1776-10-11T00:00:00Z,Battle of Valcour Island,http://commons.wikimedia.org/wiki/Special:FilePath/Valcour%20canadianarchive%20c013202k.jpg
+http://www.wikidata.org/entity/Q934626,1776-10-11T00:00:00Z,Battle of Valcour Island,http://commons.wikimedia.org/wiki/Special:FilePath/Valcour%20canadianarchive%20c013203k.jpg
+http://www.wikidata.org/entity/Q934626,1776-10-11T00:00:00Z,Battle of Valcour Island,http://commons.wikimedia.org/wiki/Special:FilePath/ValcourIslandMap1776Detail.jpg
+http://www.wikidata.org/entity/Q942257,1793-05-23T00:00:00Z,Battle of Famars,http://commons.wikimedia.org/wiki/Special:FilePath/Famars.jpg
+http://www.wikidata.org/entity/Q949590,1796-04-15T00:00:00Z,Second Battle of Dego,http://commons.wikimedia.org/wiki/Special:FilePath/Dego%201796.jpg
+http://www.wikidata.org/entity/Q960723,1776-10-28T00:00:00Z,Battle of White Plains,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20white%20plains%20historic%20site%20073105.jpg
+http://www.wikidata.org/entity/Q677959,1757-07-26T00:00:00Z,Battle of Hastenbeck,http://commons.wikimedia.org/wiki/Special:FilePath/Hastenbeck-Rioult.jpg
+http://www.wikidata.org/entity/Q688448,1745-06-04T00:00:00Z,Battle of Hohenfriedberg,http://commons.wikimedia.org/wiki/Special:FilePath/Hohenfriedeberg%20-%20Attack%20of%20Prussian%20Infantry%20-%201745.jpg
+http://www.wikidata.org/entity/Q846674,1777-10-07T00:00:00Z,Battles of Saratoga,http://commons.wikimedia.org/wiki/Special:FilePath/Surrender%20of%20General%20Burgoyne.jpg
+http://www.wikidata.org/entity/Q708610,1707-01-01T00:00:00Z,Battle of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20von%20Toulon%201707.jpg
+http://www.wikidata.org/entity/Q663450,1758-06-23T00:00:00Z,Battle of Krefeld,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Crevelt.jpg
+http://www.wikidata.org/entity/Q663502,1745-04-15T00:00:00Z,Battle of Pfaffenhofen,http://commons.wikimedia.org/wiki/Special:FilePath/Karte%20Schlacht%20bei%20Pfaffenhofen%201745.PNG
+http://www.wikidata.org/entity/Q663524,1757-09-07T00:00:00Z,Battle of Moys,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20Goerlitz.jpg
+http://www.wikidata.org/entity/Q663574,1759-07-27T00:00:00Z,Battle of Ticonderoga,http://commons.wikimedia.org/wiki/Special:FilePath/French%20and%20Indian%20War%20map.png
+http://www.wikidata.org/entity/Q668595,1776-09-16T00:00:00Z,Battle of Harlem Heights,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Harlem%20Heights.svg
+http://www.wikidata.org/entity/Q677892,1762-10-29T00:00:00Z,Battle of Freiberg,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Freiberg.jpg
+http://www.wikidata.org/entity/Q677929,1744-02-22T00:00:00Z,Battle of Toulon,http://commons.wikimedia.org/wiki/Special:FilePath/Action%20off%20toulon%204.jpg
+http://www.wikidata.org/entity/Q678227,1794-06-26T00:00:00Z,Battle of Fleurus,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Fleurus%201794.JPG
+http://www.wikidata.org/entity/Q681044,1712-07-24T00:00:00Z,Battles of Villmergen,http://commons.wikimedia.org/wiki/Special:FilePath/First%20battle%20villmergen.jpg
+http://www.wikidata.org/entity/Q681712,1714-08-06T00:00:00Z,Battle of Gangut,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Gangut-Bakua.jpg
+http://www.wikidata.org/entity/Q683044,1759-08-01T00:00:00Z,Battle of Minden,http://commons.wikimedia.org/wiki/Special:FilePath/Colored%20Print%20Battle%20of%20Minden%201785.jpeg
+http://www.wikidata.org/entity/Q686995,1793-12-13T00:00:00Z,Battle of Le Mans,http://commons.wikimedia.org/wiki/Special:FilePath/BatailleduMans1793.jpg
+http://www.wikidata.org/entity/Q1153384,1706-04-10T00:00:00Z,Battle of Grodno,http://commons.wikimedia.org/wiki/Special:FilePath/GRODNO%201709.jpg
+http://www.wikidata.org/entity/Q855271,1792-11-06T00:00:00Z,Battle of Jemappes,http://commons.wikimedia.org/wiki/Special:FilePath/Bas-Relief%20Jemmapes.jpg
+http://www.wikidata.org/entity/Q855271,1792-11-06T00:00:00Z,Battle of Jemappes,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Jemmapes%2C%206%20novembre%201792.jpg
+http://www.wikidata.org/entity/Q855271,1792-11-06T00:00:00Z,Battle of Jemappes,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20Jemmapes.jpg
+http://www.wikidata.org/entity/Q862751,1776-08-27T00:00:00Z,Battle of Long Island,http://commons.wikimedia.org/wiki/Special:FilePath/Battleoflongisland.jpg
+http://www.wikidata.org/entity/Q862751,1776-08-27T00:00:00Z,Battle of Long Island,http://commons.wikimedia.org/wiki/Special:FilePath/BattleofLongisland.jpg
+http://www.wikidata.org/entity/Q1134191,1798-10-12T00:00:00Z,Battle of Tory Island,http://commons.wikimedia.org/wiki/Special:FilePath/WarrensAction1798Ireland.jpg
+http://www.wikidata.org/entity/Q974166,1796-04-12T00:00:00Z,Battle of Montenotte,http://commons.wikimedia.org/wiki/Special:FilePath/Rampon%20Monte%20Legino.jpg
+http://www.wikidata.org/entity/Q898338,1789-10-27T00:00:00Z,Battle of Turnhout,http://commons.wikimedia.org/wiki/Special:FilePath/BATAILLE%20DE%20TURNHOUT%20%2801%29.jpg
+http://www.wikidata.org/entity/Q900945,1796-05-10T00:00:00Z,Battle of Lodi,http://commons.wikimedia.org/wiki/Special:FilePath/General%20Bonaparte%20giving%20orders%20at%20the%20Battle%20of%20Lodi.jpg
+http://www.wikidata.org/entity/Q902524,1796-09-04T00:00:00Z,Battle of Rovereto,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Rovereto.jpg
+http://www.wikidata.org/entity/Q906018,1775-12-09T00:00:00Z,Battle of Great Bridge,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfGreatBridge.jpg
+http://www.wikidata.org/entity/Q922790,1777-07-07T00:00:00Z,Battle of Hubbardton,http://commons.wikimedia.org/wiki/Special:FilePath/1777BurgoyneTiconderoga.jpg
+http://www.wikidata.org/entity/Q1085392,1793-03-18T00:00:00Z,Battle of Neerwinden (1793),http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Neerwinden%20%281793%29.jpg
+http://www.wikidata.org/entity/Q1093286,1796-04-21T00:00:00Z,Battle of Mondovì,http://commons.wikimedia.org/wiki/Special:FilePath/Mondovi.jpg
+http://www.wikidata.org/entity/Q1108787,1793-08-14T00:00:00Z,Battle of Luçon,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Lu%C3%A7on.jpg
+http://www.wikidata.org/entity/Q1108820,1793-10-17T00:00:00Z,Battle of Cholet,http://commons.wikimedia.org/wiki/Special:FilePath/Girardet%20-%20D%C3%A9route%20de%20Cholet.jpg
+http://www.wikidata.org/entity/Q1114300,1793-05-25T00:00:00Z,Battle of Fontenay-le-Comte,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Fontenay.jpg
+http://www.wikidata.org/entity/Q1132579,1777-01-03T00:00:00Z,Battle of Princeton,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Death%20of%20General%20Mercer%20at%20the%20Battle%20of%20Princeton%20January%203%201777.jpeg
+http://www.wikidata.org/entity/Q778010,1775-04-19T00:00:00Z,Battles of Lexington and Concord,http://commons.wikimedia.org/wiki/Special:FilePath/Lexington%20Concord%20Siege%20of%20Boston.jpg
+http://www.wikidata.org/entity/Q791234,1796-09-08T00:00:00Z,Battle of Bassano,http://commons.wikimedia.org/wiki/Special:FilePath/Chiesa%20San%20Giovanni%20Nepomuceno%20Bassano%20Grappa.jpg
+http://www.wikidata.org/entity/Q1347209,1794-11-04T00:00:00Z,Battle of Praga,http://commons.wikimedia.org/wiki/Special:FilePath/Obrona%20Pragi%201794.JPG
+http://www.wikidata.org/entity/Q1307876,1777-01-01T00:00:00Z,Siege of Fort Ticonderoga,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Ticonderoga%2C%20Ticonderoga%2C%20NY.jpg
+http://www.wikidata.org/entity/Q1323016,1794-06-08T00:00:00Z,Battle of Chełm,http://commons.wikimedia.org/wiki/Special:FilePath/Stachowicz%20Kosynierzy.jpg
+http://www.wikidata.org/entity/Q1326527,1781-01-17T00:00:00Z,Battle of Cowpens,http://commons.wikimedia.org/wiki/Special:FilePath/Cowpens.jpg
+http://www.wikidata.org/entity/Q1326527,1781-01-17T00:00:00Z,Battle of Cowpens,http://commons.wikimedia.org/wiki/Special:FilePath/Cowpens%201781.jpg
+http://www.wikidata.org/entity/Q1326527,1781-01-17T00:00:00Z,Battle of Cowpens,http://commons.wikimedia.org/wiki/Special:FilePath/Cowpens225-2.JPG
+http://www.wikidata.org/entity/Q1326527,1781-01-17T00:00:00Z,Battle of Cowpens,http://commons.wikimedia.org/wiki/Special:FilePath/William%20Washington%20at%20Battle%20of%20Cowpens.jpg
+http://www.wikidata.org/entity/Q1190029,1795-07-21T00:00:00Z,Invasion of France,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20Quiberon.jpg
+http://www.wikidata.org/entity/Q1195263,1703-06-30T00:00:00Z,Battle of Ekeren,http://commons.wikimedia.org/wiki/Special:FilePath/Eugene-Henry-Fricx-Table-des-cartes-des-Pays-Bas%20MG%200563.tif
+http://www.wikidata.org/entity/Q1217073,1796-08-11T00:00:00Z,Battle of Neresheim,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0-%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9D%D0%B5%D1%80%D0%B5%D1%81%D0%B3%D0%B5%D0%B9%D0%BC%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q1238033,1777-07-08T00:00:00Z,Battle of Fort Anne,http://commons.wikimedia.org/wiki/Special:FilePath/1777BurgoyneTiconderoga.jpg
+http://www.wikidata.org/entity/Q1375813,1777-08-06T00:00:00Z,Battle of Oriskany,http://commons.wikimedia.org/wiki/Special:FilePath/Herkimer%20at%20oriskany.jpg
+http://www.wikidata.org/entity/Q1375813,1777-08-06T00:00:00Z,Battle of Oriskany,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Oriskany.jpg
+http://www.wikidata.org/entity/Q1375813,1777-08-06T00:00:00Z,Battle of Oriskany,http://commons.wikimedia.org/wiki/Special:FilePath/Herkimer%20at%20Battle%20of%20Oriskany%201777.png
+http://www.wikidata.org/entity/Q982413,1794-09-06T00:00:00Z,First Battle of Warsaw,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Warsaw%201794.PNG
+http://www.wikidata.org/entity/Q1025134,1789-08-01T00:00:00Z,Battle of Focșani,http://commons.wikimedia.org/wiki/Special:FilePath/Fokshany%201789.JPG
+http://www.wikidata.org/entity/Q1028247,1795-06-23T00:00:00Z,Battle of Groix,http://commons.wikimedia.org/wiki/Special:FilePath/Bridports%20Action%20Groix.jpg
+http://www.wikidata.org/entity/Q1047091,1785-01-20T00:00:00Z,Battle of Rạch Gầm-Xoài Mút,http://commons.wikimedia.org/wiki/Special:FilePath/T%C6%B0%E1%BB%A3ng%20%C4%91%C3%A0i%20R%E1%BA%A1ch%20G%E1%BA%A7m-Xo%C3%A0i%20M%C3%BAt.JPG
+http://www.wikidata.org/entity/Q1054868,1793-09-08T00:00:00Z,Battle of Hondschoote,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Hondschoote.jpg
+http://www.wikidata.org/entity/Q1059732,1793-10-16T00:00:00Z,Battle of Wattignies,http://commons.wikimedia.org/wiki/Special:FilePath/Lazare%20Carnot%20Wattignies.jpg
+http://www.wikidata.org/entity/Q1069936,1797-01-15T00:00:00Z,Battle of Rivoli,http://commons.wikimedia.org/wiki/Special:FilePath/Napoleon%20at%20the%20Battle%20of%20Rivoli.jpg
+http://www.wikidata.org/entity/Q1518787,1776-02-27T00:00:00Z,Battle of Moore's Creek Bridge,http://commons.wikimedia.org/wiki/Special:FilePath/MOCR%20earthworks%200948.jpg
+http://www.wikidata.org/entity/Q1247957,1776-06-08T00:00:00Z,Battle of Trois-Rivières,http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20de%20la%20bataille%20de%20Trois-Rivi%C3%A8res%2001.JPG
+http://www.wikidata.org/entity/Q1259218,1761-01-14T00:00:00Z,Third Battle of Panipat,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Third%20battle%20of%20Panipat%2013%20January%201761.jpg
+http://www.wikidata.org/entity/Q1638488,1778-06-28T00:00:00Z,Battle of Monmouth Courthouse,http://commons.wikimedia.org/wiki/Special:FilePath/BattleofMonmouth.jpg
+http://www.wikidata.org/entity/Q1649183,1783-06-20T00:00:00Z,Battle of Cuddalore (1783),http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20en%20rade%20de%20Gondelour%2C%2020%20juin%201783.jpg
+http://www.wikidata.org/entity/Q1728621,1796-08-17T00:00:00Z,Battle of Saldanha Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Saldanha%20Bay%20WW.jpg
+http://www.wikidata.org/entity/Q1754313,1777-08-16T00:00:00Z,Battle of Bennington,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Bennington%201777.jpeg
+http://www.wikidata.org/entity/Q1415566,1796-09-03T00:00:00Z,Battle of Würzburg,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Wurtzbourg%2C%203%20septembre%201796.jpg
+http://www.wikidata.org/entity/Q1417580,1746-01-28T00:00:00Z,Battle of Falkirk Muir,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Falkirk%20monument%20-%20geograph.org.uk%20-%20150466.jpg
+http://www.wikidata.org/entity/Q1417580,1746-01-28T00:00:00Z,Battle of Falkirk Muir,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Falkirk%20Muir.svg
+http://www.wikidata.org/entity/Q1417580,1746-01-28T00:00:00Z,Battle of Falkirk Muir,http://commons.wikimedia.org/wiki/Special:FilePath/Plan-of-the-battle-of-falkirk-17-january-1746.jpg
+http://www.wikidata.org/entity/Q1427006,1796-09-19T00:00:00Z,Battle of Limburg,http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20auf%20dem%20Greifenberg%20bei%20Limburg.jpg
+http://www.wikidata.org/entity/Q1431266,1782-01-26T00:00:00Z,Battle of Saint Kitts,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Frigate%20Bay.jpg
+http://www.wikidata.org/entity/Q1446460,1710-10-04T00:00:00Z,Action of 4 October 1710,http://commons.wikimedia.org/wiki/Special:FilePath/Dannebroge%20caught%20on%20fire.jpg
+http://www.wikidata.org/entity/Q1450451,1798-05-17T00:00:00Z,French invasion of Switzerland,http://commons.wikimedia.org/wiki/Special:FilePath/GrauholzWalthard.jpg
+http://www.wikidata.org/entity/Q1760280,1734-09-19T00:00:00Z,Battle of Guastalla,http://commons.wikimedia.org/wiki/Special:FilePath/Guastalla1734.jpg
+http://www.wikidata.org/entity/Q2360501,1796-05-09T00:00:00Z,Battle of Fombio,http://commons.wikimedia.org/wiki/Special:FilePath/Battaglia%20di%20Fombio.jpg
+http://www.wikidata.org/entity/Q1539513,1780-08-16T00:00:00Z,Battle of Camden,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Camden.jpg
+http://www.wikidata.org/entity/Q1546173,1775-05-10T00:00:00Z,Capture of Fort Ticonderoga,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Ticonderoga%2C%20Ticonderoga%2C%20NY.jpg
+http://www.wikidata.org/entity/Q1546173,1775-05-10T00:00:00Z,Capture of Fort Ticonderoga,http://commons.wikimedia.org/wiki/Special:FilePath/EthanAllenTiconderogaByJSDavis.jpeg
+http://www.wikidata.org/entity/Q1860316,1781-08-05T00:00:00Z,Battle of Dogger Bank,http://commons.wikimedia.org/wiki/Special:FilePath/Zeeslag%20bij%20Doggersbank%2C%201781%20Zeeslag%2C%20voorgevallen%20op%20Doggersbank%2C%20in%20den%20Ogtent%20van%20den%205de%20Augustus%201781%2C%20tusschen%20de%20Hollandsche%20Vloot%20%28titel%20op%20object%29%2C%20RP-P-OB-85.148.jpg
+http://www.wikidata.org/entity/Q1862538,1778-05-30T00:00:00Z,Battle of Cobleskill,http://commons.wikimedia.org/wiki/Special:FilePath/American%20Revolutionary%20War%20Cobleskill%20and%20Cherry%20Valley.jpg
+http://www.wikidata.org/entity/Q1898572,1708-09-28T00:00:00Z,Battle of Wijnendale,http://commons.wikimedia.org/wiki/Special:FilePath/Blenheim%20Wynendael%201708.jpg
+http://www.wikidata.org/entity/Q1898572,1708-09-28T00:00:00Z,Battle of Wijnendale,http://commons.wikimedia.org/wiki/Special:FilePath/Strijdplan%20Wijnendale.jpg
+http://www.wikidata.org/entity/Q1949707,1779-02-03T00:00:00Z,Battle of Beaufort,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfBeaufortApproach.png
+http://www.wikidata.org/entity/Q1970159,1779-07-06T00:00:00Z,Battle of Grenada,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20naval%20de%20la%20Grenade.png
+http://www.wikidata.org/entity/Q1977699,1795-09-15T00:00:00Z,Battle of Muizenberg,http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20Peninsula.jpg
+http://www.wikidata.org/entity/Q1985387,1774-06-09T00:00:00Z,Battle of Kozludzha,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9A%D0%BE%D0%B7%D0%BB%D1%83%D0%B4%D0%B6%D0%B0%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q2280582,1744-08-11T00:00:00Z,Battle of Velletri,http://commons.wikimedia.org/wiki/Special:FilePath/Triumph%20of%20Charles%20III%20at%20the%20Battle%20of%20Velletri.jpg
+http://www.wikidata.org/entity/Q2296381,1779-01-01T00:00:00Z,Battle of Minisink,http://commons.wikimedia.org/wiki/Special:FilePath/MinisinkMonument.jpg
+http://www.wikidata.org/entity/Q2342985,1769-05-09T00:00:00Z,Battle of Ponte Novu,http://commons.wikimedia.org/wiki/Special:FilePath/Ponte-novu1.jpg
+http://www.wikidata.org/entity/Q2346041,1755-06-16T00:00:00Z,Battle of Fort Beauséjour,http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Moncton%20Martinique.jpg
+http://www.wikidata.org/entity/Q2351517,1771-05-23T00:00:00Z,Battle of Lanckorona,http://commons.wikimedia.org/wiki/Special:FilePath/Artur%20Grottger%20Modlitwa%20konfederat%C3%B3w%20barskich.PNG
+http://www.wikidata.org/entity/Q2354105,1734-01-01T00:00:00Z,Siege of Danzig,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Danzig%201734.PNG
+http://www.wikidata.org/entity/Q2355467,1764-11-06T00:00:00Z,Battle of Buxar,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Buxar%20-Crown%20and%20company-%20Arthur%20Edward%20Mainwaring%20pg.144.jpg
+http://www.wikidata.org/entity/Q2375910,1793-11-03T00:00:00Z,Battle of Fougères,http://commons.wikimedia.org/wiki/Special:FilePath/Fougeres%20chateau.jpg
+http://www.wikidata.org/entity/Q2377625,1717-07-08T00:00:00Z,Battle of Strömstad,http://commons.wikimedia.org/wiki/Special:FilePath/Suecia%203-117%20%3B%20Str%C3%B6mstad.jpg
+http://www.wikidata.org/entity/Q1779439,1776-01-01T00:00:00Z,Battle of The Cedars,http://commons.wikimedia.org/wiki/Special:FilePath/Montreal1764CedarsDetail.png
+http://www.wikidata.org/entity/Q1780931,1781-04-30T00:00:00Z,Battle of Fort Royal,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Fort%20Royal%20de%20la%20Martinique%2029%20avril%201781.jpg
+http://www.wikidata.org/entity/Q1811438,1780-05-29T00:00:00Z,Battle of Waxhaws,http://commons.wikimedia.org/wiki/Special:FilePath/Waxhaw%20massacre%20sketch.jpg
+http://www.wikidata.org/entity/Q1840117,1775-12-31T00:00:00Z,Battle of Quebec,http://commons.wikimedia.org/wiki/Special:FilePath/Canadian%20militiamen%20and%20British%20soldiers%20repulse%20the%20American%20assault%20at%20Sault-au-Matelot.jpg
+http://www.wikidata.org/entity/Q1850800,1782-04-12T00:00:00Z,Battle of the Saintes,http://commons.wikimedia.org/wiki/Special:FilePath/The%20battle%20of%20the%20Saints%2012%20avril%201782.jpg
+http://www.wikidata.org/entity/Q1577800,1794-04-04T00:00:00Z,Battle of Racławice,http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Matejko%20-%20Ko%C5%9Bciuszko%20at%20Rac%C5%82awice%20-%20MNK%20II-a-151%20-%20National%20Museum%20Krak%C3%B3w.jpg
+http://www.wikidata.org/entity/Q1620408,1770-07-07T00:00:00Z,Battle of Chesma,http://commons.wikimedia.org/wiki/Special:FilePath/Ivan%20Constantinovich%20Aivazovsky%20-%20Battle%20of%20%C3%87esme%20at%20Night.JPG
+http://www.wikidata.org/entity/Q2190013,1778-07-03T00:00:00Z,Battle of Wyoming,http://commons.wikimedia.org/wiki/Special:FilePath/ChappelWyomingMassacre.jpg
+http://www.wikidata.org/entity/Q2234632,1789-09-22T00:00:00Z,Battle of Rymnik,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20martinesti%201789%202.jpg
+http://www.wikidata.org/entity/Q2234632,1789-09-22T00:00:00Z,Battle of Rymnik,http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Sch%C3%BCtz%20Christian%20von%20Mechel%20Battle%20Of%20Martinesti.jpg
+http://www.wikidata.org/entity/Q2234632,1789-09-22T00:00:00Z,Battle of Rymnik,http://commons.wikimedia.org/wiki/Special:FilePath/Ramnic%20Battle%20Author%20Trattner%20Edler%20von.jpg
+http://www.wikidata.org/entity/Q2234632,1789-09-22T00:00:00Z,Battle of Rymnik,http://commons.wikimedia.org/wiki/Special:FilePath/Rymnik-1789.jpg
+http://www.wikidata.org/entity/Q2237038,1794-10-10T00:00:00Z,Battle of Maciejowice,http://commons.wikimedia.org/wiki/Special:FilePath/POL%20Maciejowice%20battle.jpg
+http://www.wikidata.org/entity/Q2237194,1777-10-06T00:00:00Z,Battle of Forts Clinton and Montgomery,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfFortsClintonAndMontgomery1777.jpg
+http://www.wikidata.org/entity/Q2237537,1794-08-20T00:00:00Z,Battle of Fallen Timbers,http://commons.wikimedia.org/wiki/Special:FilePath/Fallen%20timbers.jpg
+http://www.wikidata.org/entity/Q2237543,1796-06-19T00:00:00Z,Battle of Kircheib,http://commons.wikimedia.org/wiki/Special:FilePath/Schlacht%20bei%20Kircheipred.png
+http://www.wikidata.org/entity/Q2237633,1780-08-18T00:00:00Z,Battle of Musgrove Mill,http://commons.wikimedia.org/wiki/Special:FilePath/MusgroveMillBattlefield.jpg
+http://www.wikidata.org/entity/Q2237757,1715-11-16T00:00:00Z,Battle of Stresow,http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Gustaf%20Hellqvist%2C%20Karl%20XII%20i%20R%C3%BCgen.jpg
+http://www.wikidata.org/entity/Q2265211,1793-10-26T00:00:00Z,Battle of Entrames,http://commons.wikimedia.org/wiki/Special:FilePath/Bless%C3%A9%20Beaupuy.jpg
+http://www.wikidata.org/entity/Q2004436,1790-07-04T00:00:00Z,Battle of Vyborg Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Russian%20victory%20vyborg.jpg
+http://www.wikidata.org/entity/Q2035455,1780-10-07T00:00:00Z,Battle of Kings Mountain,http://commons.wikimedia.org/wiki/Special:FilePath/KingsMountain%20DeathOfFerguson%20Chappel.jpg
+http://www.wikidata.org/entity/Q2036383,1789-07-26T00:00:00Z,Battle of Öland,http://commons.wikimedia.org/wiki/Special:FilePath/Slaget%20vid%20%C3%96land.jpg
+http://www.wikidata.org/entity/Q2060558,1781-05-09T00:00:00Z,Siege of Pensacola,http://commons.wikimedia.org/wiki/Special:FilePath/Spanish%20troops%20at%20Pensacola.jpg
+http://www.wikidata.org/entity/Q2391801,1758-09-13T00:00:00Z,Battle of Fort Duquesne,http://commons.wikimedia.org/wiki/Special:FilePath/FortDuquesne.jpg
+http://www.wikidata.org/entity/Q2406754,1793-09-22T00:00:00Z,Battle of Truillas,http://commons.wikimedia.org/wiki/Special:FilePath/B-Truillas.jpg
+http://www.wikidata.org/entity/Q2425434,1775-09-25T00:00:00Z,Battle of Longue-Pointe,http://commons.wikimedia.org/wiki/Special:FilePath/IsleDeMontreal1764.png
+http://www.wikidata.org/entity/Q2449358,1754-07-03T00:00:00Z,Battle of Fort Necessity,http://commons.wikimedia.org/wiki/Special:FilePath/FortNecessityWithCannon.jpg
+http://www.wikidata.org/entity/Q2456110,1770-07-07T00:00:00Z,Battle of Larga,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BB%D0%B0%D0%BD%20%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%BF%D1%80%D0%B8%20%D0%9B%D0%B0%D1%80%D0%B3%D0%B5.jpg
+http://www.wikidata.org/entity/Q2467123,1794-06-06T00:00:00Z,Battle of Szczekociny,http://commons.wikimedia.org/wiki/Special:FilePath/Stachowicz%2C%20Bitwa%20pod%20Szczekocinami.jpg
+http://www.wikidata.org/entity/Q2485365,1719-06-10T00:00:00Z,Battle of Glen Shiel,http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20shiel.jpg
+http://www.wikidata.org/entity/Q2495510,1790-05-13T00:00:00Z,Battle of Reval,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Revel.jpg
+http://www.wikidata.org/entity/Q2501743,1781-01-06T00:00:00Z,Battle of Jersey,http://commons.wikimedia.org/wiki/Special:FilePath/John%20Singleton%20Copley%20001.jpg
+http://www.wikidata.org/entity/Q2522057,1743-02-08T00:00:00Z,Battle of Campo Santo,http://commons.wikimedia.org/wiki/Special:FilePath/Action%20beym%20Panaro%20fluss%20an%20Campo%20Santo%201743.jpg
+http://www.wikidata.org/entity/Q2080325,1757-08-03T00:00:00Z,Siege of Fort William Henry,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20of%20Fort%20William%20Henry%20on%20Lake%20George.jpg
+http://www.wikidata.org/entity/Q2080397,1710-11-09T00:00:00Z,Battle of Syracuse,http://commons.wikimedia.org/wiki/Special:FilePath/Veduta%20aerea%20di%20Siracusa%20e%20con%20l%27Etna%20sullo%20sfondo%20%28Foto%20di%20Angelo%20Bonomo%29.jpg
+http://www.wikidata.org/entity/Q2112104,1777-08-22T00:00:00Z,Battle of Staten Island,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Staten%20Island%2C%201777.svg
+http://www.wikidata.org/entity/Q2113036,1796-12-01T00:00:00Z,Expédition d'Irlande,http://commons.wikimedia.org/wiki/Special:FilePath/Irish-Invasion-Gillray.jpeg
+http://www.wikidata.org/entity/Q2113284,1776-01-01T00:00:00Z,Battle of the Rice Boats,http://commons.wikimedia.org/wiki/Special:FilePath/SavannahAugusta1796.jpg
+http://www.wikidata.org/entity/Q2729621,1780-05-28T00:00:00Z,Battle of St. Louis,http://commons.wikimedia.org/wiki/Special:FilePath/St-louis-attack.jpg
+http://www.wikidata.org/entity/Q2736986,1739-02-24T00:00:00Z,Battle of Karnal,http://commons.wikimedia.org/wiki/Special:FilePath/Nadir%20Shah%20at%20the%20sack%20of%20Delhi%20-%20Battle%20scene%20with%20Nader%20Shah%20on%20horseback%2C%20possibly%20by%20Muhammad%20Ali%20ibn%20Abd%20al-Bayg%20ibn%20Ali%20Quli%20Jabbadar%2C%20mid-18th%20century%2C%20Museum%20of%20Fine%20Arts%2C%20Boston.jpg
+http://www.wikidata.org/entity/Q2741307,1759-09-10T00:00:00Z,Battle of Frisches Haff,http://commons.wikimedia.org/wiki/Special:FilePath/Stettiner%20Haff%20-%20Battle%20of%201759.jpg
+http://www.wikidata.org/entity/Q2744242,1715-11-13T00:00:00Z,Battle of Sheriffmuir,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Sheriffmuir.jpg
+http://www.wikidata.org/entity/Q2756168,1722-07-01T00:00:00Z,Battle of Winnepang,http://commons.wikimedia.org/wiki/Special:FilePath/RichardPhilippsByCarolineHall.png
+http://www.wikidata.org/entity/Q2866987,1797-06-01T00:00:00Z,Assault on Cadiz,http://commons.wikimedia.org/wiki/Special:FilePath/Nelson%20at%20Cadiz.jpg
+http://www.wikidata.org/entity/Q2866993,1704-01-01T00:00:00Z,Raid on Grand Pré,http://commons.wikimedia.org/wiki/Special:FilePath/Colonel%20Benjamin%20Church.jpg
+http://www.wikidata.org/entity/Q2888086,1798-09-08T00:00:00Z,Battle of Ballinamuck,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Ballinamuck%2C%201798%20%289675655157%29.jpg
+http://www.wikidata.org/entity/Q2888096,1798-06-13T00:00:00Z,Battle of Ballynahinch,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Ballynahinch%20by%20Thomas%20Robinson%20%28extract%29.jpg
+http://www.wikidata.org/entity/Q2888104,1778-05-20T00:00:00Z,Battle of Barren Hill,http://commons.wikimedia.org/wiki/Special:FilePath/Barren-hill-map.jpg
+http://www.wikidata.org/entity/Q2888163,1742-07-07T00:00:00Z,Battle of Bloody Marsh,http://commons.wikimedia.org/wiki/Special:FilePath/BloodyMarshMap.jpg
+http://www.wikidata.org/entity/Q2888231,1779-01-01T00:00:00Z,Battle of Baton Rouge,http://commons.wikimedia.org/wiki/Special:FilePath/BritishWestFlorida1776.jpg
+http://www.wikidata.org/entity/Q2887849,1792-11-13T00:00:00Z,Battle of Anderlecht,http://commons.wikimedia.org/wiki/Special:FilePath/Salle%20de%201792%20-%20combat%20d%27Anderlecht.jpg
+http://www.wikidata.org/entity/Q2888245,1757-10-21T00:00:00Z,Battle of Cap-Français,http://commons.wikimedia.org/wiki/Special:FilePath/Action%20off%20Cape%20Francois.jpg
+http://www.wikidata.org/entity/Q2888252,1758-02-28T00:00:00Z,Battle of Cartagena,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Monmouth%20and%20Foudroyant%201758.jpg
+http://www.wikidata.org/entity/Q2888269,1798-08-27T00:00:00Z,Battle of Castlebar,http://commons.wikimedia.org/wiki/Special:FilePath/Castlebar%20Races%20WynneC.jpg
+http://www.wikidata.org/entity/Q2574010,1780-08-09T00:00:00Z,Action of 9 August 1780,http://commons.wikimedia.org/wiki/Special:FilePath/British%20convoy%20of%20sixty-three%20ships%20and%20all%20but%20eight%20ships%20captured%20by%20Spanish%20and%20French%20under%20Cordova.jpg
+http://www.wikidata.org/entity/Q2575889,1778-08-29T00:00:00Z,Battle of Rhode Island,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Rhode%20Island.jpg
+http://www.wikidata.org/entity/Q2583204,1780-04-17T00:00:00Z,Battle of Martinique,http://commons.wikimedia.org/wiki/Special:FilePath/Combat%20de%20la%20Dominique%2017%20Avril%201780%20Rossel%20de%20Cercy%201736%201804.jpg
+http://www.wikidata.org/entity/Q2591793,1794-04-19T00:00:00Z,Warsaw Uprising,http://commons.wikimedia.org/wiki/Special:FilePath/Warsaw%20insurrection%201794%20by%20Juliusz%20Kossak.PNG
+http://www.wikidata.org/entity/Q2601126,1782-02-17T00:00:00Z,Battle of Sadras,http://commons.wikimedia.org/wiki/Special:FilePath/SouthIndia1794.jpeg
+http://www.wikidata.org/entity/Q2601158,1782-09-03T00:00:00Z,Battle of Trincomalee,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfTrincomaleeBySerres.jpg
+http://www.wikidata.org/entity/Q2601189,1782-04-12T00:00:00Z,Battle of Providien,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Provedien%201782%20Mahan.png
+http://www.wikidata.org/entity/Q2606313,1758-08-03T00:00:00Z,Battle of Negapatam,http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20George%20Pocock%20by%20Thomas%20Hudson.jpg
+http://www.wikidata.org/entity/Q2606331,1758-04-29T00:00:00Z,Battle of Cuddalore (1758),http://commons.wikimedia.org/wiki/Special:FilePath/Regiment%20de%20la%20marine%201757.jpeg
+http://www.wikidata.org/entity/Q2615347,1795-09-11T00:00:00Z,Battle of Krtsanisi,http://commons.wikimedia.org/wiki/Special:FilePath/Valerian%20Sidamon-Eristavi%2011.jpg
+http://www.wikidata.org/entity/Q2617813,1762-01-01T00:00:00Z,Battle of Manila,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Attack%20of%20Manilla%2C%20October%201762%20WDL213.png
+http://www.wikidata.org/entity/Q2618930,1771-09-23T00:00:00Z,Battle of Stołowicze,http://commons.wikimedia.org/wiki/Special:FilePath/Stalavichy%2002%202009%20pomnik.JPG
+http://www.wikidata.org/entity/Q2889121,1793-10-22T00:00:00Z,Battle of Laval,http://commons.wikimedia.org/wiki/Special:FilePath/Laval%20Town%202007%2001.jpg
+http://www.wikidata.org/entity/Q2889153,1796-08-04T00:00:00Z,Battle of Lonato,http://commons.wikimedia.org/wiki/Special:FilePath/LonatoCastiglione.jpg
+http://www.wikidata.org/entity/Q2889289,1793-05-19T00:00:00Z,Battle of Mas Deu,http://commons.wikimedia.org/wiki/Special:FilePath/Masdeu-photo03-640x427.jpg
+http://www.wikidata.org/entity/Q2889989,1777-06-26T00:00:00Z,Battle of Short Hills,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfShortHills.jpg
+http://www.wikidata.org/entity/Q2890044,1794-09-18T00:00:00Z,Battle of Sprimont,http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20La%20Redoute.jpg
+http://www.wikidata.org/entity/Q2890055,1798-09-10T00:00:00Z,Battle of St. George's Caye,http://commons.wikimedia.org/wiki/Special:FilePath/Belize-CIA%20WFB%20Map.png
+http://www.wikidata.org/entity/Q2890115,1798-05-26T00:00:00Z,Battle of Tara Hill,http://commons.wikimedia.org/wiki/Special:FilePath/High-cross-the-hill-of-tara.jpg
+http://www.wikidata.org/entity/Q2890178,1793-05-05T00:00:00Z,Battle of Thouars,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Thouars%201793.JPG
+http://www.wikidata.org/entity/Q2890218,1793-09-19T00:00:00Z,Battle of Tiffauges,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Torfou-Tiffauges.JPG
+http://www.wikidata.org/entity/Q2890281,1762-08-27T00:00:00Z,Battle of Valencia de Alcántara,http://commons.wikimedia.org/wiki/Special:FilePath/BurgoyneByReynolds.jpg
+http://www.wikidata.org/entity/Q2890318,1793-07-18T00:00:00Z,Battle of Vihiers,http://commons.wikimedia.org/wiki/Special:FilePath/Fuite%20de%20Santerre.jpg
+http://www.wikidata.org/entity/Q2890346,1798-06-21T00:00:00Z,Battle of Vinegar Hill,http://commons.wikimedia.org/wiki/Special:FilePath/Vinegar%20hill.jpg
+http://www.wikidata.org/entity/Q2628049,1792-06-18T00:00:00Z,Battle of Zieleńce,http://commons.wikimedia.org/wiki/Special:FilePath/PolishRuswar1792.PNG
+http://www.wikidata.org/entity/Q2631076,1717-07-16T00:00:00Z,Siege of Belgrade,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20belgrad%201717.jpg
+http://www.wikidata.org/entity/Q2631076,1717-08-16T00:00:00Z,Siege of Belgrade,http://commons.wikimedia.org/wiki/Special:FilePath/Belagerung%20belgrad%201717.jpg
+http://www.wikidata.org/entity/Q2890385,1777-01-01T00:00:00Z,Battle of White Marsh,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20whitemarsh%20view.jpg
+http://www.wikidata.org/entity/Q2888305,1798-07-13T00:00:00Z,Battle of Shubra Khit,http://commons.wikimedia.org/wiki/Special:FilePath/Bonaparte%20en%20Egypte.jpg
+http://www.wikidata.org/entity/Q2888384,1729-01-01T00:00:00Z,Battle of Damghan,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Mihmandoost.gif
+http://www.wikidata.org/entity/Q2888424,1793-11-22T00:00:00Z,Battle of Dol,http://commons.wikimedia.org/wiki/Special:FilePath/Antrain%20Tome%20Drake.jpeg
+http://www.wikidata.org/entity/Q2888467,1792-07-18T00:00:00Z,Battle of Dubienka,http://commons.wikimedia.org/wiki/Special:FilePath/PolishRuswar1792.PNG
+http://www.wikidata.org/entity/Q2888486,1781-09-08T00:00:00Z,Battle of Eutaw Springs,http://commons.wikimedia.org/wiki/Special:FilePath/Eutaw%20Springs%20Battlefield%20Park%20-%201.jpeg
+http://www.wikidata.org/entity/Q2889395,1705-01-01T00:00:00Z,Battle of Montjuïc,http://commons.wikimedia.org/wiki/Special:FilePath/Setge%20de%20Barcelona%20de%201705.jpg
+http://www.wikidata.org/entity/Q2889455,1793-06-29T00:00:00Z,Battle of Nantes,http://commons.wikimedia.org/wiki/Special:FilePath/Si%C3%A8ge%20de%20Nantes%201793.jpg
+http://www.wikidata.org/entity/Q2889477,1776-01-01T00:00:00Z,Battle of Nassau,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Nassau.jpg
+http://www.wikidata.org/entity/Q2889528,1793-10-12T00:00:00Z,Second Battle of Noirmoutier,http://commons.wikimedia.org/wiki/Special:FilePath/Chateau%20Noirmoutier%2066.JPG
+http://www.wikidata.org/entity/Q2889560,1746-07-06T00:00:00Z,Action of 6 July 1746,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20navale%20de%20N%C3%A9gapatam%20en%201746.jpg
+http://www.wikidata.org/entity/Q2889605,1755-09-03T00:00:00Z,Battle of Petitcodiac,http://commons.wikimedia.org/wiki/Special:FilePath/Marquis%20de%20Boish%C3%A9bert%20-%20Charles%20Deschamps%20de%20Boish%C3%A9bert%20et%20de%20Raffetot%20%281753%29%20McCord%20Museum%20McGill.jpg
+http://www.wikidata.org/entity/Q2889607,1793-09-17T00:00:00Z,Battle of Peyrestortes,http://commons.wikimedia.org/wiki/Special:FilePath/Rempartsaujourd%27hui.jpg
+http://www.wikidata.org/entity/Q2888504,1797-02-24T00:00:00Z,Battle of Fishguard,http://commons.wikimedia.org/wiki/Special:FilePath/Carngwasted%20%26%20Ebewalin.jpeg
+http://www.wikidata.org/entity/Q2888557,1759-07-26T00:00:00Z,Battle of Fort Niagara,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Niagara%20castle%203.jpg
+http://www.wikidata.org/entity/Q2888583,1756-08-14T00:00:00Z,Battle of Fort Oswego,http://commons.wikimedia.org/wiki/Special:FilePath/Oswego1756.jpeg
+http://www.wikidata.org/entity/Q2888679,1747-02-11T00:00:00Z,Battle of Grand Pré,http://commons.wikimedia.org/wiki/Special:FilePath/WCJefferys%20Battle%20of%20Grand%20Pre.png
+http://www.wikidata.org/entity/Q2888688,1781-07-06T00:00:00Z,Battle of Green Spring,http://commons.wikimedia.org/wiki/Special:FilePath/Left-Bank-James-River-Rochambeau-map.jpg
+http://www.wikidata.org/entity/Q2888705,1761-03-21T00:00:00Z,Battle of Grünberg,http://commons.wikimedia.org/wiki/Special:FilePath/Gruenberg%201591%20Dilich.jpg
+http://www.wikidata.org/entity/Q2890526,1778-09-06T00:00:00Z,Invasion of Dominica,http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20de%20la%20Dominique%20cph.3b49565.jpg
+http://www.wikidata.org/entity/Q2890697,1760-08-24T00:00:00Z,Battle of the Thousand Islands,http://commons.wikimedia.org/wiki/Special:FilePath/L%27Outaouaise.jpg
+http://www.wikidata.org/entity/Q2890743,1794-05-01T00:00:00Z,Battle of Boulou,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Boulou.jpg
+http://www.wikidata.org/entity/Q2639377,1759-01-01T00:00:00Z,Siege of Kolberg,http://commons.wikimedia.org/wiki/Special:FilePath/Fall%20of%20Kolberg%20in%201761.jpg
+http://www.wikidata.org/entity/Q2652964,1719-09-27T00:00:00Z,Battle of Göteborg,http://commons.wikimedia.org/wiki/Special:FilePath/Danskarna%20beskjuter%20nya%20%C3%84lvsborg.jpg
+http://www.wikidata.org/entity/Q2659387,1759-07-31T00:00:00Z,Battle of Beauport,http://commons.wikimedia.org/wiki/Special:FilePath/SiegeOfQuebec1759ByDesBarres.jpg
+http://www.wikidata.org/entity/Q2662144,1759-09-10T00:00:00Z,Battle of Pondicherry,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Pitt%20engaging%20the%20Saint%20Louis%2029%20septembre%201758%20Indes.jpg
+http://www.wikidata.org/entity/Q2663849,1741-08-10T00:00:00Z,Battle of Colachel,http://commons.wikimedia.org/wiki/Special:FilePath/De%20Lannoy%20Surrender.JPG
+http://www.wikidata.org/entity/Q2666730,1702-09-04T00:00:00Z,Action of August 1702,http://commons.wikimedia.org/wiki/Special:FilePath/Benbow%20fights%20on.jpg
+http://www.wikidata.org/entity/Q2671443,1778-12-15T00:00:00Z,Battle of St. Lucia,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Sainte%20Lucie%20entre%20d%27Estaing%20et%20Barrington%201778%20-%20BHC0422%2C.jpg
+http://www.wikidata.org/entity/Q2890829,1763-09-14T00:00:00Z,Battle of Devil's Hole,http://commons.wikimedia.org/wiki/Special:FilePath/Pontiac%20chief.png
+http://www.wikidata.org/entity/Q2890852,1707-05-02T00:00:00Z,Action of 2 May 1707,http://commons.wikimedia.org/wiki/Special:FilePath/Attaque%20d%27une%20Escadre%20Angloise%20dans%20la%20Manche.jpg
+http://www.wikidata.org/entity/Q2890859,1707-10-21T00:00:00Z,Battle at The Lizard,http://commons.wikimedia.org/wiki/Special:FilePath/BatailleCaplizard.jpg
+http://www.wikidata.org/entity/Q2890866,1781-03-16T00:00:00Z,Battle of Cape Henry,http://commons.wikimedia.org/wiki/Special:FilePath/CapeHenry.jpg
+http://www.wikidata.org/entity/Q2897258,1791-07-10T00:00:00Z,Battle of Măcin,http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%20%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5%20%C2%AB%D0%9C%D0%B0%D1%87%D0%B8%D0%BD%C2%BB.%20%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F%20%D0%A1%D1%8B%D1%82%D0%B8%D0%BD%D0%B0%20%28%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%2C%201911-1915%29.jpg
+http://www.wikidata.org/entity/Q2909607,1765-06-01T00:00:00Z,Larache expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Larache%20Fortress.jpg
+http://www.wikidata.org/entity/Q2914954,1787-10-12T00:00:00Z,Battle of Kinburn,http://commons.wikimedia.org/wiki/Special:FilePath/Kinburn%20battle%201787.jpeg
+http://www.wikidata.org/entity/Q2984734,1793-06-09T00:00:00Z,Battle of Arlon (1793),http://commons.wikimedia.org/wiki/Special:FilePath/Arlon%2C%20Belgium%2C%20Ferraris%2C%201775.jpg
+http://www.wikidata.org/entity/Q2984860,1792-04-30T00:00:00Z,Battle of Quiévrain (1792),http://commons.wikimedia.org/wiki/Special:FilePath/G%C3%A9n%C3%A9ral%20ARMAND%20LOUIS%20DE%20GONTAUT%20DE%20BIRON%20%281747-1793%29.jpg
+http://www.wikidata.org/entity/Q2889754,1777-10-22T00:00:00Z,Battle of Red Bank,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Mercer%20Monument.jpg
+http://www.wikidata.org/entity/Q2889853,1758-09-11T00:00:00Z,Battle of Saint Cast,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Saint%20Cast%201758%20par%20Ozanne.jpg
+http://www.wikidata.org/entity/Q2889866,1793-09-22T00:00:00Z,Battle of Saint-Fulgent,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Saint-Fulgent%201793.jpg
+http://www.wikidata.org/entity/Q2889940,1793-06-09T00:00:00Z,Battle of Saumur,http://commons.wikimedia.org/wiki/Special:FilePath/Chateau%20de%20saumur.jpg
+http://www.wikidata.org/entity/Q3636587,1715-01-01T00:00:00Z,Battle of Preston,http://commons.wikimedia.org/wiki/Special:FilePath/Pettie%20-%20Jacobites%2C%201745.jpg
+http://www.wikidata.org/entity/Q3636589,1798-05-24T00:00:00Z,Battle of Prosperous,http://commons.wikimedia.org/wiki/Special:FilePath/MAXWELL%281845%29%20p082%20Surprise%20of%20the%20Barrack%20of%20Prosperous.jpg
+http://www.wikidata.org/entity/Q2984910,1797-03-16T00:00:00Z,Battle of Valvasone,http://commons.wikimedia.org/wiki/Special:FilePath/Lafaye%20Valvasone-.jpg
+http://www.wikidata.org/entity/Q3024756,1739-11-22T00:00:00Z,Battle of Porto Bello,http://commons.wikimedia.org/wiki/Special:FilePath/Samuel%20Scott%202.jpg
+http://www.wikidata.org/entity/Q3559235,1798-10-23T00:00:00Z,Battle of Nicopolis,http://commons.wikimedia.org/wiki/Special:FilePath/IAN%200951%20Myrbach%2078%20fp.jpg
+http://www.wikidata.org/entity/Q3403807,1761-06-08T00:00:00Z,Capture of Belle Île,http://commons.wikimedia.org/wiki/Special:FilePath/Attaque%20et%20prise%20de%20Belle-Isle%20en%201761.jpeg
+http://www.wikidata.org/entity/Q3403823,1758-12-01T00:00:00Z,Capture of Gorée,http://commons.wikimedia.org/wiki/Special:FilePath/Attack%20on%20Goree%2029%20decembre%201758.jpg
+http://www.wikidata.org/entity/Q3403846,1709-01-01T00:00:00Z,Battle of St. John's,http://commons.wikimedia.org/wiki/Special:FilePath/Newfoundland1744.jpg
+http://www.wikidata.org/entity/Q3403859,1779-07-04T00:00:00Z,Capture of Grenada,http://commons.wikimedia.org/wiki/Special:FilePath/Prise%20de%20la%20Grenade.png
+http://www.wikidata.org/entity/Q3417630,1758-06-12T00:00:00Z,Raid on St Malo,http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Saint-Malo.jpg
+http://www.wikidata.org/entity/Q3417631,1757-09-01T00:00:00Z,Raid on Rochefort,http://commons.wikimedia.org/wiki/Special:FilePath/Chart%20of%20the%20Road%20of%20Basque%201757.jpg
+http://www.wikidata.org/entity/Q3417632,1758-08-16T00:00:00Z,Raid on Cherbourg,http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20du%20raid%20anglais%20sur%20Cherbourg%20en%201758.jpg
+http://www.wikidata.org/entity/Q3636401,1735-10-20T00:00:00Z,Battle of Clausen,http://commons.wikimedia.org/wiki/Special:FilePath/Clausen1735.jpg
+http://www.wikidata.org/entity/Q3046548,1704-02-29T00:00:00Z,Raid on Deerfield,http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Baptiste%20Hertel%20de%20Rouville.jpg
+http://www.wikidata.org/entity/Q3050672,1758-07-26T00:00:00Z,Siege of Louisbourg,http://commons.wikimedia.org/wiki/Special:FilePath/British%20burning%20warship%20Prudent%20and%20capturing%20Bienfaisant.%20Siege%20of%20Louisbourg%201758.%20Maritime%20Museum%20of%20the%20Atlantic%2C%20M55.7.1.jpg
+http://www.wikidata.org/entity/Q3061033,1797-01-14T00:00:00Z,Action of 13 January 1797,http://commons.wikimedia.org/wiki/Special:FilePath/Vaisseau-Droits-de-lHomme.jpg
+http://www.wikidata.org/entity/Q3063400,1746-09-09T00:00:00Z,Battle of Madras,http://commons.wikimedia.org/wiki/Special:FilePath/Surrender%20of%20The%20City%20of%20Madras%201746.jpg
+http://www.wikidata.org/entity/Q3073029,1760-09-04T00:00:00Z,Siege of Pondicherry,http://commons.wikimedia.org/wiki/Special:FilePath/Ruines%20de%20Pondichery%20en%201762.jpg
+http://www.wikidata.org/entity/Q3073526,1762-08-01T00:00:00Z,Siege of Almeida,http://commons.wikimedia.org/wiki/Special:FilePath/Fortress%20of%20Almeida.jpg
+http://www.wikidata.org/entity/Q3097919,1779-09-07T00:00:00Z,Capture of Fort Bute,http://commons.wikimedia.org/wiki/Special:FilePath/BritishWestFlorida1776.jpg
+http://www.wikidata.org/entity/Q3133556,1708-01-01T00:00:00Z,Capture of Minorca,http://commons.wikimedia.org/wiki/Special:FilePath/Cales%20Coves.jpg
+http://www.wikidata.org/entity/Q3153837,1759-05-01T00:00:00Z,Invasion of Guadeloupe,http://commons.wikimedia.org/wiki/Special:FilePath/The%20taking%20of%20Fort%20Louis%2C%20Guadaloupe.jpg
+http://www.wikidata.org/entity/Q3153838,1759-01-19T00:00:00Z,Invasion of Martinique,http://commons.wikimedia.org/wiki/Special:FilePath/Karibik%20Martinique%20Position.png
+http://www.wikidata.org/entity/Q3177722,1755-07-01T00:00:00Z,Braddock Expedition,http://commons.wikimedia.org/wiki/Special:FilePath/Braddock%201755.jpg
+http://www.wikidata.org/entity/Q3355796,1781-01-07T00:00:00Z,Battle of Mobile,http://commons.wikimedia.org/wiki/Special:FilePath/BritishWestFlorida1776.jpg
+http://www.wikidata.org/entity/Q4071933,1776-06-28T00:00:00Z,Battle of Sullivan's Island,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Sullivans%20Island.jpg
+http://www.wikidata.org/entity/Q4090287,1782-04-19T00:00:00Z,Battle of the Mona Passage,http://commons.wikimedia.org/wiki/Special:FilePath/Mona%20Passage%2019%20april%201782.jpg
+http://www.wikidata.org/entity/Q4090296,1774-01-01T00:00:00Z,Battle of Kazan,http://commons.wikimedia.org/wiki/Special:FilePath/Pugachev%20War%20Tatarstan%20English.svg
+http://www.wikidata.org/entity/Q3734970,1798-10-24T00:00:00Z,Action of 24 October 1798,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Sirius%20vs%20Furie%2C%201798.jpg
+http://www.wikidata.org/entity/Q3271228,1777-04-13T00:00:00Z,Battle of Bound Brook,http://commons.wikimedia.org/wiki/Special:FilePath/Ewald%20BoundBrook%201777.jpg
+http://www.wikidata.org/entity/Q3296937,1722-03-08T00:00:00Z,Battle of Gulnabad,http://commons.wikimedia.org/wiki/Special:FilePath/SHAH-MAHMUD-HOTAK.jpg
+http://www.wikidata.org/entity/Q3485856,1761-03-01T00:00:00Z,Siege of Cassel,http://commons.wikimedia.org/wiki/Special:FilePath/Kassel-merian.jpg
+http://www.wikidata.org/entity/Q3485885,1763-10-31T00:00:00Z,Siege of Fort Detroit,http://commons.wikimedia.org/wiki/Special:FilePath/Siege%20of%20Fort%20Detroit.jpg
+http://www.wikidata.org/entity/Q3485950,1759-04-07T00:00:00Z,Siege of Masulipatam,http://commons.wikimedia.org/wiki/Special:FilePath/Musalipatam%20Mschilipatnam%20port%20in%201759.jpg
+http://www.wikidata.org/entity/Q4090317,1775-01-01T00:00:00Z,Battle of Machias,http://commons.wikimedia.org/wiki/Special:FilePath/MachiasBay1776.png
+http://www.wikidata.org/entity/Q4090319,1779-11-29T00:00:00Z,Battle of San Fernando de Omoa,http://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20Fuerte%20de%20Omoa%20Honduras.jpg
+http://www.wikidata.org/entity/Q3788426,1776-06-29T00:00:00Z,Battle of Turtle Gut Inlet,http://commons.wikimedia.org/wiki/Special:FilePath/Cape%20May%2C%20New%20Jersey%201777.jpg
+http://www.wikidata.org/entity/Q3791537,1719-01-01T00:00:00Z,Attack on Marstrand,http://commons.wikimedia.org/wiki/Special:FilePath/Anfallet%20mot%20Marstrand.jpg
+http://www.wikidata.org/entity/Q3539853,1788-01-01T00:00:00Z,Battle of Ngọc Hồi-Đống Đa,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20at%20the%20River%20Tho-xuong.jpg
+http://www.wikidata.org/entity/Q4110445,1708-11-02T00:00:00Z,Sack of Baturyn,http://commons.wikimedia.org/wiki/Special:FilePath/Baturyn-fortress-2010-08-08.jpg
+http://www.wikidata.org/entity/Q4438379,1739-01-01T00:00:00Z,Battle of Stavuchany,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Stavuchany%20Map.jpg
+http://www.wikidata.org/entity/Q4870289,1749-08-03T00:00:00Z,Battle of Ambur,http://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20the%20Nabob%20of%20the%20Carnatic%20by%20Paul%20Philippoteaux.jpg
+http://www.wikidata.org/entity/Q4870336,1798-06-09T00:00:00Z,Battle of Arklow,http://commons.wikimedia.org/wiki/Special:FilePath/Arklowflag.svg
+http://www.wikidata.org/entity/Q4870771,1721-01-01T00:00:00Z,Battle of Coille Bhan,http://commons.wikimedia.org/wiki/Special:FilePath/Moorland%20above%20Attadale%20-%20geograph.org.uk%20-%20594916.jpg
+http://www.wikidata.org/entity/Q4870774,1798-09-05T00:00:00Z,Battle of Collooney,http://commons.wikimedia.org/wiki/Special:FilePath/Teeling%20Monument%20Carricknagat.jpg
+http://www.wikidata.org/entity/Q4870787,1777-09-03T00:00:00Z,Battle of Cooch's Bridge,http://commons.wikimedia.org/wiki/Special:FilePath/CoochsBridge1777.jpg
+http://www.wikidata.org/entity/Q4870790,1760-07-10T00:00:00Z,Battle of Corbach,http://commons.wikimedia.org/wiki/Special:FilePath/Bataille%20de%20Corbach.jpg
+http://www.wikidata.org/entity/Q4870873,1797-01-01T00:00:00Z,Battle of Diersheim,http://commons.wikimedia.org/wiki/Special:FilePath/Diersheim%20in%20Rheinau.png
+http://www.wikidata.org/entity/Q4870873,1797-04-20T00:00:00Z,Battle of Diersheim,http://commons.wikimedia.org/wiki/Special:FilePath/Diersheim%20in%20Rheinau.png
+http://www.wikidata.org/entity/Q4871269,1717-01-01T00:00:00Z,Battle of Imbros,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20imbros1717.jpg
+http://www.wikidata.org/entity/Q4871283,1745-12-23T00:00:00Z,Battle of Inverurie,http://commons.wikimedia.org/wiki/Special:FilePath/Inverurie-Panorama.jpg
+http://www.wikidata.org/entity/Q4871284,1776-01-01T00:00:00Z,Battle of Iron Works Hill,http://commons.wikimedia.org/wiki/Special:FilePath/TrentonPhiladelphia1806.jpg
+http://www.wikidata.org/entity/Q4871314,1797-04-21T00:00:00Z,Battle of Jean-Rabel,http://commons.wikimedia.org/wiki/Special:FilePath/Haiti-locator.png
+http://www.wikidata.org/entity/Q4204344,1775-05-28T00:00:00Z,Battle of Chelsea Creek,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Chelsea%20Creek.jpg
+http://www.wikidata.org/entity/Q4204624,1779-09-10T00:00:00Z,Battle of Lake Pontchartrain,http://commons.wikimedia.org/wiki/Special:FilePath/Louisiana%20Locator%20Map%20with%20US.PNG
+http://www.wikidata.org/entity/Q4238502,1790-06-04T00:00:00Z,Battle of Kronstadt,http://commons.wikimedia.org/wiki/Special:FilePath/Kranaya%20gorka.jpg
+http://www.wikidata.org/entity/Q4870475,1769-01-01T00:00:00Z,Battle of Bhaktapur,http://commons.wikimedia.org/wiki/Special:FilePath/Bhaktapur%20durbar%20square.jpg
+http://www.wikidata.org/entity/Q4870481,1796-10-02T00:00:00Z,Battle of Biberach,http://commons.wikimedia.org/wiki/Special:FilePath/Ringschnait.JPG
+http://www.wikidata.org/entity/Q4870493,1780-11-20T00:00:00Z,Battle of Blackstock's Farm,http://commons.wikimedia.org/wiki/Special:FilePath/Blackstock.jpg
+http://www.wikidata.org/entity/Q4870497,1781-04-25T00:00:00Z,Battle of Blandford,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfPetersburg1781.jpg
+http://www.wikidata.org/entity/Q4870504,1757-12-08T00:00:00Z,Battle of Bloody Creek,http://commons.wikimedia.org/wiki/Special:FilePath/BloodyCreek1757%20NS%20Monument.jpg
+http://www.wikidata.org/entity/Q4870505,1711-06-10T00:00:00Z,Battle of Bloody Creek,http://commons.wikimedia.org/wiki/Special:FilePath/BloodyCreek1757%20NS%20Monument.jpg
+http://www.wikidata.org/entity/Q4870506,1763-07-31T00:00:00Z,Battle of Bloody Run,http://commons.wikimedia.org/wiki/Special:FilePath/Pontiac%27s%20war.png
+http://www.wikidata.org/entity/Q4870948,1760-06-27T00:00:00Z,Battle of Echoee,http://commons.wikimedia.org/wiki/Special:FilePath/Draught%20of%20the%20Cherokee%20Country.jpg
+http://www.wikidata.org/entity/Q4870967,1796-10-19T00:00:00Z,Battle of Emmendingen,http://commons.wikimedia.org/wiki/Special:FilePath/Passage%20from%20Germany%20Moreau%201796.jpg
+http://www.wikidata.org/entity/Q4870989,1796-07-09T00:00:00Z,Battle of Ettlingen,http://commons.wikimedia.org/wiki/Special:FilePath/Kugel%20der%20Schlacht%20bei%20Malsch.JPG
+http://www.wikidata.org/entity/Q4871020,1780-08-18T00:00:00Z,Battle of Fishing Creek,http://commons.wikimedia.org/wiki/Special:FilePath/Banastre-Tarleton-by-Joshua-Reynolds.jpg
+http://www.wikidata.org/entity/Q4871024,1702-01-01T00:00:00Z,Battle of Flint River,http://commons.wikimedia.org/wiki/Special:FilePath/BattleOfFlintRiver.jpg
+http://www.wikidata.org/entity/Q4871032,1709-06-26T00:00:00Z,Battle of Fort Albany,http://commons.wikimedia.org/wiki/Special:FilePath/HudsonBay1779.jpg
+http://www.wikidata.org/entity/Q4871053,1781-10-03T00:00:00Z,Battle of Fort Slongo,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Fort%20Slongo%20HM-IGA.jpg
+http://www.wikidata.org/entity/Q4871057,1780-11-23T00:00:00Z,Battle of Fort St. George,http://commons.wikimedia.org/wiki/Special:FilePath/FortSaintGeorgeLongIslandByTallmadge.jpg
+http://www.wikidata.org/entity/Q4871399,1750-01-01T00:00:00Z,Battle of Kathio,http://commons.wikimedia.org/wiki/Special:FilePath/Kathio%20Historic%20District%20-%20Izatys%20habitation%20site.JPG
+http://www.wikidata.org/entity/Q4871400,1768-01-01T00:00:00Z,Battle of Kathmandu,http://commons.wikimedia.org/wiki/Special:FilePath/Kathmandu%201811.jpg
+http://www.wikidata.org/entity/Q4871413,1775-11-15T00:00:00Z,Battle of Kemp's Landing,http://commons.wikimedia.org/wiki/Special:FilePath/EasternVirginia1775.jpg
+http://www.wikidata.org/entity/Q4871415,1790-01-01T00:00:00Z,Battle of Kepaniwai,http://commons.wikimedia.org/wiki/Special:FilePath/Iaovalley%20sm.jpg
+http://www.wikidata.org/entity/Q4870718,1780-09-26T00:00:00Z,Battle of Charlotte,http://commons.wikimedia.org/wiki/Special:FilePath/4th%20Baron%20Coleraine.jpg
+http://www.wikidata.org/entity/Q4870726,1779-05-01T00:00:00Z,Battle of Chillicothe,http://commons.wikimedia.org/wiki/Special:FilePath/Old%20Chillicothe%20Site.jpg
+http://www.wikidata.org/entity/Q4583774,1779-02-14T00:00:00Z,Battle of Kettle Creek,http://commons.wikimedia.org/wiki/Special:FilePath/AndrewPickensByThomasSully.jpg
+http://www.wikidata.org/entity/Q4584046,1776-01-01T00:00:00Z,Battle of Fort Cumberland,http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Gorham%2C%20Siege%20of%20Fort%20Cumberland%2C%201776%20from%20Roland%20Sherwood%27s%20Story%20Parade.jpg
+http://www.wikidata.org/entity/Q4677221,1795-04-11T00:00:00Z,Action of 10 April 1795,http://commons.wikimedia.org/wiki/Special:FilePath/HMS%20Astraea%20and%20Gloire.jpg
+http://www.wikidata.org/entity/Q4677295,1793-10-20T00:00:00Z,Action of 20 October 1793,http://commons.wikimedia.org/wiki/Special:FilePath/Reunion%20and%20Crescent%2C%20Dixon%201901.jpg
+http://www.wikidata.org/entity/Q4677323,1798-06-27T00:00:00Z,Action of 27 June 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Strait%20of%20Sicily%20map.png
+http://www.wikidata.org/entity/Q4677333,1770-01-01T00:00:00Z,Action of 27 May 1770,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Chios%20%281770%29%2C%20by%20Ivan%20Aivazovsky%20%281848%29.jpg
+http://www.wikidata.org/entity/Q4677346,1798-05-31T00:00:00Z,Action of 30 May 1798,http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%20%26%20Confiante.jpg
+http://www.wikidata.org/entity/Q4785855,1794-09-15T00:00:00Z,Battle of Boxtel,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Combat%20of%20Boxtel%201794.jpg
+http://www.wikidata.org/entity/Q4870138,1746-07-11T00:00:00Z,Battle at Port-la-Joye,http://commons.wikimedia.org/wiki/Special:FilePath/Soldier%20of%2029th%20regiment%201742.jpg
+http://www.wikidata.org/entity/Q4870589,1780-07-21T00:00:00Z,Battle of Bull's Ferry,http://commons.wikimedia.org/wiki/Special:FilePath/10.2.09BullsFerryRoadByLuigiNovi.jpg
+http://www.wikidata.org/entity/Q4870593,1798-06-01T00:00:00Z,Battle of Bunclody,http://commons.wikimedia.org/wiki/Special:FilePath/Bunclody%201798%20memorial.jpg
+http://www.wikidata.org/entity/Q4870599,1763-01-01T00:00:00Z,Battle of Bushy Run,http://commons.wikimedia.org/wiki/Special:FilePath/Guyasuta.jpg
+http://www.wikidata.org/entity/Q4870662,1760-02-26T00:00:00Z,Battle of Carrickfergus,http://commons.wikimedia.org/wiki/Special:FilePath/Carrickfergus-castle-2.jpg
+http://www.wikidata.org/entity/Q4392087,1776-03-25T00:00:00Z,Battle of Saint-Pierre,http://commons.wikimedia.org/wiki/Special:FilePath/SaintPierre1780.png
+http://www.wikidata.org/entity/Q4870139,1750-01-01T00:00:00Z,Battle at St. Croix,http://commons.wikimedia.org/wiki/Special:FilePath/BattleHillStCroixNovaScotia.JPG
+http://www.wikidata.org/entity/Q4870194,1762-08-03T00:00:00Z,Battle for the Río San Juan de Nicaragua,http://commons.wikimedia.org/wiki/Special:FilePath/El%20Castillo-Fortaleza.jpg
+http://www.wikidata.org/entity/Q4871427,1757-12-14T00:00:00Z,Battle of Khresili,http://commons.wikimedia.org/wiki/Special:FilePath/Khresilis%20brdzola.png
+http://www.wikidata.org/entity/Q4871438,1798-09-23T00:00:00Z,Battle of Killala,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Killala%201798.JPG
+http://www.wikidata.org/entity/Q4871446,1767-01-01T00:00:00Z,Battle of Kirtipur,http://commons.wikimedia.org/wiki/Special:FilePath/Kirtipur%20swords.jpg
+http://www.wikidata.org/entity/Q4871513,1743-03-02T00:00:00Z,Battle of La Guaira,http://commons.wikimedia.org/wiki/Special:FilePath/Engraving%20La%20Guaira%201743.jpg
+http://www.wikidata.org/entity/Q4871530,1768-01-01T00:00:00Z,Battle of Lalitpur,http://commons.wikimedia.org/wiki/Special:FilePath/Patan%20durbar%20square.jpg
+http://www.wikidata.org/entity/Q4871066,1790-05-15T00:00:00Z,Battle of Fredrikshamn,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Fredrikshamn%20May%2015%201790.jpg
+http://www.wikidata.org/entity/Q4871143,1781-09-06T00:00:00Z,Battle of Groton Heights,http://commons.wikimedia.org/wiki/Special:FilePath/Fort%20trumbull.jpg
+http://www.wikidata.org/entity/Q4871575,1746-04-15T00:00:00Z,Battle of Littleferry,http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Littleferry%20battle%20site.jpg
+http://www.wikidata.org/entity/Q4871625,1777-01-01T00:00:00Z,Second Battle of Machias,http://commons.wikimedia.org/wiki/Special:FilePath/Admiral%20Sir%20George%20Collier.jpg
+http://www.wikidata.org/entity/Q4872851,1782-08-23T00:00:00Z,Battle of the Black River,http://commons.wikimedia.org/wiki/Special:FilePath/MatiasdeGalvezyGallardo.jpg
+http://www.wikidata.org/entity/Q4872960,1789-12-28T00:00:00Z,Battle of the Nedumkotta,http://commons.wikimedia.org/wiki/Special:FilePath/Tippoo%20Sahib%20at%20the%20lines%20of%20Travancore%20in%20the%201850s.jpg
+http://www.wikidata.org/entity/Q4872986,1788-06-01T00:00:00Z,Battle of the Pinal Mountains,http://commons.wikimedia.org/wiki/Special:FilePath/Pinal%20Mountains.jpg
+http://www.wikidata.org/entity/Q4872015,1725-05-09T00:00:00Z,Battle of Pequawket,http://commons.wikimedia.org/wiki/Special:FilePath/ChamberlaineandPaugusAtLovewellsFightEngraving%20from%20John%20Gilmary%20Shea%20A%20Child%27s%20History%20of%20the%20United%20StatesHess%20and%20McDavitt%201872.jpg
+http://www.wikidata.org/entity/Q4872018,1793-07-17T00:00:00Z,Battle of Perpignan,http://commons.wikimedia.org/wiki/Special:FilePath/Perpignanplana.gif
+http://www.wikidata.org/entity/Q4872050,1780-08-08T00:00:00Z,Battle of Piqua,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Piqua%201780%20Illustration%20National%20Park%20Service.png
+http://www.wikidata.org/entity/Q4872073,1774-10-10T00:00:00Z,Battle of Point Pleasant,http://commons.wikimedia.org/wiki/Special:FilePath/Point%20Pleasant%20monument.jpg
+http://www.wikidata.org/entity/Q4872089,1781-07-01T00:00:00Z,Battle of Porto Novo,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Porto%20Novo.jpg
+http://www.wikidata.org/entity/Q4871737,1777-01-20T00:00:00Z,Battle of Millstone,http://commons.wikimedia.org/wiki/Special:FilePath/Philemon%20Dickinson.jpg
+http://www.wikidata.org/entity/Q4871742,1792-06-11T00:00:00Z,Battle of Mir,http://commons.wikimedia.org/wiki/Special:FilePath/PolishRuswar1792.PNG
+http://www.wikidata.org/entity/Q4871763,1782-07-01T00:00:00Z,Battle of Mokuohai,http://commons.wikimedia.org/wiki/Special:FilePath/Kamehameha%20I%20head%20to%20waist%205111.jpg
+http://www.wikidata.org/entity/Q4871809,1794-04-30T00:00:00Z,Battle of Mouscron,http://commons.wikimedia.org/wiki/Special:FilePath/Mouscron.jpg
+http://www.wikidata.org/entity/Q4872512,1797-03-23T00:00:00Z,Battle of Tarvis,http://commons.wikimedia.org/wiki/Special:FilePath/Tarvisio.jpg
+http://www.wikidata.org/entity/Q4872529,1791-11-18T00:00:00Z,Battle of Tellicherry,http://commons.wikimedia.org/wiki/Special:FilePath/Bay%20of%20Bengal%20map%201800s.png
+http://www.wikidata.org/entity/Q4872548,1798-05-30T00:00:00Z,Battle of Three Rocks,http://commons.wikimedia.org/wiki/Special:FilePath/County%20Wexford%20-%20The%20Three%20Rocks%20Monument%20-%2020051227140423.jpg
+http://www.wikidata.org/entity/Q4872576,1781-02-02T00:00:00Z,Battle of Torrence's Tavern,http://commons.wikimedia.org/wiki/Special:FilePath/Torrence%27s%20Tavern%20Historical%20Marker%20Dec%202012.jpg
+http://www.wikidata.org/entity/Q5452535,1776-07-07T00:00:00Z,First Battle of Terrenate,http://commons.wikimedia.org/wiki/Special:FilePath/Presidio.jpg
+http://www.wikidata.org/entity/Q4871879,1761-09-18T00:00:00Z,Battle of Neuensund,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Neuensund.jpg
+http://www.wikidata.org/entity/Q4871883,1798-06-05T00:00:00Z,Battle of New Ross,http://commons.wikimedia.org/wiki/Special:FilePath/1798%20monument%2C%20New%20Ross%2C%20Co.%20Wexford%20-%20geograph.org.uk%20-%20212298.jpg
+http://www.wikidata.org/entity/Q4871908,1724-08-23T00:00:00Z,Battle of Norridgewock,http://commons.wikimedia.org/wiki/Special:FilePath/Death%20of%20Father%20Sebastian%20Rale%20of%20the%20Society%20of%20Jesus.jpg
+http://www.wikidata.org/entity/Q4871916,1779-07-12T00:00:00Z,Battle of Norwalk,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20West%20Rocks%20monument.jpg
+http://www.wikidata.org/entity/Q4871927,1795-05-01T00:00:00Z,Battle of Nuʻuanu,http://commons.wikimedia.org/wiki/Special:FilePath/Nuuanu%20Pali%20%281258%29.JPG
+http://www.wikidata.org/entity/Q4872160,1780-06-20T00:00:00Z,Battle of Ramsour's Mill,http://commons.wikimedia.org/wiki/Special:FilePath/Memorial%20to%20Loyalist%20John%20Martin%20Shuford%20at%20Ramsour%27s%20Mill.jpg
+http://www.wikidata.org/entity/Q4872181,1777-04-27T00:00:00Z,Battle of Ridgefield,http://commons.wikimedia.org/wiki/Special:FilePath/David%20Woosters%20Monument.JPG
+http://www.wikidata.org/entity/Q4872193,1782-03-16T00:00:00Z,Battle of Roatán,http://commons.wikimedia.org/wiki/Special:FilePath/Roatan1782.jpg
+http://www.wikidata.org/entity/Q4872229,1757-07-23T00:00:00Z,Battle of Sabbath Day Point,http://commons.wikimedia.org/wiki/Special:FilePath/Lake%20George%202.jpg
+http://www.wikidata.org/entity/Q4872232,1742-05-24T00:00:00Z,Battle of Sahay,http://commons.wikimedia.org/wiki/Special:FilePath/Bitva%20u%20Zah%C3%A1j%C3%AD%20freska%20Hora%C5%BE%C4%8Fovice.jpg
+http://www.wikidata.org/entity/Q4872237,1798-06-09T00:00:00Z,Battle of Saintfield,http://commons.wikimedia.org/wiki/Special:FilePath/United%20Irishmen%20plaque%20Saintfield.jpg
+http://www.wikidata.org/entity/Q4872243,1781-07-21T00:00:00Z,Battle of Saldanha Bay,http://commons.wikimedia.org/wiki/Special:FilePath/Saldanha%20Bay%20WW.jpg
+http://www.wikidata.org/entity/Q4872645,1790-05-05T00:00:00Z,Battle of Valkeala,http://commons.wikimedia.org/wiki/Special:FilePath/Battle%20of%20Valkeala.jpg

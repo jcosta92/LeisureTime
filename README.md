@@ -177,7 +177,7 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
       - *best_books.csv*
       - *TMDB_movies_final.csv*
       - *imdb_movie_fetch.csv*
-1.	Run fully *Books.ipynb* to get *best_books.csv* and *df_birthdays_books.csv*.
+1.	Run fully *Books.ipynb* (1st download *goodreads.csv* as per chapter 5) to get *best_books.csv* and *df_birthdays_books.csv*.
 2.	Run *Movies_TMDB_API.ipynb* to get *TMDB_movies_final.csv*.
     - This process takes several hours – be patient.
     - Remember to input your Bearer and API Key in the respective code lines (check chapter 6.1)

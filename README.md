@@ -89,7 +89,9 @@ tmdb.REQUESTS_SESSION = requests.Session()
 ```
 </details>
 
+<details>
 <summary><h3>6.2. IMDB Web Scrapping </h3></summary>
+
 In this case I looped through all the genres with a minimum rating of 5.0 and 3000 votes, using web scrapping to get:
 1.	Pages URLs
 2.	Movies URLs

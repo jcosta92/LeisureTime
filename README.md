@@ -40,4 +40,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 
 </details>
 
-
+<details>
+<summary><h2>Interface</h2></summary>
+---- image
+</details>

@@ -48,7 +48,7 @@ This project that originates *Leisure Time – Movie&Book Recommendation System*
 
 
   
-<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/interface.jpg" />
+<img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/Capture.jpg" />
 </details>
 
 <details>

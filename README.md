@@ -118,6 +118,7 @@ In this case, I looped through all the genres with a minimum rating of 5.0 and 3
 
 <details>
 <summary><h2>7. Days</h2></summary>
+
 To get the dataframe for the days, in *Days.ipynb*, research was done to obtain first the <u>international days</u>, and then the <u>anniversaries of certain events</u>, from several sources. Lastly, we gathered up also the <u>anniversaries of authors and actors</u> that were in the movies and books dataframes.
 
 **Sources**: 
@@ -133,6 +134,7 @@ In the end, all the types of days are in the dataframe *days.csv*.
 
 <details>
 <summary><h2>8. Model</h2></summary>
+  
 In *model.ipynb*, the days, books and movies datasets are loaded and put through the chosen model *universal-sentence-encoder*.
 
 ```python

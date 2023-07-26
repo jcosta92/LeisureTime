@@ -58,8 +58,8 @@ The python book used for dealing with the books dataframe was *Books.ipynb*.
 The books dataframe used was from Kaggle, from the following source:
 -	[*goodreads.csv*](https://www.kaggle.com/datasets/khushdassani/goodreads-300k-dataset?select=goodreads.csv)
 
-The dataset was cleaned to Latin and English titles, using the langid library.
-This dataframe was also reduced to the books with a certain minimum rating and votes. In this case, the final dataframe of books has only books with at least 3.5 rating and 1000 votes - *best_books.csv*.
+The dataset was cleaned to Latin and English titles, using the *langid* library.
+This dataframe was also reduced to the books with a certain minimum rating and votes. In this case, the final dataframe of books has only books with at least **3.5 rating** and **1000 votes** - *best_books.csv*.
 In the end, we get the authors' birthdays by webscraping Wikipedia to add to our Days dataframe - *df_birthdays_books.csv*.
 
 </details>
@@ -94,7 +94,7 @@ tmdb.REQUESTS_SESSION = requests.Session()
 <details>
 <summary><h3>6.2. IMDB Web Scrapping </h3></summary>
 
-In this case, I looped through all the genres with a minimum rating of 5.0 and 3000 votes, using web scraping to get:
+In this case, I looped through all the genres with a minimum **rating of 5.0** and **3000 votes**, using web scraping to get:
 
 1. Pages URLs
 2. Movies URLs
@@ -119,7 +119,7 @@ In this case, I looped through all the genres with a minimum rating of 5.0 and 3
 <details>
 <summary><h2>7. Days</h2></summary>
 
-To get the dataframe for the days, in *Days.ipynb*, research was done to obtain first the <u>international days</u>, and then the <u>anniversaries of certain events</u>, from several sources. Lastly, we gathered up also the <u>anniversaries of authors and actors</u> that were in the movies and books dataframes.
+To get the dataframe for the days, in *Days.ipynb*, research was done to obtain first the **international days**, and then the **anniversaries of certain events**, from several sources. Lastly, I gathered up also the **anniversaries of authors and actors** that were in the movies and books dataframes.
 
 **Sources**: 
 -	[https://date.nager.at/api/](https://date.nager.at/api/) - Web scrapping

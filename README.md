@@ -118,7 +118,7 @@ In this case, I looped through all the genres with a minimum rating of 5.0 and 3
 
 <details>
 <summary><h2>7. Days</h2></summary>
-To get the dataframe for the days, in **Days.ipynb**, research was done to obtain first the <u>international days</u>, and then the <u>anniversaries of certain events</u>, from several sources. Lastly, we gathered up also the <u>anniversaries of authors and actors</u> that were in the movies and books dataframes.
+To get the dataframe for the days, in *Days.ipynb*, research was done to obtain first the <u>international days</u>, and then the <u>anniversaries of certain events</u>, from several sources. Lastly, we gathered up also the <u>anniversaries of authors and actors</u> that were in the movies and books dataframes.
 
 **Sources**: 
 -	[https://date.nager.at/api/](https://date.nager.at/api/) - Web scrapping

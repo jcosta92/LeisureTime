@@ -1,7 +1,6 @@
 from flask import Flask, render_template
 from datetime import datetime
 import pandas as pd
-import openai
 import random
 
 app = Flask(__name__)

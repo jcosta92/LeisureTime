@@ -1,4 +1,3 @@
 Flask
 pandas
-numpy==1.21.1
-python==3.11
+numpy

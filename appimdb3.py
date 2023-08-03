@@ -23,7 +23,12 @@ matches = pd.concat([matches_part1, matches_part2], ignore_index=True).reset_ind
 matches = matches[(matches["Month"] == today.month) & (matches["Day"] == today.day)]
 # matches=pd.read_csv("matches29072023_IMDB.csv") # --- use if you want a specific csv
 
-books = pd.read_csv("best_books.csv")
+# Concatenating books parts
+books_part1 = pd.read_csv("best_books_part1.csv")
+books_part2 = pd.read_csv("best_books_part2.csv")
+
+books = pd.concat([books_part1, books_part2], ignore_index=True).reset_index(drop=True)
+
 movies = pd.read_csv("imdb_movie_fetch.csv")
 
 # Replace &apos; with '

@@ -31,7 +31,7 @@ matches["Date"] = matches["Date"].str[:10]
 
 # Function to render the HTML template with dynamic content
 def render_template(recommendations):
-    html_template = "home2.html"
+    html_template = "templates/home2.html"
     with open(html_template, "r") as f:
         template = f.read()
         return template.format(recommendations=recommendations)

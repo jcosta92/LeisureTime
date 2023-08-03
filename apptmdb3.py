@@ -96,4 +96,7 @@ def index():
     return render_template('home2.html', recommendations=recommendations)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    # Use os.environ.get() to get the PORT assigned by Heroku
+    port = int(os.environ.get('PORT', 5000))
+    # Set the host to '0.0.0.0' to allow connections from any IP
+    app.run(host='0.0.0.0', port=port, debug=True)

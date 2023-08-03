@@ -4,12 +4,19 @@ from datetime import datetime
 from streamlit.components.v1 import html
 
 today = datetime.today()
+
+#concatenating matches parts
 matches_part1 = pd.read_csv("all_matches_part1.csv")
 matches_part2 = pd.read_csv("all_matches_part2.csv")
 
 matches = pd.concat([matches_part1, matches_part2], ignore_index=True).reset_index(drop=True)
 
-books = pd.read_csv("best_books.csv")
+#concatenating books parts
+books_part1=pd.read_csv("best_books_part1.csv")
+books_part2=pd.read_csv("best_books_part2.csv")
+
+books = pd.concat([books_part1, books_part2], ignore_index=True).reset_index(drop=True)
+
 movies = pd.read_csv("TMDB_movies_final.csv")
 
 # Replace &apos; with '

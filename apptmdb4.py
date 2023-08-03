@@ -5,15 +5,15 @@ from streamlit.components.v1 import html
 
 today = datetime.today()
 
-#concatenating matches parts
+# Concatenating matches parts
 matches_part1 = pd.read_csv("all_matches_part1.csv")
 matches_part2 = pd.read_csv("all_matches_part2.csv")
 
 matches = pd.concat([matches_part1, matches_part2], ignore_index=True).reset_index(drop=True)
 
-#concatenating books parts
-books_part1=pd.read_csv("best_books_part1.csv")
-books_part2=pd.read_csv("best_books_part2.csv")
+# Concatenating books parts
+books_part1 = pd.read_csv("best_books_part1.csv")
+books_part2 = pd.read_csv("best_books_part2.csv")
 
 books = pd.concat([books_part1, books_part2], ignore_index=True).reset_index(drop=True)
 
@@ -28,6 +28,13 @@ TMDB_BASE_URL = "https://www.imdb.com/title/"
 TMDB_IMAGE_URL = "https://image.tmdb.org/t/p/original"
 
 matches["Date"] = matches["Date"].str[:10]
+
+# Function to render the HTML template with dynamic content
+def render_template(recommendations):
+    html_template = "home2.html"
+    with open(html_template, "r") as f:
+        template = f.read()
+        return template.format(recommendations=recommendations)
 
 # Streamlit App
 def main():
@@ -52,7 +59,7 @@ def main():
 
                 if any(movie is not None for movie in movies_list) or any(book is not None for book in books_list):
                     if pd.notna(match['Country']):
-                        day_name = str(match["Name"]) + " (" + str(match["Country"])+ ")"
+                        day_name = str(match["Name"]) + " (" + str(match["Country"]) + ")"
                         day_description = match['description']
                     elif match['description'] == "birthday":
                         day_name = "Birthday"
@@ -67,7 +74,8 @@ def main():
                             recommendation_movies.append({
                                 'title': movie['title'],
                                 'description': match[f'match_movie{i+1}_descr'],
-                                'image': TMDB_IMAGE_URL + movie['backdrop_path'] if pd.notna(movie['backdrop_path']) else None,
+                                'image': TMDB_IMAGE_URL + movie['backdrop_path'] if pd.notna(
+                                    movie['backdrop_path']) else None,
                                 'rating': movie['vote_average'],
                                 'nr_rates': movie['vote_count'],
                                 'url': TMDB_BASE_URL + str(movie['imdb_id']) if pd.notna(movie['imdb_id']) else None
@@ -89,12 +97,8 @@ def main():
                     }
                     recommendations.append(recommendation)
 
-    # Display the HTML template using streamlit.components.v1.html
-    html_template = "home2.html"
-    with open(html_template, "r") as f:
-        template = f.read()
-        rendered_template = template.format(recommendations=recommendations)
-        st.components.v1.html(rendered_template, height=1000)
+    # Render the HTML template with dynamic content
+    st.components.v1.html(render_template(recommendations), height=1000)
 
 if __name__ == "__main__":
     main()

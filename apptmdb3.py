@@ -94,7 +94,7 @@ def index():
                     }
                     recommendations.append(recommendation)
 
-    return render_template('home3.html', recommendations=recommendations)
+    return render_template('home2.html', recommendations=recommendations)
 
 if __name__ == "__main__":
     port = int(os.environ.get('PORT', 5000))

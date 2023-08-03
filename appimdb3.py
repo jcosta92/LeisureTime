@@ -7,7 +7,7 @@
 from flask import Flask, render_template
 from datetime import datetime
 import pandas as pd
-import openai
+import os
 import random
 
 app = Flask(__name__)
@@ -101,6 +101,6 @@ def home():
     return render_template('home2.html', recommendations=recommendations)
 
 if __name__ == "__main__":
-    app.run(debug=True)
-
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
 

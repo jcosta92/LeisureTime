@@ -1,1 +1,1 @@
-web: python apptmdb3.py
+web: python appimdb3.py

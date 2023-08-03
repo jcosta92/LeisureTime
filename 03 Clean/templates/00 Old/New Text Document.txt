@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day Recommendations</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .recommendation {
+            border: 1px solid #000;
+            margin-bottom: 20px;
+            padding: 10px;
+        }
+        img {
+            max-width: 300px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Day Recommendations</h1>
+
+    {% for rec in recommendations %}
+        <div class="recommendation">
+            <h2>{{ rec.day_name }}</h2>
+            <img src="{{ rec.day_image }}" alt="{{ rec.day_name }}">
+            <p>{{ rec.day_description }}</p>
+
+            {% for movie in rec.movies %}
+                <h3>Movie recommendation: {{ movie.title }}</h3>
+                <img src="{{ movie.image }}" alt="{{ movie.title }}">
+                <p>Rating: {{ movie.rating }}</p>
+                <p>Nr. Rates: {{ movie.nr_rates }}</p>
+                <p>{{ movie.description }}</p>
+                <a href="{{ movie.url }}">Link to movie</a>
+            {% endfor %}
+
+            {% for book in rec.books %}
+                <h3>Book recommendation: {{ book.title }}</h3>
+                <img src="{{ book.image }}" alt="{{ book.title }}">
+                <p>Goodreads Rating: {{ book.rating }}</p>
+                <p>Nr. Rates: {{ book.nr_rates }}</p>
+                <p>{{ book.description }}</p>
+                <a href="{{ book.url }}">Link to book</a>
+            {% endfor %}
+        </div>
+    {% endfor %}
+
+</body>
+</html>

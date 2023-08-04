@@ -174,7 +174,7 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
 <details>
 <summary><h2>10. How-to-Run Guide</h2></summary>
 
-0.	If you want, you can skip to **<u>Step 5</u>** and use the already created dataframes for days, movies and books (up2date mid Jul23):
+0.	If you want, you can skip to **<u>Step 6</u>** and use the already created dataframes for days, movies, books and respective matches (up2date mid Jul23):
       - *days.csv*
       - *best_books.csv*
       - *TMDB_movies_final.csv*
@@ -186,7 +186,7 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
 3.	Run fully *Movies_IMDB.ipynb* to get *imdb_movie_fetch.csv* and *df_birthdays_movies.csv*
     - This process takes several hours – be patient.
 4.	Run *Days.ipynb* to get *days.csv* dataframe.
-5.	Run our model - *model.ipynb* – to get the matches of today.
+5.	Run our model - *model2.ipynb* – to get the matches of today.
     - This model takes roughly 2-3 hours to run for both TMDB and IMDB movies dfs.
 6.	Choose which flask app file *.py* you want to use:
     - *appimdb.py* – to run with IMDB matched movies (Remember to input your Open AI key)

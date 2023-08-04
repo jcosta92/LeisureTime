@@ -1,16 +1,27 @@
 from flask import Flask, render_template
 from datetime import datetime
 import pandas as pd
-import openai
 import random
 
 app = Flask(__name__)
 
 today = datetime.today()
-matches = pd.read_csv(f"matches{today.strftime('%d%m%Y')}_TMDB.csv")
-#matches = pd.read_csv("matches29072023_TMDB.csv") #---- use if you want to choose a particular csv
 
-books = pd.read_csv("best_books.csv")
+matches_part1 = pd.read_csv("all_matches_part1.csv")
+matches_part2 = pd.read_csv("all_matches_part2.csv")
+
+matches = pd.concat([matches_part1, matches_part2], ignore_index=True).reset_index(drop=True)
+
+#filter today
+matches = matches[(matches["Month"] == today.month) & (matches["Day"] == today.day)]
+# matches=pd.read_csv("matches29072023_IMDB.csv") # --- use if you want a specific csv
+
+# Concatenating books parts
+books_part1 = pd.read_csv("best_books_part1.csv")
+books_part2 = pd.read_csv("best_books_part2.csv")
+
+books = pd.concat([books_part1, books_part2], ignore_index=True).reset_index(drop=True)
+
 movies = pd.read_csv("TMDB_movies_final.csv")
 
 # Replace &apos; with '
@@ -22,9 +33,6 @@ TMDB_BASE_URL = "https://www.imdb.com/title/"
 TMDB_IMAGE_URL = "https://image.tmdb.org/t/p/original"
 
 matches["Date"] = matches["Date"].str[:10]
-
-# Set up OpenAI API key
-openai.api_key = "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"
 
 @app.route('/')
 def index():

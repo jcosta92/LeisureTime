@@ -7,13 +7,19 @@ shows new recommendations each day with no extra pipeline: it filters the matche
 """
 from __future__ import annotations
 
+import re
 from datetime import date
 
 import pandas as pd
+import requests
 import streamlit as st
 
-TMDB_IMAGE_URL = "https://image.tmdb.org/t/p/w780"
+TMDB_IMAGE_URL = "https://image.tmdb.org/t/p/w500"
 IMDB_URL = "https://www.imdb.com/title/"
+# Wikimedia asks for an identifying User-Agent and blocks anonymous or hotlinked requests.
+HEADERS = {"User-Agent": "LeisureTime/1.0 (https://github.com/jcosta92/LeisureTime)"}
+WIKI_FILEPATH = re.compile(r"(commons\.wikimedia\.org|en\.wikipedia\.org)/wiki/Special:FilePath/([^?#]+)")
+WIKI_UPLOAD = re.compile(r"upload\.wikimedia\.org/wikipedia/(commons|en)/(?:thumb/)?[0-9a-f]/[0-9a-f]{2}/([^/?#]+)")
 
 st.set_page_config(page_title="Leisure Time", page_icon="🎬", layout="wide")
 
@@ -33,6 +39,43 @@ def load_data():
     books = books.drop_duplicates("title").set_index("title")
     movies = movies.sort_values("vote_count", ascending=False).drop_duplicates("title").set_index("title")
     return matches, books, movies
+
+
+def image_url(url: str, width: int = 400) -> str:
+    """Rewrite Wikimedia links (full-size files, old thumbnail sizes, links starting with //) to a
+    thumbnail of the given width, which Wikimedia serves; other links are returned unchanged."""
+    url = url.strip()
+    if url.startswith("//"):
+        url = "https:" + url
+    m = WIKI_FILEPATH.search(url)
+    if m:
+        host, name = m.groups()
+    else:
+        m = WIKI_UPLOAD.search(url)
+        if not m:
+            return url
+        site, name = m.groups()
+        host = "commons.wikimedia.org" if site == "commons" else "en.wikipedia.org"
+    return f"https://{host}/wiki/Special:FilePath/{name}?width={width}"
+
+
+@st.cache_data(ttl=24 * 3600, max_entries=3000, show_spinner=False)
+def _download(url: str) -> bytes:
+    r = requests.get(url, headers=HEADERS, timeout=10)
+    if not r.ok or not r.headers.get("content-type", "").startswith("image/"):
+        raise ValueError(f"{r.status_code} for {url}")       # exceptions are not cached: retried later
+    return r.content
+
+
+def show_image(url) -> None:
+    """Download the image on the server and serve it from the app itself, so browser blockers and
+    hotlink protection can't break it. A failed image is skipped instead of shown as broken."""
+    if not isinstance(url, str) or not url.strip():
+        return
+    try:
+        st.image(_download(image_url(url)), use_container_width=True)
+    except Exception:
+        pass
 
 
 def day_kind(row) -> str:
@@ -59,7 +102,7 @@ def stars(rating, scale=10) -> str:
 def show_movie(title: str, descr: str, movies: pd.DataFrame):
     m = movies.loc[title] if title in movies.index else None
     if m is not None and pd.notna(m.get("backdrop_path")):
-        st.image(TMDB_IMAGE_URL + m["backdrop_path"], use_container_width=True)
+        show_image(TMDB_IMAGE_URL + m["backdrop_path"])
     if m is not None and pd.notna(m.get("imdb_id")):
         st.markdown(f"**[{title}]({IMDB_URL}{m['imdb_id']})**")
     else:
@@ -74,7 +117,7 @@ def show_book(title: str, descr: str, books: pd.DataFrame):
     cols = st.columns([1, 3])
     with cols[0]:
         if b is not None and pd.notna(b.get("img_url")):
-            st.image(b["img_url"], use_container_width=True)
+            show_image(b["img_url"])
     with cols[1]:
         if b is not None and pd.notna(b.get("url")):
             st.markdown(f"**[{title}]({b['url']})**")
@@ -119,8 +162,7 @@ for kind in ["International day", "Birthday", "Anniversary"]:
     st.divider()
     head = st.columns([1, 3])
     with head[0]:
-        if isinstance(row["image"], str) and row["image"].startswith("http"):
-            st.image(row["image"], use_container_width=True)
+        show_image(row["image"])
     with head[1]:
         st.caption(kind.upper())
         st.header(name)

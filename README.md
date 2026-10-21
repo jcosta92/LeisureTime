@@ -1,4 +1,7 @@
 <h1><b>Leisure Time</b></h1>
+
+### 🔴 Live app: **[leisuretime.streamlit.app](https://leisuretime.streamlit.app/)**
+
 <img align="center" width="1000" alt="Header Image" src="https://raw.githubusercontent.com/jcosta92/LeisureTime/main/02 Readme/header.jpg" />
 
 <details>
@@ -205,8 +208,10 @@ The result *Leisure Time* from the *.html* code that is in the “templates” f
 
 <details>
 <summary><h2>11. Web Display</h2></summary>
-The flask app is also display in the following website, using appimdb3.py:
-  
-- [https://leisure-time-5b9ed2cf23e8.herokuapp.com/](https://leisure-time-5b9ed2cf23e8.herokuapp.com/)
+The app is live on Streamlit Community Cloud, using *streamlit_app.py*:
+
+- [https://leisuretime.streamlit.app/](https://leisuretime.streamlit.app/)
+
+It shows the recommendations for today by default, with a date picker for any day of the year and a button to draw other picks for the same day. To run it locally: `streamlit run streamlit_app.py`.
 
 </details>
